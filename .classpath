@@ -31,5 +31,6 @@
 	<classpathentry kind="lib" path="lib/twitter4j-examples-4.0.3.jar"/>
 	<classpathentry kind="lib" path="lib/twitter4j-media-support-4.0.3.jar"/>
 	<classpathentry kind="lib" path="lib/twitter4j-stream-4.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/textcat-1.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

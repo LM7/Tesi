@@ -1,3 +1,8 @@
 eclipse.preferences.version=1
+encoding//src/language/TextCatMain.java=UTF-8
+encoding//src/pos/Extractor.java=UTF-8
+encoding//src/pos/Regex.java=UTF-8
 encoding//src/pos/Tagger.java=UTF-8
+encoding//src/pos/TldLists.java=UTF-8
+encoding//src/pos/TweetTextMain.java=UTF-8
 encoding//src/sentiment/SentiStrengthMain.java=UTF-8
