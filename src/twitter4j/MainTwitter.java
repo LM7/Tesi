@@ -51,18 +51,19 @@ public class MainTwitter {
 	/*
 	 * Resituisce tweets associati ad un user: lingua, data e testo
 	 */
-	public ResponseList<Status> tweetsOfUser(String user) throws TwitterException, FileNotFoundException, IOException {
+	public ResponseList<Status> tweetsOfUser(String user, int numeroTweet) throws TwitterException, FileNotFoundException, IOException {
 		PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
 		MainTwitter mt = new MainTwitter();
 		Twitter twitter = mt.getTwitter();
 		ResponseList<Status> stati = null;
-		stati = twitter.getUserTimeline(user, new Paging(1,100));
+		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet));
 		for (Status stato: stati) {
 			outTOU.println("LINGUA: "+stato.getLang());
 			outTOU.println("DATA: "+ stato.getCreatedAt());
 			outTOU.println("TWEET: "+stato.getText());
 		}
 		outTOU.close();
+		System.out.println("DONE");
 		return stati;
 	}
 
@@ -313,7 +314,7 @@ public class MainTwitter {
 		//mt.userFollowersOnTopic(query, user, dataStart);
 		//mt.query(query, 100, dataStart);
 		//mt.followersOfUser("LM791");
-		mt.tweetsOfUser(user);
+		mt.tweetsOfUser(user, 3);
 	}
 	
 }
