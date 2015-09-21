@@ -37,9 +37,10 @@ public class TweetTextMain {
 		}
 		
 		System.out.println("#TAGS");
-		hashtags = eee.extractHashtags(tweet3);
+		hashtags = eee.extractHashtags(tweet);
 		for (String stringa: hashtags) {
 			System.out.println(stringa);
+			System.out.println(stringa.equalsIgnoreCase("saveIturbe"));
 		}
 		
 		System.out.println("$TAGS");

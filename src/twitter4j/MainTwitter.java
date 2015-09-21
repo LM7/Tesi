@@ -53,14 +53,15 @@ public class MainTwitter {
 	 */
 	public ResponseList<Status> tweetsOfUser(String user, int numeroTweet) throws TwitterException, FileNotFoundException, IOException {
 		PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 		ResponseList<Status> stati = null;
 		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet));
 		for (Status stato: stati) {
 			outTOU.println("LINGUA: "+stato.getLang());
 			outTOU.println("DATA: "+ stato.getCreatedAt());
 			outTOU.println("TWEET: "+stato.getText());
+			System.out.println(stato.getText());
 		}
 		outTOU.close();
 		System.out.println("DONE");
@@ -70,15 +71,15 @@ public class MainTwitter {
 
 	public HashMap<String,ArrayList<String>> userFollowersOnTopic(String stato, String user, String dataStart) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
 		PrintWriter outMT = new PrintWriter("mtFollowers.txt", "UTF-8");
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 	
 		//Trovo gli stati associati a una query
 		System.out.println("--------------TWEET DELL'USER------------");
 		outMT.println("--------------TWEET DELL'USER------------");
 	    ArrayList<String> stati = new ArrayList<String>();
 	    String statoFinale = stato+" from:"+user;
-		stati = mt.query(statoFinale, 100, dataStart); //"#Totti from:LM791"; "2015-07-20"
+		stati = this.query(statoFinale, 100, dataStart); //"#Totti from:LM791"; "2015-07-20"
 		System.out.println("TUTTI I TWEET ASSOCIATI A: "+stato);
 		outMT.println("TUTTI I TWEET ASSOCIATI A: "+statoFinale);
 		for  (int i = 0; i<stati.size(); i++) {
@@ -91,7 +92,7 @@ public class MainTwitter {
 		System.out.println("---------------FOLLOWER--------------------");
 		outMT.println("---------------FOLLOWER--------------------");
 		ArrayList<String> followers = new ArrayList<String>();
-		followers = mt.followersOfUser(user); //LM791
+		followers = this.followersOfUser(user, 15); //LM791
 		System.out.println("TUTTI I FOLLOWERS DI: "+user);
         for  (int i = 0; i<followers.size(); i++) {
         	outMT.println(followers.get(i));
@@ -107,7 +108,7 @@ public class MainTwitter {
 		outMT.println("(((((((TWEET FOLLOWER))))))))");
 		for (int i = 0; i < lungFollowers; i++) {
 			String statoFinaleFol = stato+" from:"+followers.get(i);
-			appoggioStatiFollowers = mt.query(statoFinaleFol, 100, dataStart);
+			appoggioStatiFollowers = this.query(statoFinaleFol, 100, dataStart);
 			System.out.println("TUTTI I TWEET ASSOCIATI A: "+statoFinaleFol);
 			outMT.println("TUTTI I TWEET ASSOCIATI A: "+statoFinaleFol);
 			for  (int k = 0; k<appoggioStatiFollowers.size(); k++) {
@@ -141,15 +142,15 @@ public class MainTwitter {
 	
 	public HashMap<String,ArrayList<String>> userFollowingsOnTopic(String stato, String user, String dataStart) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
 		PrintWriter outMT = new PrintWriter("mtFollowings.txt", "UTF-8");
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 	
 		//Trovo gli stati associati a una query
 		System.out.println("--------------TWEET DELL'USER------------");
 		outMT.println("--------------TWEET DELL'USER------------");
 	    ArrayList<String> stati = new ArrayList<String>();
 	    String statoFinale = stato+" from:"+user;
-		stati = mt.query(statoFinale, 100, dataStart); //"#Totti from:LM791"; "2015-07-20"
+		stati = this.query(statoFinale, 100, dataStart); //"#Totti from:LM791"; "2015-07-20"
 		System.out.println("TUTTI I TWEET ASSOCIATI A: "+stato);
 		outMT.println("TUTTI I TWEET ASSOCIATI A: "+statoFinale);
 		for  (int i = 0; i<stati.size(); i++) {
@@ -162,7 +163,7 @@ public class MainTwitter {
 		System.out.println("---------------FOLLOWING--------------------");
 		outMT.println("---------------FOLLOWING--------------------");
 		ArrayList<String> followings = new ArrayList<String>();
-		followings = mt.followingsOfUser(user); //LM791
+		followings = this.followingsOfUser(user); //LM791
 		System.out.println("TUTTI I FOLLOWINGS DI: "+user);
         for  (int i = 0; i<followings.size(); i++) {
         	outMT.println(followings.get(i));
@@ -178,7 +179,7 @@ public class MainTwitter {
 		outMT.println("(((((((TWEET FOLLOWING))))))))");
 		for (int i = 0; i < lungFollowing; i++) {
 			String statoFinaleFol = stato+" from:"+followings.get(i);
-			appoggioStatiFollowers = mt.query(statoFinaleFol, 100, dataStart);
+			appoggioStatiFollowers = this.query(statoFinaleFol, 100, dataStart);
 			System.out.println("TUTTI I TWEET ASSOCIATI A: "+statoFinaleFol);
 			outMT.println("TUTTI I TWEET ASSOCIATI A: "+statoFinaleFol);
 			for  (int k = 0; k<appoggioStatiFollowers.size(); k++) {
@@ -210,36 +211,44 @@ public class MainTwitter {
 		return followingToTweets;
 	}
 	
-	private ArrayList<String> followersOfUser(String user) throws TwitterException {
+	//i followers con FollowersList
+	public ArrayList<String> followersOfUser(String user, int numFollowers) throws TwitterException {
 		ArrayList<String> followers = new ArrayList<String>();
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		PagableResponseList<User> followersUser = null;
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 		
 		long cursor = -1;
-	    IDs ids;
-	    System.out.println("Listing followers's ids.");
-        do {
-        	ids = twitter.getFollowersIDs(user, cursor); //LM791
-	        for (long id : ids.getIDs()) {
-	              User utente = twitter.showUser(id);
-	              //followers.add(utente.getName()); // salvo i followers in una lista, qui il nome
-	              followers.add(utente.getScreenName()); // qui il nome con @
-	        }
-	    } 
-        while ((cursor = ids.getNextCursor()) != 0);
-        
-        System.out.println("TUTTI I FOLLOWERS DI: "+user);
+		System.out.println("LOADING");
+		int j = 0;
+		do {
+			//System.out.println("CURSOR:"+cursor);
+			followersUser = twitter.getFollowersList(user, cursor, numFollowers);//LM791
+			//System.out.println("FATTO");
+			j = j + 50; //j = j+200
+			//System.out.println("J"+j);
+			for (User utente: followersUser) {
+				followers.add(utente.getScreenName()); // qui il nome con @
+			}
+			
+		}
+		while ((cursor = followersUser.getNextCursor()) != 0 && j < 50); //j < 3000
+		
+        System.out.println("I FOLLOWERS DI: "+user);
         for  (int i = 0; i<followers.size(); i++) {
         	System.out.println(followers.get(i));
+        	System.out.println(i);
         }
 		
 		return followers;
 	}
 	
-	private ArrayList<String> followingsOfUser(String user) throws TwitterException {
+	
+	//i followings con l'id
+	public ArrayList<String> followingsOfUser(String user) throws TwitterException {
 		ArrayList<String> followings = new ArrayList<String>();
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 		
 		long cursor = -1;
 	    IDs ids;
@@ -264,8 +273,8 @@ public class MainTwitter {
 	
     private ArrayList<String> query(String stato, int limite, String dataStart) throws TwitterException {
     	ArrayList<String> tweets = new ArrayList<String>();
-		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
+		//MainTwitter mt = new MainTwitter();
+		Twitter twitter = this.getTwitter();
 		/*String stato1 = "#Totti"; //FRIEND is to be replaced by your choice of search key
 		String stato2 = "#Roma";*/
 		Query query = new Query(stato); //+" OR "+ stato2
@@ -289,8 +298,8 @@ public class MainTwitter {
 	private void updateStatus(String latestStatus) {
 		
 	    try {
-	       MainTwitter esempi = new MainTwitter();
-	       Twitter twitter = esempi.getTwitter();
+	       //MainTwitter esempi = new MainTwitter();
+	       Twitter twitter = this.getTwitter();
 	       System.out.println(twitter.getScreenName());
 	       Status status = twitter.updateStatus(latestStatus);
 	       System.out.println("Successfully updated the status to [" + status.getText() + "].");
@@ -304,17 +313,22 @@ public class MainTwitter {
 	
 	public static void main(String[] args) throws TwitterException, IOException {
 		MainTwitter mt = new MainTwitter();
+		Twitter twitter = mt.getTwitter();
 		//String stato = "Forza Roma #Totti #ASR";
 		//mt.updateStatus(stato);
 		
 		//String query = "#Totti";
-		String user = "LM791";
-		//String dataStart = "2015-07-20";
+		String user = "ManUtd"; //LM791
+		//String dataStart = "2015-09-01";
 		//mt.followingsOfUser(user);
 		//mt.userFollowersOnTopic(query, user, dataStart);
 		//mt.query(query, 100, dataStart);
-		//mt.followersOfUser("LM791");
-		mt.tweetsOfUser(user, 3);
+		//mt.followersOfUser(user, 50);
+		
+		mt.tweetsOfUser(user, 10);
+		
+		
+		
 	}
 	
 }
