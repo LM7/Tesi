@@ -61,10 +61,10 @@ public class MainTwitter {
 			outTOU.println("LINGUA: "+stato.getLang());
 			outTOU.println("DATA: "+ stato.getCreatedAt());
 			outTOU.println("TWEET: "+stato.getText());
-			System.out.println(stato.getText());
+			//System.out.println(stato.getText());
 		}
 		outTOU.close();
-		System.out.println("DONE");
+		//System.out.println("DONE");
 		return stati;
 	}
 
@@ -318,14 +318,15 @@ public class MainTwitter {
 		//mt.updateStatus(stato);
 		
 		//String query = "#Totti";
-		String user = "ManUtd"; //LM791
+		String user = "LM791"; //LM791
 		//String dataStart = "2015-09-01";
 		//mt.followingsOfUser(user);
 		//mt.userFollowersOnTopic(query, user, dataStart);
 		//mt.query(query, 100, dataStart);
-		//mt.followersOfUser(user, 50);
 		
-		mt.tweetsOfUser(user, 10);
+		mt.followersOfUser(user, 50);
+		
+		//mt.tweetsOfUser(user, 50);
 		
 		
 		
