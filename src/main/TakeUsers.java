@@ -1,5 +1,8 @@
 package main;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 
 import com.mongodb.BasicDBList;
@@ -21,7 +24,8 @@ import twitter4j.TwitterException;
 
 public class TakeUsers {
 
-	public static void main(String[] args) throws TwitterException {
+	public static void main(String[] args) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
+		PrintWriter outUsers = new PrintWriter("Users.txt", "UTF-8");
 		MainTwitter mt = new MainTwitter();
 		String pagina = "LM791";
 		int numFollowers = 50;
@@ -50,15 +54,19 @@ public class TakeUsers {
 		
 		
 		DBCursor cursor = collection.find();
-		System.out.println("DATABASE");
+		//System.out.println("DATABASE");
 		while (cursor.hasNext()) {
 			//String s = cursor.next().toString();
 			BasicDBList e = (BasicDBList) cursor.next().get("followers");
 			int lunghezza = e.size();
 			for (int j = 0; j < lunghezza  ; j++) {
-				System.out.println(e.get(j));
+				//System.out.println(e.get(j));
+				outUsers.println(j);
+				outUsers.println(e.get(j));
 			}
 		}
+		
+		outUsers.close();
 		
 		System.out.println("DONE");
 

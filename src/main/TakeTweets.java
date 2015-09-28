@@ -2,6 +2,7 @@ package main;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Date;
 
 import language.TextCatMain;
@@ -29,9 +30,10 @@ import com.mongodb.MongoClient;
 public class TakeTweets {
 
 	public static void main(String[] args) throws FileNotFoundException, TwitterException, IOException {
+		PrintWriter outTweets = new PrintWriter("Tweets.txt", "UTF-8");
 		MainTwitter mt = new MainTwitter();
 		ResponseList<Status> stati = null;
-		int numTweet = 1;
+		int numTweet = 10;
 		String language;
 		Date date;
 		String tweet;
@@ -61,8 +63,11 @@ public class TakeTweets {
 				System.out.println("USER: "+user);
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
+					System.out.println("NUMERO TWEET :"+stati.size());
 					BasicDBObject document = new BasicDBObject();
 					document.put("user", user);
+					outTweets.println(user);
+					int i = 0;
 					for (Status stato: stati) {
 						language = stato.getLang();
 						date = stato.getCreatedAt();
@@ -70,10 +75,16 @@ public class TakeTweets {
 						/*if (TextCatMain.lang(tweet).equals("EN")) {
 							// il tweet è in inglese, allora lo inserisco
 						}*/
-						document.put("language", language);
-						document.put("date", date);
-						document.put("tweet", tweet);
+						outTweets.println(i);
+						document.put("language"+i, language);
+						outTweets.println(language);
+						document.put("date"+i, date);
+						outTweets.println(date);
+						document.put("tweet"+i, tweet);
+						outTweets.println(tweet);
+						i++;
 					}
+					outTweets.println();
 					collection.insert(document);
 				} catch (Exception e2) {
 					System.out.println(e2.getMessage());
@@ -89,6 +100,7 @@ public class TakeTweets {
 			System.out.println(s);
 		}
 		
+		outTweets.close();
 		System.out.println("THE END");
 	}
 	

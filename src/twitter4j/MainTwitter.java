@@ -52,18 +52,18 @@ public class MainTwitter {
 	 * Resituisce tweets associati ad un user: lingua, data e testo
 	 */
 	public ResponseList<Status> tweetsOfUser(String user, int numeroTweet) throws TwitterException, FileNotFoundException, IOException {
-		PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
+		//PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
 		ResponseList<Status> stati = null;
 		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet));
-		for (Status stato: stati) {
-			outTOU.println("LINGUA: "+stato.getLang());
-			outTOU.println("DATA: "+ stato.getCreatedAt());
-			outTOU.println("TWEET: "+stato.getText());
+		/*for (Status stato: stati) {
+			//outTOU.println("LINGUA: "+stato.getLang());
+			//outTOU.println("DATA: "+ stato.getCreatedAt());
+			//outTOU.println("TWEET: "+stato.getText());
 			//System.out.println(stato.getText());
-		}
-		outTOU.close();
+		}*/
+		//outTOU.close();
 		//System.out.println("DONE");
 		return stati;
 	}
@@ -234,11 +234,11 @@ public class MainTwitter {
 		}
 		while ((cursor = followersUser.getNextCursor()) != 0 && j < 50); //j < 3000
 		
-        System.out.println("I FOLLOWERS DI: "+user);
+        /*System.out.println("I FOLLOWERS DI: "+user);
         for  (int i = 0; i<followers.size(); i++) {
         	System.out.println(followers.get(i));
         	System.out.println(i);
-        }
+        }*/
 		
 		return followers;
 	}
