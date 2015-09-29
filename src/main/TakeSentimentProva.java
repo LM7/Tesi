@@ -21,7 +21,7 @@ import twitter4j.Status;
 import twitter4j.TwitterException;
 
 
-public class TakeSentiment {
+public class TakeSentimentProva {
 	
 	public static void main(String[] args) throws TwitterException, FileNotFoundException, IOException {
 		PrintWriter outSouthManUtd = new PrintWriter("TweetGiusti.txt", "UTF-8");

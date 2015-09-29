@@ -3,6 +3,7 @@ package main;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import language.TextCatMain;
@@ -36,6 +37,7 @@ public class TakeTweets {
 		int numTweet = 10;
 		String language;
 		Date date;
+		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		String tweet;
 		String user;
 		// NON svuotare il db
@@ -65,12 +67,13 @@ public class TakeTweets {
 					stati = mt.tweetsOfUser(user, numTweet);
 					System.out.println("NUMERO TWEET :"+stati.size());
 					BasicDBObject document = new BasicDBObject();
-					document.put("user", user);
+					document.put("user"+j, user);
 					outTweets.println(user);
 					int i = 0;
 					for (Status stato: stati) {
 						language = stato.getLang();
 						date = stato.getCreatedAt();
+						String dataStringa = sdf.format(date);
 						tweet = stato.getText();
 						/*if (TextCatMain.lang(tweet).equals("EN")) {
 							// il tweet è in inglese, allora lo inserisco
@@ -78,8 +81,8 @@ public class TakeTweets {
 						outTweets.println(i);
 						document.put("language"+i, language);
 						outTweets.println(language);
-						document.put("date"+i, date);
-						outTweets.println(date);
+						document.put("date"+i, dataStringa);
+						outTweets.println(dataStringa);
 						document.put("tweet"+i, tweet);
 						outTweets.println(tweet);
 						i++;
