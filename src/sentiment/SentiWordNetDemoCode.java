@@ -141,7 +141,7 @@ public class SentiWordNetDemoCode {
 		    totalScore += this.extractNew(word);
 		}
 		averageScore = totalScore;
-		System.out.println(averageScore);
+		//System.out.println(averageScore);
 
 		if(averageScore>=0.75)
 		    return "very positive";
