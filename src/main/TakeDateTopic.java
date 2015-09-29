@@ -63,7 +63,8 @@ public class TakeDateTopic {
 					hashtags = tweetext.tweetTextHashTags(tweet); //lista di hashtags
 					tweetWithTags = tagger.taggerNlp(tweet); //tweet taggato con gli elementi di tagger
 				}
-				//In seguito salverò user, data e tweet di ciò che supererà i "test"
+				/*In seguito salverò user, data e tweet di ciò che supererà i "test",
+				andando a modificare il db?! Potrei eliminare la roba inutile o salvarli in altro modo...*/
 			}
 			i++;
 		}
