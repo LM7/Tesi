@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 import cmu.arktweetnlp.Twokenize;
@@ -101,12 +102,42 @@ public class Tagger {
 		}
 		outNLP.close();
 	}
+	
+	public ArrayList<String> taggerNlp(String tweet) throws IOException {
+		ArrayList<String> tagToken = new ArrayList<String>();
+		String elemento = "";
+		String tagApp = "";
+		String tokenApp = "";
+		//String modelFilename = "model.20120919";
+		//String modelFilename = "model.irc.20121211";
+		String modelFilename = "model.ritter_ptb_alldata_fixed.20130723";
+		Tagger tagger = new Tagger();
+		tagger.loadModel(modelFilename);
+		List<TaggedToken> taggedTokens = tagger.tokenizeAndTag(tweet);
+		for (TaggedToken token : taggedTokens) { //token.tag è il tag; token.token è la parola
+			tagApp = token.tag;
+			tokenApp = token.token;
+			elemento = tagApp+":"+tokenApp;
+			tagToken.add(elemento);
+		}
+		return tagToken;
+	}
+	
+	public static void main(String[] args) throws IOException {
+		ArrayList<String> lista = new ArrayList<String>();
+		Tagger tagger = new Tagger();
+		String text = "@LM7 FIFA Ciao mi chiamo Lorenzo I like football and Cristiano is the best player!!! #ForzaRoma #ASRTiAmo #player #is #the #Cristiano";
+		lista = tagger.taggerNlp(text);
+		for (String stringa: lista) {
+			System.out.println(stringa);
+		}
+	}
 
 	/**
 	 * Illustrate how to load and call the POS tagger.
 	 * This main() is not intended for serious use; see RunTagger.java for that.
 	 **/
-	public static void main(String[] args) throws IOException {
+	/*public static void main(String[] args) throws IOException {
 		if (args.length < 1) {
 			System.out.println("Supply the model filename as first argument.");
 		}
@@ -126,7 +157,7 @@ public class Tagger {
 		for (TaggedToken token : taggedTokens) {
 			System.out.printf("%s\t%s\n", token.tag, token.token);
 		}
-	}
+	}*/
 
 }
 

@@ -6,8 +6,27 @@ import java.util.List;
 import pos.Extractor.Entity;
 
 public class TweetTextMain {
-
+	private Extractor extractor;
+	
+	public TweetTextMain() {
+		this.extractor = new Extractor();
+	}
+	
+	public List<String> tweetTextHashTags(String tweet) {
+		List<String> hashtags = new ArrayList<String>();
+		hashtags = this.extractor.extractHashtags(tweet);
+		return hashtags;
+	}
+	
 	public static void main(String[] args) {
+		TweetTextMain tweetext = new TweetTextMain();
+		List<String> hashtags = tweetext.tweetTextHashTags("Turbina non si tocca #saveiturbe #Number7 @Juan_iturbe93");
+		for (String stringa: hashtags) {
+			System.out.println(stringa);
+		}
+	}
+
+	/*public static void main(String[] args) {
 		String tweet = "Turbina non si tocca #saveiturbe @Juan_iturbe93";
 		String tweet2 = "De Rossi mostra il dito medio ai laziali alla fine del #derby #LazioRoma... http://www.panorama.it/sport/calcio/la-pallonata-insulti-pioli-garcia-maglietta-totti-sfotto-derby-grande-bruttezza/ ��� ";
 		String tweet3 = "$An historic night for @OfficialASRoma's talisman Francesco Totti. Now the oldest #UCL scorer: http://uefa.to/1rDS8mH  ";
@@ -51,7 +70,7 @@ public class TweetTextMain {
 		
 		System.out.println("FINE");
 		
-	}
+	}*/
 
 }
 
