@@ -309,6 +309,12 @@ public class MainTwitter {
 	           System.exit(-1);
 	    }
 	}
+	
+	public Status newStatus(String text) throws TwitterException {
+		Twitter twitter = this.getTwitter();
+		Status status = twitter.updateStatus(text);
+		return status;
+	}
 
 	
 	public static void main(String[] args) throws TwitterException, IOException {
