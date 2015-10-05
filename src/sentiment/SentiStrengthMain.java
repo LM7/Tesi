@@ -46,7 +46,7 @@ public class SentiStrengthMain {
 		this.sentistrength.initialise(ssthInitialisation);
 		ArrayList<Integer> valori = new ArrayList<Integer>();
 		for (String tweet: tweets) {
-			//System.out.println(this.sentistrength.computeSentimentScores(tweet)); //Stampo i risultati (con l'explain se volessi)
+			System.out.println(this.sentistrength.computeSentimentScores(tweet)); //Stampo i risultati (con l'explain se volessi)
 			String sent = this.sentistrength.computeSentimentScores(tweet);
 			String[] splits = sent.split(" "); //Ho i 3 valori del tweet
 			for (int j = 0; j < splits.length; j++) {

@@ -43,12 +43,20 @@ public class TakeUsers {
 		BasicDBObject remove = new BasicDBObject();
 		collection.remove(remove);
 		
-		
+		//per l'insert iniziale
 		BasicDBList lista = new BasicDBList();
 		for (String follower: followers) {
 			lista.add(follower);
+			//update
+			/*BasicDBObject cmd = new BasicDBObject().append("$push", new  BasicDBObject("followers", follower));
+			collection.update(new BasicDBObject().append("PaginaTwitter", "Ciao"),cmd);*/
+			
 		}
-		BasicDBObject document = new BasicDBObject("followers", lista);
+		
+		//insert
+		BasicDBObject document = new BasicDBObject();
+		document.put("PaginaTwitter","Ciao" ); //salvarsi la pagine dei followers
+		document.put("followers", lista);
 		collection.insert(document);
 		
 		

@@ -20,7 +20,9 @@ import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
+import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
+import com.mongodb.util.JSON;
 
 /***
  * Classe per recuperare i tweet degli utenti all'interno del database
@@ -66,30 +68,46 @@ public class TakeTweets {
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
 					System.out.println("NUMERO TWEET :"+stati.size());
-					BasicDBObject document = new BasicDBObject();
-					document.put("user"+j, user);
+					
+					
+					
+					//BasicDBObject document = new BasicDBObject();
+					//document.put("user"+j, user);
+					String json = "{'user' : '"+user+"',";
 					outTweets.println(user);
 					int i = 0;
 					for (Status stato: stati) {
+						if (i!=0) { //se non è il primo ci vuole la virgola
+							json = json + ",";
+						}
 						language = stato.getLang();
 						date = stato.getCreatedAt();
 						String dataStringa = sdf.format(date);
 						tweet = stato.getText();
+						tweet = tweet.replaceAll("\"", "^");
+						tweet = tweet.replaceAll("\'", "_");
 						/*if (TextCatMain.lang(tweet).equals("EN")) {
 							// il tweet è in inglese, allora lo inserisco
 						}*/
 						outTweets.println(i);
-						document.put("language"+i, language);
+						json = json + "'tweet"+i+"' : {'language' : '"+language+"', 'date' : '"+dataStringa+"', 'text' : '"+tweet+"'}";
+						//document.put("language"+i, language);
 						outTweets.println(language);
-						document.put("date"+i, dataStringa);
+						//document.put("date"+i, dataStringa);
 						outTweets.println(dataStringa);
-						document.put("tweet"+i, tweet);
+						//document.put("tweet"+i, tweet);
 						outTweets.println(tweet);
 						i++;
 					}
+					json = json + "}}" ;
+					DBObject dbObject = (DBObject)JSON.parse(json);
 					outTweets.println();
-					collection.insert(document);
+					collection.insert(dbObject);
+					json = "";
+					
+					
 				} catch (Exception e2) {
+					System.out.println("ERRORE");
 					System.out.println(e2.getMessage());
 				}
 			}
