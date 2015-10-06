@@ -64,7 +64,7 @@ public class TakeTweets {
 			System.out.println("LUNGHEZZA :"+lunghezza);
 			for (int j = 0; j < lunghezza  ; j++) {
 				user = e.get(j).toString();
-				System.out.println("USER: "+user);
+				System.out.println("USER: "+user+" NUMERO: "+j);
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
 					System.out.println("NUMERO TWEET :"+stati.size());
@@ -72,6 +72,7 @@ public class TakeTweets {
 					outTweets.println(user);
 					int i = 0;
 					for (Status stato: stati) {
+						System.out.println("TWEET NUMERO: "+i);
 						if (i!=0) { //se non è il primo ci vuole la virgola
 							json = json + ",";
 						}

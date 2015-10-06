@@ -218,21 +218,21 @@ public class MainTwitter {
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
 		
-		long cursor = -1;
+		long cursor = (long) (1509520254.063998134 * 1000000000); //-1
 		System.out.println("LOADING");
 		int j = 0;
 		do {
-			//System.out.println("CURSOR:"+cursor);
+			System.out.println("CURSOR:"+cursor);
 			followersUser = twitter.getFollowersList(user, cursor, numFollowers);//LM791
 			//System.out.println("FATTO");
-			j = j + 50; //j = j+200
+			j = j + 200; //j = j+200
 			//System.out.println("J"+j);
 			for (User utente: followersUser) {
 				followers.add(utente.getScreenName()); // qui il nome con @
 			}
-			
+			System.out.println("GETNEXT "+followersUser.getNextCursor()); //il prossimo cursor
 		}
-		while ((cursor = followersUser.getNextCursor()) != 0 && j < 50); //j < 3000
+		while ((cursor = followersUser.getNextCursor()) != 0 && j < 3000); //j < 3000
 		
         /*System.out.println("I FOLLOWERS DI: "+user);
         for  (int i = 0; i<followers.size(); i++) {

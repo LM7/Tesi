@@ -10,6 +10,7 @@ import twitter4j.JSONArray;
 import twitter4j.JSONException;
 import twitter4j.JSONObject;
 
+import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -32,8 +33,11 @@ public class StampaDB {
 		DBCollection collection = db.getCollection("collezione");	
 		DBCursor cursor = collection.find();
 		while (cursor.hasNext()) {
-			String s = cursor.next().toString();
-			System.out.println(s);
+			BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
+			System.out.println(object.toString());
+			System.out.println(object.size());
+			//String s = cursor.next().toString(); //stampa database
+			//System.out.println(s);
 		}
 		
 		// elimina tutto l'user
@@ -76,12 +80,12 @@ public class StampaDB {
 		
 		
 
-		System.out.println("DATABASE FINALE");
+		/*System.out.println("DATABASE FINALE");
 		DBCursor cursorEnd = collection.find();
 		while (cursorEnd.hasNext()) {
 			String s = cursorEnd.next().toString();
 			System.out.println(s);
-		}
+		}*/
 	}
 
 }

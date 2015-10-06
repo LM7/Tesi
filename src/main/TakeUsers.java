@@ -1,8 +1,13 @@
 package main;
 
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
+import java.nio.file.FileSystem;
 import java.util.ArrayList;
 
 import com.mongodb.BasicDBList;
@@ -24,11 +29,14 @@ import twitter4j.TwitterException;
 
 public class TakeUsers {
 
-	public static void main(String[] args) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
-		PrintWriter outUsers = new PrintWriter("Users.txt", "UTF-8");
+	public static void main(String[] args) throws TwitterException, IOException { 
+		//Quando devo farlo ripartire, ricordarsi: SVUOTADATABASE, DUE PARTI DI INSERT E UPDATE
+		FileWriter file = new FileWriter("Users.txt"); //per accodare-> true
+		PrintWriter outUsers = new PrintWriter(file);
+		
 		MainTwitter mt = new MainTwitter();
-		String pagina = "LM791";
-		int numFollowers = 50;
+		String pagina = "Volkswagen";
+		int numFollowers = 200;
 		ArrayList<String> followers = mt.followersOfUser(pagina, numFollowers);
 		/*DATABASE*/
 		MongoClient mongo = null;
@@ -40,24 +48,27 @@ public class TakeUsers {
 		DB db = mongo.getDB("db");
 		DBCollection collection = db.getCollection("collezione");	
 		// svuota database
-		BasicDBObject remove = new BasicDBObject();
-		collection.remove(remove);
+		/*BasicDBObject remove = new BasicDBObject();
+		collection.remove(remove);*/
 		
 		//per l'insert iniziale
 		BasicDBList lista = new BasicDBList();
+		int numeroFoll = 0;
 		for (String follower: followers) {
-			lista.add(follower);
+			//lista.add(follower); //insert 1
 			//update
-			/*BasicDBObject cmd = new BasicDBObject().append("$push", new  BasicDBObject("followers", follower));
-			collection.update(new BasicDBObject().append("PaginaTwitter", "Ciao"),cmd);*/
+			BasicDBObject cmd = new BasicDBObject().append("$push", new  BasicDBObject("followers", follower));
+			collection.update(new BasicDBObject().append("PaginaTwitter", "Volkswagen"),cmd);
+			numeroFoll++;
+			System.out.println(numeroFoll);
 			
 		}
 		
-		//insert
-		BasicDBObject document = new BasicDBObject();
-		document.put("PaginaTwitter","Ciao" ); //salvarsi la pagine dei followers
+		//insert 2
+		/*BasicDBObject document = new BasicDBObject();
+		document.put("PaginaTwitter","Volkswagen"); //salvarsi la pagine dei followers
 		document.put("followers", lista);
-		collection.insert(document);
+		collection.insert(document);*/
 		
 		
 		
