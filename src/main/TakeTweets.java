@@ -36,7 +36,7 @@ public class TakeTweets {
 		PrintWriter outTweets = new PrintWriter("Tweets.txt", "UTF-8");
 		MainTwitter mt = new MainTwitter();
 		ResponseList<Status> stati = null;
-		int numTweet = 10;
+		int numTweet = 100;
 		String language;
 		Date date;
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
@@ -51,12 +51,12 @@ public class TakeTweets {
 		}
 		DB db = mongo.getDB("db");
 		DBCollection collection = db.getCollection("collezione");	
-		DBCursor cursorPrev = collection.find();
+		/*DBCursor cursorPrev = collection.find();
 		System.out.println("DATABASE ALL'INIZO");
 		while (cursorPrev.hasNext()) {
 			String s = cursorPrev.next().toString();
 			System.out.println(s);
-		}
+		}*/
 		DBCursor cursor = collection.find();
 		while (cursor.hasNext()  ) {
 			BasicDBList e = (BasicDBList) cursor.next().get("followers");
@@ -64,9 +64,9 @@ public class TakeTweets {
 			System.out.println("LUNGHEZZA :"+lunghezza);
 			for (int j = 0; j < lunghezza  ; j++) {
 				user = e.get(j).toString();
-				System.out.println("USER: "+user+" NUMERO: "+j);
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
+					System.out.println("USER: "+user+" NUMERO: "+j);
 					System.out.println("NUMERO TWEET :"+stati.size());
 					String json = "{'user"+j+"' : '"+user+"',";
 					outTweets.println(user);
@@ -110,12 +110,12 @@ public class TakeTweets {
 		}
 		
 		
-		DBCursor cursorEnd = collection.find();
+		/*DBCursor cursorEnd = collection.find();
 		System.out.println("DATABASE ALLA FINE");
 		while (cursorEnd.hasNext()) {
 			String s = cursorEnd.next().toString();
 			System.out.println(s);
-		}
+		}*/
 		
 		outTweets.close();
 		System.out.println("THE END");

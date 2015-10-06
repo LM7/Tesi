@@ -33,11 +33,11 @@ public class StampaDB {
 		DBCollection collection = db.getCollection("collezione");	
 		DBCursor cursor = collection.find();
 		while (cursor.hasNext()) {
-			BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
+			/*BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
 			System.out.println(object.toString());
-			System.out.println(object.size());
-			//String s = cursor.next().toString(); //stampa database
-			//System.out.println(s);
+			System.out.println(object.size());*/
+			String s = cursor.next().toString(); //stampa database
+			System.out.println(s);
 		}
 		
 		// elimina tutto l'user
