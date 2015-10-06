@@ -14,7 +14,7 @@ public class TextCatMain {
 	}
 
 	public static void main(String[] args) {
-		String text = "What does ZH mean? This page is about the various possible meanings of the";
+		String text = "Smalling can do anything";
 		String language = TextCatMain.lang(text);
 		System.out.println(language);
      }

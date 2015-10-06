@@ -68,12 +68,7 @@ public class TakeTweets {
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
 					System.out.println("NUMERO TWEET :"+stati.size());
-					
-					
-					
-					//BasicDBObject document = new BasicDBObject();
-					//document.put("user"+j, user);
-					String json = "{'user' : '"+user+"',";
+					String json = "{'user"+j+"' : '"+user+"',";
 					outTweets.println(user);
 					int i = 0;
 					for (Status stato: stati) {
@@ -84,18 +79,18 @@ public class TakeTweets {
 						date = stato.getCreatedAt();
 						String dataStringa = sdf.format(date);
 						tweet = stato.getText();
+						if (TextCatMain.lang(tweet).equals("EN")) {
+							outTweets.println("ENGLISH FOR TEXTCAT");
+						}
+						else {
+							outTweets.println("NO ENGLISH FOR TEXTCAT");
+						}
 						tweet = tweet.replaceAll("\"", "^");
 						tweet = tweet.replaceAll("\'", "_");
-						/*if (TextCatMain.lang(tweet).equals("EN")) {
-							// il tweet è in inglese, allora lo inserisco
-						}*/
 						outTweets.println(i);
 						json = json + "'tweet"+i+"' : {'language' : '"+language+"', 'date' : '"+dataStringa+"', 'text' : '"+tweet+"'}";
-						//document.put("language"+i, language);
 						outTweets.println(language);
-						//document.put("date"+i, dataStringa);
 						outTweets.println(dataStringa);
-						//document.put("tweet"+i, tweet);
 						outTweets.println(tweet);
 						i++;
 					}

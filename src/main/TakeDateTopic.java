@@ -32,9 +32,12 @@ public class TakeDateTopic {
 		DB db = mongo.getDB("db");
 		DBCollection collection = db.getCollection("collezione");
 		DBCursor cursor = collection.find();
+		System.out.println( "NUMERO USERS "+(collection.count()-1) );
 		Iterator<DBObject> itrc = cursor.iterator();
 		itrc.next();
-		int i = 0; //per tenere il conto degli user
+		DBObject obj;
+		DBObject obj2;
+		int lungTweet;
 		String user;
 		String data;
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
@@ -43,30 +46,48 @@ public class TakeDateTopic {
 		List<String> hashtags;
 		Tagger tagger = new Tagger();
 		ArrayList<String> tweetWithTags;
+		long numeroUsers = (collection.count()-2 );
+		boolean topic;
 		while (itrc.hasNext()) {
-			DBObject obj = (DBObject)itrc.next();
-			HashMap<String,String> mappa = (HashMap<String, String>) obj.toMap();
 			int j = 0;
-			for (String stringa: mappa.keySet()) {
-				if (stringa.equals("user"+i)) {
-					user = mappa.get(stringa);
-				}
-				if (stringa.equals("date"+j)) {
-					data = mappa.get(stringa);
+			while ( j <= numeroUsers ) {
+				obj = (DBObject)itrc.next();
+				user = obj.get("user"+j).toString();
+				System.out.println("USER "+user+" NUMERO "+j+" SU "+ numeroUsers ); //sempre uno in meno
+				int i = 0;
+				lungTweet = obj.toMap().size()-3;
+				while ( i <=  lungTweet ) {
+					System.out.println("TWEET NUMERO "+i+" SU "+ lungTweet); //sempre uno in meno
+					obj2 = (DBObject) obj.get("tweet"+i);
+					/*data = obj2.get("date").toString();
 					//qui farò le operazioni sulle date
-					Date date = sdf.parse(data); // data in "Date" in modo da poter fare operazioni after, before...
-				}
-				if (stringa.equals("tweet"+j)) {
-					tweet = mappa.get(stringa);
-					j++;
+					Date date = sdf.parse(data);*/
+					tweet = obj2.get("text").toString();
 					//qui farò le operazioni sui tweet
+					topic = false;
 					hashtags = tweetext.tweetTextHashTags(tweet); //lista di hashtags
 					tweetWithTags = tagger.taggerNlp(tweet); //tweet taggato con gli elementi di tagger
+					for (String stringa: hashtags) {
+						if (stringa.equalsIgnoreCase("Volkswagen") || stringa.equalsIgnoreCase("VolkswagenScandal") ) {
+							topic = true;
+						}
+					}
+					for (String stringa: tweetWithTags) {
+						if (stringa.contains("NNP:") && stringa.contains("Volkswagen")) {
+							topic = true;
+						}
+					}
+					if ( !topic ) {
+						//se il topic non corrisponde elimino il tweet dall'user
+						DBObject query = new BasicDBObject("user"+j, user);
+						DBObject update = new BasicDBObject();
+					    update.put("$unset", new BasicDBObject("tweet"+i,""));
+					    collection.update(query, update);
+					}
+					i++;
 				}
-				/*In seguito salverò user, data e tweet di ciò che supererà i "test",
-				andando a modificare il db?! Potrei eliminare la roba inutile o salvarli in altro modo...*/
+				j++;
 			}
-			i++;
 		}
 
 		System.out.println("DONE");

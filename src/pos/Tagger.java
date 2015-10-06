@@ -126,10 +126,13 @@ public class Tagger {
 	public static void main(String[] args) throws IOException {
 		ArrayList<String> lista = new ArrayList<String>();
 		Tagger tagger = new Tagger();
-		String text = "@LM7 FIFA Ciao mi chiamo Lorenzo I like football and Cristiano is the best player!!! #ForzaRoma #ASRTiAmo #player #is #the #Cristiano";
+		String text = "@LM7 ^Volkswagen!!^_ FIFA _Volkswagen_ ^Volkswagen^ Ciao mi chiamo fwdwdcVolkswagenfefff Lorenzo I like football and Cristiano is the best player!!! #ForzaRoma #ASRTiAmo #player #is #the #Cristiano";
 		lista = tagger.taggerNlp(text);
 		for (String stringa: lista) {
-			System.out.println(stringa);
+			//System.out.println(stringa);
+			if (stringa.contains("NNP:") && stringa.contains("Volkswagen")) {
+				System.out.println("DAJE");
+			}
 		}
 	}
 
