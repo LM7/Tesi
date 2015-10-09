@@ -1,5 +1,11 @@
 package query;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 import twitter4j.FilterQuery;
 import twitter4j.StallWarning;
 import twitter4j.Status;
@@ -34,11 +40,31 @@ public class StreamQuery {
 	    //TwitterStream twitterStream = new TwitterStreamFactory();
 
 		StatusListener statusListener = new StatusListener() {
+			
 
 			@Override
 			public void onStatus(Status status) {
-				System.out.println(status.getUser().getName() + " : " + status.getText());
-				//status.getCreatedAt();
+				System.out.println("...LOADING STATUS...");
+				FileWriter file;
+				Date date;
+				String data;
+				SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+				try {
+					file = new FileWriter("StreamQueryTweet.txt");
+					PrintWriter outStream = new PrintWriter(file);
+					outStream.println("USER: "+status.getUser().getScreenName());
+					outStream.println("LINGUA: "+status.getLang());
+					date = status.getCreatedAt();
+					data = sdf.format(date);
+					outStream.println(data);
+					outStream.println(status.getText());
+					outStream.println("POSIZIONE GEOGRAFICA: "+status.getGeoLocation().toString());
+					outStream.println();
+					outStream.close();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				
 			}
 
 
@@ -76,12 +102,12 @@ public class StreamQuery {
 
 		twitterStream.addListener(statusListener);
 		twitterStream.filter(fq);    
-		System.out.println("DONE");
+		
 	}  
 
 	public static void main(String[] args) {
 		StreamQuery.GetTweetStreamForKeywords();
-		
+		System.out.println("DONE");
 
 	}
 

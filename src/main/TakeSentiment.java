@@ -1,5 +1,9 @@
 package main;
 
+/*
+ * Questa classe è utile sia per il processo "folloers" sia per quello "query dirette"
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -36,12 +40,13 @@ public class TakeSentiment {
 					afterBefore.add("before");
 				}
 			}
-			else if ( !(line.toString().equals("")) ) {
+			else if ( !(fraseLinea.equals("")) ) { //&& !(fraseLinea.startsWith("USER:")) && !(fraseLinea.startsWith("POSIZIONE GEOGRAFICA:")) && !(fraseLinea.startsWith("LINGUA:"))
 				listaTweet.add(fraseLinea);
 				i++;
 				System.out.println(i);
 			}
 			line = reader.readLine();
+			
 		}
 		
 		
