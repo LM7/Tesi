@@ -1,6 +1,7 @@
 package main;
 
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
@@ -33,7 +34,8 @@ import com.mongodb.util.JSON;
 public class TakeTweets {
 
 	public static void main(String[] args) throws FileNotFoundException, TwitterException, IOException {
-		PrintWriter outTweets = new PrintWriter("Tweets.txt", "UTF-8");
+		FileWriter file = new FileWriter("Tweets.txt",true); //per accodare-> true
+		PrintWriter outTweets = new PrintWriter(file);
 		MainTwitter mt = new MainTwitter();
 		ResponseList<Status> stati = null;
 		int numTweet = 100;
@@ -57,19 +59,19 @@ public class TakeTweets {
 			String s = cursorPrev.next().toString();
 			System.out.println(s);
 		}*/
-		DBCursor cursor = collection.find();
+		DBCursor cursor = collection.find( (BasicDBObject) JSON.parse("{PaginaTwitter : 'Volkswagen'}") );
 		while (cursor.hasNext()  ) {
 			BasicDBList e = (BasicDBList) cursor.next().get("followers");
 			int lunghezza = e.size();
 			System.out.println("LUNGHEZZA :"+lunghezza);
-			for (int j = 0; j < lunghezza  ; j++) {
+			for (int j = 9176; j < lunghezza  ; j++) { //modificare la j per continuare dopo il GameOver
 				user = e.get(j).toString();
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);
 					System.out.println("USER: "+user+" NUMERO: "+j);
 					System.out.println("NUMERO TWEET :"+stati.size());
 					String json = "{'user"+j+"' : '"+user+"',";
-					outTweets.println(user);
+					outTweets.println(user+" Numero: "+j);
 					int i = 0;
 					for (Status stato: stati) {
 						System.out.println("TWEET NUMERO: "+i);
@@ -105,6 +107,11 @@ public class TakeTweets {
 				} catch (Exception e2) {
 					System.out.println("ERRORE");
 					System.out.println(e2.getMessage());
+					String errore = e2.getMessage();
+					if (errore.contains("code - 88")) {
+						System.out.println("GAME OVER FOR LIMITS API TWITTER");
+						break;
+					}
 				}
 			}
 		}

@@ -1,5 +1,7 @@
 package database;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
@@ -22,7 +24,8 @@ import com.mongodb.util.JSON;
 
 public class StampaDB {
 
-	public static void main(String[] args) throws JSONException {
+	public static void main(String[] args) throws JSONException, FileNotFoundException {
+		PrintWriter outDB = new PrintWriter("Database.txt");
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -33,12 +36,34 @@ public class StampaDB {
 		DBCollection collection = db.getCollection("collezione");	
 		DBCursor cursor = collection.find();
 		while (cursor.hasNext()) {
-			/*BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
-			System.out.println(object.toString());
-			System.out.println(object.size());*/
+			//BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
+			//System.out.println(object.toString());
+			//System.out.println(object.size());
 			String s = cursor.next().toString(); //stampa database
+			outDB.println(s);
 			System.out.println(s);
+			
+			//per eliminare....
+			/*try {
+				int i = 0;
+				for (Object objects: object) {
+
+					System.out.println(objects.toString());
+					BasicDBObject documentDel = new BasicDBObject();
+					documentDel.put("user"+i, objects.toString());
+					collection.remove(documentDel);
+
+
+					i++;
+				}
+			} catch (Exception e) {
+				// TODO: handle exception
+			}*/
+			
+			
 		}
+		outDB.close();
+		
 		
 		// elimina tutto l'user
 		/*BasicDBObject documentDel = new BasicDBObject();

@@ -1,6 +1,8 @@
 package main;
 
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -23,6 +25,8 @@ import com.mongodb.MongoClient;
 public class TakeDateTopic {
 	
 	public static void main(String[] args) throws ParseException, IOException {
+		FileWriter file = new FileWriter("RightTweets.txt"); //per accodare-> true
+		PrintWriter outRightTweets = new PrintWriter(file);
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -53,15 +57,15 @@ public class TakeDateTopic {
 			while ( j <= numeroUsers ) {
 				obj = (DBObject)itrc.next();
 				user = obj.get("user"+j).toString();
-				System.out.println("USER "+user+" NUMERO "+j+" SU "+ numeroUsers ); //sempre uno in meno
+				System.out.println("USER "+user+" NUMERO "+j+" SU "+ numeroUsers );
 				int i = 0;
 				lungTweet = obj.toMap().size()-3;
 				while ( i <=  lungTweet ) {
-					System.out.println("TWEET NUMERO "+i+" SU "+ lungTweet); //sempre uno in meno
+					System.out.println("TWEET NUMERO "+i+" SU "+ lungTweet);
 					obj2 = (DBObject) obj.get("tweet"+i);
-					/*data = obj2.get("date").toString();
+					data = obj2.get("date").toString();
 					//qui farò le operazioni sulle date
-					Date date = sdf.parse(data);*/
+					//Date date = sdf.parse(data);
 					tweet = obj2.get("text").toString();
 					//qui farò le operazioni sui tweet
 					topic = false;
@@ -84,12 +88,18 @@ public class TakeDateTopic {
 					    update.put("$unset", new BasicDBObject("tweet"+i,""));
 					    collection.update(query, update);
 					}
+					else {
+						outRightTweets.println(data);
+						outRightTweets.println(tweet);
+						outRightTweets.println();
+					}
 					i++;
 				}
 				j++;
 			}
 		}
-
+		
+		outRightTweets.close();
 		System.out.println("DONE");
 
 	}
