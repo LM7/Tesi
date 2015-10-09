@@ -144,7 +144,7 @@ public class SentiWordNetDemoCode {
 		//System.out.println(averageScore);
 
 		if(averageScore>=0.75)
-		    return "very positive";
+		    return "very pos";
 		else if(averageScore > 0.25 && averageScore<0.5)
 		    return  "positive";
 		else if(averageScore>=0.5)
@@ -154,7 +154,7 @@ public class SentiWordNetDemoCode {
 		else if(averageScore < -0.25 && averageScore>=-0.5)
 		    return "negative";
 		else if(averageScore<=-0.75)
-		    return "very negative";
+		    return "very neg";
 		return "neutral";
 	}
 	

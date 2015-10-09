@@ -21,7 +21,7 @@ public class TakeSentiment {
 		Date dateScandal;
 		dateScandal = sdf.parse("2015-09-18");
 		String fraseLinea;
-		BufferedReader reader = new BufferedReader(new FileReader("RightTweets.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt")); //RightTweets.txt
 		String line = reader.readLine();
 		int i = 0;
 		while (line != null) {
@@ -91,7 +91,7 @@ public class TakeSentiment {
 		System.out.println("NEGBEFORE: "+negBefore);
 		System.out.println("NEUTBEFORE: "+neutBefore);
 		
-		
+		System.out.println();
 		/*Analizzo i risultati con SentiWordNet*/
 		int posAfterSWN, negAfterSWN, neutAfterSWN, posBeforeSWN, negBeforeSWN, neutBeforeSWN, veryNegAfter, veryNegBefore, veryPosAfter, veryPosBefore;
 		posAfterSWN = 0;
@@ -116,34 +116,34 @@ public class TakeSentiment {
 		
 		int posizioneSWN = 0;
 		for (String mood: moodSentiWordNet) {
-			if (mood.contains("positive") && afterBefore.get(posizione).equals("after")) {
+			if (mood.contains("positive") && afterBefore.get(posizioneSWN).equals("after")) {
 				posAfterSWN++;
 			}
-			if (mood.contains("negative") && afterBefore.get(posizione).equals("after")) {
+			if (mood.contains("negative") && afterBefore.get(posizioneSWN).equals("after")) {
 				negAfterSWN++;
 			}
-			if (mood.contains("neutral") && afterBefore.get(posizione).equals("after")) {
+			if (mood.contains("neutral") && afterBefore.get(posizioneSWN).equals("after")) {
 				neutAfterSWN++;
 			}
-			if (mood.contains("positive") && afterBefore.get(posizione).equals("before")) {
+			if (mood.contains("positive") && afterBefore.get(posizioneSWN).equals("before")) {
 				posBeforeSWN++;
 			}
-			if (mood.contains("negative") && afterBefore.get(posizione).equals("before")) {
+			if (mood.contains("negative") && afterBefore.get(posizioneSWN).equals("before")) {
 				negBeforeSWN++;
 			}
-			if (mood.contains("neutral") && afterBefore.get(posizione).equals("before")) {
+			if (mood.contains("neutral") && afterBefore.get(posizioneSWN).equals("before")) {
 				neutBeforeSWN++;
 			}
-			if (mood.contains("very positive") && afterBefore.get(posizione).equals("after")) {
+			if (mood.contains("very pos") && afterBefore.get(posizioneSWN).equals("after")) {
 				veryPosAfter++;
 			}
-			if (mood.contains("very negative") && afterBefore.get(posizione).equals("after")) {
+			if (mood.contains("very neg") && afterBefore.get(posizioneSWN).equals("after")) {
 				veryNegAfter++;
 			}
-			if (mood.contains("very positive") && afterBefore.get(posizione).equals("before")) {
+			if (mood.contains("very pos") && afterBefore.get(posizioneSWN).equals("before")) {
 				veryPosBefore++;
 			}
-			if (mood.contains("very negative") && afterBefore.get(posizione).equals("before")) {
+			if (mood.contains("very neg") && afterBefore.get(posizioneSWN).equals("before")) {
 				veryNegBefore++;
 			}
 			posizioneSWN++;
