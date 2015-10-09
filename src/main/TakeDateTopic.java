@@ -89,6 +89,7 @@ public class TakeDateTopic {
 					    collection.update(query, update);
 					}
 					else {
+						outRightTweets.println("USER: "+user);
 						outRightTweets.println(data);
 						outRightTweets.println(tweet);
 						outRightTweets.println();

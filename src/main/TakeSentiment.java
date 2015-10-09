@@ -40,7 +40,7 @@ public class TakeSentiment {
 					afterBefore.add("before");
 				}
 			}
-			else if ( !(fraseLinea.equals("")) ) { //&& !(fraseLinea.startsWith("USER:")) && !(fraseLinea.startsWith("POSIZIONE GEOGRAFICA:")) && !(fraseLinea.startsWith("LINGUA:"))
+			else if ( !(fraseLinea.equals("")) && !(fraseLinea.startsWith("USER:"))  ) { //&& !(fraseLinea.startsWith("POSIZIONE GEOGRAFICA:")) && !(fraseLinea.startsWith("LINGUA:"))
 				listaTweet.add(fraseLinea);
 				i++;
 				System.out.println(i);

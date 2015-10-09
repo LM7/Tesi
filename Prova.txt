@@ -1,14 +1,19 @@
+USER: Lollo
 2015-08-26
 I hate frogs
 
+USER: Francesco
 2015-10-06
 I love dogs
 
+USER: Cristiano
 2015-09-18
 I'm happy with the environment
 
+USER: Erik
 2015-09-28
 The current program is boring
 
+USER: Lorenzo
 2015-09-10
 I wonder when this is going to end!
