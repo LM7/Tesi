@@ -63,8 +63,8 @@ public class TakeTweets {
 		while (cursor.hasNext()  ) {
 			BasicDBList e = (BasicDBList) cursor.next().get("followers");
 			int lunghezza = e.size();
-			System.out.println("LUNGHEZZA :"+lunghezza);
-			for (int j = 9536; j < lunghezza  ; j++) { //modificare la j per continuare dopo il GameOver
+			System.out.println("LUNGHEZZA: "+lunghezza);
+			for (int j = 14930; j < lunghezza  ; j++) { //modificare la j per continuare dopo il GameOver
 				user = e.get(j).toString();
 				try {
 					stati = mt.tweetsOfUser(user, numTweet);

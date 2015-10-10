@@ -76,11 +76,15 @@ public class TakeDateTopic {
 							topic = true;
 						}
 					}
-					for (String stringa: tweetWithTags) {
-						if (stringa.contains("NNP:") && stringa.contains("Volkswagen")) {
-							topic = true;
+					if (!topic) { //aggiunto questo if per evitare di controllare due volte il topic
+						for (String stringa: tweetWithTags) {
+							if (stringa.contains("NNP:") && stringa.contains("Volkswagen")) {
+								topic = true;
+							}
 						}
+						
 					}
+					
 					if ( !topic ) {
 						//se il topic non corrisponde elimino il tweet dall'user
 						DBObject query = new BasicDBObject("user"+j, user);
