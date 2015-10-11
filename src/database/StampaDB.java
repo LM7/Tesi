@@ -33,7 +33,7 @@ public class StampaDB {
 			System.out.println(e.getMessage());
 		}
 		DB db = mongo.getDB("db");
-		DBCollection collection = db.getCollection("collezione");
+		DBCollection collection = db.getCollection("collezione"); //collezione
 		DBCursor cursor = collection.find();
 		//cursor.sort(new BasicDBObject("_id", 1)); //ordino il db per chiave, quindi per inserimento
 		while (cursor.hasNext()) {
