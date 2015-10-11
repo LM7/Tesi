@@ -25,7 +25,7 @@ import com.mongodb.util.JSON;
 public class StampaDB {
 
 	public static void main(String[] args) throws JSONException, FileNotFoundException {
-		PrintWriter outDB = new PrintWriter("Database.txt");
+		PrintWriter outDB = new PrintWriter("DatabaseSort.txt");
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -33,8 +33,9 @@ public class StampaDB {
 			System.out.println(e.getMessage());
 		}
 		DB db = mongo.getDB("db");
-		DBCollection collection = db.getCollection("collezione");	
+		DBCollection collection = db.getCollection("collezione");
 		DBCursor cursor = collection.find();
+		//cursor.sort(new BasicDBObject("_id", 1)); //ordino il db per chiave, quindi per inserimento
 		while (cursor.hasNext()) {
 			//BasicDBList object = (BasicDBList) cursor.next().toMap().get("followers"); //quanti sono gli users
 			//System.out.println(object.toString());

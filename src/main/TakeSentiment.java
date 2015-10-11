@@ -25,7 +25,7 @@ public class TakeSentiment {
 		Date dateScandal;
 		dateScandal = sdf.parse("2015-09-18");
 		String fraseLinea;
-		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt")); //RightTweets.txt
+		BufferedReader reader = new BufferedReader(new FileReader("RightTweets.txt")); //RightTweets.txt
 		String line = reader.readLine();
 		int i = 0;
 		while (line != null) {
@@ -49,6 +49,13 @@ public class TakeSentiment {
 			
 		}
 		
+		System.out.println("SIZE"+afterBefore.size());
+		/*int kappa=0;
+		for (String stringa :afterBefore) {
+			System.out.println("STRINGA "+stringa);
+			System.out.println("AB "+afterBefore.get(kappa));
+			kappa++;
+		}*/
 		
 		/*Annalizzo i risultati con SentiStrength*/
 		int posAfter, negAfter, neutAfter, posBefore, negBefore, neutBefore;
