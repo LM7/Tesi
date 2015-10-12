@@ -47,7 +47,7 @@ public class StreamQuery {
 				String data;
 				SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 				try {
-					file = new FileWriter("StreamQueryTweet.txt");
+					file = new FileWriter("StreamQueryTweet.txt", true);
 					PrintWriter outStream = new PrintWriter(file);
 					if ( status.getLang().toString().equals("en") ) {
 						System.out.println("YES");
