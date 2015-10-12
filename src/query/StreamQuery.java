@@ -57,12 +57,12 @@ public class StreamQuery {
 						data = sdf.format(date);
 						outStream.println(data);
 						outStream.println(status.getText());
-						if (status.getGeoLocation() != null) {
+						/*if (status.getGeoLocation() != null) {
 							outStream.println("POSIZIONE GEOGRAFICA: "+status.getGeoLocation().toString());
 						}
 						else {
 							outStream.println("POSIZIONE GEOGRAFICA: NO");
-						}
+						}*/
 						outStream.println();
 					}
 					outStream.close();
