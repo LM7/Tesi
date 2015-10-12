@@ -30,6 +30,7 @@ public class StreamTakeSentiment {
 		DBCursor cursor = collection.find();
 		DBCursor cursorToWrite = collection.find();
 		String s;
+		//Scrivo il db in un file
 		while (cursorToWrite.hasNext()) {
 			s = cursorToWrite.next().toString();
 			outStream.println(s);

@@ -114,6 +114,7 @@ public class SaveOnDB {
 			System.out.println(s);
 		}
 		System.out.println("I DUPLICATI SONO "+ contDup);
+		System.out.println(noDupl.size());
 	}
 
 }
