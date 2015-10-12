@@ -13,6 +13,28 @@ import com.mongodb.MongoClient;
 import com.mongodb.util.JSON;
 
 public class SaveOnDB {
+	
+	public static String deleteURL(String stringa) {
+		if (stringa.contains("http")) {
+			String[] splits;
+			splits = stringa.split(" ");
+			for (int i = 0; i < splits.length; i++) {
+				if (splits[i].startsWith("http")) {
+					splits[i] = "";
+				}
+			}
+			stringa = "";
+			for (int j = 0; j <splits.length; j++) {
+				if (j == 0) {
+					stringa = splits[j];
+				}
+				else {
+					stringa = stringa + " " +splits[j];
+				}
+			}
+		}
+		return stringa;
+	}
 
 	public static void main(String[] args) throws IOException {
 		MongoClient mongo = null;
@@ -34,7 +56,7 @@ public class SaveOnDB {
 		boolean insert = false;
 		DBObject dbObject;
 		while (line != null) {
-			System.out.println(line.toString());
+			line = deleteURL(line);
 			if (line.startsWith("USER:")) {
 				json = "";
 				splits = line.split(" ");
