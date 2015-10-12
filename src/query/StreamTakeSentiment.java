@@ -16,8 +16,8 @@ import com.mongodb.MongoClient;
 public class StreamTakeSentiment {
 
 	public static void main(String[] args) throws IOException {
-		//FileWriter file = new FileWriter("DatabaseStream.txt");
-		//PrintWriter outStream = new PrintWriter(file);
+		FileWriter file = new FileWriter("DatabaseStream.txt");
+		PrintWriter outStream = new PrintWriter(file);
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -28,12 +28,13 @@ public class StreamTakeSentiment {
 		DBCollection collection = db.getCollection("streamCollection");
 		//System.out.println(collection.count());
 		DBCursor cursor = collection.find();
-		/*String s;
-		while (cursor.hasNext()) {
-			s = cursor.next().toString();
+		DBCursor cursorToWrite = collection.find();
+		String s;
+		while (cursorToWrite.hasNext()) {
+			s = cursorToWrite.next().toString();
 			outStream.println(s);
 		}
-		outStream.close();*/
+		outStream.close();
 		ArrayList<String> listaTweet = new ArrayList<String>();
 		String text;
 		while (cursor.hasNext()) {

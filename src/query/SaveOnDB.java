@@ -3,6 +3,8 @@ package query;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashSet;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
@@ -37,6 +39,12 @@ public class SaveOnDB {
 	}
 
 	public static void main(String[] args) throws IOException {
+		//per evitare duplicati
+		// ----
+		ArrayList<String> noDupl = new ArrayList<String>();
+		String set = "";
+		int contDup = 0;
+		// ----
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -58,6 +66,8 @@ public class SaveOnDB {
 		while (line != null) {
 			line = deleteURL(line);
 			if (line.startsWith("USER:")) {
+				set = ""; //solo per evitare duplicati json...
+				set = line.toString(); //solo per evitare duplicati json...
 				json = "";
 				splits = line.split(" ");
 				json = "{'user' : '"+splits[1]+"',";
@@ -69,14 +79,22 @@ public class SaveOnDB {
 				}
 				else {
 					if (line.matches("\\d{4}-\\d{2}-\\d{2}")) {
+						set = set + line.toString(); //solo per evitare duplicati json...
 						json = json + "'date' : '"+line.toString()+"',";
 					}
 					else if (!(line.equals(""))) {
 						tweet = line.toString();
 						tweet = tweet.replaceAll("\"", "^");
 						tweet = tweet.replaceAll("\'", "_");
-						json = json + "'text' : '"+tweet+"'}}";
-						insert = true;
+						set = set + line.toString(); //solo per evitare duplicati json...
+						if ( !(noDupl.contains(set)) ) { //solo per evitare duplicati json...
+							noDupl.add(set); //solo per evitare duplicati json...
+							json = json + "'text' : '"+tweet+"'}}";
+							insert = true;
+						}
+						else {
+							contDup++;
+						}
 					}
 				}
 			}
@@ -95,6 +113,7 @@ public class SaveOnDB {
 			s = cursor.next().toString();
 			System.out.println(s);
 		}
+		System.out.println("I DUPLICATI SONO "+ contDup);
 	}
 
 }
