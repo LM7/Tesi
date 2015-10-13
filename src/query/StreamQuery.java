@@ -41,30 +41,26 @@ public class StreamQuery {
 			
 			@Override
 			public void onStatus(Status status) {
-				System.out.println("...LOADING STATUS...");
+				System.out.println("...LOADING STATUS..."); //forse sarebbe meglio salvare gli status
 				FileWriter file;
 				Date date;
 				String data;
 				SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+				String text;
 				try {
-					file = new FileWriter("StreamQueryTweet.txt", true);
+					file = new FileWriter("StreamWindows10ElCapitan.txt");
 					PrintWriter outStream = new PrintWriter(file);
-					if ( status.getLang().toString().equals("en") ) {
-						System.out.println("YES");
-						outStream.println("USER: "+status.getUser().getScreenName());
-						outStream.println("LINGUA: "+status.getLang());
-						date = status.getCreatedAt();
-						data = sdf.format(date);
-						outStream.println(data);
-						outStream.println(status.getText());
-						/*if (status.getGeoLocation() != null) {
-							outStream.println("POSIZIONE GEOGRAFICA: "+status.getGeoLocation().toString());
-						}
-						else {
-							outStream.println("POSIZIONE GEOGRAFICA: NO");
-						}*/
-						outStream.println();
-					}
+					System.out.println("YES");
+					outStream.println("USER: "+status.getUser().getScreenName());
+					outStream.println("LINGUA: "+status.getLang());
+					date = status.getCreatedAt();
+					data = sdf.format(date);
+					outStream.println(data);
+					text = status.getText();
+					text = text.replaceAll("\n", " ");
+					System.out.println(text);
+					outStream.println(text);
+					outStream.println();
 					outStream.close();
 				} catch (IOException e) {
 					System.out.println("ERRORE IN ONSTATUS");
@@ -101,14 +97,17 @@ public class StreamQuery {
 		};
 
 		FilterQuery fq = new FilterQuery();        
-
-		String keywords[] = {"Volkswagen", "VolkswagenScandal"};
-
-		fq.track(keywords);        
+		
+		String language[] = {"en"};
+		//gli spazi sono end, tra loro tutti or
+		String keywords[] = {"sport"};
+		//String keywords[] = {"El Capitan", "Windows10", "El Capitan better", "Windows10 better", "El Capitan worse", "Windows10 worse"};
+		//{"El Capitan is better than", "Windows10 is better than", "El Capitan is worse than", "Windows10 is worse than"};
+		fq.track(keywords); 
+		//fq.language(language);
 
 		twitterStream.addListener(statusListener);
-		twitterStream.filter(fq);    
-		
+		twitterStream.filter(fq); 
 	}  
 
 	public static void main(String[] args) {
