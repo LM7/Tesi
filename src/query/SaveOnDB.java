@@ -1,8 +1,13 @@
 package query;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.DataInputStream;
+import java.io.FileInputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashSet;
 
@@ -15,7 +20,7 @@ import com.mongodb.MongoClient;
 import com.mongodb.util.JSON;
 
 public class SaveOnDB {
-	
+
 	public static String deleteURL(String stringa) {
 		if (stringa.contains("http")) {
 			String[] splits;
@@ -39,9 +44,53 @@ public class SaveOnDB {
 	}
 
 	public static void main(String[] args) throws IOException {
+		FileInputStream fstream = null;  
+		DataInputStream in = null;
+		BufferedWriter out = null;
+
+		try {
+			// apro il file
+			fstream = new FileInputStream("NewVolkswagen.txt");
+
+			// prendo l'inputStream
+			in = new DataInputStream(fstream);
+			BufferedReader br = new BufferedReader(new InputStreamReader(in));
+			String strLine;
+			StringBuilder fileContent = new StringBuilder();
+
+			// Leggo il file riga per riga
+			while ((strLine = br.readLine()) != null) {
+				//System.out.println(strLine); // stampo sulla console la riga corrispondente
+				strLine = deleteURL(strLine);
+				//la trascrivo così com'è-> con la cancellazione url
+				fileContent.append(strLine);
+				fileContent.append(System.getProperty("line.separator"));
+
+			}
+
+			// Sovrascrivo il file con il nuovo contenuto (aggiornato)
+			FileWriter fstreamWrite = new FileWriter("NewVolkswagen.txt");
+			out = new BufferedWriter(fstreamWrite);
+			out.write(fileContent.toString());
+
+		} catch (Exception e) {
+			e.printStackTrace();
+
+		} finally {
+			// chiusura dell'output e dell'input
+			try {
+				fstream.close();
+				out.flush();
+				out.close();
+				in.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println("DONE");
 		//per evitare duplicati
 		// ----
-		ArrayList<String> noDupl = new ArrayList<String>();
+		/*ArrayList<String> noDupl = new ArrayList<String>();
 		String set = "";
 		int contDup = 0;
 		// ----
@@ -106,7 +155,7 @@ public class SaveOnDB {
 			line = reader.readLine();
 		}
 		reader.close();
-		
+
 		DBCursor cursor = collection.find();
 		String s;
 		while (cursor.hasNext()) {
@@ -114,7 +163,7 @@ public class SaveOnDB {
 			System.out.println(s);
 		}
 		System.out.println("I DUPLICATI SONO "+ contDup);
-		System.out.println(noDupl.size());
+		System.out.println(noDupl.size());*/
 	}
 
 }

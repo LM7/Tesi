@@ -20,11 +20,17 @@ import com.mongodb.MongoClient;
 public class OperationDB {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader("NewBearArms.txt"));
 		String line = reader.readLine();
-		String ciao = "ehila\nciaoooo\n\ndajeeee";
-		ciao = ciao.replaceAll("\n", " ");
-		System.out.println(ciao);
+		int cont = 0;
+		while (line != null) {
+			if ( (line.startsWith("USER:")) ) {
+				cont++;
+			}
+			line = reader.readLine();
+		}
+		System.out.println(cont);
+	
 		/*PrintWriter outOp = new PrintWriter("DatabaseProvaOperation.txt");
 		MongoClient mongo = null;
 		try {

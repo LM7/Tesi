@@ -1,5 +1,9 @@
 package query;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -15,7 +19,9 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class MoreSearchQuery {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
+		FileWriter file = new FileWriter("ProvaFaccetta.txt", true);
+		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
 		String accessToken = "462812178-D0BD0F6UySOfmioGexeNCEQhAxm1kH85foQXJJ2N";
@@ -32,13 +38,15 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("Obama");
-		int numberOfTweets = 1000; //512
+		Query query = new Query("Volkswagen :)");
+		int numberOfTweets = 45; //512
 		//-----
-		String dataStart = "2015-10-01";
-	    String dataEnd = "2015-10-08";
+		String dataStart = "2015-10-06";
+	    String dataEnd = "2015-10-15";
+	    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 	    query.setSince(dataStart); // Start date of search
  		query.until(dataEnd);
+ 		query.setLang("en");
  		//-----
 		long lastID = Long.MAX_VALUE;
 		List<Status> tweets = new ArrayList<Status>();
@@ -50,7 +58,7 @@ public class MoreSearchQuery {
 			try {
 				QueryResult result = twitter.search(query);
 				tweets.addAll(result.getTweets());
-				System.out.println("Gathered " + tweets.size() + " tweets");
+				System.out.println("Ottenuti " + tweets.size() + " tweets");
 				for (Status t: tweets) 
 					if(t.getId() < lastID) {
 						lastID = t.getId();
@@ -66,20 +74,24 @@ public class MoreSearchQuery {
 		for (int i = 0; i < tweets.size(); i++) {
 			Status t = (Status) tweets.get(i);
 
-			GeoLocation loc = t.getGeoLocation();
+			//GeoLocation loc = t.getGeoLocation();
 
 			String user = t.getUser().getScreenName();
 			String msg = t.getText();
 			Date date = t.getCreatedAt();
-			if (loc!=null) {
+			String dateString = sdf.format(date);
+			/*if (loc!=null) {
 				Double lat = t.getGeoLocation().getLatitude();
 				Double lon = t.getGeoLocation().getLongitude();
 				System.out.println(i + " USER: " + user + " wrote: " + msg + " located at " + lat + ", " + lon+", Date"+date.toString());
-			} 
-			else 
-				System.out.println(i + " USER: " + user + " wrote: " + msg+", Date"+date.toString());
+			} */
+			outFile.println("USER: "+user);
+			outFile.println("DATE: "+dateString);
+			outFile.println("TEXT: "+msg);
+			outFile.println();
+			System.out.println(i + " USER: " + user + " wrote: " + msg+", Date: "+dateString);
 		}
-
+		outFile.close();
 	}
 
 }
