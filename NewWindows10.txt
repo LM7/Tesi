@@ -1,6 +1,6 @@
 USER: teddystiles
 DATE: 2015-10-08
-TEXT: RT @Tableteer: How I feel about #Windows10 and #IOT :) http://t.co/lS4zTmwhPA
+TEXT: RT @Tableteer: How I feel about #Windows10 and #IOT :) 
 
 USER: The_Girl971
 DATE: 2015-10-08
@@ -8,24 +8,23 @@ TEXT: I switching back to Windows 8.1 tomorrow...fuxk that. #Windows10
 
 USER: Tableteer
 DATE: 2015-10-08
-TEXT: How I feel about #Windows10 and #IOT :) http://t.co/lS4zTmwhPA
+TEXT: How I feel about #Windows10 and #IOT :) 
 
 USER: nestor822
 DATE: 2015-10-08
-TEXT: RT @windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial: http://t.co/r5tliKUa6r http://t.co/?
+TEXT: RT @windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial:  
 
 USER: contactmzn
 DATE: 2015-10-08
-TEXT: #Windows10 will be available for existing phones starting December by mobelmedia http://t.co/muTmk4vaK0
+TEXT: #Windows10 will be available for existing phones starting December by mobelmedia 
 
 USER: KBC00PER
 DATE: 2015-10-08
-TEXT: That's a nice change of view! Didn't even know to expect it yet!!!
-#windows10 #xbox #xboxo? http://t.co/KpgzHa6ZIR http://t.co/u9E3DZzXgj
+TEXT: That's a nice change of view! Didn't even know to expect it yet!!! #windows10 #xbox #xboxo?  
 
 USER: SelAromDotNet
 DATE: 2015-10-08
-TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out http://t.co/D85DOx2jD4
+TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
 
 USER: lovelay_xo
 DATE: 2015-10-08
@@ -33,12 +32,11 @@ TEXT: I hate #windows10 update just give me my windows 8 back
 
 USER: saffronistah
 DATE: 2015-10-08
-TEXT: RT @andrewpickup: New Yorker: Microsoft's Very Good Day. http://t.co/fFuV9akXFa #msft #windows10 #surface #newyork
+TEXT: RT @andrewpickup: New Yorker: Microsoft's Very Good Day.  #msft #windows10 #surface #newyork
 
 USER: GoodHealthWorks
 DATE: 2015-10-08
-TEXT: Microsoft's new #Lumina phones 950 ($749) and 950 XL ($849) include 20 MPcameras interlinked with Windows10 across devices. AllinTorStar
-Bus
+TEXT: Microsoft's new #Lumina phones 950 ($749) and 950 XL ($849) include 20 MPcameras interlinked with Windows10 across devices. AllinTorStarBus
 
 USER: djedmuzic
 DATE: 2015-10-08
@@ -50,39 +48,39 @@ TEXT: Ok why won't any of my videos play? #Windows10
 
 USER: DanialPooran
 DATE: 2015-10-08
-TEXT: RT @helpdeskathome1: Before you reach for the recovery discs, try this scan to fix problems in #Windows10! https://t.co/kQIWSz6s9J #microso?
+TEXT: RT @helpdeskathome1: Before you reach for the recovery discs, try this scan to fix problems in #Windows10!  #microso?
 
 USER: froemke
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: infosecuritweet
 DATE: 2015-10-08
-TEXT: RT @TheHackersNews: TIP: How to Activate GodMode in #Windows10 http://t.co/fi3W4R2hmS http://t.co/gmgzEnjIOe
+TEXT: RT @TheHackersNews: TIP: How to Activate GodMode in #Windows10  
 
 USER: hlabadi
 DATE: 2015-10-08
-TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out http://t.co/fJ9k3rIiyV
+TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
 
 USER: alwasat_tech
 DATE: 2015-10-08
-TEXT: #Windows10 will be available for existing phones starting December http://t.co/B8mtD1sL13
+TEXT: #Windows10 will be available for existing phones starting December 
 
 USER: mobelmedia
 DATE: 2015-10-08
-TEXT: #Windows10 will be available for existing phones starting December http://t.co/YXnd90CvpQ
+TEXT: #Windows10 will be available for existing phones starting December 
 
 USER: mbah360
 DATE: 2015-10-08
-TEXT: RT @windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial: http://t.co/r5tliKUa6r http://t.co/?
+TEXT: RT @windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial:  
 
 USER: mbah360
 DATE: 2015-10-08
-TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial: http://t.co/jFrEUT25bL?#UWP http://t.co/7QPdtLeK?
+TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
 
 USER: hsdaustralia
 DATE: 2015-10-08
-TEXT: Good to see @MSAU doing #security #enhancements for #Windows10! @iTnews_au @niftytech_news @womenlovetech #safety https://t.co/iJg7SmuBp8
+TEXT: Good to see @MSAU doing #security #enhancements for #Windows10! @iTnews_au @niftytech_news @womenlovetech #safety 
 
 USER: ejruthenberg
 DATE: 2015-10-08
@@ -90,15 +88,15 @@ TEXT: @XFINITY When will you have a Windows10 universal streampix application?
 
 USER: helenango
 DATE: 2015-10-08
-TEXT: RT @WeAreListen: .@Microsoft unveiled a new era of #Windows10 devices yesterday. Check out the recap if you missed the big announce: http:/?
+TEXT: RT @WeAreListen: .@Microsoft unveiled a new era of #Windows10 devices yesterday. Check out the recap if you missed the big announce: 
 
 USER: Windows10Info
 DATE: 2015-10-08
-TEXT: Anyone else having HUGE issues with google music's web player right now? [Windows 10 +... http://t.co/CaGuqp7aGD http://t.co/aewbAKiXuF
+TEXT: Anyone else having HUGE issues with google music's web player right now? [Windows 10 +...  
 
 USER: CsharpCorner
 DATE: 2015-10-08
-TEXT: Security Enhancements in #Windows10 by @rali57554 CC @CsharpCorner http://t.co/jJYwTjXNNc http://t.co/3EWPmIXxwk
+TEXT: Security Enhancements in #Windows10 by @rali57554 CC @CsharpCorner  
 
 USER: smokeyrises
 DATE: 2015-10-08
@@ -106,48 +104,43 @@ TEXT: RT @CDNThe3rd: Also #Windows10 messed up my prgms[OBS, Skype, TeamSpeak] f
 
 USER: DellSysMgmt
 DATE: 2015-10-08
-TEXT: #Windows10 enhancements for #endpoint security ? preventing desktops + servers from being infected by malware: http://t.co/61elS5AKMR
+TEXT: #Windows10 enhancements for #endpoint security ? preventing desktops + servers from being infected by malware: 
 
 USER: TranxitionSoft
 DATE: 2015-10-08
-TEXT: Time to use #Migrate7: #Windows10 Momentum up as @Microsoft launches #SurfaceBook and #SurfacePro4 http://t.co/qL0MkzdnbY via @SSforWindows
+TEXT: Time to use #Migrate7: #Windows10 Momentum up as @Microsoft launches #SurfaceBook and #SurfacePro4  via @SSforWindows
 
 USER: helpdeskathome1
 DATE: 2015-10-08
-TEXT: Before you reach for the recovery discs, try this scan to fix problems in #Windows10! https://t.co/kQIWSz6s9J #microsoft #office2016
+TEXT: Before you reach for the recovery discs, try this scan to fix problems in #Windows10!  #microsoft #office2016
 
 USER: Windows10Info
 DATE: 2015-10-08
-TEXT: Microsoft reveals first-ever laptop, Surface Book video - CNET http://t.co/2tLT9TB8C4 http://t.co/YRmjWEDfx1
+TEXT: Microsoft reveals first-ever laptop, Surface Book video - CNET  
 
 USER: Sigit_free
 DATE: 2015-10-08
-TEXT: RT @Windows: Fitness bands got personal, and so has Windows. It's time to upgrade to #Windows10: http://t.co/nwgBGsJSYY http://t.co/JuEOyrv?
+TEXT: RT @Windows: Fitness bands got personal, and so has Windows. It's time to upgrade to #Windows10:  
 
 USER: Mracket
 DATE: 2015-10-08
-TEXT: RT @NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" - http://t.co/xidhIlX3ZG #ConfigMgr #SCCM #Windows10 #MDT
+TEXT: RT @NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" -  #ConfigMgr #SCCM #Windows10 #MDT
 
 USER: paidsupportinc
 DATE: 2015-10-08
-TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft - http://t.co/mRgqCgDk89 http://t.co/hXzGJbFzVJ
+TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
 
 USER: JayTechTV
 DATE: 2015-10-08
-TEXT: #PS4 had 1 #PriceCut in #Japan and this is what happened to the #XboxOne #XB1 #Xbox #XboxLive #XBL #XBOT #Windows10 http://t.co/4m3sxFMJQv
+TEXT: #PS4 had 1 #PriceCut in #Japan and this is what happened to the #XboxOne #XB1 #Xbox #XboxLive #XBL #XBOT #Windows10 
 
 USER: kinwalker
 DATE: 2015-10-08
-TEXT: 0.9 megapixels ? #Lumia830 #windows10 https://t.co/7D76RupVCv
+TEXT: 0.9 megapixels ? #Lumia830 #windows10 
 
 USER: NikitinIlya
 DATE: 2015-10-08
-TEXT: Hands-on with #Microsoft ?s #SurfacePro 4 and Surface Book
-http://t.co/Ud7Qqo3JcL
-
-#windows10
-
-by @VentureBeat http://t.co/E8I9DWUkR5
+TEXT: Hands-on with #Microsoft ?s #SurfacePro 4 and Surface Book #windows10 by @VentureBeat 
 
 USER: PeterHGiftos
 DATE: 2015-10-08
@@ -159,23 +152,23 @@ TEXT: With #windows10 #continuum will #cisco create an #anyconnect #windowsstore
 
 USER: GersoRobert
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: majjor_tom
 DATE: 2015-10-08
-TEXT: RT @Lumia: @fracapri92 Windows 10 on other devices will begin rolling out in November. For more info, head over here ?> http://t.co/fMinNW9?
+TEXT: RT @Lumia: @fracapri92 Windows 10 on other devices will begin rolling out in November. For more info, head over here ?> 
 
 USER: icySTARS2
 DATE: 2015-10-08
-TEXT: RT @prepayasyougo: Microsoft October 2015 launch event: What devices to expect http://t.co/UCO4tN0GY0 #Windows10 #Mobile http://t.co/KuVZpp?
+TEXT: RT @prepayasyougo: Microsoft October 2015 launch event: What devices to expect  #Windows10 #Mobile 
 
 USER: BemepPartyboy
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: 3187798
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: joreinablanco
 DATE: 2015-10-08
@@ -183,55 +176,55 @@ TEXT: Finally! Windows10. :)
 
 USER: cfrinvest
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: DariyaMkevich
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: cazdonz2
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: nodenow
 DATE: 2015-10-08
-TEXT: Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how http://t.co/f3QdEgMhZR
+TEXT: Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how 
 
 USER: nodenow
 DATE: 2015-10-08
-TEXT: The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working toda? http://t.co/f3QdEgMhZR
+TEXT: The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working toda? 
 
 USER: ggameself
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: Windows10Info
 DATE: 2015-10-08
-TEXT: Microsoft unveils new Lumia 950 phone http://t.co/aHp37SpZjJ http://t.co/9VywEpiNUA
+TEXT: Microsoft unveils new Lumia 950 phone  
 
 USER: HotgirlAngelina
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: apocriva
 DATE: 2015-10-08
-TEXT: Well here goes nothing... #Windows10 http://t.co/171nAtzor0
+TEXT: Well here goes nothing... #Windows10 
 
 USER: twityoufast
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: moyinoluwa_mm
 DATE: 2015-10-08
-TEXT: Details About Upcoming HP Envy 8 Note... http://t.co/vBeMZDs05e #Envy8Note #HP #Microsoft #Tablet #UpgradeYourWorld #Windows #WINDOWS10
+TEXT: Details About Upcoming HP Envy 8 Note...  #Envy8Note #HP #Microsoft #Tablet #UpgradeYourWorld #Windows #WINDOWS10
 
 USER: Veki551155
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: antoinewelch456
 DATE: 2015-10-08
-TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 - http://t.co/HsZ1WglFWH http://t.c?
+TEXT: RT @LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
 
 USER: MrStephenMiller
 DATE: 2015-10-08
@@ -251,48 +244,43 @@ TEXT: #blackberry may be #boring but #reliabletech which is more than I can say 
 
 USER: justreadout
 DATE: 2015-10-08
-TEXT: Boost your PC's speed using a pen drive
-#WindowsInsiders  #Windows10 #Microsoft
-http://t.co/OhwPjWH0QH
+TEXT: Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
 
 USER: justreadout
 DATE: 2015-10-08
-TEXT: Create custom shortcut for any app on Windows PC 
-#Windows10 #Microsoft #microsoftventures 
-http://t.co/nndXwq4Uxk
+TEXT: Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
 
 USER: CEEKTechnology
 DATE: 2015-10-08
-TEXT: TIP ? Unlock #Windows10 260+ Hidden Settings with God Mode.
- http://t.co/yPwOmWV71E posted by @TheHackersNews
+TEXT: TIP ? Unlock #Windows10 260+ Hidden Settings with God Mode. posted by @TheHackersNews
 
 USER: kenflagg
 DATE: 2015-10-08
-TEXT: Sorry, @microsoft, but #windows10 is a dud.  Going back to 8, which also sucks, but need the Thunderbolt support. http://t.co/zAhKq5XdPr
+TEXT: Sorry, @microsoft, but #windows10 is a dud.  Going back to 8, which also sucks, but need the Thunderbolt support. 
 
 USER: ServerPals
 DATE: 2015-10-08
-TEXT: Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how http://t.co/z2QXloe2Yv
+TEXT: Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how 
 
 USER: WindowsAU
 DATE: 2015-10-08
-TEXT: Who knows what he might find on Mars? #Windows10. Do great things. http://t.co/BRF4ZrBgLw http://t.co/LD9z7nDbft
+TEXT: Who knows what he might find on Mars? #Windows10. Do great things.  
 
 USER: azzh316
 DATE: 2015-10-08
-TEXT: As Gandalf would say: "So it begins." #windows10 https://t.co/jfQOHyshIy
+TEXT: As Gandalf would say: "So it begins." #windows10 
 
 USER: Fahdsons
 DATE: 2015-10-08
-TEXT: #Deals #529 http://t.co/CD7dEHyImY Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One Desktop #la? http://t.co/apQKunR7jR
+TEXT: #Deals #529  Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One Desktop #la? 
 
 USER: Applications2U
 DATE: 2015-10-08
-TEXT: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: http://t.co/OqS7Gt7nVR
+TEXT: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
 
 USER: nullivex
 DATE: 2015-10-08
-TEXT: The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working today. http://t.co/1j7cCT0aKl
+TEXT: The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working today. 
 
 USER: dschouse
 DATE: 2015-10-08
@@ -300,49 +288,47 @@ TEXT: Just got my free upgrade to windows 10...a little unsure about it.  Anyone
 
 USER: stevegereb
 DATE: 2015-10-08
-TEXT: #Windows10 Development for Absolute Beginners - http://t.co/2og4DBhn3e
+TEXT: #Windows10 Development for Absolute Beginners - 
 
 USER: TechNetNZ
 DATE: 2015-10-08
-TEXT: Our #Windows10 IT Camps are just around the corner! Have you reserved your seat? http://t.co/yDCoa7D2ZT
+TEXT: Our #Windows10 IT Camps are just around the corner! Have you reserved your seat? 
 
 USER: azzh316
 DATE: 2015-10-08
-TEXT: Me waiting for #windows10 to update. Curiosity has beaten me. https://t.co/1Qyh5ipBew
+TEXT: Me waiting for #windows10 to update. Curiosity has beaten me. 
 
 USER: azzh316
 DATE: 2015-10-08
-TEXT: Well... This should be fun... #windows10 https://t.co/xcXiLOBQqu
+TEXT: Well... This should be fun... #windows10 
 
 USER: msftmfg
 DATE: 2015-10-08
-TEXT: .@HP Offers Premium #Windows10 PCs for the World 
- http://t.co/QoTjGfv7Hz #manufacturing http://t.co/adgCd3LxRH
+TEXT: .@HP Offers Premium #Windows10 PCs for the World #manufacturing 
 
 USER: torresfrisqo
 DATE: 2015-10-08
-TEXT: How to Activate GodMode in Windows 10 http://t.co/NtWmL9zKJQ via @TheHackersNews #Security
+TEXT: How to Activate GodMode in Windows 10  via @TheHackersNews #Security
 
 USER: OIGEL
 DATE: 2015-10-08
-TEXT: #Windows10 #Mobile ? Windows 10 Mobile is coming to Windows Phone devices in December ? Microsoft d... http://t.co/ZaML9rxdqE - #Windows
+TEXT: #Windows10 #Mobile ? Windows 10 Mobile is coming to Windows Phone devices in December ? Microsoft d...  - #Windows
 
 USER: OIGEL
 DATE: 2015-10-08
-TEXT: #Windows10 #OS ? Windows 10 Mobile Rollout to Begin in December, Says Microsoft ? Microsoft has con... http://t.co/upfuTkg6lF - #Windows
+TEXT: #Windows10 #OS ? Windows 10 Mobile Rollout to Begin in December, Says Microsoft ? Microsoft has con...  - #Windows
 
 USER: EdTechRetweet
 DATE: 2015-10-08
-TEXT: RT @dwdeeds: A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl http://t.co/glNoTK4Q71 http://t.co/ml?
+TEXT: RT @dwdeeds: A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl  
 
 USER: dingl_
 DATE: 2015-10-08
-TEXT: A Windows Store update is avaiable #Windows10 http://t.co/qD2W150Icf
+TEXT: A Windows Store update is avaiable #Windows10 
 
 USER: ryanhassall
 DATE: 2015-10-08
 TEXT: #Windows10 devices and what it means for you!
-https://t.co/UH1bflMgta
 
 USER: SrikanthNair
 DATE: 2015-10-08
@@ -350,19 +336,19 @@ TEXT: No doubt #Windows10 mobile will shape into a great OS soon but I'd forgott
 
 USER: hashmi9111
 DATE: 2015-10-08
-TEXT: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules @Eva... (Vine by @JoshDarnit) https://t.co/1I6L5c9k4k
+TEXT: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules @Eva... (Vine by @JoshDarnit) 
 
 USER: dwdeeds
 DATE: 2015-10-08
-TEXT: A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl http://t.co/glNoTK4Q71 http://t.co/mlySmlY35C
+TEXT: A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl  
 
 USER: Darthgreg78
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: davidsmi
 DATE: 2015-10-08
-TEXT: I just ordered a Surface Dock to review on @SurfaceSmiths podcast #windows10 http://t.co/hILvIKVFmV
+TEXT: I just ordered a Surface Dock to review on @SurfaceSmiths podcast #windows10 
 
 USER: chmx
 DATE: 2015-10-08
@@ -374,46 +360,43 @@ TEXT: fao techy tweeps! I've got sound (mp3s/vids/etc) on my #Windows10 PC but f
 
 USER: Mohd631Amir
 DATE: 2015-10-08
-TEXT: @windowsblog When shall we get windows10For windows phones?
+TEXT: @windowsblog When shall we get windows10 For windows phones?
 
 USER: DreySecurity15
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: sakurasasku
 DATE: 2015-10-08
-TEXT: RT @goodsolitaire: Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ?? http://t.co/xcMhZrwvUy #windows10 http://t.co/cyHKnO?
+TEXT: RT @goodsolitaire: Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
 
 USER: H5PAHezry
 DATE: 2015-10-08
-TEXT: RT @TechFrag: #Windows10 Mobile Comes out in December; Here?s the List of Supported Smartphones http://t.co/LpzzED9MNR http://t.co/GpuYL4f8?
+TEXT: RT @TechFrag: #Windows10 Mobile Comes out in December; Here?s the List of Supported Smartphones  
 
 USER: goodsolitaire
 DATE: 2015-10-08
-TEXT: Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ?? http://t.co/xcMhZrwvUy #windows10 http://t.co/cyHKnOZRqL
+TEXT: Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
 
 USER: NeilNuttall
 DATE: 2015-10-08
-TEXT: Looks like the #Windows10 Business Store is getting closer.
-https://t.co/jH4LwIhybL
-
-#whysolong http://t.co/YiWOBYn5lh
+TEXT: Looks like the #Windows10 Business Store is getting closer. #whysolong 
 
 USER: chmx
 DATE: 2015-10-08
-TEXT: #Continuum and a focus on Enterprise might save #WindowsPhone. #windows10 #lumia http://t.co/FTJBPKCUrq
+TEXT: #Continuum and a focus on Enterprise might save #WindowsPhone. #windows10 #lumia 
 
 USER: Win10life
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: teddystiles
 DATE: 2015-10-08
-TEXT: RT @MoaskeFoto: Oh well, hello there @TweetiumWindows 4.0 Universal Windows Platform app! :-) #windows10 #tweetium #awesome http://t.co/kYP?
+TEXT: RT @MoaskeFoto: Oh well, hello there @TweetiumWindows 4.0 Universal Windows Platform app! :-) #windows10 #tweetium #awesome 
 
 USER: mike_marable
 DATE: 2015-10-08
-TEXT: RT @SCCMentor: Hallelujah!! http://t.co/PCyfpoXbQB VM's back. #Windows10 - Build 10547
+TEXT: RT @SCCMentor: Hallelujah!!  VM's back. #Windows10 - Build 10547
 
 USER: kingofcanoe
 DATE: 2015-10-08
@@ -425,20 +408,19 @@ TEXT: RT @DavideZordan: Latest #Windows10 mobile build looks very good: used tod
 
 USER: MICROSOFT_USAF
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: CEEKTechnology
 DATE: 2015-10-08
 TEXT: #TY @TheHackersNews TIP ? Unlock #Windows10 260+ Hidden Settings with God Mode.
- http://t.co/yPwOmWV71E
-
+ 
 USER: OfficialTrace09
 DATE: 2015-10-08
-TEXT: #MissedThis? Microsoft Announces Windows 10 - Take http://t.co/JtJDyAc87B #microsoft #mobile #operatingsystem #os #pc #windows #windows10
+TEXT: #MissedThis? Microsoft Announces Windows 10 - Take  #microsoft #mobile #operatingsystem #os #pc #windows #windows10
 
 USER: yogaretnam
 DATE: 2015-10-08
-TEXT: Lumia 950 and 950 XL hands-on: Windows Phone is back http://t.co/rC8z20Gejw #windows10 #lumia950 #microsoft
+TEXT: Lumia 950 and 950 XL hands-on: Windows Phone is back  #windows10 #lumia950 #microsoft
 
 USER: beshannonphotos
 DATE: 2015-10-08
@@ -450,7 +432,7 @@ TEXT: A long process, but I have to say #Windows10 is dope.
 
 USER: Abhishek_PC
 DATE: 2015-10-08
-TEXT: RT @dailylinuxuser: An Everyday Linux User Review Of Microsoft #Windows 10 http://t.co/q0gLH8IPX4 #Linux #reviews #windows10
+TEXT: RT @dailylinuxuser: An Everyday Linux User Review Of Microsoft #Windows 10  #Linux #reviews #windows10
 
 USER: H_Y_Clayton
 DATE: 2015-10-08
@@ -458,19 +440,19 @@ TEXT: Stand by for the second attempt with #Windows10 on my desktop!
 
 USER: Windows10Info
 DATE: 2015-10-08
-TEXT: Microsoft's CEO shared a surprising motive for Windows phones? coolest feature http://t.co/FRmpt1C7rr http://t.co/G5Wr2rFZJe
+TEXT: Microsoft's CEO shared a surprising motive for Windows phones? coolest feature  
 
 USER: raspen0
 DATE: 2015-10-08
-TEXT: RT @CrucialMemory: Do you know how to enter @Windows10 Safe Mode? Now you can: http://t.co/IYu61TA9bq @LincolnSpector
+TEXT: RT @CrucialMemory: Do you know how to enter @Windows10 Safe Mode? Now you can:  @LincolnSpector
 
 USER: drenton72
 DATE: 2015-10-08
-TEXT: Some amazing new #Windows10 devices coming soon http://t.co/bT4hNOZLiF @HoloLens @windows10_news @Microsoft
+TEXT: Some amazing new #Windows10 devices coming soon  @HoloLens @windows10_news @Microsoft
 
 USER: ilfurio
 DATE: 2015-10-08
-TEXT: RT @stevedeft: How to Activate GodMode in Windows 10 http://t.co/JfSruifAU8
+TEXT: RT @stevedeft: How to Activate GodMode in Windows 10 
 
 USER: carloslonegt
 DATE: 2015-10-08
@@ -478,27 +460,27 @@ TEXT: RT @MSEmpresasLatam: #TheNewOffice Apps: Built for teamwork, Perfect for #
 
 USER: ThayneMadrid
 DATE: 2015-10-08
-TEXT: RT @designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft http://t.co/SOnLvdICRL http://t.co/Xwa?
+TEXT: RT @designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
 
 USER: CISBSC
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: bootstrapcsnyc
 DATE: 2015-10-08
-TEXT: RT @designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft http://t.co/SOnLvdICRL http://t.co/Xwa?
+TEXT: RT @designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
 
 USER: kaceti_company
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: ShirlLacsamana
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: fantomaster
 DATE: 2015-10-08
-TEXT: How to Activate GodMode in Windows 10 - http://t.co/WlMZ5PEXin
+TEXT: How to Activate GodMode in Windows 10 - 
 
 USER: tdbeadles
 DATE: 2015-10-08
@@ -506,27 +488,27 @@ TEXT: You're all invited! (#Microsoft #Windows10 #DELL #Intel #McAfee #Google #A
 
 USER: eawajioniro
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: Baytoo
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: techhelpkb
 DATE: 2015-10-08
-TEXT: Windows 10 sees people ditching IE -- but Chrome wins out, not Edge http://t.co/mJH1d4VLst via @BetaNews #IE #Chrome #Edge #Windows10
+TEXT: Windows 10 sees people ditching IE -- but Chrome wins out, not Edge  via @BetaNews #IE #Chrome #Edge #Windows10
 
 USER: Nerd_Herd_Tweet
 DATE: 2015-10-08
-TEXT: RT MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/loMkafFHHo; http://t.co/uOMqo4bghf
+TEXT: RT MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: josequinonesii
 DATE: 2015-10-08
-TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: RT @MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: jodonnel
 DATE: 2015-10-08
-TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core: http://t.co/md3gU0Qyuj http://t.co/V?
+TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
 
 USER: TPIparanormal
 DATE: 2015-10-08
@@ -534,19 +516,19 @@ TEXT: Hey guys been trying to work more on Ashmore please bare with us! Between 
 
 USER: nichepear
 DATE: 2015-10-08
-TEXT: designboom : extensive lineup of flagship #devices for #Windows10 platform unveiled by Microsoft ? http://t.co/fg5YHwtiz9
+TEXT: designboom : extensive lineup of flagship #devices for #Windows10 platform unveiled by Microsoft ? 
 
 USER: avemacorp
 DATE: 2015-10-08
-TEXT: #Windows10Mobile is coming to #Windows #Phone devices in December http://t.co/n1YNHCwjvJ @VentureBeat #Microsoft #Windows10
+TEXT: #Windows10Mobile is coming to #Windows #Phone devices in December  @VentureBeat #Microsoft #Windows10
 
 USER: MSFTnews
 DATE: 2015-10-08
-TEXT: 10 ways to win w/ #Windows10 in the classroom http://t.co/aaPtSJoPC0 http://t.co/qkO5HzDdqt
+TEXT: 10 ways to win w/ #Windows10 in the classroom  
 
 USER: Ninawa_sff4
 DATE: 2015-10-08
-TEXT: Deal of The Day : http://t.co/A3YCtrAwCk Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One ? http://t.co/2Tui5wzuqi
+TEXT: Deal of The Day :  Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One ? 
 
 USER: jimjfletcher
 DATE: 2015-10-08
@@ -554,7 +536,7 @@ TEXT: RT @GoodThings2Life: As a Microsoft and T-Mobile fan, I'd love for @JohnLe
 
 USER: designboom
 DATE: 2015-10-08
-TEXT: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft http://t.co/SOnLvdICRL http://t.co/XwanVIuBd9
+TEXT: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
 
 USER: GoodThings2Life
 DATE: 2015-10-08
@@ -562,7 +544,7 @@ TEXT: As a Microsoft and T-Mobile fan, I'd love for @JohnLegere to invite @satya
 
 USER: MedicineGeek
 DATE: 2015-10-08
-TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core: http://t.co/md3gU0Qyuj http://t.co/V?
+TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
 
 USER: trav6612
 DATE: 2015-10-08
@@ -570,54 +552,51 @@ TEXT: RT @hintbw: Work IT just asked if I would like to pilot Windows10 on my wo
 
 USER: SimonDarksideJ
 DATE: 2015-10-08
-TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core: http://t.co/md3gU0Qyuj http://t.co/V?
+TEXT: RT @msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
 
 USER: Windows10TpNews
 DATE: 2015-10-08
-TEXT: Microsoft Lumia 950 and 950 XL: Power has never been so light http://t.co/zyp5FuJJXO via @redzoneemb http://t.co/To6pGOcoIm
+TEXT: Microsoft Lumia 950 and 950 XL: Power has never been so light  via @redzoneemb 
 
 USER: TomMSFT
 DATE: 2015-10-08
-TEXT: Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show http://t.co/kySkn11wGv
+TEXT: Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show 
 
 USER: WBuzzer
 DATE: 2015-10-08
-TEXT: Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show http://t.co/nYsl3KsJXd
+TEXT: Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show 
 
 USER: XDAGarwynn
 DATE: 2015-10-08
-TEXT: RT @ORIGINPCCEO: Xbox One Wireless controllers finally coming to PC!!  So excited!!  #pcgaming #windows10 http://t.co/h5xbnScyCg
+TEXT: RT @ORIGINPCCEO: Xbox One Wireless controllers finally coming to PC!!  So excited!!  #pcgaming #windows10 
 
 USER: EnghLabs
 DATE: 2015-10-08
-TEXT: RT @programmableweb: Can Microsoft get back its Mojo with #Developers?
-http://t.co/OEJob65IHu
-
-#Windows10 http://t.co/McmKlXlGTF
+TEXT: RT @programmableweb: Can Microsoft get back its Mojo with #Developers? #Windows10 
 
 USER: mayra_str
 DATE: 2015-10-08
-TEXT: RT @HPSupport: For free tips & tricks on #Windows10, be sure to join us on #HPExpertDay on October 14th: http://t.co/75FgSauHA1
+TEXT: RT @HPSupport: For free tips & tricks on #Windows10, be sure to join us on #HPExpertDay on October 14th: 
 
 USER: Stan_Stinson
 DATE: 2015-10-08
-TEXT: Upgrading to #Windows10 ? Backup with @Carbonite 1st! http://t.co/emTHXo6qSz Don't risk losing your pictures & files! http://t.co/3hj5FN6F6j
+TEXT: Upgrading to #Windows10 ? Backup with @Carbonite 1st!  Don't risk losing your pictures & files! 
 
 USER: ocean_bluEyes
 DATE: 2015-10-08
-TEXT: Free #Windows10 training in #YYC http://t.co/dPCSAIwo9n  https://t.co/JOjuURdiOC
+TEXT: Free #Windows10 training in #YYC   
 
 USER: saisharma99
 DATE: 2015-10-08
-TEXT: RT @msretail: .@HP Offers Premium #Windows10 PCs for the World http://t.co/c1CWyiW6QY http://t.co/SNmzMz4Na8
+TEXT: RT @msretail: .@HP Offers Premium #Windows10 PCs for the World  
 
 USER: zsattler
 DATE: 2015-10-08
-TEXT: RT @NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" - http://t.co/xidhIlX3ZG #ConfigMgr #SCCM #Windows10 #MDT
+TEXT: RT @NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" -  #ConfigMgr #SCCM #Windows10 #MDT
 
 USER: TechieSense
 DATE: 2015-10-08
-TEXT: Have you seen our list of new features that you just might not know about in #Windows10? http://t.co/REULrgHqy5 http://t.co/IO4L2LmLkj
+TEXT: Have you seen our list of new features that you just might not know about in #Windows10?  
 
 USER: PrincetonBrooke
 DATE: 2015-10-11
@@ -625,41 +604,39 @@ TEXT: Testing this #MicrosoftEdge #Windows10 #WebNotes on No. 7 LSU too much for
 
 USER: OIGEL
 DATE: 2015-10-11
-TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso... http://t.co/gPucZhIXPw #microsoft #Windows
+TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso...  #microsoft #Windows
 
 USER: kurtsh
 DATE: 2015-10-11
-TEXT: RT @MichaelGillett: Some new #Windows10 wallpapers. Download from http://t.co/lCyMpOxPLI #Windows10Devices http://t.co/xHcZJsETdv
+TEXT: RT @MichaelGillett: Some new #Windows10 wallpapers. Download from  #Windows10Devices 
 
 USER: marlon_alcides
 DATE: 2015-10-11
-TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial: http://t.co/jFrEUT25bL?#UWP http://t.co/7QPdtLeK?
+TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
 
 USER: Kaidinn
 DATE: 2015-10-11
-TEXT: Microsoft is downloading #Windows10 to your machine 'just in case' http://t.co/0NQvmrV9A3 #opnewblood #yand
+TEXT: Microsoft is downloading #Windows10 to your machine 'just in case'  #opnewblood #yand
 
 USER: pacojour
 DATE: 2015-10-11
-TEXT: RT @Lumia: The Office in your pocket with #Windows10. Learn more: http://t.co/06Co9DeCq5 http://t.co/91dnbqXLli
+TEXT: RT @Lumia: The Office in your pocket with #Windows10. Learn more:  
 
 USER: SheikhHassanCD
 DATE: 2015-10-11
-TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10 http://t.co/bwh5SuQfTA RT & share! http://t.co/?
+TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
 
 USER: MabsStudio
 DATE: 2015-10-11
-TEXT: RT @Asurion: #Windows10 mobile rollout begins December 2015
-http://t.co/pfPKPijo0f
-#OS http://t.co/x26MCGPIat
+TEXT: RT @Asurion: #Windows10 mobile rollout begins December 2015 #OS 
 
 USER: UTexJim
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: Kaidinn
 DATE: 2015-10-11
-TEXT: Microsoft is downloading #Windows10 to PCs, even if you don?t ?reserve? a copy http://t.co/1CusKwPBOa #opnewblood #yand
+TEXT: Microsoft is downloading #Windows10 to PCs, even if you don?t ?reserve? a copy  #opnewblood #yand
 
 USER: amsimes
 DATE: 2015-10-11
@@ -667,39 +644,39 @@ TEXT: Windows 10 is a glossy pile of shit.Choose any other option! #Microsoft #W
 
 USER: harishchand314
 DATE: 2015-10-11
-TEXT: RT @CsharpCorner: How To Reset and Create a New PIN in #Windows10 by @BgGaur CC @CsharpCorner http://t.co/mURNARlIg8 http://t.co/b6UXLNtkS8
+TEXT: RT @CsharpCorner: How To Reset and Create a New PIN in #Windows10 by @BgGaur CC @CsharpCorner  
 
 USER: Kaidinn
 DATE: 2015-10-11
-TEXT: #Windows10 Worst Features Installed On Windows 7 And Windows 8 - Twice  http://t.co/aF5twuTKuc #opnewblood #yand
+TEXT: #Windows10 Worst Features Installed On Windows 7 And Windows 8 - Twice   #opnewblood #yand
 
 USER: shopl
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: Aakash006sharma
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: OIGEL
 DATE: 2015-10-11
-TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with... http://t.co/gPucZhIXPw - #Microsoft
+TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with...  - #Microsoft
 
 USER: lumiafanclub
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: FungkyTweets
 DATE: 2015-10-11
-TEXT: Windows 10, been fine for the last 3 weeks since install,  fine yesterday,  today... #windows10sadface #windows10 http://t.co/JBe53jQxUJ
+TEXT: Windows 10, been fine for the last 3 weeks since install,  fine yesterday,  today... #windows10sadface #windows10 
 
 USER: darkdoor
 DATE: 2015-10-11
-TEXT: #Microsoft to Kill the #ControlPanel in Future #Windows10 Builds http://t.co/yQHOS4mDth
+TEXT: #Microsoft to Kill the #ControlPanel in Future #Windows10 Builds 
 
 USER: JoDeMoscovaki
 DATE: 2015-10-11
-TEXT: #Windows10 on #XboxOne: What it really means for gamers http://t.co/UK6sGlDndf
+TEXT: #Windows10 on #XboxOne: What it really means for gamers 
 
 USER: sumitkm
 DATE: 2015-10-11
@@ -707,11 +684,11 @@ TEXT: Well then... it happened! "Billion minus 2" #windows10
 
 USER: jay53102
 DATE: 2015-10-11
-TEXT: Microsoft Edge Web Notes on jj watt - Bing Images..... #windows10 http://t.co/dWY61aG0kg
+TEXT: Microsoft Edge Web Notes on jj watt - Bing Images..... #windows10 
 
 USER: nashfrias
 DATE: 2015-10-11
-TEXT: The Microsoft Surface Pro 4 & Surface Book http://t.co/uousaz6gpT #microsoft #surfacepro4 #surface #surfacebook #windows10 #laptop #tablet
+TEXT: The Microsoft Surface Pro 4 & Surface Book  #microsoft #surfacepro4 #surface #surfacebook #windows10 #laptop #tablet
 
 USER: knight_pjc
 DATE: 2015-10-11
@@ -719,7 +696,7 @@ TEXT: @RobertsSpaceInd Hi, looking at Squadron42 pre-order page, some feedback -
 
 USER: JPinleyBorek
 DATE: 2015-10-11
-TEXT: I just downloaded Windows10.  I'm not sure what I think of it.  It won't let me scroll on my laptop like it used... http://t.co/r1bWrPYFBp
+TEXT: I just downloaded Windows10.  I'm not sure what I think of it.  It won't let me scroll on my laptop like it used... 
 
 USER: stephen_victor
 DATE: 2015-10-11
@@ -731,7 +708,7 @@ TEXT: @XboxSupport on the @Xboxone it's hard to tell which item is selected with
 
 USER: 143Regineforevs
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: stephen_victor
 DATE: 2015-10-11
@@ -739,11 +716,11 @@ TEXT: The #Lumia830 I got from CL came with #Windows10 Mobile. Great improvement
 
 USER: stevegereb
 DATE: 2015-10-11
-TEXT: #Windows10 is poised to bring the Internet of Things to its full potential - http://t.co/FlqRfCwBWJ
+TEXT: #Windows10 is poised to bring the Internet of Things to its full potential - 
 
 USER: OIGEL
 DATE: 2015-10-11
-TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments o... http://t.co/V3MQAjE8YC - #Windows
+TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments o...  - #Windows
 
 USER: getwired
 DATE: 2015-10-11
@@ -763,19 +740,19 @@ TEXT: May have been a mistake to take the #Windows10 Insider Preview fast track.
 
 USER: Darthgreg78
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: windevsdotnet
 DATE: 2015-10-11
-TEXT: Here's a great new #Windows10 learning resource from @ch9 and @bobtabor http://t.co/xVpZGqixtq ... Windows 10 for Absolute Beginners
+TEXT: Here's a great new #Windows10 learning resource from @ch9 and @bobtabor  ... Windows 10 for Absolute Beginners
 
 USER: snoopy6602
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: Mark_Northall
 DATE: 2015-10-11
-TEXT: RT @pcmobilerepair: 14 reasons not to update to #windows10 http://t.co/Nd9bWIVbJp
+TEXT: RT @pcmobilerepair: 14 reasons not to update to #windows10 
 
 USER: Spatacoli
 DATE: 2015-10-11
@@ -783,35 +760,31 @@ TEXT: Is there anyway to turn off those annoying "try Office for One Month Free"
 
 USER: manojrajput23
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: Rana_48re
 DATE: 2015-10-11
-TEXT: Check out this Deal > http://t.co/4Z7NoN0ZQ2 #4920 Nvidia Quadro NVS 510 2GB Quad DisplayPort DVI Windows10 PCI-E? http://t.co/9KvZ7pGYcs
+TEXT: Check out this Deal >  #4920 Nvidia Quadro NVS 510 2GB Quad DisplayPort DVI Windows10 PCI-E? 
 
 USER: JudaZuk
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: justreadout
 DATE: 2015-10-11
-TEXT: Boost your PC's speed using a pen drive
-#WindowsInsiders  #Windows10 #Microsoft
-http://t.co/OhwPjWH0QH
+TEXT: Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
 
 USER: justreadout
 DATE: 2015-10-11
-TEXT: Create custom shortcut for any app on Windows PC 
-#Windows10 #Microsoft #microsoftventures 
-http://t.co/nndXwq4Uxk
+TEXT: Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
 
 USER: 835s0t
 DATE: 2015-10-11
-TEXT: Read my stylus: the @HP  x2 with #Windows10 is a perfect 10 #BendTheRules (Vine by @Jason23Nash) https://t.co/itnvJFJPaw
+TEXT: Read my stylus: the @HP  x2 with #Windows10 is a perfect 10 #BendTheRules (Vine by @Jason23Nash) 
 
 USER: marcodalpino
 DATE: 2015-10-11
-TEXT: RT @LocalJoost: "#Windows10 maps part 6 - scenes and camera" http://t.co/PxehDsZw1H #UWP #wpdev #wpnl
+TEXT: RT @LocalJoost: "#Windows10 maps part 6 - scenes and camera"  #UWP #wpdev #wpnl
 
 USER: GiftedPrude
 DATE: 2015-10-11
@@ -819,79 +792,79 @@ TEXT: Disk check w/ repair hangs on two separate machines at 10% & 11% respectiv
 
 USER: MahmoodTolba
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: choubeychandan
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: zamiruddin
 DATE: 2015-10-11
-TEXT: #Microsoft forced me to upgrade to #Windows10.. was unable to change tonight's scheduled update. With? https://t.co/GrfnJPHHMB
+TEXT: #Microsoft forced me to upgrade to #Windows10.. was unable to change tonight's scheduled update. With? 
 
 USER: sriramaa
 DATE: 2015-10-11
-TEXT: #HPSpectre x2 hands-on: A 4G homage to #Surface #Windows10 http://t.co/H0lDe7Jz5L
+TEXT: #HPSpectre x2 hands-on: A 4G homage to #Surface #Windows10 
 
 USER: digiscopeonline
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: nayanikap
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: MamaBearCoach68
 DATE: 2015-10-11
-TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: RT @LumiaUS: The Office in your pocket with #Windows10. Learn more:  
 
 USER: prettyconfusd
 DATE: 2015-10-11
-TEXT: #Microsoft's 'you are the hub' #Windows10 #strategy is about us and here is why it matters. http://t.co/Pug6lRTxlN
+TEXT: #Microsoft's 'you are the hub' #Windows10 #strategy is about us and here is why it matters. 
 
 USER: techhelpkb
 DATE: 2015-10-11
-TEXT: Did Microsoft's Windows 10 Mobile Gain Alphabet Inc's Blessing? http://t.co/qOlmZcBXXM #Windows10 #Alphabet
+TEXT: Did Microsoft's Windows 10 Mobile Gain Alphabet Inc's Blessing?  #Windows10 #Alphabet
 
 USER: LumiaUS
 DATE: 2015-10-11
-TEXT: The Office in your pocket with #Windows10. Learn more: http://t.co/wmV5ZDG22B http://t.co/3OijHmeHlR
+TEXT: The Office in your pocket with #Windows10. Learn more:  
 
 USER: Eshbaugh
 DATE: 2015-10-11
-TEXT: @Microsoft has returned to it's multi-os roots.  Free #Windows10 #VirtualMachine that run on #Linux and #Mac https://t.co/6Huf2TU4I0
+TEXT: @Microsoft has returned to it's multi-os roots.  Free #Windows10 #VirtualMachine that run on #Linux and #Mac 
 
 USER: ChristianInst
 DATE: 2015-10-11
-TEXT: RT @SammyGikonyo: I?m ready for #Windows10. Are you? Wear the badge and show the love. http://t.co/y3qHnwJpPV http://t.co/sLijpnDHQW
+TEXT: RT @SammyGikonyo: I?m ready for #Windows10. Are you? Wear the badge and show the love.  
 
 USER: ELIZABETHLIZA16
 DATE: 2015-10-11
-TEXT: RT @goodsolitaire: Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ?? http://t.co/xcMhZrwvUy #windows10 http://t.co/?
+TEXT: RT @goodsolitaire: Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
 
 USER: TheJackah
 DATE: 2015-10-11
-TEXT: RT @VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know http://t.co/v9lRveV5h2 http://t.?
+TEXT: RT @VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know  
 
 USER: goodsolitaire
 DATE: 2015-10-11
-TEXT: Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ?? http://t.co/xcMhZrwvUy #windows10 http://t.co/b9Jynihddj
+TEXT: Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
 
 USER: BigJayLittle
 DATE: 2015-10-11
-TEXT: Oh the irony: PC shipments are down because #Microsoft made it easier for people to upgrade to #Windows10 http://t.co/d588bbfrzi
+TEXT: Oh the irony: PC shipments are down because #Microsoft made it easier for people to upgrade to #Windows10 
 
 USER: techie_ta
 DATE: 2015-10-11
-TEXT: @Windows @WindowsSupport tried to upgrade to #windows10 and this happened http://t.co/wcGkVyowsp
+TEXT: @Windows @WindowsSupport tried to upgrade to #windows10 and this happened 
 
 USER: madmaxtr
 DATE: 2015-10-11
-TEXT: Windows 10 : Windows 10 Servicing Branches http://t.co/qSI5fAp9ES
+TEXT: Windows 10 : Windows 10 Servicing Branches 
 
 USER: FixWindows10
 DATE: 2015-10-11
-TEXT: Windows 10 How-To: Xbox on Windows http://t.co/cvGlMUxdsc #windows10
+TEXT: Windows 10 How-To: Xbox on Windows  #windows10
 
 USER: alexanderoldham
 DATE: 2015-10-11
@@ -899,15 +872,15 @@ TEXT: @Microsoft @Windows Very unhappy. Was looking forward to #Windows10, but i
 
 USER: startech20
 DATE: 2015-10-11
-TEXT: RT @Windows: .@Dell amplifies the power of #Windows10 with incredible new machines: http://t.co/XrZcRoUJ9a #Windows10devices http://t.co/jm?
+TEXT: RT @Windows: .@Dell amplifies the power of #Windows10 with incredible new machines:  #Windows10devices 
 
 USER: AFourTech
 DATE: 2015-10-11
-TEXT: #Windows10: Important Updates You Shouldn?t be Missing Out #MicrosoftWindows http://t.co/c5KoKQk2EL http://t.co/oog7Nuk8A8
+TEXT: #Windows10: Important Updates You Shouldn?t be Missing Out #MicrosoftWindows  
 
 USER: Kickingseven
 DATE: 2015-10-11
-TEXT: RT @WindowsSupport: Having an audio issue on your #Windows10 device? Check out this video: http://t.co/Svzkr2lwyM!
+TEXT: RT @WindowsSupport: Having an audio issue on your #Windows10 device? Check out this video: 
 
 USER: mrko_84
 DATE: 2015-10-11
@@ -915,23 +888,23 @@ TEXT: Does #Windows10 still suck or am I good to upgrade now? Anyone?
 
 USER: StevenGrondell
 DATE: 2015-10-11
-TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules https://t.co/AKMiFFlNxn
+TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
 
 USER: brianbeckham
 DATE: 2015-10-11
-TEXT: RT @BrainJocks: Learn how to resolve an issue with #Sitecore's language resolution on #Windows10 on the newest jockstothecore post: http://?
+TEXT: RT @BrainJocks: Learn how to resolve an issue with #Sitecore's language resolution on #Windows10 on the newest jockstothecore post: 
 
 USER: OIGEL
 DATE: 2015-10-11
-TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments ov... http://t.co/V3MQAjE8YC - #iPhone
+TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments ov...  - #iPhone
 
 USER: carlesdijous
 DATE: 2015-10-11
-TEXT: 4 Free Internet Tools For #Windows10. http://t.co/LoTrvF2JFB #apps #IP #network #speed
+TEXT: 4 Free Internet Tools For #Windows10.  #apps #IP #network #speed
 
 USER: darkdoor
 DATE: 2015-10-11
-TEXT: #Windows10 #ADK: New features and deployment - 4sysops http://t.co/Yp8knEzyI5
+TEXT: #Windows10 #ADK: New features and deployment - 4sysops 
 
 USER: TchTlkYT
 DATE: 2015-10-11
@@ -943,77 +916,67 @@ TEXT: I think Microsoft's new strategy is to annoy me into upgrading to Windows1
 
 USER: Windows10TpNews
 DATE: 2015-10-11
-TEXT: Microsoft's 'you are the hub' Windows 10 strategy is about us and here... http://t.co/cCMfzMdO3v via @windowscentral http://t.co/mTRpbohZE1
+TEXT: Microsoft's 'you are the hub' Windows 10 strategy is about us and here...  via @windowscentral 
 
 USER: OIGEL
 DATE: 2015-10-11
-TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments... http://t.co/V3MQAjE8YC - #Microsoft
+TEXT: #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments...  - #Microsoft
 
 USER: darkdoor
 DATE: 2015-10-11
-TEXT: #Windows10 Device Bonanza, #Lumia Struggle: #Microsoft Roundup - InformationWeek http://t.co/QDSavAL2wD
+TEXT: #Windows10 Device Bonanza, #Lumia Struggle: #Microsoft Roundup - InformationWeek 
 
 USER: RickBudar
 DATE: 2015-10-11
-TEXT: RT @WBuzzer: Uber integration for #Cortana shows up on #Windows10, doesn?t work yet though http://t.co/LDiy6jJ2Yh http://t.co/Rq1gHHG2Kb
+TEXT: RT @WBuzzer: Uber integration for #Cortana shows up on #Windows10, doesn?t work yet though  
 
 USER: Windows8point1
 DATE: 2015-10-11
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: burstload
 DATE: 2015-10-11
-TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules https://t.co/AKMiFFlNxn
+TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
 
 USER: robertoblake
 DATE: 2015-10-11
-TEXT: My thoughts on #Windows10 vs #Mac OSX
-http://t.co/bhTJYzMy8P
-
-#MacVsPC #Tech
+TEXT: My thoughts on #Windows10 vs #Mac OSX #MacVsPC #Tech
 
 USER: Gtaro007
 DATE: 2015-10-11
-TEXT: RT @MSFT_on_Reddit: No updates or new apps from the store are installing http://t.co/hG74YbNee0
-
-submitted by unknownman19 to Windows10[lin?
+TEXT: RT @MSFT_on_Reddit: No updates or new apps from the store are installing submitted by unknownman19 to Windows10[lin?
 
 USER: tremonta
 DATE: 2015-10-11
-TEXT: RT @HPSupport: Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: http://t.co/75FgSauHA1
+TEXT: RT @HPSupport: Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: 
 
 USER: zsmahi
 DATE: 2015-10-11
-TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10 http://t.co/bwh5SuQfTA RT & share! http://t.co/?
+TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
 
 USER: ajaykumarsingh
 DATE: 2015-10-11
-TEXT: Windows 10: Critical Error ? Start menu and Cortana aren?t working problem Solved #Windows10 http://t.co/nps3BbGzsC
+TEXT: Windows 10: Critical Error ? Start menu and Cortana aren?t working problem Solved #Windows10 
 
 USER: _Ashbasher
 DATE: 2015-10-11
-TEXT: Cannot wait to have this running on my MBP alongside El Capitan... #Windows10 #ElCapitan #Mac? https://t.co/03Jph1jhGI
+TEXT: Cannot wait to have this running on my MBP alongside El Capitan... #Windows10 #ElCapitan #Mac? 
 
 USER: HPSupport
 DATE: 2015-10-11
-TEXT: Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: http://t.co/75FgSauHA1
+TEXT: Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: 
 
 USER: _Ashbasher
 DATE: 2015-10-11
-TEXT: Macdows. 
-The best of both worlds. 
-
-#Mac #Windows #Macdows #OSXElCapitan #Windows10 #ParalellsDesktop11 https://t.co/RTbAD3NnMB
+TEXT: Macdows. The best of both worlds. #Mac #Windows #Macdows #OSXElCapitan #Windows10 #ParalellsDesktop11 
 
 USER: MailFreeStuff
 DATE: 2015-10-11
-TEXT: RT @windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users: http://t.co/mHcQeMlaaE http://t.co/vy3o?
+TEXT: RT @windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users:  
 
 USER: MSFT_on_Reddit
 DATE: 2015-10-10
-TEXT: No updates or new apps from the store are installing http://t.co/hG74YbNee0
-
-submitted by unknownman19 to Windows10[link] [12 comments]
+TEXT: No updates or new apps from the store are installing submitted by unknownman19 to Windows10[link] [12 comments]
 
 USER: SheltonLSmith
 DATE: 2015-10-10
@@ -1021,24 +984,23 @@ TEXT: The hate I have for #Windows10... I don't think anybody will understand, n
 
 USER: thewinthusiast
 DATE: 2015-10-10
-TEXT: regram windows
-We declare today Unofficial #Windows10 Day - now go out and #DoGreatThings. https://t.co/79FpPaHSKg
+TEXT: regram windows We declare today Unofficial #Windows10 Day - now go out and #DoGreatThings. 
 
 USER: infonyourmark
 DATE: 2015-10-10
-TEXT: #Microsoft #Hololens demo at #Windows10 devices event https://t.co/ANJtIQ9mA4 via @YouTube
+TEXT: #Microsoft #Hololens demo at #Windows10 devices event  via @YouTube
 
 USER: OIGEL
 DATE: 2015-10-10
-TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso... http://t.co/gPucZhIXPw #microsoft #Windows
+TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso...  #microsoft #Windows
 
 USER: AnnWalthour
 DATE: 2015-10-10
-TEXT: RT @goodsolitaire: New #Windows10 Build for PCs Not Yet Ready http://t.co/NtKC17EtZO via @bgdftw
+TEXT: RT @goodsolitaire: New #Windows10 Build for PCs Not Yet Ready  via @bgdftw
 
 USER: aalzah66
 DATE: 2015-10-10
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: ralabanza
 DATE: 2015-10-10
@@ -1050,15 +1012,15 @@ TEXT: Does anybody actually use #Windows10 mail? It's so horrible..
 
 USER: johnwhalvin
 DATE: 2015-10-10
-TEXT: So it begins #Windows10 http://t.co/QEhS3yW39q
+TEXT: So it begins #Windows10 
 
 USER: Jamie2927
 DATE: 2015-10-10
-TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules https://t.co/AKMiFFlNxn
+TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
 
 USER: Windows10Info
 DATE: 2015-10-10
-TEXT: I'm back!! Set-Up Video :) #Playstation3 #EmersonKaraoke #Tokyo #MicrosoftWindows #HTC... http://t.co/M0eBI61SJf http://t.co/KcuTIIUxVT
+TEXT: I'm back!! Set-Up Video :) #Playstation3 #EmersonKaraoke #Tokyo #MicrosoftWindows #HTC...  
 
 USER: johnwhalvin
 DATE: 2015-10-10
@@ -1074,9 +1036,7 @@ TEXT: RT @TheWebrocker: Every version of #Windows after XP sucks horribly, then 
 
 USER: MSFT_on_Reddit
 DATE: 2015-10-10
-TEXT: In-depth Web browser testing shows Edge to offer excellent performance, but lacking standards compliance http://t.co/WuaiFOmmq9
-
-submitte?
+TEXT: In-depth Web browser testing shows Edge to offer excellent performance, but lacking standards compliance submitte?
 
 USER: tomi01uk
 DATE: 2015-10-10
@@ -1084,11 +1044,11 @@ TEXT: RT @Rixalabur: Amazing on how many levels #windows10 still sucks as a UI. 
 
 USER: jibranjamshad
 DATE: 2015-10-10
-TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10 http://t.co/bwh5SuQfTA RT & share! http://t.co/?
+TEXT: RT @msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
 
 USER: zealacedigitals
 DATE: 2015-10-10
-TEXT: " New #Windows10 Build for PCs Not Yet Ready http://t.co/2HHv7UOsLi via @bgdftw"
+TEXT: " New #Windows10 Build for PCs Not Yet Ready  via @bgdftw"
 
 USER: TheMilesCollins
 DATE: 2015-10-10
@@ -1096,7 +1056,7 @@ TEXT: I hope to see the day #Windows10 finally downloads before I die. I am fort
 
 USER: baggyem
 DATE: 2015-10-10
-TEXT: 3rd time lucky #Windows10 http://t.co/ywV3Jtd13u
+TEXT: 3rd time lucky #Windows10 
 
 USER: FibroJedi
 DATE: 2015-10-10
@@ -1108,11 +1068,11 @@ TEXT: Ouch. #windows10 just crashed...had to hard-boot.
 
 USER: goodsolitaire
 DATE: 2015-10-10
-TEXT: New #Windows10 Build for PCs Not Yet Ready http://t.co/NtKC17EtZO via @bgdftw
+TEXT: New #Windows10 Build for PCs Not Yet Ready  via @bgdftw
 
 USER: thehacking3112
 DATE: 2015-10-10
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: Cassius335
 DATE: 2015-10-10
@@ -1120,15 +1080,15 @@ TEXT: If #Windows10 Drivers could become available for my formerly Windows 8.1 m
 
 USER: StormCloudUSA
 DATE: 2015-10-10
-TEXT: RT @Office365: Say hello to #TheNewOffice on #Windows10! Instantly log into your PC and Office. Learn more: http://t.co/XS9p7P4GJM http://t?
+TEXT: RT @Office365: Say hello to #TheNewOffice on #Windows10! Instantly log into your PC and Office. Learn more:  
 
 USER: OIGEL
 DATE: 2015-10-10
-TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with... http://t.co/gPucZhIXPw / #microsoft
+TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with...  / #microsoft
 
 USER: YoubidderJarvis
 DATE: 2015-10-10
-TEXT: Ebay Bid Last Second RT? http://t.co/YIqD7H9P6q Asus Zenbook Ux31e 13.3",windows10 Installed, Ssd 256gb,intel I5-2557m  4gb  ?Please
+TEXT: Ebay Bid Last Second RT?  Asus Zenbook Ux31e 13.3",windows10 Installed, Ssd 256gb,intel I5-2557m  4gb  ?Please
 
 USER: Tch_Tlk
 DATE: 2015-10-10
@@ -1140,7 +1100,7 @@ TEXT: I just lost all 3 years worth of photographs in my #windows10 system. Who 
 
 USER: kubernan
 DATE: 2015-10-10
-TEXT: Surface Pro 4 #WindowsCube #Windows10 http://t.co/renDr9ELUO
+TEXT: Surface Pro 4 #WindowsCube #Windows10 
 
 USER: ApplesYQD
 DATE: 2015-10-10
@@ -1152,11 +1112,11 @@ TEXT: @RVsupport when I try to play the video tutorials within propresenter5 it 
 
 USER: dougwilson
 DATE: 2015-10-10
-TEXT: Does anyone still Boot to VHD?  Can you do it with #Windows10 on a #MacBookPro and Boot Camp? http://t.co/stRpIqxss0 @shanselman
+TEXT: Does anyone still Boot to VHD?  Can you do it with #Windows10 on a #MacBookPro and Boot Camp?  @shanselman
 
 USER: kubernan
 DATE: 2015-10-10
-TEXT: Windows Phone Hubs #WindowsCube #Windows10 http://t.co/0wQWTBQBTw
+TEXT: Windows Phone Hubs #WindowsCube #Windows10 
 
 USER: Immavmav
 DATE: 2015-10-10
@@ -1164,31 +1124,31 @@ TEXT: Windows10
 
 USER: pdparisi
 DATE: 2015-10-10
-TEXT: How To: Fix the Excel File Slow-to-Open Bug in Windows 10 http://t.co/Rj2BRompO3 #Windows10 #Excel http://t.co/VcIPSAaPSx
+TEXT: How To: Fix the Excel File Slow-to-Open Bug in Windows 10  #Windows10 #Excel 
 
 USER: bryanporte
 DATE: 2015-10-10
-TEXT: RT @windowsdev: Test your app yourself with the #Windows10 App Certification Kit before you submit. Go here: http://t.co/Xj8ne0V8rL http://?
+TEXT: RT @windowsdev: Test your app yourself with the #Windows10 App Certification Kit before you submit. Go here:  
 
 USER: bryanporte
 DATE: 2015-10-10
-TEXT: RT @windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users: http://t.co/mHcQeMlaaE http://t.co/vy3o?
+TEXT: RT @windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users:  
 
 USER: bryanporte
 DATE: 2015-10-10
-TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial: http://t.co/jFrEUT25bL?#UWP http://t.co/7QPdtLeK?
+TEXT: RT @windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
 
 USER: exanimis
 DATE: 2015-10-10
-TEXT: RT @MSLearning: Devs: Want to get #Windows10 Certified? Learn about the new MCSD: Universal Windows Platform: http://t.co/wgPwFE1z7d http:/?
+TEXT: RT @MSLearning: Devs: Want to get #Windows10 Certified? Learn about the new MCSD: Universal Windows Platform:  
 
 USER: juanpaixa
 DATE: 2015-10-10
-TEXT: RT @MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10 http://t.co/j1PI5azr6A http://t.co/VQg1F5ezPX
+TEXT: RT @MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10  
 
 USER: MCHerbieD
 DATE: 2015-10-10
-TEXT: Finally to #Windows10. http://t.co/3RzVN9XIxh
+TEXT: Finally to #Windows10. 
 
 USER: FuriousRad
 DATE: 2015-10-10
@@ -1196,19 +1156,19 @@ TEXT: The new #Microsoft Surface looks amazing! Bravo Microsoft! #Windows10 #Sur
 
 USER: paidsupportinc
 DATE: 2015-10-10
-TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft - http://t.co/mRgqCgDk89 http://t.co/N4jd8uJPue
+TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
 
 USER: JGAITPro
 DATE: 2015-10-10
-TEXT: RT @MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10 http://t.co/j1PI5azr6A http://t.co/VQg1F5ezPX
+TEXT: RT @MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10  
 
 USER: Fleischyy
 DATE: 2015-10-10
-TEXT: RT @VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know http://t.co/v9lRveV5h2 http://t.?
+TEXT: RT @VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know  
 
 USER: jeffrostwit
 DATE: 2015-10-10
-TEXT: RT @bertha_dyer: Microsoft Windows 10 Review http://t.co/zZBJiw4d6S #Windows #Windows10 (via @TechLilaBlog)
+TEXT: RT @bertha_dyer: Microsoft Windows 10 Review  #Windows #Windows10 (via @TechLilaBlog)
 
 USER: honesgirl
 DATE: 2015-10-10
@@ -1220,33 +1180,31 @@ TEXT: Been playing #Asphalt8 on #Windows10 just time iv been on my pc for enjoym
 
 USER: Damian_Garcia28
 DATE: 2015-10-10
-TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules https://t.co/AKMiFFlNxn
+TEXT: RT @JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
 
 USER: SgtLukeThornton
 DATE: 2015-10-10
-TEXT: How to Activate GodMode in Windows 10 http://t.co/nrlpRWyLgB via @TheHackersNews #Security #Windows10
+TEXT: How to Activate GodMode in Windows 10  via @TheHackersNews #Security #Windows10
 
 USER: MCPA_StLouis
 DATE: 2015-10-10
-TEXT: How to Activate GodMode in Windows 10 http://t.co/cQDf2eoBQK via @TheHackersNews #Security #Windows10
+TEXT: How to Activate GodMode in Windows 10  via @TheHackersNews #Security #Windows10
 
 USER: OIGEL
 DATE: 2015-10-10
-TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the consol... http://t.co/gPucZhIXPw #gplus #Googleplus
+TEXT: #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the consol...  #gplus #Googleplus
 
 USER: REBailey_99
 DATE: 2015-10-10
-TEXT: RT @Kriti_Kapoor: Need help with #Windows10? Join #HPExpertDay | October 14th, 7am to 7pm PT | http://t.co/1zBBr636sD  #custserv http://t.c?
+TEXT: RT @Kriti_Kapoor: Need help with #Windows10? Join #HPExpertDay | October 14th, 7am to 7pm PT |   #custserv 
 
 USER: abid381a
 DATE: 2015-10-13
-TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty
-@abid381a http://t.co/TC2cGud1Ha
+TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty @abid381a 
 
 USER: abid381a
 DATE: 2015-10-13
-TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty
-@abid381a http://t.co/QP4cjPO4mj
+TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty @abid381a 
 
 USER: StartupMfactory
 DATE: 2015-10-13
@@ -1254,40 +1212,35 @@ TEXT: How to activate build 10565 ? Any idea anyone? #Windows10 #Build10565 @Win
 
 USER: abid381a
 DATE: 2015-10-13
-TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty http://t.co/LtLLGkcWRv
+TEXT: #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty 
 
 USER: Jrx818
 DATE: 2015-10-13
-TEXT: Aaah #FableLegends I'm such a monster at being a villain ? and I love it.
-#XboxOne 
-#Windows10 
-@LionheadStudios
+TEXT: Aaah #FableLegends I'm such a monster at being a villain ? and I love it. #XboxOne #Windows10 @LionheadStudios
 
 USER: IncreXible
 DATE: 2015-10-13
-TEXT: .@Corsair @googlechrome @kaspersky Some threads: https://t.co/DeDi62DARY and http://t.co/TjmJjJpdWE and https://t.co/ZLTjtDnfoS
+TEXT: .@Corsair @googlechrome @kaspersky Some threads:  and  and 
 
 USER: Kemlyn_IT
 DATE: 2015-10-13
-TEXT: RT @MSMarketingTeam: The Managed Solution team enjoyed ... - http://t.co/S9qaA0SxVH #Cloud_Computing #Office365 #Windows10 http://t.co/J8J3?
+TEXT: RT @MSMarketingTeam: The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
 
 USER: Kemlyn_IT
 DATE: 2015-10-13
-TEXT: RT @CustomSys: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: http://t.co/Xp9ZxcBwC3
+TEXT: RT @CustomSys: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
 
 USER: Fernandezc4
 DATE: 2015-10-13
-TEXT: Re-Watching the Microsoft Devices Event w/ good friend @artykel & getting re-inspired. #windows10 #microsoftmondays http://t.co/3migxaJKni
+TEXT: Re-Watching the Microsoft Devices Event w/ good friend @artykel & getting re-inspired. #windows10 #microsoftmondays 
 
 USER: Windows
 DATE: 2015-10-13
-TEXT: @Mateenshkh991 Hey, there! Windows 10 Mobile will be available starting later this year. Check out the details here: http://t.co/SHiRRVlCwm
+TEXT: @Mateenshkh991 Hey, there! Windows 10 Mobile will be available starting later this year. Check out the details here: 
 
 USER: HelpMeSaveCash
 DATE: 2015-10-13
 TEXT: #Windows10 Is for #Gamers - 6 Features You Will Love 
-
-http://t.co/QUgScf0rIp http://t.co/dMmbYzB3cK
 
 USER: rubik_nolife
 DATE: 2015-10-13
@@ -1299,19 +1252,19 @@ TEXT: @Microsoft You really want the Lumia line to fail by not having multiple c
 
 USER: ajaykc
 DATE: 2015-10-13
-TEXT: I?m ready for #Windows10. Are you? Wear the badge and show the love. http://t.co/7iGCRxkk9C http://t.co/RVKxcy7ktO
+TEXT: I?m ready for #Windows10. Are you? Wear the badge and show the love.  
 
 USER: syedkami70
 DATE: 2015-10-13
-TEXT: #Microsoft's latest #Windows10 Insider build helps cure a major activation http://t.co/VYswPMFwPj -@pcworld
+TEXT: #Microsoft's latest #Windows10 Insider build helps cure a major activation  -@pcworld
 
 USER: techAU
 DATE: 2015-10-13
-TEXT: Quite like this lock screen photo on #windows10 http://t.co/5NTL1cQBvS
+TEXT: Quite like this lock screen photo on #windows10 
 
 USER: dougholland
 DATE: 2015-10-13
-TEXT: Microsoft Solitaire Collection introduces new themes on Windows 10. #windows10 http://t.co/YZnXOdTWMO
+TEXT: Microsoft Solitaire Collection introduces new themes on Windows 10. #windows10 
 
 USER: Julo431
 DATE: 2015-10-13
@@ -1319,20 +1272,19 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: jeffa36
 DATE: 2015-10-13
-TEXT: Which of these #Windows10 devices tickle your fancy? http://t.co/iEA9LT7038 http://t.co/dvIGA03R0i
+TEXT: Which of these #Windows10 devices tickle your fancy?  
 
 USER: syedkami70
 DATE: 2015-10-13
-TEXT: #Acer reveals all-in-one #Windows10 PC with 5 hour battery backup
-http://t.co/N8iLB4UKHP -@pcworld
+TEXT: #Acer reveals all-in-one #Windows10 PC with 5 hour battery backup -@pcworld
 
 USER: nettechnews
 DATE: 2015-10-13
-TEXT: TechCrunch: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements http://t.co/imVgRAEkiV
+TEXT: TechCrunch: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
 
 USER: NorNazrin1
 DATE: 2015-10-13
-TEXT: RT @Acer: Do you need a PC in your pocket? Ask for a Jade Primo #Windows10 smartphone. #AcerWin10 #Windows10devices http://t.co/rkrElQemNV
+TEXT: RT @Acer: Do you need a PC in your pocket? Ask for a Jade Primo #Windows10 smartphone. #AcerWin10 #Windows10devices 
 
 USER: wulffeld
 DATE: 2015-10-13
@@ -1340,28 +1292,23 @@ TEXT: Microsoft. What am I going to do with you? I change language on Win10 and 
 
 USER: jeffa36
 DATE: 2015-10-13
-TEXT: Get all the highlights of the latest #Windows10 devices announced http://t.co/732hzz5y4I https://t.co/KW1ZVxdzyX
+TEXT: Get all the highlights of the latest #Windows10 devices announced  
 
 USER: VampirSexKttns
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing Skype? http://t.co/BoIVMrEkK2 #Developer #TC #Windows10 #Microsoft #Amazon #technology #music
+TEXT: Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft #Amazon #technology #music
 
 USER: jeffa36
 DATE: 2015-10-13
-TEXT: Have you checked out all the latest #Windows10 #devices announced last week? http://t.co/732hzz5y4I http://t.co/Kgqgrjr0XX
+TEXT: Have you checked out all the latest #Windows10 #devices announced last week?  
 
 USER: Hackbuild
 DATE: 2015-10-13
-TEXT: RT programmableweb: Microsoft announces #ORTC #API preview 
-http://t.co/86UOi4btTA
-
-#Windows10 http://t.co/J5XSpkVVYU ?
+TEXT: RT programmableweb: Microsoft announces #ORTC #API preview #Windows10  ?
 
 USER: hawaiiinsomniac
 DATE: 2015-10-13
 TEXT: RT @AsianGeekSquad: How to take a screenshot on your #windows10 laptop:
-
-https://t.co/DjDjVtSnS6 http://t.co/4VwJYxUWOA
 
 USER: kevin7zz
 DATE: 2015-10-13
@@ -1373,17 +1320,15 @@ TEXT: @windows10 sucks it's been over two hours and my laptop ? has not
 
 USER: LoneFixer
 DATE: 2015-10-13
-TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out http://t.co/RTw2JROEUZ
+TEXT: I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
 
 USER: argosmozart
 DATE: 2015-10-13
-TEXT: RT @van_nld: How to make #Cortana search with #Google instead of #Bing in #Windows10
-via @ianpaul PCWorld
-http://t.co/wcUlRreZPR http://t.c?
+TEXT: RT @van_nld: How to make #Cortana search with #Google instead of #Bing in #Windows10 via @ianpaul PCWorld
 
 USER: jpeMEDIA
 DATE: 2015-10-13
-TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements http://t.co/ai8ITriEZy http://t.co/b9gYK6GBnc
+TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements  
 
 USER: TonyLiechty
 DATE: 2015-10-13
@@ -1391,39 +1336,39 @@ TEXT: #windows10 sucks it's been over two hours and my laptop ? has not
 
 USER: blarci
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/OIkm9v5xpS
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: AmeliaClarkey
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/XNoVlyhAjn
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: TWEETPRESSS
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/CTl25e1zpI
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: daniesther1
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/R7rAJYBbDY
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: eseprtt
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/94Q4tuTehC
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: dollarland
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/jSlEjb1mVJ
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: KelechiAmora
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/zg3lM4zEUg
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: TWEETPRESSS
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/P8KvPBU1ro
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: TWEETPRESSS
 DATE: 2015-10-13
-TEXT: How to Check If Your PC Can Run #Windows10 http://t.co/bMUOpabJSJ
+TEXT: How to Check If Your PC Can Run #Windows10 
 
 USER: GameDevBRbot
 DATE: 2015-10-13
@@ -1443,7 +1388,7 @@ TEXT: Upgrade the desktop to #Windows10
 
 USER: sirtigerhai
 DATE: 2015-10-13
-TEXT: RT @YahooTech: How to swap windows in #Windows10 with a single keystroke http://t.co/gdsWUeoGI6 by @Pogue http://t.co/PSpTjxRdY2
+TEXT: RT @YahooTech: How to swap windows in #Windows10 with a single keystroke  by @Pogue 
 
 USER: teddystiles
 DATE: 2015-10-13
@@ -1451,7 +1396,7 @@ TEXT: RT @BiGdEeAgbANi: #Windows10 insider preview build 10565 Now available to 
 
 USER: Afri90
 DATE: 2015-10-13
-TEXT: Don't wait for #Windows10 #soon [pic] ? https://t.co/2fd0HVkJMP
+TEXT: Don't wait for #Windows10 #soon [pic] ? 
 
 USER: Anasalikhan
 DATE: 2015-10-13
@@ -1459,14 +1404,11 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: Abraaovitor
 DATE: 2015-10-13
-TEXT: @EA Will @MinionsParadise be available on @windowsstore ? #Windows10 http://t.co/0cHJFI7aD1
+TEXT: @EA Will @MinionsParadise be available on @windowsstore ? #Windows10 
 
 USER: webrtcdigest
 DATE: 2015-10-13
-TEXT: RT @programmableweb: Microsoft announces #ORTC #API preview 
-http://t.co/NJDiMu2Ksz
-
-#Windows10 http://t.co/oLNLdK0DWR
+TEXT: RT @programmableweb: Microsoft announces #ORTC #API preview #Windows10 
 
 USER: liljaguar47
 DATE: 2015-10-13
@@ -1478,11 +1420,11 @@ TEXT: #Windows10 insider preview build 10565 Now available to insiders on the fa
 
 USER: aderhwang
 DATE: 2015-10-13
-TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps http://t.co/7A5ugQyP0a #wpdev #windev
+TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
 
 USER: moyinoluwa_mm
 DATE: 2015-10-13
-TEXT: Microsoft makes file transfers to Windows 10... http://t.co/IOo1hmyGI9 #Laplink #Microsoft #PCmoverExpress #UpgradeYourWorld #WINDOWS10
+TEXT: Microsoft makes file transfers to Windows 10...  #Laplink #Microsoft #PCmoverExpress #UpgradeYourWorld #WINDOWS10
 
 USER: shopl
 DATE: 2015-10-13
@@ -1490,35 +1432,35 @@ TEXT: RT @bison_42: after #windows10 upgrade you have to re-sign in and "reactiv
 
 USER: Raulex92
 DATE: 2015-10-13
-TEXT: RT @1800PocketPC: WhatsApp gets an interesting new emoji, plus improved search http://t.co/7vQkxG3Ahb #Windows10 http://t.co/CINWljPOJk
+TEXT: RT @1800PocketPC: WhatsApp gets an interesting new emoji, plus improved search  #Windows10 
 
 USER: vbstartups
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing Skype Integration,? http://t.co/yJDRPU4Lv6 #Developer #TC #Windows10 http://t.co/tokYIUXyGl
+TEXT: Microsoft Drops New Windows 10 Build Bringing Skype Integration,?  #Developer #TC #Windows10 
 
 USER: NikaPuente
 DATE: 2015-10-13
-TEXT: RT @Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more: http://t.co/sO10wEMnm5 http://t.co/owL2nFsvk8
+TEXT: RT @Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
 
 USER: paidsupportinc
 DATE: 2015-10-13
-TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft - http://t.co/mRgqCgDk89 http://t.co/ark5wTwMGr
+TEXT: NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
 
 USER: DeploymentMX
 DATE: 2015-10-13
-TEXT: RT @MSLearning: Pre-order #Windows10 training resources and get 30% off! Details: http://t.co/wGA3m522Md http://t.co/T4MuBc90s8
+TEXT: RT @MSLearning: Pre-order #Windows10 training resources and get 30% off! Details:  
 
 USER: hellomrbungle
 DATE: 2015-10-13
-TEXT: RT @Aoandosaraki: #Windows10 Build 10565: #Microsoft Edge gets support for file drag-and-drop, tab previews,? http://t.co/tx82cAJsH9 http:/?
+TEXT: RT @Aoandosaraki: #Windows10 Build 10565: #Microsoft Edge gets support for file drag-and-drop, tab previews,?  
 
 USER: DeploymentMX
 DATE: 2015-10-13
-TEXT: RT @ccmexec: I like the new Regedit icon in #Windows10 build 10565 http://t.co/zMObew5hJF
+TEXT: RT @ccmexec: I like the new Regedit icon in #Windows10 build 10565 
 
 USER: acoelho
 DATE: 2015-10-13
-TEXT: RT @Windows10Info: Windows 10 is getting a ton of new features via the Insider program http://t.co/lDDsE3lM79 http://t.co/WfsdCZZ6wg
+TEXT: RT @Windows10Info: Windows 10 is getting a ton of new features via the Insider program  
 
 USER: maxwei678
 DATE: 2015-10-13
@@ -1526,11 +1468,11 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: 1800PocketPC
 DATE: 2015-10-13
-TEXT: WhatsApp gets an interesting new emoji, plus improved search http://t.co/7vQkxG3Ahb #Windows10 http://t.co/CINWljPOJk
+TEXT: WhatsApp gets an interesting new emoji, plus improved search  #Windows10 
 
 USER: mollyfud
 DATE: 2015-10-13
-TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps http://t.co/7A5ugQyP0a #wpdev #windev
+TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
 
 USER: Abraaovitor
 DATE: 2015-10-13
@@ -1542,7 +1484,7 @@ TEXT: @trinest - I know what the Cortana settings are for Aus, they just don't w
 
 USER: carogacion
 DATE: 2015-10-13
-TEXT: RT @DellBizSA: #Windows10 ushers in a whole new era of power, performance and productivity. Learn More. http://t.co/ZhTdZ0eQXE http://t.co/?
+TEXT: RT @DellBizSA: #Windows10 ushers in a whole new era of power, performance and productivity. Learn More.  
 
 USER: MvdRebecca
 DATE: 2015-10-13
@@ -1550,7 +1492,7 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: Windows10Info
 DATE: 2015-10-13
-TEXT: Windows 10 is getting a ton of new features via the Insider program http://t.co/lDDsE3lM79 http://t.co/WfsdCZZ6wg
+TEXT: Windows 10 is getting a ton of new features via the Insider program  
 
 USER: mrchillg
 DATE: 2015-10-13
@@ -1558,11 +1500,11 @@ TEXT: to my #musipeople did upgrading to #windows10 mess up any of your older mu
 
 USER: rkeyserling
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing? http://t.co/3UIucS2FT8 #Developer #TC #Windows10 #Microsoft #Amazon http://t.co/dTUeTVIt2E
+TEXT: Microsoft Drops New Windows 10 Build Bringing?  #Developer #TC #Windows10 #Microsoft #Amazon 
 
 USER: 3rdrockhome
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing Skype? http://t.co/i2qSs3GV4W #Developer #TC #Windows10 #Microsoft http://t.co/0lyr1aMFON
+TEXT: Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft 
 
 USER: Stalsomething
 DATE: 2015-10-13
@@ -1571,8 +1513,6 @@ TEXT: Ugh. The messaging app in #Windows10 is bad. Even for a beta it's bad.
 USER: AsianGeekSquad
 DATE: 2015-10-13
 TEXT: How to take a screenshot on your #windows10 laptop:
-
-https://t.co/DjDjVtSnS6 http://t.co/4VwJYxUWOA
 
 USER: al11588
 DATE: 2015-10-13
@@ -1584,27 +1524,27 @@ TEXT: Skype Phone, Messaging and Video apps in #Windows10 #WindowsInsiders build
 
 USER: scuzzooy01011
 DATE: 2015-10-13
-TEXT: RT @proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC http://t.co/EbgwSW74f5
+TEXT: RT @proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
 
 USER: Lavadaxs96
 DATE: 2015-10-13
-TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements http://t.co/kkJ33TBl6D
+TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
 
 USER: LaurentJPR
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing Skype Integration, Edge? http://t.co/RvdJyjTo2T #Developer #TC #Windows10 #Microsoft #Amazon
+TEXT: Microsoft Drops New Windows 10 Build Bringing Skype Integration, Edge?  #Developer #TC #Windows10 #Microsoft #Amazon
 
 USER: ISTincorp
 DATE: 2015-10-13
-TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements http://t.co/DAueZlbya9
+TEXT: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
 
 USER: GeekInfoNow
 DATE: 2015-10-13
-TEXT: Microsoft Drops New Windows 10 Build Bringing Skype? http://t.co/pj32XjwdL5 #Developer #TC #Windows10 #Microsoft #techcrunch #tech
+TEXT: Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft #techcrunch #tech
 
 USER: shahidroofi
 DATE: 2015-10-13
-TEXT: RT @JamesvandenBerg: ""I'm getting ready to get productive."" ?Bryan Roper demoing Microsoft Continuum http://t.co/brWkbxY8Jm #Windows10dev?
+TEXT: RT @JamesvandenBerg: ""I'm getting ready to get productive."" ?Bryan Roper demoing Microsoft Continuum  #Windows10dev?
 
 USER: KeshieKeshie
 DATE: 2015-10-13
@@ -1612,19 +1552,15 @@ TEXT: #Windows10 is popping on my laptop ????
 
 USER: Bjorniee5SOS
 DATE: 2015-10-13
-TEXT: Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) https://t.co/McSE23DbIe
+TEXT: Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) 
 
 USER: justreadout
 DATE: 2015-10-13
-TEXT: Boost your PC's speed using a pen drive
-#WindowsInsiders  #Windows10 #Microsoft
-http://t.co/OhwPjWH0QH
+TEXT: Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
 
 USER: justreadout
 DATE: 2015-10-13
-TEXT: Create custom shortcut for any app on Windows PC 
-#Windows10 #Microsoft #microsoftventures 
-http://t.co/nndXwq4Uxk
+TEXT: Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
 
 USER: techAU
 DATE: 2015-10-13
@@ -1632,11 +1568,11 @@ TEXT: @GabeAul still can't .jpg-large thumbnails ? #Windows10 #Build10565
 
 USER: NHSoCal
 DATE: 2015-10-13
-TEXT: Why Should You Upgrade to Windows 10 http://t.co/PkmOVi4Wf2 #windows10
+TEXT: Why Should You Upgrade to Windows 10  #windows10
 
 USER: GeekNe_ws
 DATE: 2015-10-13
-TEXT: #Microsoft previews Windows 10 Skype integration and Cortana inking http://t.co/4r3DgH4H9x #win10 #windows10
+TEXT: #Microsoft previews Windows 10 Skype integration and Cortana inking  #win10 #windows10
 
 USER: g74train
 DATE: 2015-10-13
@@ -1644,7 +1580,7 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: GeekNewsMS
 DATE: 2015-10-13
-TEXT: #Microsoft previews Windows 10 Skype integration and Cortana inking http://t.co/aCt4Dy6vfh #win10 #windows10
+TEXT: #Microsoft previews Windows 10 Skype integration and Cortana inking  #win10 #windows10
 
 USER: hxkclan
 DATE: 2015-10-13
@@ -1652,7 +1588,7 @@ TEXT: Aaand Windows Calculator has just received a update #windows10 #windows10m
 
 USER: jimgrimes84
 DATE: 2015-10-13
-TEXT: How to Activate GodMode in Windows 10 http://t.co/m9Tu0pSjt7 via @TheHackersNews #Security #infosec
+TEXT: How to Activate GodMode in Windows 10  via @TheHackersNews #Security #infosec
 
 USER: JeanMarieMartin
 DATE: 2015-10-13
@@ -1660,43 +1596,43 @@ TEXT: No #Microsoft, I don't want to upgrade to #Windows10. #quitaskingmeto
 
 USER: MovingIntoFocus
 DATE: 2015-10-13
-TEXT: RT @SquareHatsLLC: We now know when Windows 10 Mobile will 'launch' http://t.co/1TF5kySNCe @pcworld #Windows10
+TEXT: RT @SquareHatsLLC: We now know when Windows 10 Mobile will 'launch'  @pcworld #Windows10
 
 USER: MikeTCrowley
 DATE: 2015-10-13
-TEXT: This just in: Major improvements in #Windows10 Build 10565, as there is now a new icon for regedit.exe! http://t.co/stLlK3kK3W
+TEXT: This just in: Major improvements in #Windows10 Build 10565, as there is now a new icon for regedit.exe! 
 
 USER: jluper
 DATE: 2015-10-13
-TEXT: The Managed Solution team enjoyed ... - http://t.co/FpxROShlSN #Cloud_Computing #Office365 #Windows10 http://t.co/Y1I5tglcCf
+TEXT: The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
 
 USER: danielle_hamra
 DATE: 2015-10-13
-TEXT: The Managed Solution team enjoyed ... - http://t.co/51h5y82O7d #Cloud_Computing #Office365 #Windows10 http://t.co/UbV1QIRF9T
+TEXT: The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
 
 USER: MSMarketingTeam
 DATE: 2015-10-13
-TEXT: The Managed Solution team enjoyed ... - http://t.co/S9qaA0SxVH #Cloud_Computing #Office365 #Windows10 http://t.co/J8J3k0CqRE
+TEXT: The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
 
 USER: MindwareDubai
 DATE: 2015-10-13
-TEXT: DellSoftware:Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure http://t.co/RnkQ4IzktV #Windows10 - Dell_WM ?
+TEXT: DellSoftware:Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure  #Windows10 - Dell_WM ?
 
 USER: GameWisp
 DATE: 2015-10-13
-TEXT: #XboxOne controller adapter for #Windows10 due next week. http://t.co/38MMIE1XTQ http://t.co/1OyIbUhVzl
+TEXT: #XboxOne controller adapter for #Windows10 due next week.  
 
 USER: DellSoftware
 DATE: 2015-10-13
-TEXT: Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure http://t.co/mba66ad46Q #Windows10 - @Dell_WM http://t.co/TtIOXLiveD
+TEXT: Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure  #Windows10 - @Dell_WM 
 
 USER: Esosom
 DATE: 2015-10-13
-TEXT: #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center: http://t.co/XQEXQaSrnl http://t.co/HFCoJMpaBN
+TEXT: #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center:  
 
 USER: Esosom
 DATE: 2015-10-13
-TEXT: #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center: http://t.co/uVf8GHHBlz
+TEXT: #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center: 
 
 USER: Egy_Mary
 DATE: 2015-10-13
@@ -1708,32 +1644,31 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: NectarCorp
 DATE: 2015-10-13
-TEXT: RT @DeaneJessep: 5 years of no blue screens of death and the day after I upgrade to Windows10... http://t.co/OKhYiPP0DZ
+TEXT: RT @DeaneJessep: 5 years of no blue screens of death and the day after I upgrade to Windows10... 
 
 USER: ModernLifePods
 DATE: 2015-10-13
-TEXT: RT @thewavesoftech: Waves of Tech 280: #PodcastDay celebration, #Windows10 impressions, #ElCapitan issues. http://t.co/0WOoUcFEpM (@ModernL?
+TEXT: RT @thewavesoftech: Waves of Tech 280: #PodcastDay celebration, #Windows10 impressions, #ElCapitan issues.  (@ModernL?
 
 USER: CustomSys
 DATE: 2015-10-13
-TEXT: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: http://t.co/Xp9ZxcBwC3
+TEXT: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
 
 USER: acklaw
 DATE: 2015-10-13
-TEXT: #Windows10 Maintenance: What Has Changed & What You Need to Consider http://t.co/pbNERJxJgJ
+TEXT: #Windows10 Maintenance: What Has Changed & What You Need to Consider 
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr... http://t.co/yeTNoRmLTj - #Microsoft
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr...  - #Microsoft
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?... http://t.co/tVEIAo6WUV - #Microsoft
+TEXT: #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?...  - #Microsoft
 
 USER: iYousif
 DATE: 2015-10-13
-TEXT: Nice stuff coming ahead! ?
-#Windows10 #Build10565 #TH2 http://t.co/zl82zYCZ7C
+TEXT: Nice stuff coming ahead! ? #Windows10 #Build10565 #TH2 
 
 USER: MEhsanAHalim
 DATE: 2015-10-13
@@ -1749,15 +1684,15 @@ TEXT: Managed to finally get my laptop to upgrade to #Windows10. Had too side lo
 
 USER: radikal_nz
 DATE: 2015-10-13
-TEXT: @PSR_yoshimax I thought the Xbox App on #Windows10 was cool, until I seen this! :/  #windows10fail #Hearthstone http://t.co/mSDzRMnzdv
+TEXT: @PSR_yoshimax I thought the Xbox App on #Windows10 was cool, until I seen this! :/  #windows10fail #Hearthstone 
 
 USER: WordSmith426
 DATE: 2015-10-13
-TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps http://t.co/7A5ugQyP0a #wpdev #windev
+TEXT: RT @Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
 
 USER: Windows10Info
 DATE: 2015-10-13
-TEXT: Acer's Liquid Jade Primo is a promising Windows 10 smartphone http://t.co/iPkJ1FLl6w http://t.co/SxVhNE5v2z
+TEXT: Acer's Liquid Jade Primo is a promising Windows 10 smartphone  
 
 USER: Rehab_114
 DATE: 2015-10-13
@@ -1769,43 +1704,43 @@ TEXT: OMG windows10! So much awesome! #Windows10 #SoMuchWin #notashamed
 
 USER: WohTechNews
 DATE: 2015-10-13
-TEXT: #YahooTech http://t.co/E8RfDMblmG How to swap windows in #Windows10 with a single keystroke ? http://t.co/MGcrRcS1YS
+TEXT: #YahooTech  How to swap windows in #Windows10 with a single keystroke ? 
 
 USER: prismejon
 DATE: 2015-10-13
-TEXT: Check out the smart ink experience our team just added to Cortana :) Announcing Windows10 Insider Preview Build 10565 http://t.co/5Ms8L2492O
+TEXT: Check out the smart ink experience our team just added to Cortana :) Announcing Windows10 Insider Preview Build 10565 
 
 USER: DarrenSproat
 DATE: 2015-10-13
-TEXT: U P D A T E S . . .#Windows10 #Mobile #WinPhan http://t.co/7dCQRQqhNg
+TEXT: U P D A T E S . . .#Windows10 #Mobile #WinPhan 
 
 USER: DjemouaiKhalil
 DATE: 2015-10-13
-TEXT: RT @Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more: http://t.co/sO10wEMnm5 http://t.co/owL2nFsvk8
+TEXT: RT @Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
 
 USER: LaraSan17
 DATE: 2015-10-13
-TEXT: RT @YahooTech: How to swap windows in #Windows10 with a single keystroke http://t.co/gdsWUeoGI6 by @Pogue http://t.co/PSpTjxRdY2
+TEXT: RT @YahooTech: How to swap windows in #Windows10 with a single keystroke  by @Pogue 
 
 USER: YahooTech
 DATE: 2015-10-13
-TEXT: How to swap windows in #Windows10 with a single keystroke http://t.co/gdsWUeoGI6 by @Pogue http://t.co/PSpTjxRdY2
+TEXT: How to swap windows in #Windows10 with a single keystroke  by @Pogue 
 
 USER: dingl_
 DATE: 2015-10-13
-TEXT: #Windows10 #WindowsInsiders build 10565 is go http://t.co/W6PUoaFoVG
+TEXT: #Windows10 #WindowsInsiders build 10565 is go 
 
 USER: Divani_yrh
 DATE: 2015-10-13
-TEXT: Check out this Deal : http://t.co/CJpJyQSSjV Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-? http://t.co/1JmlS66r6u
+TEXT: Check out this Deal :  Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-? 
 
 USER: Frans737
 DATE: 2015-10-13
-TEXT: RT @Pocketnow: Acer one-ups Microsoft, bundles #Continuum hardware with new #Windows10 phone. http://t.co/AQ9QqDIvwS http://t.co/FvviClUy6G
+TEXT: RT @Pocketnow: Acer one-ups Microsoft, bundles #Continuum hardware with new #Windows10 phone.  
 
 USER: FixWindows10
 DATE: 2015-10-13
-TEXT: I like the new Regedit icon in #Windows10 build 10565 http://t.co/vMi5sl3lSy http://t.co/FmvPLFlHLz
+TEXT: I like the new Regedit icon in #Windows10 build 10565  
 
 USER: rickysinha
 DATE: 2015-10-13
@@ -1813,11 +1748,11 @@ TEXT: @SalimPatel92 not really. i have #WIndows10 installed on my PC and it cras
 
 USER: JacobJmyles
 DATE: 2015-10-13
-TEXT: RT @Lumia: The Office in your pocket with #Windows10. Learn more: http://t.co/sO10wEuLXv http://t.co/ErQpZJY83Y
+TEXT: RT @Lumia: The Office in your pocket with #Windows10. Learn more:  
 
 USER: goodsolitaire
 DATE: 2015-10-13
-TEXT: Father is one of 880 #solitaire #games in Pretty Good Solitaire ?? http://t.co/xcMhZrwvUy #windows10 http://t.co/AVEiajnucT
+TEXT: Father is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
 
 USER: arazcengiz
 DATE: 2015-10-13
@@ -1825,15 +1760,15 @@ TEXT: My pc is showing the login screen after startup in five seconds. Thanks @M
 
 USER: tecnologiaweb
 DATE: 2015-10-13
-TEXT: RT @MSVirtAcademy: What does #Windows10 mean for #IT Pros? Find out: http://t.co/U4twkrtT20 #MSMVA
+TEXT: RT @MSVirtAcademy: What does #Windows10 mean for #IT Pros? Find out:  #MSMVA
 
 USER: SCUGNorway
 DATE: 2015-10-13
-TEXT: RT @MariusSkovli: New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr http://t.co/?
+TEXT: RT @MariusSkovli: New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr 
 
 USER: aussienick
 DATE: 2015-10-13
-TEXT: hey @msau is Cortana available on #Windows10 10565 in AU? have followed @techAU's article http://t.co/xt0M0hJVm7 http://t.co/kbL3FUlHzA
+TEXT: hey @msau is Cortana available on #Windows10 10565 in AU? have followed @techAU's article  
 
 USER: Nestor0121
 DATE: 2015-10-13
@@ -1845,7 +1780,7 @@ TEXT: @MSFTImagine @steam_games Actually I have no Games Installed on My #Window
 
 USER: markousrezende
 DATE: 2015-10-13
-TEXT: Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) https://t.co/rDdk9rA5Kp
+TEXT: Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) 
 
 USER: _kingmana
 DATE: 2015-10-13
@@ -1853,15 +1788,15 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microsoft has com... http://t.co/yeTNoRmLTj
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microsoft has com... 
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microso... http://t.co/yeTNoRmLTj - #iPhone
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microso...  - #iPhone
 
 USER: cigarweekly
 DATE: 2015-10-13
-TEXT: Will you move to #windows10? Or stay on what U have? http://t.co/uWclAuplUq - #Windows7 4 life! @GabeAul or, #linux? http://t.co/7JgBTo3Q3h
+TEXT: Will you move to #windows10? Or stay on what U have?  - #Windows7 4 life! @GabeAul or, #linux? 
 
 USER: killaasmilee
 DATE: 2015-10-13
@@ -1869,7 +1804,7 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: CitrixAMPartner
 DATE: 2015-10-13
-TEXT: RT @MTM_INC: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: http://t.co/hgjeHIiIDE
+TEXT: RT @MTM_INC: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
 
 USER: jyde247
 DATE: 2015-10-13
@@ -1881,7 +1816,7 @@ TEXT: @freitasm #Windows10 is crap. A Trojan horse with the most intrusive secre
 
 USER: Ra_Koellner
 DATE: 2015-10-13
-TEXT: RT @msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates: http://t.co/aGisKYhAr7 #UX http://t.co?
+TEXT: RT @msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates:  #UX 
 
 USER: hxkclan
 DATE: 2015-10-13
@@ -1893,7 +1828,7 @@ TEXT: #Windows10 verdict... shite. Now time to get boozy with the main man of at
 
 USER: scuzzooy01011
 DATE: 2015-10-13
-TEXT: RT @Windows10TpNews: Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re... http://t.co/FWtuFNfQm9 via @Matti_8m h?
+TEXT: RT @Windows10TpNews: Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re...  via @Matti_8m h?
 
 USER: TsuserCraft
 DATE: 2015-10-13
@@ -1901,19 +1836,19 @@ TEXT: One does not simply choose to upgrade to #Windows10, they just do it. Have
 
 USER: Windows10Info
 DATE: 2015-10-13
-TEXT: Microsoft's latest Windows 10 Insider build helps cure a major activation headache http://t.co/7xLNbFYjKO http://t.co/pezdo3aACJ
+TEXT: Microsoft's latest Windows 10 Insider build helps cure a major activation headache  
 
 USER: Windows10TpNews
 DATE: 2015-10-13
-TEXT: Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re... http://t.co/FWtuFNfQm9 via @Matti_8m http://t.co/cc2DmJCJ2y
+TEXT: Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re...  via @Matti_8m 
 
 USER: MariusSkovli
 DATE: 2015-10-13
-TEXT: New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr http://t.co/zMjgha4lsM #SCUGno
+TEXT: New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr  #SCUGno
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #Windows10 #Cortana ? Microsoft?s newest Windows 10 preview for PCs adds Uber and event reminders t... http://t.co/t3zuXjp8BH - #Windows
+TEXT: #Windows10 #Cortana ? Microsoft?s newest Windows 10 preview for PCs adds Uber and event reminders t...  - #Windows
 
 USER: kalyanVSriram
 DATE: 2015-10-13
@@ -1921,43 +1856,43 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: ScytheIronclaw
 DATE: 2015-10-13
-TEXT: Yeah, so THIS just happened. #Minecraft #Windows10 #WTF !? http://t.co/csYS5dxoo8
+TEXT: Yeah, so THIS just happened. #Minecraft #Windows10 #WTF !? 
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr... http://t.co/yeTNoRmLTj - #Microsoft
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr...  - #Microsoft
 
 USER: OIGEL
 DATE: 2015-10-13
-TEXT: #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?... http://t.co/tVEIAo6WUV - #Microsoft
+TEXT: #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?...  - #Microsoft
 
 USER: lehohejonews
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With? http://t.co/zTJu3FzFJS #AllAboutMicrosoft http://t.co/aRvvt0hbDa
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
 
 USER: koplokpeople
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless? http://t.co/i8JqugQdRP #AllAboutMicrosoft #game #games #Gaming #microsoft http://t.co/MUAKEem3Z6
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless?  #AllAboutMicrosoft #game #games #Gaming #microsoft 
 
 USER: Lujiferondo
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With? http://t.co/tFlZ2MUeG0 #AllAboutMicrosoft http://t.co/lIeHVahD5X
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
 
 USER: Kahidsamah
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With? http://t.co/lJQBT2PxIn #AllAboutMicrosoft #game http://t.co/LLS6qR20Nt
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft #game 
 
 USER: Gieonenews
 DATE: 2015-10-13
-TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With? http://t.co/NZRT88TP8F #AllAboutMicrosoft http://t.co/OFCvhQrHrY
+TEXT: #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
 
 USER: franzinifabio
 DATE: 2015-10-13
-TEXT: RT @msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates: http://t.co/aGisKYhAr7 #UX http://t.co?
+TEXT: RT @msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates:  #UX 
 
 USER: Prignot_Eric
 DATE: 2015-10-13
-TEXT: RT @WBuzzer: Gallery: #Windows10 build 10565 and an Insider Ring slider http://t.co/MV4y4IuuJZ http://t.co/wwTuky7emZ
+TEXT: RT @WBuzzer: Gallery: #Windows10 build 10565 and an Insider Ring slider  
 
 USER: Sirkahuna
 DATE: 2015-10-13
@@ -1965,7 +1900,7 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: 19fry78
 DATE: 2015-10-13
-TEXT: RT @NeowinMicrosoft: Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 http://t.co/YWx62Yoe5o
+TEXT: RT @NeowinMicrosoft: Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 
 
 USER: CaDeO27
 DATE: 2015-10-13
@@ -1973,27 +1908,27 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: moyinoluwa_mm
 DATE: 2015-10-13
-TEXT: How to Configure Windows 10 File Explorer to Open with This PC View -... http://t.co/BbxDHk2tgg #Simmyideas #UpgradeYourWorld #WINDOWS10
+TEXT: How to Configure Windows 10 File Explorer to Open with This PC View -...  #Simmyideas #UpgradeYourWorld #WINDOWS10
 
 USER: moyinoluwa_mm
 DATE: 2015-10-13
-TEXT: RESERVE YOUR FREE COPY NOW; WINDOWS 10 COMING ON JULY 29 - Microsoft announced the general... http://t.co/KH7k25jalK #Microsoft #WINDOWS10
+TEXT: RESERVE YOUR FREE COPY NOW; WINDOWS 10 COMING ON JULY 29 - Microsoft announced the general...  #Microsoft #WINDOWS10
 
 USER: moyinoluwa_mm
 DATE: 2015-10-13
-TEXT: Is Your Computer Compatible with Windows 10 & Can You Upgrade? -... http://t.co/mRQCxoNPVk #DIY #HowTo #TechTips #TechTutorial #WINDOWS10
+TEXT: Is Your Computer Compatible with Windows 10 & Can You Upgrade? -...  #DIY #HowTo #TechTips #TechTutorial #WINDOWS10
 
 USER: LumiaHelp
 DATE: 2015-10-13
-TEXT: @Juniorrl77 We're you able to install #Windows10? You may check Krishna's post here: http://t.co/Ctp81wg5bp. ^JR #OneMSFT
+TEXT: @Juniorrl77 We're you able to install #Windows10? You may check Krishna's post here:  ^JR #OneMSFT
 
 USER: robseaner
 DATE: 2015-10-13
-TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro, http://t.co/7USxtKmRpw http:/?
+TEXT: RT @VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
 
 USER: Profjorge76
 DATE: 2015-10-13
-TEXT: RT @LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more: http://t.co/kxpq9ouyor http://t.co/CIcXuLURJ1
+TEXT: RT @LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
 
 USER: tdbeadles
 DATE: 2015-10-13
@@ -2006,19 +1941,15 @@ When can I expect upgrade for PC running Win8.1?
 
 USER: AltixPL
 DATE: 2015-10-13
-TEXT: RT @MSFTaccess: Cortana can set reminders across all your #Windows10 devices. http://t.co/0E3A83sckp #LumiaTips via @LumiaVoices http://t.c?
+TEXT: RT @MSFTaccess: Cortana can set reminders across all your #Windows10 devices.  #LumiaTips via @LumiaVoices 
 
 USER: yanatha
 DATE: 2015-10-13
 TEXT: Black Friday 2015 Bargain #Windows10 Tablets with tablets under $90get ready with #AnEssentialGuidetoWindows10
 
-http?https://t.co/VElxA7J1fr
-
 USER: yanatha
 DATE: 2015-10-13
 TEXT: Black Friday 2015 Bargain #Windows10 Tablets with tablets under $90get ready with #AnEssentialGuidetoWindows10
-
-https://t.co/p3ePU4TRpS
 
 USER: Win10life
 DATE: 2015-10-13
@@ -2026,7 +1957,7 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: MustafaUzerek
 DATE: 2015-10-13
-TEXT: Microsoft's latest #Windows10 Insider build helps cure a major activation http://t.co/O60q0fz3pa
+TEXT: Microsoft's latest #Windows10 Insider build helps cure a major activation 
 
 USER: recitetheplan
 DATE: 2015-10-13
@@ -2034,20 +1965,19 @@ TEXT: @allfractions @pete_stanley Hi, #Windows10 nice to meet you.
 
 USER: ks7000
 DATE: 2015-10-13
-TEXT: Installation of SQL Server Express 2014 on #Windows10: http://t.co/xvtCgOUkJZ via @mithunpattankar
+TEXT: Installation of SQL Server Express 2014 on #Windows10:  via @mithunpattankar
 
 USER: NeowinMicrosoft
 DATE: 2015-10-13
-TEXT: Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 http://t.co/YWx62Yoe5o
+TEXT: Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 
 
 USER: ks7000
 DATE: 2015-10-13
-TEXT: Installation of SQL Server Express 2014 on #Windows10 | Mithun Pattankar.
-- #CodeProject - http://t.co/QnDEqhi7Hk
+TEXT: Installation of SQL Server Express 2014 on #Windows10 | Mithun Pattankar. - #CodeProject - 
 
 USER: libe_gonzalez
 DATE: 2015-10-13
-TEXT: RT @LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more: http://t.co/kxpq9ouyor http://t.co/CIcXuLURJ1
+TEXT: RT @LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
 
 USER: tommytyrell1
 DATE: 2015-10-13
@@ -2067,6 +1997,5 @@ TEXT: RT @SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO 
 
 USER: Mr_ausmz07
 DATE: 2015-10-13
-TEXT: @SalimPatel92 @Windows 
-Windows10 is the worst system ever , it's spying in all the information of the user.
+TEXT: @SalimPatel92 @Windows Windows10 is the worst system ever , it's spying in all the information of the user.
 

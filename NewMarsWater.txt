@@ -1,19 +1,14 @@
 USER: efs300
 DATE: 2015-10-08
-TEXT: http://t.co/riMnhkRo6f Water, water, everywhere #mars
+TEXT:  Water, water, everywhere #mars
 
 USER: LunaticWatching
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: LuciaDeSchmidt1
 DATE: 2015-10-08
-TEXT: RT @HeffronDrive: #MARS has water!
-http://t.co/ugnDQ87uZ2
-
-Science is cool!!!
+TEXT: RT @HeffronDrive: #MARS has water! Science is cool!!!
 
 USER: TylerDrummonD3
 DATE: 2015-10-08
@@ -21,9 +16,7 @@ TEXT: RT @GayJordan23: They found water on Mars and I'm still Michael Jordan, th
 
 USER: Em_Bomb123
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Kendrick_Qmmar
 DATE: 2015-10-08
@@ -35,9 +28,7 @@ TEXT: Wait a second... NASA discovered water on Mars the same week the movie Mar
 
 USER: thestarlorde
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: notMusab
 DATE: 2015-10-08
@@ -45,9 +36,7 @@ TEXT: RT @GayJordan23: They found water on Mars and I'm still Michael Jordan, th
 
 USER: p14y3r_eXe
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: sebxcw
 DATE: 2015-10-08
@@ -63,9 +52,7 @@ TEXT: RT @GayJordan23: They found water on Mars and I'm still Michael Jordan, th
 
 USER: maddyney10
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: ryanverbs
 DATE: 2015-10-08
@@ -77,19 +64,15 @@ TEXT: RT @desusnice: we found water on mars but still can't edit tweets
 
 USER: phill_sunshine
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: scullymybedelia
 DATE: 2015-10-08
-TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!!
-me: so aliens are real then?
-nasa: ?? seen at 11:52
+TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!! me: so aliens are real then? nasa: ?? seen at 11:52
 
 USER: nakedshortkilla
 DATE: 2015-10-08
-TEXT: RT @4U2Ascend: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure https://t.co/qLAf3CjhvK
+TEXT: RT @4U2Ascend: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure 
 
 USER: offthewaIls
 DATE: 2015-10-08
@@ -97,15 +80,11 @@ TEXT: RT @GayJordan23: They found water on Mars and I'm still Michael Jordan, th
 
 USER: Awesome_Girl_23
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: BeckNoris
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Jealousyandme
 DATE: 2015-10-08
@@ -113,11 +92,11 @@ TEXT: RT @Sassafrantz: Face down. Ass up. That's the way I like to tweet about t
 
 USER: ImKurian
 DATE: 2015-10-08
-TEXT: RT @nadeem_nusrat: Liquid water exists on Mars, boosting hopes for life there, NASA says @CNNI http://t.co/0PSEcH0Vk8
+TEXT: RT @nadeem_nusrat: Liquid water exists on Mars, boosting hopes for life there, NASA says @CNNI 
 
 USER: SolarMeHome
 DATE: 2015-10-08
-TEXT: DNews: Water on Mars: Everything You Need to Know http://t.co/JMoG3kw4w4
+TEXT: DNews: Water on Mars: Everything You Need to Know 
 
 USER: sufiboy
 DATE: 2015-10-08
@@ -125,7 +104,7 @@ TEXT: RT @SarcasticRover: Starting a potato farm on Mars! Got a hole, all I need
 
 USER: TheRealNalley
 DATE: 2015-10-08
-TEXT: RT @4U2Ascend: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure https://t.co/qLAf3CjhvK
+TEXT: RT @4U2Ascend: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure 
 
 USER: fobishotaf
 DATE: 2015-10-08
@@ -133,84 +112,71 @@ TEXT: RT @petewentz: I only drink bottled Mars water.
 
 USER: Jason_A95
 DATE: 2015-10-08
-TEXT: Community: Why Scientests Finding Water On Mars Is Blatant Misogyny http://t.co/Wo2TaWsg2X via @buzzfeeders THIS IS WHY BUZZFEED IS CANCER
+TEXT: Community: Why Scientests Finding Water On Mars Is Blatant Misogyny  via @buzzfeeders THIS IS WHY BUZZFEED IS CANCER
 
 USER: raveniero
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: theweeklyflare
 DATE: 2015-10-08
-TEXT: |LIVE NOW| We're back talking Microsoft, Surfers, & a week after water [may have been found] on Mars. #meerkat http://t.co/P2Ze7kUyJt
+TEXT: |LIVE NOW| We're back talking Microsoft, Surfers, & a week after water [may have been found] on Mars. #meerkat 
 
 USER: theweeklyflare
 DATE: 2015-10-08
-TEXT: LIVE on #Periscope: We're back talking Microsoft, surfers, & a week after water [may have been found] on Mars. https://t.co/ldp0iUiy30
+TEXT: LIVE on #Periscope: We're back talking Microsoft, surfers, & a week after water [may have been found] on Mars. 
 
 USER: hebinotoshi
 DATE: 2015-10-08
-TEXT: Father of one of the victim disagrees with gun control.. 
-Luckily there's water on Mars as don't want to live on this planet anymore
+TEXT: Father of one of the victim disagrees with gun control.. Luckily there's water on Mars as don't want to live on this planet anymore
 
 USER: AweBrookie
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Cami4182
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: FinnishArmy
 DATE: 2015-10-08
-TEXT: I liked a @YouTube video from @finnisharmy http://t.co/tLu9y6O2oI "The Martian" and water on Mars! - Modern Warfare 3 Commentary
+TEXT: I liked a @YouTube video from @finnisharmy  "The Martian" and water on Mars! - Modern Warfare 3 Commentary
 
 USER: HorseJosh
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: CBMcKenzieAssoc
 DATE: 2015-10-08
-TEXT: Not exactly Total Recall, but these living concepts of life on Mars are intriguing. What would your ideal home be... http://t.co/NPQnqNxFMw
+TEXT: Not exactly Total Recall, but these living concepts of life on Mars are intriguing. What would your ideal home be... 
 
 USER: BaronianConsult
 DATE: 2015-10-08
-TEXT: RT @fiatphysica: Here?s why NASA?s Mars rovers are banned from investigating that liquid water - http://t.co/Hw5Z1exau9 #Space #Mars http:/?
+TEXT: RT @fiatphysica: Here?s why NASA?s Mars rovers are banned from investigating that liquid water -  #Space #Mars 
 
 USER: 4U2Ascend
 DATE: 2015-10-08
-TEXT: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure https://t.co/qLAf3CjhvK
+TEXT: Sounds like predisclosure to me. Add the NASA moon photos and water on Mars. #disclosure 
 
 USER: Toe_Ta_Fee
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: hwampler1
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: afishintheocean
 DATE: 2015-10-08
-TEXT: RT @omgthatspunny: Yes. There's water on Mars. http://t.co/OFSkwFTPXe
+TEXT: RT @omgthatspunny: Yes. There's water on Mars. 
 
 USER: Hasentraene
 DATE: 2015-10-08
-TEXT: I don't care if there's water on mars. http://t.co/86R1OC5eYi
+TEXT: I don't care if there's water on mars. 
 
 USER: sx__r
 DATE: 2015-10-08
-TEXT: RT @JoeAverageGamer: "Liquid water exists on Mars, boosting hopes for life there, NASA says." #WaterOnMars http://t.co/2L6VbQmyys
+TEXT: RT @JoeAverageGamer: "Liquid water exists on Mars, boosting hopes for life there, NASA says." #WaterOnMars 
 
 USER: klatham2011
 DATE: 2015-10-08
@@ -218,11 +184,11 @@ TEXT: RT @SarcasticRover: Starting a potato farm on Mars! Got a hole, all I need
 
 USER: NSHAHSWrites
 DATE: 2015-10-08
-TEXT: Did you hear about the water on Mars? How about The Daily Show's new host? Read and learn about the latest stories @ http://t.co/NCyQhRqKy6
+TEXT: Did you hear about the water on Mars? How about The Daily Show's new host? Read and learn about the latest stories @ 
 
 USER: dollabizzy
 DATE: 2015-10-08
-TEXT: RT @OWCalifornia: When California colonize Mars for its water. http://t.co/sNcIRPEGu0
+TEXT: RT @OWCalifornia: When California colonize Mars for its water. 
 
 USER: ulascihan13
 DATE: 2015-10-08
@@ -230,9 +196,7 @@ TEXT: @NASA Who send that water to Mars? not Thales. Pure water i am sure. Try f
 
 USER: Noah_Thiessen
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: MeanGene420
 DATE: 2015-10-08
@@ -240,74 +204,51 @@ TEXT: RT @Sassafrantz: Face down. Ass up. That's the way I like to tweet about t
 
 USER: Saburaii
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Ilike2_party
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Jenn_is_Kooked
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: OGSensei_Joey
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Haibunator
 DATE: 2015-10-08
-TEXT: RT @pauldavidmena: water on Mars
-but I asked
-for a beer
-#senryu
+TEXT: RT @pauldavidmena: water on Mars but I asked for a beer #senryu
 
 USER: PurplePopRox44
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: NeptuneMVP18
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: laurelkilljoy
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Shahinaz6
 DATE: 2015-10-08
-TEXT: RT @OmarImranTweets: NASA: we found liquid water on Mars.
-
-Africa: can we have some? http://t.co/nIJVavuv5k
+TEXT: RT @OmarImranTweets: NASA: we found liquid water on Mars. Africa: can we have some? 
 
 USER: BusyBeingRandom
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: _gabtoledo
 DATE: 2015-10-08
-TEXT: RT @omgthatspunny: Yes. There's water on Mars. http://t.co/OFSkwFTPXe
+TEXT: RT @omgthatspunny: Yes. There's water on Mars. 
 
 USER: asmatube
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: living_weapon_x
 DATE: 2015-10-08
@@ -315,78 +256,59 @@ TEXT: @9GAGTweets so ever since they found water on mars 9gag is gonna be all ab
 
 USER: MorphiApp
 DATE: 2015-10-08
-TEXT: RT @STEM_Works: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery http://t?
+TEXT: RT @STEM_Works: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery 
 
 USER: dvanderlinde10
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: averagetheodore
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: HerFaveCocktail
 DATE: 2015-10-08
-TEXT: Bitch probably planned on relocation to #Mars, considering crystal clear water was found on the red planet recently. https://t.co/dKpX5hg1jt
+TEXT: Bitch probably planned on relocation to #Mars, considering crystal clear water was found on the red planet recently. 
 
 USER: STEM_Works
 DATE: 2015-10-08
-TEXT: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery http://t.co/0VlRbH2j5v
+TEXT: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery 
 
 USER: KidsAheadSMU
 DATE: 2015-10-08
-TEXT: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery http://t.co/tAm9IW5zaX
+TEXT: There's #water on #Mars, but not enough, so #Martians are going to have to farm water! #space #research #discovery 
 
 USER: swiftnkjellberg
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Abby_7469
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: TheArcherTV
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: OntivePerez
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: ritanpicado
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: immortaltrash
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: 3yeAmHe
 DATE: 2015-10-08
-TEXT: RT @HarrietThugman: "Signs of water present on mars!"
-Well this is one hell of a way to start a Monday morning!
+TEXT: RT @HarrietThugman: "Signs of water present on mars!" Well this is one hell of a way to start a Monday morning!
 
 USER: PhanTrash_jpg
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: 3yeAmHe
 DATE: 2015-10-08
@@ -394,53 +316,39 @@ TEXT: RT @HarrietThugman: This year has been a major sciencegasm. A new species 
 
 USER: klhe90
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: zarellaberr
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: warcowho
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: sorryits1D_5SOS
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: hanahanaokita
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: RealityDrop
 DATE: 2015-10-08
-TEXT: Reality check: There may be flowing water on Mars. But is there intelligent life on Earth? http://t.co/xiMwHRlRIO http://t.co/hRpYS9i9Gy
+TEXT: Reality check: There may be flowing water on Mars. But is there intelligent life on Earth?  
 
 USER: MacWillimon
 DATE: 2015-10-08
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/1X3Zalqvgp http://t.co/71aYyQXdmb
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: RunxwayFromLxfe
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: DMWTMayo
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Aliyahsb
 DATE: 2015-10-08
@@ -448,15 +356,11 @@ TEXT: @Meshal23 water on Mars "the planet" ? ?
 
 USER: MaryanaShining
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: spndanandphil
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: BillyCokkinos
 DATE: 2015-10-08
@@ -464,51 +368,35 @@ TEXT: RT @UberFacts: The Outer Space Treaty states that robots and humans can't 
 
 USER: TifanySmosh98
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Smosh_PH
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: JaxHoI
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: TWGJackielaura
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: KayleeGuerraTV
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: PotatoPeach
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: typicalhecox
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Aalexshik
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: therafman1
 DATE: 2015-10-08
@@ -516,9 +404,7 @@ TEXT: I think I can survive on Mars since they found water for my coffee...
 
 USER: alwayslovephan
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Victor_Sedge
 DATE: 2015-10-08
@@ -526,29 +412,23 @@ TEXT: RT @Snowden: .@neiltyson Thanks for the welcome. And now we've got water o
 
 USER: hecoxpadilla
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: DontTweetThis1
 DATE: 2015-10-08
-TEXT: RT @NASABeAMartian: There is present-day liquid water on Mars. Latest finding by @NASA?s MRO http://t.co/kuF44yS41o #JourneyToMars http://t?
+TEXT: RT @NASABeAMartian: There is present-day liquid water on Mars. Latest finding by @NASA?s MRO  #JourneyToMars 
 
 USER: Pioggia93
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: kwbr1960
 DATE: 2015-10-08
-TEXT: RT @michellemalkin: Water discovered on Mars. Search for missing Hillary emails continues... https://t.co/dOTPUOljtk
+TEXT: RT @michellemalkin: Water discovered on Mars. Search for missing Hillary emails continues... 
 
 USER: oliviaanfriends
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: nobody_ishome
 DATE: 2015-10-08
@@ -556,33 +436,23 @@ TEXT: RT @adkslider: @DestinyTheGame Sitting on Mars wondering where the water i
 
 USER: DavidCastJr
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: JadeOCTW
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: highonhemmings7
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: PhantasticTy
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: NinaWolfe66
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Gamericious
 DATE: 2015-10-08
@@ -598,27 +468,19 @@ TEXT: RT @UberFacts: The Outer Space Treaty states that robots and humans can't 
 
 USER: anika_rules
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: EmilyahIlivia
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: blessedlilo
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: miliiicaceres
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: cvincentdugas
 DATE: 2015-10-08
@@ -626,27 +488,19 @@ TEXT: RT @SarcasticRover: Starting a potato farm on Mars! Got a hole, all I need
 
 USER: articwolf2008
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: youtubedlouis
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: PimpDeliaSmith
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Jennifer5_
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: LukeAleck
 DATE: 2015-10-08
@@ -654,26 +508,19 @@ TEXT: Screw Fiji water. I want Mars water! Amirite @NASA?!?!?!?
 
 USER: LoveVinnyxxx
 DATE: 2015-10-08
-TEXT: RT @Hassan_JBr: "The USA can spot water on the surface of Mars but can't see ISIS military convoys and headquarters?!"
-- Putin
+TEXT: RT @Hassan_JBr: "The USA can spot water on the surface of Mars but can't see ISIS military convoys and headquarters?!"- Putin
 
 USER: TheNamesRina
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Dalila_Reedus1D
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: aubreyboronski
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: CarleyBerman
 DATE: 2015-10-08
@@ -685,39 +532,27 @@ TEXT: @smoshdayparade nasa found water on mars but the only mars company I heard
 
 USER: PaulinaLndero
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Emily30__
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: danascullv
 DATE: 2015-10-08
-TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!!
-me: so aliens are real then?
-nasa: ?? seen at 11:52
+TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!! me: so aliens are real then? nasa: ?? seen at 11:52
 
 USER: killjoy1031
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: swswoodward
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: Gamer_G1rl_Kiki
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: smoshdayparade
 DATE: 2015-10-08
@@ -725,9 +560,7 @@ TEXT: @SmoshIan okay but why is mars water a thing???
 
 USER: aubreyplante
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: yosiefER1
 DATE: 2015-10-08
@@ -735,27 +568,19 @@ TEXT: RT @arafrika: 'The USA can spot water on Mars but cannot see ISIS convoy a
 
 USER: itstatianam_
 DATE: 2015-10-08
-TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!!
-me: so aliens are real then?
-nasa: ?? seen at 11:52
+TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!! me: so aliens are real then? nasa: ?? seen at 11:52
 
 USER: HumanKindnesss
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: MissDallas17
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: grabiplier
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: johnghughes3
 DATE: 2015-10-08
@@ -763,21 +588,15 @@ TEXT: RT @SarcasticRover: Starting a potato farm on Mars! Got a hole, all I need
 
 USER: NicoleSiason
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: TheUnnormalist
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: smoshgiselle
 DATE: 2015-10-08
-TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. 
-
-#relatable
+TEXT: RT @SmoshIan: That feeling when you drink Mars water after a long run. #relatable
 
 USER: RodneyserratoM
 DATE: 2015-10-11
@@ -785,11 +604,11 @@ TEXT: @SCooperBazzinga  also why isn't everyone excited about water on Mars? A p
 
 USER: SeanSloane_
 DATE: 2015-10-11
-TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT http://t.co/x3rpSHvX36
+TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT 
 
 USER: Jackson_Mayo
 DATE: 2015-10-11
-TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT http://t.co/x3rpSHvX36
+TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT 
 
 USER: artdegraef
 DATE: 2015-10-11
@@ -797,15 +616,15 @@ TEXT: RT @JimCholero: They found water on Mars but can't find Kony or the Malays
 
 USER: Handsome_Jake_
 DATE: 2015-10-11
-TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT http://t.co/x3rpSHvX36
+TEXT: RT @DrawPlayDave: Oh hey they have cool pictures of the surface of Mars looking for water and OH GODDAMNIT 
 
 USER: EtsGunner5
 DATE: 2015-10-11
-TEXT: Curiosity Mars rover could tap into the greatest mystery behind liquid water on Mars, but the... http://t.co/Z9THwPWihj via @YahooFinance
+TEXT: Curiosity Mars rover could tap into the greatest mystery behind liquid water on Mars, but the...  via @YahooFinance
 
 USER: InvestWorldNews
 DATE: 2015-10-11
-TEXT: NASA News: Water Flows on Mars http://t.co/fOd3vlBVyA
+TEXT: NASA News: Water Flows on Mars 
 
 USER: theboogeydown
 DATE: 2015-10-11
@@ -813,17 +632,15 @@ TEXT: RT @BetteMidler: They found water on Mars? Big deal. Call me when they fin
 
 USER: lubelskimusic
 DATE: 2015-10-11
-TEXT: RT @EarnKnowledge: This is what Mars would look if it still had water.
-
-Image credit: Kevin Gill http://t.co/zZ1KErU2At
+TEXT: RT @EarnKnowledge: This is what Mars would look if it still had water. Image credit: Kevin Gill 
 
 USER: Wolfbyte
 DATE: 2015-10-11
-TEXT: RT @karlbright: What if the water they found on Mars was just Dr Manhattan's urine? #thewatchmen http://t.co/DLOVWBEPJI
+TEXT: RT @karlbright: What if the water they found on Mars was just Dr Manhattan's urine? #thewatchmen 
 
 USER: pjeffers868
 DATE: 2015-10-11
-TEXT: RT @omgthatspunny: Yes. There's water on Mars. http://t.co/OFSkwFTPXe
+TEXT: RT @omgthatspunny: Yes. There's water on Mars. 
 
 USER: mikecourtney391
 DATE: 2015-10-11
@@ -831,28 +648,27 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: AdamTrone
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: spencerideas
 DATE: 2015-10-11
-TEXT: Interesting.
-How the discovery of liquid water on Mars could change the Curiosity rover's mission http://t.co/bYJL37MV0m via @BI_Science
+TEXT: Interesting. How the discovery of liquid water on Mars could change the Curiosity rover's mission  via @BI_Science
 
 USER: karlbright
 DATE: 2015-10-11
-TEXT: What if the water they found on Mars was just Dr Manhattan's urine? #thewatchmen http://t.co/DLOVWBEPJI
+TEXT: What if the water they found on Mars was just Dr Manhattan's urine? #thewatchmen 
 
 USER: PhoenxLord
 DATE: 2015-10-11
-TEXT: RT @LOrion: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... http://t.co/?
+TEXT: RT @LOrion: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... 
 
 USER: SeeYouGuysCom
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: DoctorGeyser
 DATE: 2015-10-11
-TEXT: Mars once hosted lakes, flowing water http://t.co/F3ZHuc27vU via @delicious
+TEXT: Mars once hosted lakes, flowing water  via @delicious
 
 USER: kittenslester
 DATE: 2015-10-11
@@ -860,7 +676,7 @@ TEXT: RT @petewentz: I only drink bottled Mars water.
 
 USER: QxNews
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: luciiaaz
 DATE: 2015-10-11
@@ -873,7 +689,6 @@ TEXT: RT @Lazlo50: Fun fact when Josh Dobbs discovered water on Mars, it was act
 USER: Sprint914
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: ccSlather
 DATE: 2015-10-11
@@ -901,48 +716,43 @@ TEXT: RT @KALIUCHIS: THERE IS WATER ON MARS?? THATS IT IM MOVING BYE EARTH
 
 USER: KingKennyll
 DATE: 2015-10-11
-TEXT: RT @dannyyonce: nasa: we've found water on mars!!!
-us: so aliens are real???
-nasa: ? seen at 11:38
+TEXT: RT @dannyyonce: nasa: we've found water on mars!!! us: so aliens are real??? nasa: ? seen at 11:38
 
 USER: Dellaporta
 DATE: 2015-10-11
-TEXT: Water on Mars! http://t.co/jSugS8xYDb
+TEXT: Water on Mars! 
 
 USER: wenachoii
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: comanike
 DATE: 2015-10-11
-TEXT: RT @Demented_Jokes: Ethiopians should be the 1st settlers on the planet, Mars.
-
-Given their vast experience of living off very little water.
+TEXT: RT @Demented_Jokes: Ethiopians should be the 1st settlers on the planet, Mars. Given their vast experience of living off very little water.
 
 USER: MVGUNNYxD
 DATE: 2015-10-11
-TEXT: RT @omgthatspunny: Yes. There's water on Mars. http://t.co/OFSkwFTPXe
+TEXT: RT @omgthatspunny: Yes. There's water on Mars. 
 
 USER: cincodemary
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: Strea_
 DATE: 2015-10-11
-TEXT: RT @omgthatspunny: Yes. There's water on Mars. http://t.co/OFSkwFTPXe
+TEXT: RT @omgthatspunny: Yes. There's water on Mars. 
 
 USER: HumorTimes
 DATE: 2015-10-11
-TEXT: NASA: California Now Above Mars on Water Scarcity List http://t.co/c0M28NmIJQ #california #drought via @humortimes
+TEXT: NASA: California Now Above Mars on Water Scarcity List  #california #drought via @humortimes
 
 USER: jauregouine
 DATE: 2015-10-11
-TEXT: RT @IdiotsOfTheUK: BREAKING: NASA have found water on Mars http://t.co/KUKyCrsQ75
+TEXT: RT @IdiotsOfTheUK: BREAKING: NASA have found water on Mars 
 
 USER: Dreamer9177
 DATE: 2015-10-11
-TEXT: RT @mfpenney: There may be flowing water on Mars. But is there intelligent life on Earth? - http://t.co/yl7N7DUVsX
+TEXT: RT @mfpenney: There may be flowing water on Mars. But is there intelligent life on Earth? - 
 
 USER: xoxo_Aliii
 DATE: 2015-10-11
@@ -958,11 +768,11 @@ TEXT: RT @Lazlo50: Fun fact when Josh Dobbs discovered water on Mars, it was act
 
 USER: mdjacksondallas
 DATE: 2015-10-11
-TEXT: RT @LOrion: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... http://t.co/?
+TEXT: RT @LOrion: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... 
 
 USER: mfpenney
 DATE: 2015-10-11
-TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? - http://t.co/yl7N7DUVsX
+TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? - 
 
 USER: Austin_Cooper_
 DATE: 2015-10-11
@@ -970,15 +780,15 @@ TEXT: RT @Lazlo50: Fun fact when Josh Dobbs discovered water on Mars, it was act
 
 USER: LOrion
 DATE: 2015-10-11
-TEXT: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... http://t.co/R58Rz16T7Y
+TEXT: I totally  agree?but you may have to be a #science #geek to agree too.  "With salty water flowing every Martian... 
 
 USER: CherylinSyr
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: JS_Preston
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: CentauriAlpha1
 DATE: 2015-10-11
@@ -991,35 +801,30 @@ TEXT: Fun fact when Josh Dobbs discovered water on Mars, it was actually the tea
 USER: CMisorski
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: VoiceNinja
 DATE: 2015-10-11
-TEXT: Mars once had lakes of liquid water: NASA 
-http://t.co/F1ZWgzUtbY
--via inshorts http://t.co/Daacmt9xlz
+TEXT: Mars once had lakes of liquid water: NASA -via inshorts 
 
 USER: depoisdotrampo
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: conanjasp
 DATE: 2015-10-11
-TEXT: #Ankara
-Ancient Mars had long-lasting lakes of liquid water https://t.co/uonXsnVZfU
+TEXT: #Ankara Ancient Mars had long-lasting lakes of liquid water 
 
 USER: ScCloud41
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: NicholasKalavas
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: MitchyD
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: trevacollins
 DATE: 2015-10-11
@@ -1027,11 +832,11 @@ TEXT: Water on mars... Ugh... Get some aliens already
 
 USER: SquidSmelly
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: JohnAKarr
 DATE: 2015-10-11
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/UzLdQ1whCS http://t.co/JX2ovBXr6G
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: pungme
 DATE: 2015-10-11
@@ -1040,19 +845,18 @@ TEXT: RT @espiekermann: Why do engineers always look for water on other planets 
 USER: Its_Chao_time
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: Hylmand
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: sergioantillano
 DATE: 2015-10-11
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/UzLdQ1whCS http://t.co/JX2ovBXr6G
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: rykierkun
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: jonny3uler
 DATE: 2015-10-11
@@ -1060,43 +864,43 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: AgentHankSchrad
 DATE: 2015-10-11
-TEXT: Breaking Bad writers knew about water on Mars in 2009 http://t.co/9RQwqFYBbG #BreakingBad
+TEXT: Breaking Bad writers knew about water on Mars in 2009  #BreakingBad
 
 USER: Sock_MonkeyRS
 DATE: 2015-10-11
-TEXT: RT @PartyPeteOSRS: NASA finds water on Mars! http://t.co/dmsrIclYha
+TEXT: RT @PartyPeteOSRS: NASA finds water on Mars! 
 
 USER: sa3d_alsan3717
 DATE: 2015-10-11
-TEXT: New research shows water once existed on the surface of Mars in long-lived rivers and lakes http://t.co/BThBSPj5Nx http://t.co/4PHXxJTYDu
+TEXT: New research shows water once existed on the surface of Mars in long-lived rivers and lakes  
 
 USER: globol10
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: alikiaj
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: FerminRV
 DATE: 2015-10-11
-TEXT: Why Bill Nye Is So Pumped About The Mars Water Discovery http://t.co/Fs56YmZ7zL v?a @HuffPostScience
+TEXT: Why Bill Nye Is So Pumped About The Mars Water Discovery  v?a @HuffPostScience
 
 USER: jerrygokul
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: BakerTiawna
 DATE: 2015-10-11
-TEXT: RT @FallonTonight: .@RobLowe "literally" picked up a thing or 2 from his @parksandrecnbc character Chris Traeger http://t.co/kIODnWjIta htt?
+TEXT: RT @FallonTonight: .@RobLowe "literally" picked up a thing or 2 from his @parksandrecnbc character Chris Traeger  htt?
 
 USER: Michael_Vasanth
 DATE: 2015-10-11
-TEXT: RT HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/An8DK2zqxi? http://t.co/4JXXy3woLr
+TEXT: RT HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: m_aznaveh
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: fabiofurlanis
 DATE: 2015-10-11
@@ -1104,24 +908,23 @@ TEXT: RT @espiekermann: Why do engineers always look for water on other planets 
 
 USER: faintdreams
 DATE: 2015-10-11
-TEXT: Mars water Google doodle https://t.co/E2IPHyGQNa
+TEXT: Mars water Google doodle 
 
 USER: GreysenCoyle
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: AzmeerRedzuan_
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: EliteGamezFTW
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: EVINDO_ID
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: JessWrites2
 DATE: 2015-10-11
@@ -1129,7 +932,7 @@ TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, 
 
 USER: Guicho21Quezada
 DATE: 2015-10-11
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/UzLdQ1whCS http://t.co/JX2ovBXr6G
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: brubru_vilg
 DATE: 2015-10-11
@@ -1137,23 +940,23 @@ TEXT: i'm drinking water in mars
 
 USER: yasser1281974
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: FerminRV
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: FriesianGirl28
 DATE: 2015-10-11
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/UzLdQ1whCS http://t.co/JX2ovBXr6G
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: CheyneOmatic
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: UncleSally6789
 DATE: 2015-10-11
-TEXT: I liked a @YouTube video http://t.co/NGoBjsIJB1 Real Time with Bill Maher: Neil deGrasse Tyson ? Water on Mars (HBO)
+TEXT: I liked a @YouTube video  Real Time with Bill Maher: Neil deGrasse Tyson ? Water on Mars (HBO)
 
 USER: FannyFister69
 DATE: 2015-10-11
@@ -1161,7 +964,7 @@ TEXT: I say we take the water off Mars and sell it for like a thousand dollars a
 
 USER: nmineikis
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: Billy_Hollerday
 DATE: 2015-10-11
@@ -1173,45 +976,43 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: HuffPostScience
 DATE: 2015-10-11
-TEXT: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/UzLdQ1whCS http://t.co/JX2ovBXr6G
+TEXT: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: QisSTEEZ
 DATE: 2015-10-11
-TEXT: RT @_IAmTokahontas: Earth asks Mars about his rumored water (Vine by @VictorPopeJr) https://t.co/RsGvTpSw4A
+TEXT: RT @_IAmTokahontas: Earth asks Mars about his rumored water (Vine by @VictorPopeJr) 
 
 USER: bamateacha
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: WhirlpoolGal
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: ragaminfonews
 DATE: 2015-10-11
-TEXT: ScienceNews : Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of lon? http://t.co/RAQeKOLxzh) http://t.co/HHdf8B3JS9
+TEXT: ScienceNews : Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of lon?  
 
 USER: Meddki885Moha
 DATE: 2015-10-11
-TEXT: #news Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? http://t.co/ESP2sjw2Uu
+TEXT: #news Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? 
 
 USER: photodave2011
 DATE: 2015-10-11
-TEXT: RT @AntonioParis: In light of the recent discovery of water on Mars, some scientists want to re-examine #ALH84001 http://t.co/fxUGvsYKVa
+TEXT: RT @AntonioParis: In light of the recent discovery of water on Mars, some scientists want to re-examine #ALH84001 
 
 USER: Its_shoetime
 DATE: 2015-10-11
-TEXT: RT @FauxRiIey: We've now found water on Mars.
-Next we will search for intelligent life in Iowa.
+TEXT: RT @FauxRiIey: We've now found water on Mars. Next we will search for intelligent life in Iowa.
 
 USER: neoopus
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: autorssfeed
 DATE: 2015-10-11
-TEXT: Science News????????? ScienceNews :
-Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-? http://t.co/Q62zseAliu
+TEXT: Science News????????? ScienceNews :Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-? 
 
 USER: KingMatthews14
 DATE: 2015-10-11
@@ -1219,7 +1020,7 @@ TEXT: RT @VersaceKangaroo: Scientist can find water on Mars but can't make an ac
 
 USER: skorpyos
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: lisatufano
 DATE: 2015-10-11
@@ -1227,7 +1028,7 @@ TEXT: With the ?? heatwave & @ladwp #outage, Mars is looking preeetty good right
 
 USER: bunkydm
 DATE: 2015-10-11
-TEXT: Photo: sixpenceee: Mars Maze A bright ice cap of frozen water covers the North Pole of Mars. In the winter,... http://t.co/X3NA7RfhWO
+TEXT: Photo: sixpenceee: Mars Maze A bright ice cap of frozen water covers the North Pole of Mars. In the winter,... 
 
 USER: turnIeft
 DATE: 2015-10-11
@@ -1235,11 +1036,11 @@ TEXT: @lucyprobably Psh. That's nothing. I predicted the presence of water on Ma
 
 USER: BassLicious
 DATE: 2015-10-11
-TEXT: First Mars, then Pluto, NASA is on a roll with finding water. Could they send a satellite to us in California next? https://t.co/DXqCa5wOpZ
+TEXT: First Mars, then Pluto, NASA is on a roll with finding water. Could they send a satellite to us in California next? 
 
 USER: GloireAmani
 DATE: 2015-10-11
-TEXT: We send robots to Mars to look 4 water & we can't even figure out to get it where it's needed here. Oil, no problem. http://t.co/3lCAELezjp
+TEXT: We send robots to Mars to look 4 water & we can't even figure out to get it where it's needed here. Oil, no problem. 
 
 USER: AnnaArianator12
 DATE: 2015-10-11
@@ -1247,7 +1048,7 @@ TEXT: RT @troyesivan: Flowing water on mars
 
 USER: EveryoneIn
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: _allo
 DATE: 2015-10-11
@@ -1256,17 +1057,14 @@ TEXT: RT @espiekermann: Why do engineers always look for water on other planets 
 USER: RobertKrise
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: ViralFRENZY
 DATE: 2015-10-11
 TEXT: I think Earth's been heating up out of jealousy ever since it found that liquid water's been found on Mars haha!
 
-https://t.co/yytATrmry2
-
 USER: BALDIuKNO
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: kaaacy
 DATE: 2015-10-11
@@ -1274,27 +1072,27 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: Tamairajuana
 DATE: 2015-10-11
-TEXT: RT @_IAmTokahontas: Earth asks Mars about his rumored water (Vine by @VictorPopeJr) https://t.co/RsGvTpSw4A
+TEXT: RT @_IAmTokahontas: Earth asks Mars about his rumored water (Vine by @VictorPopeJr) 
 
 USER: ItsMe_Kieeeel
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: MedScienceFest
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: MrAScienceNews
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: daichiaoi
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: richyea10
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: dany_scar
 DATE: 2015-10-11
@@ -1302,11 +1100,11 @@ TEXT: RT @ArdeaArts: What an exhilarating day as @NASA discovers liquid water on
 
 USER: Michael_Vasanth
 DATE: 2015-10-11
-TEXT: RT ScienceNews: Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? http://t.co/3YjfkuOrmJ
+TEXT: RT ScienceNews: Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? 
 
 USER: TheodorahRani
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: BenBE1987
 DATE: 2015-10-11
@@ -1314,23 +1112,23 @@ TEXT: RT @espiekermann: Why do engineers always look for water on other planets 
 
 USER: RocketnipponNet
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: yagbebi
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: IvanCastiz
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: underdog3344
 DATE: 2015-10-11
-TEXT: Photo: did-you-kno: We are not allowed to collect water from Mars. The Outer Space Treaty of 1967 forbids... http://t.co/xiwGNkZwud
+TEXT: Photo: did-you-kno: We are not allowed to collect water from Mars. The Outer Space Treaty of 1967 forbids... 
 
 USER: ChrisBrey1
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: DigitalHusky1
 DATE: 2015-10-11
@@ -1338,11 +1136,11 @@ TEXT: @CentauriAlpha1 Mars does have liquid water. Its confirmed. But theres no 
 
 USER: itsMichael_He
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: K_H_S_70th
 DATE: 2015-10-11
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: VersaceKangaroo
 DATE: 2015-10-11
@@ -1350,16 +1148,15 @@ TEXT: Scientist can find water on Mars but can't make an acne treatment that wor
 
 USER: AndyEggert1
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: tboll93
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: Bow2KingHolley
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: CentauriAlpha1
 DATE: 2015-10-11
@@ -1367,34 +1164,31 @@ TEXT: @DigitalHusky1 And Mars may still have liquid water and missions to Titan 
 
 USER: AceHearted
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: Ask4Amanda
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: mshehu5
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: DaleB2012
 DATE: 2015-10-11
-TEXT: RT @causticbob: Ethiopians should be the 1st settlers on the planet, Mars.
-
-Given their vast experience of living off very little water.
+TEXT: RT @causticbob: Ethiopians should be the 1st settlers on the planet, Mars. Given their vast experience of living off very little water.
 
 USER: renoveiga
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: fabiannunez745
 DATE: 2015-10-11
 TEXT: RT @IGN: First Mars, then Pluto, @NASA is on a roll with finding water. Could they send a satellite to us in California next?
-https://t.co/?
 
 USER: nat_potter46
 DATE: 2015-10-11
-TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes: http://t.co/RJfATmq3sO http:?
+TEXT: RT @ScienceNews: Liquid water on #Mars? Red Planet once had loads! @NASA finds evidence of long-lasting lakes:  
 
 USER: Pooker_Brock
 DATE: 2015-10-11
@@ -1402,15 +1196,15 @@ TEXT: DOBBS FOUND WATER ON MARS
 
 USER: combs_photo
 DATE: 2015-10-11
-TEXT: ScienceNews: Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? http://t.co/159iBRSIQK
+TEXT: ScienceNews: Liquid water on #Mars? Red Planet once had loads! NASA finds evidence of long-lasting lakes: ? 
 
 USER: Roel_Telebangco
 DATE: 2015-10-13
-TEXT: Water on mars and this !....  https://t.co/6MFrrdcrCx
+TEXT: Water on mars and this !....  
 
 USER: kristy_tea
 DATE: 2015-10-13
-TEXT: Turns out NV is a great place for scientists to study what Mars might be like http://t.co/ShzM3Bl2kB @lasvegasweekly http://t.co/tWToVcCaXL
+TEXT: Turns out NV is a great place for scientists to study what Mars might be like  @lasvegasweekly 
 
 USER: mastergardnr
 DATE: 2015-10-13
@@ -1418,7 +1212,7 @@ TEXT: RT @aarbypls: Crazy that Matt Damon would go to Mars and not even THINK to
 
 USER: brandon29543594
 DATE: 2015-10-13
-TEXT: RT @SciencePorn: Cute ?Water Found on Mars? Google logo http://t.co/G327uceYTW
+TEXT: RT @SciencePorn: Cute ?Water Found on Mars? Google logo 
 
 USER: aarbypls
 DATE: 2015-10-13
@@ -1426,11 +1220,11 @@ TEXT: Crazy that Matt Damon would go to Mars and not even THINK to mention all t
 
 USER: yoztanu
 DATE: 2015-10-13
-TEXT: #Mars Shows Signs of Having Flowing Water, Possible Niches for Life, #NASA Says http://t.co/9aYpyi49GD
+TEXT: #Mars Shows Signs of Having Flowing Water, Possible Niches for Life, #NASA Says 
 
 USER: fodejaybe
 DATE: 2015-10-13
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: KittyCatTacos
 DATE: 2015-10-13
@@ -1438,35 +1232,31 @@ TEXT: Mm mm mhm... So we found water on Mars but Twitter still won't let you edi
 
 USER: Markocaine_
 DATE: 2015-10-13
-TEXT: RT @ImCaptainTeemo: NASA found water on Mars but Graves still can't have a cigar. #ritologic http://t.co/wL9ntnBU1N
+TEXT: RT @ImCaptainTeemo: NASA found water on Mars but Graves still can't have a cigar. #ritologic 
 
 USER: mkazik1020
 DATE: 2015-10-13
-TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day.
-What a time to be alive.
+TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day. What a time to be alive.
 
 USER: _Road_2_Riches
 DATE: 2015-10-13
-TEXT: NASA Confirms Presence of Water On Mars Planet http://t.co/aOnhFWQVnl http://t.co/Lu30FdON2Q
+TEXT: NASA Confirms Presence of Water On Mars Planet  
 
 USER: fatal_azure
 DATE: 2015-10-13
 TEXT: RT @laura_robinsoon: NASA Announces Liquid Water On Mars
-http://t.co/ua8Fg3uwmO http://t.co/HiDNz4tBbL
 
 USER: rileyygrant
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: luisnbrito96
 DATE: 2015-10-13
-TEXT: RT @CosmossUp: Wet Planet: NASA Says Mars Once Held More Water Than Arctic Ocean http://t.co/ln0P6zIGVI http://t.co/4pSTvGuXPK
+TEXT: RT @CosmossUp: Wet Planet: NASA Says Mars Once Held More Water Than Arctic Ocean  
 
 USER: friendlyspidxy
 DATE: 2015-10-13
-TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!!
-me: so aliens are real then?
-nasa: ?? seen at 11:52
+TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!! me: so aliens are real then? nasa: ?? seen at 11:52
 
 USER: Kim_Tang27
 DATE: 2015-10-13
@@ -1474,17 +1264,15 @@ TEXT: RT @troyesivan: Flowing water on mars
 
 USER: leslieibarra400
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: ohlookitsMatty
 DATE: 2015-10-13
-TEXT: Look at his happy face! http://t.co/9RRxC5eZOq #WaterOn Mars
-
--M
+TEXT: Look at his happy face!  #WaterOn Mars -M
 
 USER: subredditsbot
 DATE: 2015-10-13
-TEXT: Following the news about water on Mars. via /r/aww http://t.co/IiUqJLuk4I #aww http://t.co/Ie3tHSNi6c
+TEXT: Following the news about water on Mars. via /r/aww  #aww 
 
 USER: MAGFest
 DATE: 2015-10-13
@@ -1492,20 +1280,19 @@ TEXT: @unjazzmusic Just joking that there's more water on mars than in californi
 
 USER: Daniel_EI
 DATE: 2015-10-13
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: LilWan_1thebest
 DATE: 2015-10-13
-TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day.
-What a time to be alive.
+TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day. What a time to be alive.
 
 USER: mfpenney
 DATE: 2015-10-13
-TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? - http://t.co/2tHwYCTrym
+TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? - 
 
 USER: Suma4720
 DATE: 2015-10-13
-TEXT: RT @ReneNow: MTBill Nye says the discovery of 'marscrobes' could change everything http://t.co/vDwUxk35M4 http://t.co/M1cfH0YWBf @haloefekt?
+TEXT: RT @ReneNow: MTBill Nye says the discovery of 'marscrobes' could change everything   @haloefekt?
 
 USER: MAGFest
 DATE: 2015-10-13
@@ -1525,15 +1312,15 @@ TEXT: RT @BrownBoxers: Mars can retain water and I can barely hold a thought
 
 USER: ahernandeezz
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: ktaipu
 DATE: 2015-10-13
-TEXT: RT @TIME: This graphic shows all the ways Mars will try to kill us (if we ever get there) http://t.co/8Rft9PPeye http://t.co/kr2FP5s5WT
+TEXT: RT @TIME: This graphic shows all the ways Mars will try to kill us (if we ever get there)  
 
 USER: DanielMyatt1
 DATE: 2015-10-13
-TEXT: RT @EarnKnowledge: This is what Mars would look if it still had water. http://t.co/yJeLXtY8RP
+TEXT: RT @EarnKnowledge: This is what Mars would look if it still had water. 
 
 USER: is_that_hunter
 DATE: 2015-10-13
@@ -1541,17 +1328,15 @@ TEXT: RT @nihilist_arbys: They found water on Mars. Know what that means? It mea
 
 USER: NASANOODLES
 DATE: 2015-10-13
-TEXT: @NASANOODLES - Mars Water 101: What's New in the New Discovery 1:01 #wateronmars #mars #wateronpluto http://t.co/EXpkG6HtFc via @nbcnews
+TEXT: @NASANOODLES - Mars Water 101: What's New in the New Discovery 1:01 #wateronmars #mars #wateronpluto  via @nbcnews
 
 USER: planetandpeople
 DATE: 2015-10-13
-TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything http://t.co/ePY0D7wVUX http://t.co/oIWPkdIkcZ
+TEXT: RT @HuffPostScience: Bill Nye says the discovery of 'marscrobes' could change everything  
 
 USER: garrettbarry70
 DATE: 2015-10-13
-TEXT: RT @ericsshadow: The Bible: "Blessed are the meek: for they shall inherit the Earth."
-
-The Meek: "There's water on Mars. We'd rather have t?
+TEXT: RT @ericsshadow: The Bible: "Blessed are the meek: for they shall inherit the Earth." The Meek: "There's water on Mars. We'd rather have t?
 
 USER: JoeJoeeeeeeeee
 DATE: 2015-10-13
@@ -1559,11 +1344,11 @@ TEXT: RT @JokeAuthority: I heard they found water on Mars... I bet California is
 
 USER: 0chsTree
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: addaaaaypence
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: 01gawnem
 DATE: 2015-10-13
@@ -1571,11 +1356,11 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: kingxofthefall
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: felsiedev
 DATE: 2015-10-13
-TEXT: Following the news about water on Mars. http://t.co/BS7Hn1cnKu
+TEXT: Following the news about water on Mars. 
 
 USER: Allanohh
 DATE: 2015-10-13
@@ -1587,7 +1372,7 @@ TEXT: RT @ericjcui: they found water on mars before i found bae
 
 USER: Glivenews
 DATE: 2015-10-13
-TEXT: RT @barstoolsports: What's more impressive: Water on Mars or this guy lifting three crates of beer with his nuts? http://t.co/DTbvpCnhgj ht?
+TEXT: RT @barstoolsports: What's more impressive: Water on Mars or this guy lifting three crates of beer with his nuts?  ht?
 
 USER: doomguycole
 DATE: 2015-10-13
@@ -1603,15 +1388,15 @@ TEXT: RT @GovGoogles: if water on mars will there be boats
 
 USER: kazuyuki_fukui
 DATE: 2015-10-13
-TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life http://t.co/3WEFoGlTM8 http://t.co/A?
+TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life  
 
 USER: tah007007
 DATE: 2015-10-13
-TEXT: RT @knonked: Dang, @NASA was right, ...there IS water on Mars.  #AWSOME http://t.co/Gc2XG8pXcU
+TEXT: RT @knonked: Dang, @NASA was right, ...there IS water on Mars.  #AWSOME 
 
 USER: cwpabon002
 DATE: 2015-10-13
-TEXT: RT @darianbrasher: When they said there is water on #Mars, this is what I had hoped they had found. #NerdConfessions #MarsAnnouncement http?
+TEXT: RT @darianbrasher: When they said there is water on #Mars, this is what I had hoped they had found. #NerdConfessions #MarsAnnouncement 
 
 USER: RickiMan88
 DATE: 2015-10-13
@@ -1619,7 +1404,7 @@ TEXT: @adifferent1five sounds like you going to get some of that "water on mars"
 
 USER: lunarinitiative
 DATE: 2015-10-13
-TEXT: We now know water flows on Mars. Did you know @Nasa is working to send humans: http://t.co/vKxp6CL7BP  #MarsAnnouncement
+TEXT: We now know water flows on Mars. Did you know @Nasa is working to send humans:   #MarsAnnouncement
 
 USER: myloveyoongi
 DATE: 2015-10-13
@@ -1627,27 +1412,27 @@ TEXT: RT @mitchwelling: they found water on mars and let me be the first to say,
 
 USER: Lesik1968
 DATE: 2015-10-13
-TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life http://t.co/3WEFoGlTM8 http://t.co/A?
+TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life  
 
 USER: Altai_Armande
 DATE: 2015-10-13
-TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life http://t.co/3WEFoGlTM8 http://t.co/A?
+TEXT: RT @3tags_org: #NASA: streaks of salt on #Mars mean flowing water, and raise new hopes of finding life  
 
 USER: LaraDodds
 DATE: 2015-10-13
-TEXT: RT @JSTOR_Daily: That time we thought Martians had transformed Mars into a complex network of canals: http://t.co/20Zrg9NLP0
+TEXT: RT @JSTOR_Daily: That time we thought Martians had transformed Mars into a complex network of canals: 
 
 USER: SciFactPodcast
 DATE: 2015-10-13
-TEXT: Who discovered water on Mars? Find out on our show! #wateronmars http://t.co/osR0wMYHdf
+TEXT: Who discovered water on Mars? Find out on our show! #wateronmars 
 
 USER: BSpodNetwork
 DATE: 2015-10-13
-TEXT: Who discovered water on Mars? Find out on our show! #wateronmars http://t.co/a3DE37SwZj
+TEXT: Who discovered water on Mars? Find out on our show! #wateronmars 
 
 USER: JSTOR_Daily
 DATE: 2015-10-13
-TEXT: That time we thought Martians had transformed Mars into a complex network of canals: http://t.co/20Zrg9NLP0
+TEXT: That time we thought Martians had transformed Mars into a complex network of canals: 
 
 USER: tylerjpeyton
 DATE: 2015-10-13
@@ -1659,7 +1444,7 @@ TEXT: Where there?s water, there can be coffee ? ~ SpaceX from Mars
 
 USER: gcharlesxoxo
 DATE: 2015-10-13
-TEXT: RT @darianbrasher: When they said there is water on #Mars, this is what I had hoped they had found. #NerdConfessions #MarsAnnouncement http?
+TEXT: RT @darianbrasher: When they said there is water on #Mars, this is what I had hoped they had found. #NerdConfessions #MarsAnnouncement 
 
 USER: PrincessLeanneP
 DATE: 2015-10-13
@@ -1667,11 +1452,11 @@ TEXT: RT @LurkAtHomeMom: They found water on Mars and I can't even find the groc
 
 USER: joal_rios
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: MayaRahman3
 DATE: 2015-10-13
-TEXT: @TheEllenShow I love you so much?? My brother wrote an article and if you checked it out it'd mean the world to him. http://t.co/c4zdlaJ71M
+TEXT: @TheEllenShow I love you so much?? My brother wrote an article and if you checked it out it'd mean the world to him. 
 
 USER: tested_spider
 DATE: 2015-10-13
@@ -1679,8 +1464,7 @@ TEXT: RT @petewentz: I only drink bottled Mars water.
 
 USER: CaseyDAmato
 DATE: 2015-10-13
-TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day.
-What a time to be alive.
+TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day. What a time to be alive.
 
 USER: PatMcMan_
 DATE: 2015-10-13
@@ -1688,7 +1472,7 @@ TEXT: Spittin bars, driving fast cars, getting drunk at bars, fuck there is wate
 
 USER: WendyDlakic
 DATE: 2015-10-13
-TEXT: RT @NASAJPL: Data from @MarsCuriosity confirm ancient lakes on Mars. Water's source remains a mystery. http://t.co/59ZwgHHJOU http://t.co/s?
+TEXT: RT @NASAJPL: Data from @MarsCuriosity confirm ancient lakes on Mars. Water's source remains a mystery.  
 
 USER: graceelong14
 DATE: 2015-10-13
@@ -1700,17 +1484,15 @@ TEXT: RT @Monazeni: If we find water on Mars, we may find life. This has been NA
 
 USER: nuclearcarly
 DATE: 2015-10-13
-TEXT: RT @Hastimefordat: We can find water on Mars but can't figure out how to keep this from happening. Every girls worst nightmare. ? http://t.?
+TEXT: RT @Hastimefordat: We can find water on Mars but can't figure out how to keep this from happening. Every girls worst nightmare. ? 
 
 USER: whiternan
 DATE: 2015-10-13
-TEXT: RT @baddestkittyxxi: they already found water on mars but there's still no signs of cl's album and park bom is still reflecting
-
-what is th?
+TEXT: RT @baddestkittyxxi: they already found water on mars but there's still no signs of cl's album and park bom is still reflecting what is th?
 
 USER: flyersfanatic10
 DATE: 2015-10-13
-TEXT: RT @Hastimefordat: We can find water on Mars but can't figure out how to keep this from happening. Every girls worst nightmare. ? http://t.?
+TEXT: RT @Hastimefordat: We can find water on Mars but can't figure out how to keep this from happening. Every girls worst nightmare. ? 
 
 USER: C_Squis
 DATE: 2015-10-13
@@ -1718,15 +1500,15 @@ TEXT: RT @StopVaping: Mark zuckerberg didn't create Facebook and discover water 
 
 USER: joseph_majeno
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: FistMeFaZeJev
 DATE: 2015-10-13
-TEXT: RT @Pamaj: I could have told you water was on mars years ago... http://t.co/U0Qqyuuv8W
+TEXT: RT @Pamaj: I could have told you water was on mars years ago... 
 
 USER: Loonivarsity
 DATE: 2015-10-13
-TEXT: You Don?t Need Any Scientist To Tell You That There Is Water On Mars. See it for yourself here! - http://t.co/bCyNcuhBmw
+TEXT: You Don?t Need Any Scientist To Tell You That There Is Water On Mars. See it for yourself here! - 
 
 USER: lunafthes
 DATE: 2015-10-13
@@ -1734,17 +1516,11 @@ TEXT: RT @ericjcui: they found water on mars before i found bae
 
 USER: 08_tyty
 DATE: 2015-10-13
-TEXT: RT @HappyCampersTHC: NASA: "Liquid water flows on Mars."
-
-Me: "Sweet, now where the aliens at?"
-
-NASA: "Aliens? What aliens??"
-
-Me http://t?
+TEXT: RT @HappyCampersTHC: NASA: "Liquid water flows on Mars." Me: "Sweet, now where the aliens at?" NASA: "Aliens? What aliens??" Me 
 
 USER: Sara_Lulix
 DATE: 2015-10-13
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: Brandon_Schloss
 DATE: 2015-10-13
@@ -1756,42 +1532,35 @@ TEXT: RT @Vice_Is_Hip: Mars may have water, but until it has a cereal cafe it's 
 
 USER: MayaRahman3
 DATE: 2015-10-13
-TEXT: @POTUS Dear Mr. President, if you happen to have the chance could you please see my brother's article. http://t.co/c4zdlaJ71M
+TEXT: @POTUS Dear Mr. President, if you happen to have the chance could you please see my brother's article. 
 
 USER: Perdurable
 DATE: 2015-10-13
-TEXT: California: Mars has more water than us. Fall/winter need not apply. https://t.co/MbklmW8yIe
+TEXT: California: Mars has more water than us. Fall/winter need not apply. 
 
 USER: Skysuperwholock
 DATE: 2015-10-13
-TEXT: RT @sageboggs: nasa: there might be water on mars
-me: water you talking about lol
-nasa: 
-me: 
-nasa:
-me: that's amarzing
+TEXT: RT @sageboggs: nasa: there might be water on mars me: water you talking about lol nasa:  me:  nasa: me: that's amarzing
 
 USER: JShoMKE
 DATE: 2015-10-13
-TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day.
-What a time to be alive.
+TEXT: RT @Neill_OConnor: Flowing water found on Mars.  McDonald's serving breakfast all day. What a time to be alive.
 
 USER: rysilva47
 DATE: 2015-10-13
-TEXT: RT @barstoolsports: Oklahoma WR is seeing stars, spaceships and all the water on Mars after this hit https://t.co/TiuzePcqbI
+TEXT: RT @barstoolsports: Oklahoma WR is seeing stars, spaceships and all the water on Mars after this hit 
 
 USER: HSebReg
 DATE: 2015-10-13
 TEXT: RT @NASA: Miss today's #MarsAnnouncement? Here's the highlights on evidence that liquid water flows on present-day Mars:
-https://t.co/sFKSJ?
 
 USER: ashleeeyboyd
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: NemuDenkfabrik
 DATE: 2015-10-13
-TEXT: Unbelievable #discovery! Not only Water on #Mars but also Tea on #Snickers!!!! http://t.co/547aVxWdSY
+TEXT: Unbelievable #discovery! Not only Water on #Mars but also Tea on #Snickers!!!! 
 
 USER: nahlaw
 DATE: 2015-10-13
@@ -1803,10 +1572,7 @@ TEXT: RT @caseymckinnon: I'd like to see @NASA or the @UN create laws protecting
 
 USER: LavinaBerenguer
 DATE: 2015-10-13
-TEXT: RT @HeffronDrive: #MARS has water!
-http://t.co/ugnDQ87uZ2
-
-Science is cool!!!
+TEXT: RT @HeffronDrive: #MARS has water! Science is cool!!!
 
 USER: CynthiaStillBB
 DATE: 2015-10-13
@@ -1814,12 +1580,11 @@ TEXT: RT @An0nKn0wledge: The reason @NASA is finally starting to disclose water 
 
 USER: abosamir7231
 DATE: 2015-10-13
-TEXT: RT @XHNews: Blns of years ago, #Mars was capable of storing water in rivers, lakes: @NASA @MarsCuriosity http://t.co/QxaFFYukUM http://t.co?
+TEXT: RT @XHNews: Blns of years ago, #Mars was capable of storing water in rivers, lakes: @NASA @MarsCuriosity  
 
 USER: LasVegasSun
 DATE: 2015-10-13
 TEXT: What Mars can teach us about using water
-http://t.co/UUlmGRUOjK http://t.co/gqJ9ZYExpP
 
 USER: grafeeniks
 DATE: 2015-10-13
@@ -1827,17 +1592,15 @@ TEXT: RT @Snowden: .@neiltyson Thanks for the welcome. And now we've got water o
 
 USER: Sumboty
 DATE: 2015-10-13
-TEXT: #DidYouKnow : On 1st April 2005, NASA pulled a prank telling the world that they had found water on Mars. http://t.co/wzK1aUIVOd
+TEXT: #DidYouKnow : On 1st April 2005, NASA pulled a prank telling the world that they had found water on Mars. 
 
 USER: CanadaNews777
 DATE: 2015-10-13
-TEXT: Canadians hoping for one-way trip to Mars welcome news of liquid water http://t.co/6qv0OZeMTP :Auto pickup by wikyou
+TEXT: Canadians hoping for one-way trip to Mars welcome news of liquid water  :Auto pickup by wikyou
 
 USER: MintoNeil
 DATE: 2015-10-13
 TEXT: RT @BolsoverBeast: Water doesn't always mean signs of life.
-
-http://t.co/yFEZduPByu http://t.co/WazbZ8S8zs
 
 USER: jdforshort
 DATE: 2015-10-13
@@ -1845,7 +1608,7 @@ TEXT: RT @BrownBoxers: Mars can retain water and I can barely hold a thought
 
 USER: 1984jeffj
 DATE: 2015-10-13
-TEXT: RT @ScienceChannel: The #CuriosityRover team confirms #Mars not only had liquid water, it also likely had a series of lakes. #NASA http://t?
+TEXT: RT @ScienceChannel: The #CuriosityRover team confirms #Mars not only had liquid water, it also likely had a series of lakes. #NASA 
 
 USER: SodaStreamau
 DATE: 2015-10-13
@@ -1855,21 +1618,17 @@ USER: SirIanBlair
 DATE: 2015-10-13
 TEXT: RT @BolsoverBeast: Water doesn't always mean signs of life.
 
-http://t.co/yFEZduPByu http://t.co/WazbZ8S8zs
-
 USER: Jack_Murphy_420
 DATE: 2015-10-13
 TEXT: RT @david8hughes: NASA have announced the discovery of water on Mars. A spokesperson for NASA said the red planet is believed to be "wet as?
 
 USER: rachemildenhall
 DATE: 2015-10-13
-TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!!
-me: so aliens are real then?
-nasa: ?? seen at 11:52
+TEXT: RT @gladersmaze: nasa: THERE IS WATER ON MARS!!!!! me: so aliens are real then? nasa: ?? seen at 11:52
 
 USER: alizejacquez
 DATE: 2015-10-13
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: ninjaturtleirl
 DATE: 2015-10-13
@@ -1881,7 +1640,7 @@ TEXT: @NASA with the discovery of water on Mars does that mean there is some sor
 
 USER: _LaraLlorente
 DATE: 2015-10-13
-TEXT: RT @IdiotsOfTheUK: BREAKING: NASA have found water on Mars http://t.co/KUKyCrsQ75
+TEXT: RT @IdiotsOfTheUK: BREAKING: NASA have found water on Mars 
 
 USER: markoerner
 DATE: 2015-10-13
@@ -1889,11 +1648,11 @@ TEXT: RT @nihilist_arbys: They found water on Mars. Know what that means? It mea
 
 USER: rnitsch
 DATE: 2015-10-13
-TEXT: RT @XHNews: Blns of years ago, #Mars was capable of storing water in rivers, lakes: @NASA @MarsCuriosity http://t.co/QxaFFYukUM http://t.co?
+TEXT: RT @XHNews: Blns of years ago, #Mars was capable of storing water in rivers, lakes: @NASA @MarsCuriosity  
 
 USER: rnitsch
 DATE: 2015-10-13
-TEXT: RT @NASAJPL: Data from @MarsCuriosity confirm ancient lakes on Mars. Water's source remains a mystery. http://t.co/59ZwgHHJOU http://t.co/s?
+TEXT: RT @NASAJPL: Data from @MarsCuriosity confirm ancient lakes on Mars. Water's source remains a mystery.  
 
 USER: lauraleeksmith
 DATE: 2015-10-13
@@ -1901,7 +1660,7 @@ TEXT: RT @Prero22: I forgot to unclog the sink again and now flowing water has b
 
 USER: IsabellyAguiara
 DATE: 2015-10-13
-TEXT: RT @amazingspacee: Seasonal Streaks Point to Recent Flowing Water on Mars http://t.co/Luy0URlSIi
+TEXT: RT @amazingspacee: Seasonal Streaks Point to Recent Flowing Water on Mars 
 
 USER: gvbrixlbxwmvn
 DATE: 2015-10-13
@@ -1909,7 +1668,7 @@ TEXT: RT @nihilist_arbys: They found water on Mars. Know what that means? It mea
 
 USER: tradethecycles
 DATE: 2015-10-13
-TEXT: Waterworld!!!! Mars Has Vast Body Of Water Evidenced In Images Taken By Mars Rover, Must See!! (Green in Area Also) https://t.co/gCQKMnewS4
+TEXT: Waterworld!!!! Mars Has Vast Body Of Water Evidenced In Images Taken By Mars Rover, Must See!! (Green in Area Also) 
 
 USER: DogfishT
 DATE: 2015-10-13
@@ -1917,11 +1676,11 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: amazingspacee
 DATE: 2015-10-13
-TEXT: Seasonal Streaks Point to Recent Flowing Water on Mars http://t.co/Luy0URlSIi
+TEXT: Seasonal Streaks Point to Recent Flowing Water on Mars 
 
 USER: Psychreg
 DATE: 2015-10-13
-TEXT: RT @AquaticBrighton: Nasa scientists find evidence of flowing #water on Mars http://t.co/y4NqbQXITN
+TEXT: RT @AquaticBrighton: Nasa scientists find evidence of flowing #water on Mars 
 
 USER: targarkane
 DATE: 2015-10-13
@@ -1929,15 +1688,15 @@ TEXT: RT @toby_regbo: Water on Mars. Next, life.
 
 USER: Charlo980
 DATE: 2015-10-13
-TEXT: RT Forbes: Where there?s water, is there life? http://t.co/ckromOuuuX http://t.co/IznIg6aHyc
+TEXT: RT Forbes: Where there?s water, is there life?  
 
 USER: lindstrom_ian
 DATE: 2015-10-13
-TEXT: RT @StartsWithABang: Water on Mars... in pictures! https://t.co/fjDFFBM80q The varied evidence as told by five of our greatest missions! ht?
+TEXT: RT @StartsWithABang: Water on Mars... in pictures!  The varied evidence as told by five of our greatest missions! ht?
 
 USER: Adina_Yocham
 DATE: 2015-10-13
-TEXT: RT @Forbes: Where there?s water, is there life? http://t.co/6kWC8XmWoH http://t.co/hQCNYmtluJ
+TEXT: RT @Forbes: Where there?s water, is there life?  
 
 USER: CaitlinSnark
 DATE: 2015-10-13
@@ -1945,9 +1704,7 @@ TEXT: There's a tumblr post about drinking the water on mars and I'm NOT gonna D
 
 USER: D_Banksz
 DATE: 2015-10-12
-TEXT: RT @zach_varn: We discover water on Mars, new?w/ new technology released every year, Mickey D bfast all day..
-
-Still can't play YouTube in ?
+TEXT: RT @zach_varn: We discover water on Mars, new?w/ new technology released every year, Mickey D bfast all day.. Still can't play YouTube in ?
 
 USER: spacemusicpixls
 DATE: 2015-10-12
@@ -1955,7 +1712,7 @@ TEXT: I wonder if it's possible to make concrete on Mars from byproduct water an
 
 USER: MELLOWCELLO1
 DATE: 2015-10-12
-TEXT: RT @annelacy94: Kochs Hope to Be First to Pollute Water on Mars http://t.co/oySDR7kpTD via @BorowitzReport
+TEXT: RT @annelacy94: Kochs Hope to Be First to Pollute Water on Mars  via @BorowitzReport
 
 USER: NickGervaisTaco
 DATE: 2015-10-12
@@ -1963,7 +1720,7 @@ TEXT: @cierra_mcgarvey water on Mars is something to BEE excited about :)
 
 USER: inarevengeway
 DATE: 2015-10-12
-TEXT: RT @9GAGTweets: When NASA found water on Mars http://t.co/Ass6O2Jsgs
+TEXT: RT @9GAGTweets: When NASA found water on Mars 
 
 USER: analiese_kayy
 DATE: 2015-10-12
@@ -1971,7 +1728,7 @@ TEXT: @XLNB why do you care about so many things that are the literal least impo
 
 USER: zogijynybug
 DATE: 2015-10-12
-TEXT: Water may still flow on the surface of Mars today  http://t.co/rgJuMG1dQN http://t.co/5fvD2RGHXC
+TEXT: Water may still flow on the surface of Mars today
 
 USER: sonofaswift
 DATE: 2015-10-12
@@ -1991,28 +1748,27 @@ TEXT: RT @nihilist_arbys: They found water on Mars. Know what that means? It mea
 
 USER: cualcrisis
 DATE: 2015-10-12
-TEXT: Recently #NASA said there's water on #Mars, today we have even better news... there's great waves and? https://t.co/UR8t9IAPi2
+TEXT: Recently #NASA said there's water on #Mars, today we have even better news... there's great waves and? 
 
 USER: el4va
 DATE: 2015-10-12
-TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ... http://t.co/8KOTk99dby http://t.co/UNbApTE8J6
+TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ...  
 
 USER: PC0101
 DATE: 2015-10-12
-TEXT: @Rose9Riley A bit of oxygen would not be bad. Water is not so tasty either: http://t.co/nZqjiMxIzO
+TEXT: @Rose9Riley A bit of oxygen would not be bad. Water is not so tasty either: 
 
 USER: kellyb00n
 DATE: 2015-10-12
-TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ... http://t.co/8KOTk99dby http://t.co/UNbApTE8J6
+TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ...  
 
 USER: tamu1na
 DATE: 2015-10-12
-TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ... http://t.co/8KOTk99dby http://t.co/UNbApTE8J6
+TEXT: RT @kristvav: #WilliamShatner thinks water on Mars is a big deal 61: ...  
 
 USER: DallasMars
 DATE: 2015-10-12
-TEXT: RT @AGU_Eos: Flowing water on Mars: What that means for ?The Martian?
-http://t.co/iqSxCIaXJR #AGUblogs http://t.co/0RpLL6oSF6
+TEXT: RT @AGU_Eos: Flowing water on Mars: What that means for ?The Martian? #AGUblogs 
 
 USER: smokeyybearr
 DATE: 2015-10-12
@@ -2020,7 +1776,7 @@ TEXT: RT @nihilist_arbys: They found water on Mars. Know what that means? It mea
 
 USER: kristvav
 DATE: 2015-10-12
-TEXT: #WilliamShatner thinks water on Mars is a big deal 61: ... http://t.co/8KOTk99dby http://t.co/UNbApTE8J6
+TEXT: #WilliamShatner thinks water on Mars is a big deal 61: ...  
 
 USER: Bryan_Speaks
 DATE: 2015-10-12
@@ -2040,7 +1796,7 @@ TEXT: RT @LeBeardo: They can find water on Mars but I can't find a girlfriend in
 
 USER: Chrisdderpasaur
 DATE: 2015-10-12
-TEXT: RT @M3RKMUS1C: LEAKED PICTURE OF WATER ON MARS! Credit goes to @SheKnives for finding the source of the moisture! #WaterOnMars http://t.co/?
+TEXT: RT @M3RKMUS1C: LEAKED PICTURE OF WATER ON MARS! Credit goes to @SheKnives for finding the source of the moisture! #WaterOnMars 
 
 USER: BSing78
 DATE: 2015-10-12
@@ -2048,21 +1804,19 @@ TEXT: RT @LeBeardo: They can find water on Mars but I can't find a girlfriend in
 
 USER: honestbieber
 DATE: 2015-10-12
-TEXT: RT @ComplexPop: .@iamjojo and @Complex_News talk Justin Bieber, Kanye West 2020, and water on Mars on #WellRounded: http://t.co/J1BTPFq6kM
+TEXT: RT @ComplexPop: .@iamjojo and @Complex_News talk Justin Bieber, Kanye West 2020, and water on Mars on #WellRounded: 
 
 USER: 94cabeIIo
 DATE: 2015-10-12
-TEXT: US: there's water on Mars!
-ppl in africa: okay but we don't have water...
-US: who cares lol there's water on mars
+TEXT: US: there's water on Mars! ppl in africa: okay but we don't have water... US: who cares lol there's water on mars
 
 USER: pesb2012
 DATE: 2015-10-12
-TEXT: Nasa scientists find evidence of flowing water on Mars http://t.co/qJkWvq86Cl via @aliensreloaded
+TEXT: Nasa scientists find evidence of flowing water on Mars  via @aliensreloaded
 
 USER: Jcbf43
 DATE: 2015-10-12
-TEXT: RT @JordiValls13: There may be flowing water on Mars. But is there intelligent life on Earth? Martian scientists wonder! G. Monbiot http://?
+TEXT: RT @JordiValls13: There may be flowing water on Mars. But is there intelligent life on Earth? Martian scientists wonder! G. Monbiot 
 
 USER: yvespout
 DATE: 2015-10-12
@@ -2070,10 +1824,7 @@ TEXT: RT @loveofcamila: why put money into searching for water on mars when we c
 
 USER: kramatjati2015
 DATE: 2015-10-12
-TEXT: Retweeted 9GAG (@9GAG):
-
-NASA has just confirmed, there is water on Mars... 
-http://t.co/xj0P2V8R3p... http://t.co/1ZNxCEkDXX
+TEXT: Retweeted 9GAG (@9GAG): NASA has just confirmed, there is water on Mars... 
 
 USER: certifiednjh
 DATE: 2015-10-12
@@ -2082,7 +1833,6 @@ TEXT: RT @loveofcamila: why put money into searching for water on mars when we c
 USER: kramatjati2015
 DATE: 2015-10-12
 TEXT: RT @9GAG: NASA has just confirmed, there is water on Mars... 
-http://t.co/bYBjdGmx45 http://t.co/dmtUbapuHe
 
 USER: lueckpaige
 DATE: 2015-10-12
@@ -2094,15 +1844,15 @@ TEXT: why put money into searching for water on mars when we could be using that
 
 USER: SawyerIII1776
 DATE: 2015-10-12
-TEXT: Mars has flowing rivers of briny water, NASA satellite reveals - newshour: NASA just released the... http://t.co/TXIYTATwcz
+TEXT: Mars has flowing rivers of briny water, NASA satellite reveals - newshour: NASA just released the... 
 
 USER: TolgaCmr
 DATE: 2015-10-12
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: JordiValls13
 DATE: 2015-10-12
-TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? Martian scientists wonder! G. Monbiot http://t.co/23KwAgaxRX
+TEXT: There may be flowing water on Mars. But is there intelligent life on Earth? Martian scientists wonder! G. Monbiot 
 
 USER: NiceGuy504
 DATE: 2015-10-12
@@ -2110,15 +1860,15 @@ TEXT: @NASA how long did you know water was on Mars? Really?
 
 USER: Cumsh0
 DATE: 2015-10-12
-TEXT: Mars Water - Where the Sun Sets https://t.co/sT2rnQNC6f
+TEXT: Mars Water - Where the Sun Sets 
 
 USER: c_mendez18
 DATE: 2015-10-12
-TEXT: RT @OWCalifornia: When California colonize Mars for its water. http://t.co/sNcIRPEGu0
+TEXT: RT @OWCalifornia: When California colonize Mars for its water. 
 
 USER: jerrykuch
 DATE: 2015-10-12
-TEXT: RT @Jimllpaintit: Douglas Quaid and Matt Damon enjoying a refreshing glass of water on Mars - requested by Brian Pope http://t.co/D1DQkn4Mlf
+TEXT: RT @Jimllpaintit: Douglas Quaid and Matt Damon enjoying a refreshing glass of water on Mars - requested by Brian Pope 
 
 USER: Jfd_Castro
 DATE: 2015-10-12
@@ -2126,7 +1876,7 @@ TEXT: Water on Mars = signs of life .... Barzum @JohnCarterFilm
 
 USER: thelaststarks
 DATE: 2015-10-12
-TEXT: RT @30SECONDSTOMARS: "They found water on #MARS? We found MARS on water." - @shannonletoarmy http://t.co/NivT2mGIUi
+TEXT: RT @30SECONDSTOMARS: "They found water on #MARS? We found MARS on water." - @shannonletoarmy 
 
 USER: MaddisonFinney
 DATE: 2015-10-12
@@ -2138,7 +1888,7 @@ TEXT: #TCSITWIZ On 1st April 2005, NASA pulled a prank telling the world that th
 
 USER: austin_berns
 DATE: 2015-10-12
-TEXT: Is this real life?? #thisisbullshit http://t.co/mGG2yjormk
+TEXT: Is this real life?? #thisisbullshit 
 
 USER: sierrraeroberts
 DATE: 2015-10-12
@@ -2146,12 +1896,11 @@ TEXT: Tonya Phan found water on Mars   #FreeTonyaPhan
 
 USER: anajjny
 DATE: 2015-10-12
-TEXT: * William Shatner thinks water on Mars is a big deal http://t.co/c1mk8p25kq http://t.co/bcHfIlumoc
+TEXT: * William Shatner thinks water on Mars is a big deal  
 
 USER: CPSWorks14560
 DATE: 2015-10-12
-TEXT: RT @CapeWindy: Water on Mars? Hey, it's not a new idea. Read my blog: http://t.co/1HCMJOv8tI
-#MarsAnnouncement #books #scifi http://t.co/E9?
+TEXT: RT @CapeWindy: Water on Mars? Hey, it's not a new idea. Read my blog: #MarsAnnouncement #books #scifi 
 
 USER: Skunkola
 DATE: 2015-10-12
@@ -2167,15 +1916,15 @@ TEXT: RT @An0nKn0wledge: The reason @NASA is finally starting to disclose water 
 
 USER: HuskyHockeyHops
 DATE: 2015-10-12
-TEXT: There is water on Mars. #CBJ  https://t.co/4HVgxkhqbU
+TEXT: There is water on Mars. #CBJ  
 
 USER: Petrosqrt
 DATE: 2015-10-12
-TEXT: RT @anastassio1968: Water found on Mars http://t.co/KwnYzM4XeE
+TEXT: RT @anastassio1968: Water found on Mars 
 
 USER: jetblkhearts
 DATE: 2015-10-12
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: BamboozledLiger
 DATE: 2015-10-12
@@ -2183,11 +1932,11 @@ TEXT: RT @Snowden: .@neiltyson Thanks for the welcome. And now we've got water o
 
 USER: tatynpaty
 DATE: 2015-10-12
-TEXT: RT @30SECONDSTOMARS: "They found water on #MARS? We found MARS on water." - @shannonletoarmy http://t.co/NivT2mGIUi
+TEXT: RT @30SECONDSTOMARS: "They found water on #MARS? We found MARS on water." - @shannonletoarmy 
 
 USER: bitchjn
 DATE: 2015-10-12
-TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details: http://t.co/0MW11SANwL #MarsAnnouncement http://t.co?
+TEXT: RT @NASA: Water! Strong evidence that liquid water flows on present-day Mars. Details:  #MarsAnnouncement 
 
 USER: SaddleLawman
 DATE: 2015-10-12
@@ -2203,7 +1952,7 @@ TEXT: Illegal aliens should go back to their salt water on Mars! #TrumpforPresid
 
 USER: TexasSpaceGrant
 DATE: 2015-10-12
-TEXT: We?ve finally found water on #Mars! Explore more fun facts about the Red Planet here: http://t.co/i6ypwQFhrK via @nasaspaceplace
+TEXT: We?ve finally found water on #Mars! Explore more fun facts about the Red Planet here:  via @nasaspaceplace
 
 USER: swartzwithyou
 DATE: 2015-10-12
@@ -2211,15 +1960,15 @@ TEXT: RT @TheTweetOfGod: Focus less on the tiny bit of liquid water melting on M
 
 USER: CowboySciFiBot
 DATE: 2015-10-12
-TEXT: RT @Shyam17: NASA Confirms Evidence That Liquid Water Flows on Today?s Mars.#MartianSurface,#Space,#mars,#NASA,#JPL,#WaterOnMars, http://t.?
+TEXT: RT @Shyam17: NASA Confirms Evidence That Liquid Water Flows on Today?s Mars.#MartianSurface,#Space,#mars,#NASA,#JPL,#WaterOnMars, 
 
 USER: sneakyriki
 DATE: 2015-10-12
-TEXT: RT @OWCalifornia: When California colonize Mars for its water. http://t.co/sNcIRPEGu0
+TEXT: RT @OWCalifornia: When California colonize Mars for its water. 
 
 USER: sydalg__
 DATE: 2015-10-12
-TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? http://t.co/dyfjWGtyHR
+TEXT: RT @YaLocalWhiteBoy: THERES WATER ON MARS FOR YOU THIRSTY BITCHES NOW?? 
 
 USER: HaychCali
 DATE: 2015-10-12
@@ -2235,17 +1984,11 @@ TEXT: RT @jaredmaine: Dude. Water on Mars. Party on.
 
 USER: SweetPLuvsU
 DATE: 2015-10-12
-TEXT: RT @HappyCampersTHC: NASA: "Liquid water flows on Mars."
-
-Me: "Sweet, now where the aliens at?"
-
-NASA: "Aliens? What aliens??"
-
-Me http://t?
+TEXT: RT @HappyCampersTHC: NASA: "Liquid water flows on Mars." Me: "Sweet, now where the aliens at?" NASA: "Aliens? What aliens??" Me 
 
 USER: BzibziBebo
 DATE: 2015-10-12
-TEXT: RT @DeviantArt: Water on Mars?! Marvin the Martian is ready. ? http://t.co/ZdtrsJ1DM4 http://t.co/ujGoihlysp
+TEXT: RT @DeviantArt: Water on Mars?! Marvin the Martian is ready. ?  
 
 USER: LugoBrallan
 DATE: 2015-10-12
