@@ -50,7 +50,7 @@ public class SaveOnDB {
 
 		try {
 			// apro il file
-			fstream = new FileInputStream("NewVolkswagen.txt");
+			fstream = new FileInputStream("FaccettaWindows10.txt");
 
 			// prendo l'inputStream
 			in = new DataInputStream(fstream);
@@ -69,7 +69,7 @@ public class SaveOnDB {
 			}
 
 			// Sovrascrivo il file con il nuovo contenuto (aggiornato)
-			FileWriter fstreamWrite = new FileWriter("NewVolkswagen.txt");
+			FileWriter fstreamWrite = new FileWriter("FaccettaWindows10.txt");
 			out = new BufferedWriter(fstreamWrite);
 			out.write(fileContent.toString());
 
