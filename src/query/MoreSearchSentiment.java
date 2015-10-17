@@ -20,7 +20,7 @@ import sentiment.SentiWordNetDemoCode;
 public class MoreSearchSentiment {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader("NewBearArms.txt"));
 		String line = reader.readLine();
 		String pathToSWN = "SentiWordNet.txt";
 		SentiWordNetDemoCode sentiwordnet = new SentiWordNetDemoCode(pathToSWN);
@@ -86,7 +86,7 @@ public class MoreSearchSentiment {
 
 		try {
 			// apro il file
-			fstream = new FileInputStream("Prova.txt");
+			fstream = new FileInputStream("NewBearArms.txt");
 
 			// prendo l'inputStream
 			in = new DataInputStream(fstream);
@@ -115,7 +115,7 @@ public class MoreSearchSentiment {
 			}
 
 			// Sovrascrivo il file con il nuovo contenuto (aggiornato)
-			FileWriter fstreamWrite = new FileWriter("Prova.txt");
+			FileWriter fstreamWrite = new FileWriter("NewBearArms.txt");
 			out = new BufferedWriter(fstreamWrite);
 			out.write(fileContent.toString());
 

@@ -20,16 +20,7 @@ import com.mongodb.MongoClient;
 public class OperationDB {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("NewBearArms.txt"));
-		String line = reader.readLine();
-		int cont = 0;
-		while (line != null) {
-			if ( (line.startsWith("USER:")) ) {
-				cont++;
-			}
-			line = reader.readLine();
-		}
-		System.out.println(cont);
+		
 	
 		/*PrintWriter outOp = new PrintWriter("DatabaseProvaOperation.txt");
 		MongoClient mongo = null;
@@ -51,33 +42,7 @@ public class OperationDB {
 		}*/
 		
 		
-		// INDIVIDUA I TWEET SU PIU' RIGHE
-		/*BufferedReader reader = new BufferedReader(new FileReader("StreamQueryTweet.txt"));
-		String line = reader.readLine();
-		int cont = 0;
-		int numRiga = 0;
-		boolean contato = false;
-		while (line != null) {
-			if ( (line.startsWith("USER:")) ) {
-				cont = 0; //conta le righe che occupano i tweet
-				contato = false; //verifica se ho contato le righe che precedono il tweet
-			}
-			if ( !(line.startsWith("USER:")) && !(line.startsWith("LINGUA:")) && !(line.matches("\\d{4}-\\d{2}-\\d{2}")) && !(line.equals(""))  ) {
-				if (!contato) {
-					numRiga = numRiga +4;
-				}
-				contato = true;
-				cont++;
-				if (cont > 1) {
-					numRiga++;
-					System.out.println(numRiga);
-				}
-			}
-			if (line.equals("")) {
-				numRiga++;
-			}
-			line = reader.readLine();
-		}*/
+		
 	}
 
 }

@@ -20,7 +20,7 @@ import twitter4j.conf.ConfigurationBuilder;
 public class MoreSearchQuery {
 
 	public static void main(String[] args) throws IOException {
-		FileWriter file = new FileWriter("FaccettaBearArms.txt", true);
+		FileWriter file = new FileWriter("NewMarinoPro.txt");
 		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
@@ -38,15 +38,15 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("bear arms :(");
-		int numberOfTweets = 4; //512
+		Query query = new Query("ProMarino OR VivaMarino OR iostoconmarino");
+		int numberOfTweets = 500; //512
 		//-----
 		String dataStart = "2015-10-06";
 	    String dataEnd = "2015-10-15";
 	    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 	    query.setSince(dataStart); // Start date of search
  		query.until(dataEnd);
- 		query.setLang("en");
+ 		query.setLang("it");
  		//-----
 		long lastID = Long.MAX_VALUE;
 		List<Status> tweets = new ArrayList<Status>();
