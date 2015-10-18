@@ -13,14 +13,14 @@ public class OperationFile {
 	
 	public static void getRT(FileWriter file) throws IOException {
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("NewMarinoPro.txt")); //modifico file
+		BufferedReader reader = new BufferedReader(new FileReader("NewMarsWater.txt")); //da dove leggere
 		String line = reader.readLine();
 		String[] splits;
 		String user;
 		int lung;
 		ArrayList<String> rt = new ArrayList<String>();
 		while (line != null) {
-			if (line.startsWith("TEXTprendiposrt:")) {
+			if (line.startsWith("TEXTprendinegrt:")) {
 				splits = line.split(" ");
 				if ( !(rt.contains(splits[2])) && (splits[2].startsWith("@")) ) {
 					rt.add(splits[2]);
@@ -40,15 +40,15 @@ public class OperationFile {
 	
 
 	public static void main(String[] args) throws IOException {
-		FileWriter file = new FileWriter("UserProMarino.txt", true);
+		FileWriter file = new FileWriter("UserControMarsWater.txt");
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("NewMarinoPro.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader("NewMarsWater.txt")); //da dove leggere
 		String line = reader.readLine();
 		//int cont = 0;
 		String[] splits;
 		ArrayList<String> users = new ArrayList<String>();
 		while (line != null) {
-			if ( (line.startsWith("USERprendipos:")) ) {
+			if ( (line.startsWith("USERprendineg:")) ) {
 				splits = line.split(" ");
 				if ( !(users.contains(splits[1])) ) {
 					users.add(splits[1]);
@@ -60,7 +60,7 @@ public class OperationFile {
 		}
 		outFile.close();
 		reader.close();
-		FileWriter fileRT = new FileWriter("RTposMarino.txt", true);
+		FileWriter fileRT = new FileWriter("RTnegMarsWater.txt");
 		getRT(fileRT);
 		
 		//System.out.println(cont);

@@ -4,43 +4,31 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import twitter4j.MainTwitter;
+import twitter4j.PagableResponseList;
 import twitter4j.ResponseList;
 import twitter4j.Status;
+import twitter4j.Twitter;
 import twitter4j.TwitterException;
+import twitter4j.User;
 import database.TwitterNeo4j;
 
 public class InformationLinkUser {
-
 	public static void main(String[] args) throws FileNotFoundException, TwitterException, IOException {
-		TwitterNeo4j neo = new TwitterNeo4j();
 		MainTwitter mt = new MainTwitter();
-		ResponseList<Status> stati;
-		stati = mt.tweetsOfUser("KateBiting", 1 );
-		stati.clear();
-		ResponseList<Status> statiLM;
-		ResponseList<Status> statiFG;
-		statiLM = mt.tweetsOfUser("LM791", 10 );
-		statiFG = mt.tweetsOfUser("FlavioGargioli", 10 );
-		Status statoLM, statoFG;
-		for (Status stato: statiLM) {
-			if (stato.getText().contains("Forza Roma")) {
-				System.out.println("DA ME");
-				statoLM = stato;
-				stati.add(statoLM);
+		Twitter twitter = mt.getTwitter();
+		PagableResponseList<User> followingsUser = null;
+		long cursor = -1;
+		int j = 0;
+		do {
+			followingsUser = twitter.getFriendsList("LM791", cursor, 200);//200
+			j = j + 200;
+			for (User user: followingsUser) {
+				System.out.println(user.getScreenName());
 			}
+			System.out.println("GETNEXT "+followingsUser.getNextCursor()); //il prossimo cursor
 		}
-		for (Status stato: statiFG) {
-			if (stato.getText().contains("Francesco Totti")) {
-				System.out.println("DA FLAVIO");
-				statoFG = stato;
-				stati.add(statoFG);
-			}
-		}
+		while ((cursor = followingsUser.getNextCursor()) != 0 && j < 3000); 
 		
-		for (Status stato: stati) {
-			System.out.println("DENTRO CREA NEO");
-			neo.newStatus(stato);
-		}
 	}
 
 }

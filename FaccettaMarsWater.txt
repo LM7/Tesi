@@ -46,9 +46,9 @@ USER: JamesWh83331350
 DATE: 2015-10-14
 TEXT: Screaming! :D
 
-USER: TheGoMacKay
+USERprendipos: TheGoMacKay
 DATE: 2015-10-14
-TEXT: RT @LadyPo: Nasa scientists find evidence of flowing water on Mars. Wow!! :D
+TEXTprendiposrt: RT @LadyPo: Nasa scientists find evidence of flowing water on Mars. Wow!! :D
 
 USER: eastrecordings
 DATE: 2015-10-14
@@ -58,21 +58,21 @@ USER: 2PMode_com
 DATE: 2015-10-14
 TEXT: Do you know how to find water on Mars?  :) Just drink it! #game #free #online #2player 
 
-USER: spaceflashnews
+USERprendipos: spaceflashnews
 DATE: 2015-10-14
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: KatRollinV
+USERprendipos: KatRollinV
 DATE: 2015-10-14
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
 USER: mayahoodblog
 DATE: 2015-10-14
 TEXT: While in Mexico they missed out on the Blue Jays big win & that they found water on Mars #socialcommonlive Love these girls :)
 
-USER: BallKongkaew
+USERprendipos: BallKongkaew
 DATE: 2015-10-13
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
 USER: vinyas_mustang
 DATE: 2015-10-13
@@ -82,9 +82,9 @@ USER: nextdrop
 DATE: 2015-10-13
 TEXT:  NextDrop's next stop: Mars!! :P #DreamBig #NextDrop #water #Mars
 
-USER: BernardoFdz
+USERprendipos: BernardoFdz
 DATE: 2015-10-13
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
 USER: LiverpoolRage
 DATE: 2015-10-13
@@ -122,9 +122,9 @@ USER: stupefyed
 DATE: 2015-10-12
 TEXT: RT @HateChrisGreene: i wonder do they have to pay any water charges on Mars LOLLLL HAHAHAHA LOLLLL HAHAHA #WATERCHARGES Lollll haha :) :) =?
 
-USER: AvinashKunder
+USERprendipos: AvinashKunder
 DATE: 2015-10-12
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
 USER: xnikkiw
 DATE: 2015-10-12
@@ -138,31 +138,31 @@ USER: Brittanimation
 DATE: 2015-10-12
 TEXT: RT @unlevelednate: WATER ON MARS! My doodle for @google honoring the @nasa announcement about the little red guy, so much fun to make :D ht?
 
-USER: ProjLightsOut
+USERprendipos: ProjLightsOut
 DATE: 2015-10-12
 TEXT: Red planet or blue planet? Remember, there is water on Mars :) 
 
-USER: Whitney_Waz
+USERprendipos: Whitney_Waz
+DATE: 2015-10-12
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+
+USERprendipos: damora30
 DATE: 2015-10-12
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: damora30
+USERprendipos: TLchDer367
 DATE: 2015-10-12
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: TLchDer367
+USERprendipos: artscience84
 DATE: 2015-10-12
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: artscience84
-DATE: 2015-10-12
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
-
-USER: LuciaHamarova
+USERprendipos: LuciaHamarova
 DATE: 2015-10-11
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Kinyacano
+USERprendipos: Kinyacano
 DATE: 2015-10-11
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -202,7 +202,7 @@ USER: Qadri_GM
 DATE: 2015-10-11
 TEXT: RT @tzk999: ThankGod Mars only has water. If it had Oil, Earthlings would be thinking about bringing Democracy to it :) #MarsWater
 
-USER: Astropost
+USERprendipos: Astropost
 DATE: 2015-10-11
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -210,9 +210,9 @@ USER: PlumeNon
 DATE: 2015-10-11
 TEXT: RT @zrz55: @PlumeNon Like this? BTW I'm very healthy. I drink a lot of water on Mars and exercise daily :-) #Martian 
 
-USER: Tweetkingbieber
+USERprendipos: Tweetkingbieber
 DATE: 2015-10-11
-TEXT: @James_Yammouni don't worry NASA found water on MARS we'll go there and live in :P
+TEXTprendiposrt: @James_Yammouni don't worry NASA found water on MARS we'll go there and live in :P
 
 USER: Tweetkingbieber
 DATE: 2015-10-11
@@ -242,23 +242,23 @@ USER: JessWrites2
 DATE: 2015-10-11
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: thecleandiana
+USERprendipos: thecleandiana
+DATE: 2015-10-10
+TEXTprendiposrt: RT @nsfwnick: @nsfwnick in case you didn't know, scientists discovered running water on Mars this week :)
+
+USERprendipos: ALiEN__GODDESS
 DATE: 2015-10-10
 TEXT: RT @nsfwnick: @nsfwnick in case you didn't know, scientists discovered running water on Mars this week :)
 
-USER: ALiEN__GODDESS
+USERprendipos: miamichelle_xo
 DATE: 2015-10-10
 TEXT: RT @nsfwnick: @nsfwnick in case you didn't know, scientists discovered running water on Mars this week :)
 
-USER: miamichelle_xo
+USERprendipos: whooreegui
 DATE: 2015-10-10
 TEXT: RT @nsfwnick: @nsfwnick in case you didn't know, scientists discovered running water on Mars this week :)
 
-USER: whooreegui
-DATE: 2015-10-10
-TEXT: RT @nsfwnick: @nsfwnick in case you didn't know, scientists discovered running water on Mars this week :)
-
-USER: lennely
+USERprendipos: lennely
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -314,19 +314,19 @@ USER: sidkhanna
 DATE: 2015-10-10
 TEXT: Wait. Mars has more water than California :) jk jk
 
-USER: Craken_MacCraic
+USERprendipos: Craken_MacCraic
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: ddbarker
+USERprendipos: ddbarker
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: IndyPablo
+USERprendipos: IndyPablo
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Draconigenae
+USERprendipos: Draconigenae
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -334,39 +334,39 @@ USER: loulou_jh15cr
 DATE: 2015-10-10
 TEXT: Photoset: jonsuart: Haven?t posted in a while but I?m pumped about WATER ON MARS! :D 
 
-USER: Ouellette_Mike1
+USERprendipos: Ouellette_Mike1
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: KQEDscience
+USERprendipos: KQEDscience
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: scribbles_93
+USERprendipos: scribbles_93
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: katiealene
+USERprendipos: katiealene
 DATE: 2015-10-10
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Mumbaiboy
+USERprendipos: Mumbaiboy
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: davischandy
+USERprendipos: davischandy
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: HeavenL77
+USERprendipos: HeavenL77
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: TLHartsell
+USERprendipos: TLHartsell
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: essaeg
+USERprendipos: essaeg
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -376,21 +376,21 @@ TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, 
 
 USER: polskijoseph
 DATE: 2015-10-09
-TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
+TEXTprendiposrt: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: JaymeHume9
+USERprendipos: JaymeHume9
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: lbessire1
+USERprendipos: lbessire1
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: GoodBtchGalinda
+USERprendipos: GoodBtchGalinda
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Ariella007Tif
+USERprendipos: Ariella007Tif
 DATE: 2015-10-09
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -950,39 +950,39 @@ USER: kyu_mari
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: cbaorion
+USERprendipos: cbaorion
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: denis_babin
+USERprendipos: denis_babin
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: nsugrive
+USERprendipos: nsugrive
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: laur_pritch
+USERprendipos: laur_pritch
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Gab_Contini
+USERprendipos: Gab_Contini
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Phinmeister
+USERprendipos: Phinmeister
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: LBako
+USERprendipos: LBako
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: EdouardDugas
+USERprendipos: EdouardDugas
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: madonnaqueen222
+USERprendipos: madonnaqueen222
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
@@ -994,19 +994,19 @@ USER: Fabio_Sciarra
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: exorcisingemily
+USERprendipos: exorcisingemily
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: jsimav8r
+USERprendipos: jsimav8r
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: Herioc_Zebra
+USERprendipos: Herioc_Zebra
 DATE: 2015-10-08
 TEXT: RT @NASANewHorizons: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  ht?
 
-USER: NASANewHorizons
+USERprendipos: NASANewHorizons
 DATE: 2015-10-08
 TEXT: #Ditto. Forms of water on #Mars, #Pluto, #Enceladus, etc. - in our own #solarsystem.  :-) The future looks bright!  
 

@@ -1,4 +1,4 @@
-USER: III_Means_Free
+USERprendineg: III_Means_Free
 DATE: 2015-10-08
 TEXT: The #2ndAmendment declares the people are to "keep and bear Arms" for the community-defense structure?"a well regulated Militia".
 0: very pos
@@ -10,19 +10,19 @@ USER: SurvivorSango
 DATE: 2015-10-08
 TEXT: @In_Living_Fire "pfft no he's a perverted monk who ask every women he sees to bear him a child" she scoffed as she folded her arms looking--
 2: negative
-USER: joedelgado7_joe
+USERprendineg: joedelgado7_joe
 DATE: 2015-10-08
 TEXT: The right to "bear arms" is a right & a law given to law abiding citizens. You can't make a law to outlaw them. Criminals do not obey laws!
 3: positive
-USER: DA4Liberty
+USERprendineg: DA4Liberty
 DATE: 2015-10-08
-TEXT: RT @Shooters_Wife: MT @LindaSuhler: Strongest reason for the people to retain the RIGHT to keep & bear arms is #2A.  ?
+TEXTprendinegRT: RT @Shooters_Wife: MT @LindaSuhler: Strongest reason for the people to retain the RIGHT to keep & bear arms is #2A.  ?
 4: neutral
 USER: DastardlyEpic
 DATE: 2015-10-08
 TEXT: @BurntMayonnaise exactly. The right to bear arms was never supposed to be used in a context where 'arms' could single handedly destroy towns
 5: neutral
-USER: lexeymarie18
+USERprendineg: lexeymarie18
 DATE: 2015-10-08
 TEXT: @cpdecarlo @sammyirace52 @CloydRivers and bear Arms, shall not be infringed.
 6: neutral
@@ -38,9 +38,9 @@ USER: PMgeezer
 DATE: 2015-10-08
 TEXT: RT @gerfingerpoken2: Jeb Bush vs. the 2nd Amendment      Sees no national right to bear arms @2A #NRA - 
 9: neutral
-USER: fitzelizabeth
+USERprendineg: fitzelizabeth
 DATE: 2015-10-08
-TEXT: RT @Gun_Shots: The right of the people to keep and bear... arms shall not be infringed. - James Madison, I Annals of Congress 434, June 8, ?
+TEXTprendinegrt: RT @Gun_Shots: The right of the people to keep and bear... arms shall not be infringed. - James Madison, I Annals of Congress 434, June 8, ?
 10: negative
 USER: DastardlyEpic
 DATE: 2015-10-08
@@ -58,9 +58,9 @@ USER: Y2JCrisis
 DATE: 2015-10-08
 TEXT: @mp3michael @thomas_violence @AndyRichter right. From 1876 until 2008, the right to bear arms didn't apply to individuals
 14: very pos
-USER: southgadiva
+USERprendineg: southgadiva
 DATE: 2015-10-08
-TEXT: RT @Shooters_Wife: MT @LindaSuhler: Strongest reason for the people to retain the RIGHT to keep & bear arms is #2A.  ?
+TEXTprendinegrt: RT @Shooters_Wife: MT @LindaSuhler: Strongest reason for the people to retain the RIGHT to keep & bear arms is #2A.  ?
 15: neutral
 USER: CrusadeDeusVult
 DATE: 2015-10-08
