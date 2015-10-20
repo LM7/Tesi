@@ -39,10 +39,24 @@ public class SentiStrengthMain {
 		return moodTotal;
 	}
 	
+	public String calculatorOneTweet(int[] result) {
+		String mood = "";
+		if (result[2] > 0) {
+			mood = "positive";
+		}
+		else if (result[2] < 0) {
+			mood = "negative";
+		}
+		else {
+			mood = "neutral";
+		}
+		return mood;
+	}
+	
 	/*stampa tutti  e 3 i valori dei tweet*/
 	
 	public ArrayList<Integer> sentiment(ArrayList<String> tweets) {
-		String ssthInitialisation[] = {"sentidata", "SentStrength_Data/", "scale"}; //explain
+		String ssthInitialisation[] = {"sentidata", "SentStrength_Data_Ita/", "scale"}; //explain
 		this.sentistrength.initialise(ssthInitialisation);
 		ArrayList<Integer> valori = new ArrayList<Integer>();
 		for (String tweet: tweets) {
@@ -56,23 +70,53 @@ public class SentiStrengthMain {
 		}
 		return valori;
 	}
+	public int[] sentimentOneTweet(String tweet) {
+		String ssthInitialisation[] = {"sentidata", "SentStrength_Data_Ita/", "scale"}; //explain
+		this.sentistrength.initialise(ssthInitialisation);
+		int[] valori = new int[3];
+		//System.out.println(this.sentistrength.computeSentimentScores(tweet)); //Stampo i risultati (con l'explain se volessi)
+		String sent = this.sentistrength.computeSentimentScores(tweet);
+		String[] splits = sent.split(" "); //Ho i 3 valori del tweet
+		for (int j = 0; j < splits.length; j++) {
+			int valore = Integer.parseInt(splits[j]);
+			valori[j] = valore;
+		}
+		return valori;
+	}
 	
 	public static void main(String[] args) {
 		SentiStrengthMain ss = new SentiStrengthMain();
 		ArrayList<String> prove = new ArrayList<String>();
 		ArrayList<Integer> valoriProve = new ArrayList<Integer>();
 		ArrayList<String> proveMood = new ArrayList<String>();
-		prove.add("I hate frogs.");
+		/*prove.add("I hate frogs.");
 		prove.add("I love dogs.");
 		prove.add("I'm happy with the environment");
 		prove.add("The current program is boring");
-		prove.add("I wonder when this is going to end!");
+		prove.add("I wonder when this is going to end!");*/
+		prove.add("Io sono contento");
+		prove.add("Odio tutti");
+		prove.add("Amo la Roma");
+		prove.add("Sono felice anche se annoiato");
+		prove.add("Siamo tutti molto tristi");
 		valoriProve = ss.sentiment(prove);
 		proveMood = ss.calculator(valoriProve);
-		
+		int j = 0;
 		for (String stringa: proveMood) {
+			System.out.println(valoriProve.get(j));
 			System.out.println(stringa);
+			j++;
 		}
+		
+		
+		System.out.println();
+		System.out.println("METODI SU UN SOLO TWEET");
+		String oneTweet = "Siamo tutti molto tristi";
+		String result = "";
+		int[] valoriProveOneTweet = new int[3];
+		valoriProveOneTweet = ss.sentimentOneTweet(oneTweet);
+		result = ss.calculatorOneTweet(valoriProveOneTweet);
+		System.out.println("RISULTATO: "+result);
 	}
 
 }
