@@ -15,21 +15,19 @@ public class TweetPast {
 
 	public static void main(String[] args) throws IOException, TwitterException {
 		MainTwitter mt = new MainTwitter();
-		FileWriter file = new FileWriter("Marino/MarinoTweetPastNeg.txt");
+		FileWriter file = new FileWriter("appoggio/Prova.txt", true);
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("appoggio/Prova.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader("Marino/UserProMarino.txt"));
 		String line = reader.readLine();
 		ResponseList<Status> stati = null;
 		while (line != null) {
-			stati = mt.tweetsOfUser(line.toString(), 1000);
+			stati = mt.tweetsOfUser(line.toString(), 10000);
 			System.out.println(line.toString());
-			outFile.println(line.toString());
 			for (Status stato: stati) {
-				if (stato.getText().contains("Marino")) {
-					outFile.println(stato.getCreatedAt());
-					outFile.println(stato.getText());
-					outFile.println();
-				}
+				outFile.println("USER: "+line.toString()+" ..........");
+				outFile.println(stato.getCreatedAt());
+				outFile.println(stato.getText());
+				outFile.println();
 			}
 			outFile.println();
 			line = reader.readLine();

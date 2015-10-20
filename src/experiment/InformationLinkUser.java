@@ -2,6 +2,8 @@ package experiment;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import twitter4j.MainTwitter;
 import twitter4j.PagableResponseList;
@@ -16,19 +18,35 @@ public class InformationLinkUser {
 	public static void main(String[] args) throws FileNotFoundException, TwitterException, IOException {
 		MainTwitter mt = new MainTwitter();
 		Twitter twitter = mt.getTwitter();
-		PagableResponseList<User> followingsUser = null;
-		long cursor = -1;
-		int j = 0;
-		do {
-			followingsUser = twitter.getFriendsList("LM791", cursor, 200);//200
-			j = j + 200;
-			for (User user: followingsUser) {
-				System.out.println(user.getScreenName());
-			}
-			System.out.println("GETNEXT "+followingsUser.getNextCursor()); //il prossimo cursor
+		ResponseList<Status> stati = null;
+		stati = mt.tweetsOfUser("OfficialASRoma", 1000);
+		int cont = 1;
+		for (Status stato: stati) {
+			System.out.println(cont);
+			System.out.println("DATA: "+stato.getCreatedAt()+" e TESTO: "+stato.getText());
+			cont++;
 		}
-		while ((cursor = followingsUser.getNextCursor()) != 0 && j < 3000); 
-		
-	}
+		/*long id = (long) (624481934.631170048 * 1000000000);
+		RelatedResults results = twitter.getRelatedResults(id);
+		List<Status> conversations = results.getTweetsWithConversation();
+		/////////
+		Status originalStatus = twitter.showStatus(id);
+		if (conversations.isEmpty()) {
+		    conversations = results.getTweetsWithReply();
+		}
 
+		if (conversations.isEmpty()) {
+		    conversations = new ArrayList<Status>();
+		    Status status = originalStatus;
+		    while (status.getInReplyToStatusId() > 0) {
+		        status = twitter.showStatus(status.getInReplyToStatusId());
+		        conversations.add(status);
+		    }
+		}
+		// show the current message in the conversation, if there's such
+		if (!conversations.isEmpty()) {
+		    conversations.add(originalStatus);
+		}*/
+	}
 }
+
