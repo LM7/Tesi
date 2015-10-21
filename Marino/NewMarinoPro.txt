@@ -1,1190 +1,1190 @@
-USERprendipos: titticri
+USER: titticri
 DATE: 2015-10-15
-TEXTprendiposrt: RT @marielSiviglia:  Il prossimo sindaco di Roma  si arrabbia  x la metropolitana @iostoconmarino  @titticri @Rossa?
+RT @marielSiviglia:  Il prossimo sindaco di Roma  si arrabbia  x la metropolitana @iostoconmarino  @titticri @Rossa?
 
 USER: iostoconmarino
 DATE: 2015-10-15
-TEXT: @smenichini  hai visto? Firma 
+@smenichini  hai visto? Firma 
 
 USER: iostoconmarino
 DATE: 2015-10-15
-TEXT: @vladiluxuria hai visto? firma 
+@vladiluxuria hai visto? firma 
 
 USER: iostoconmarino
 DATE: 2015-10-15
-TEXT: @ultimenotizie @ignaziomarino avete letto?Firmate 
+@ultimenotizie @ignaziomarino avete letto?Firmate 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @VivienCattani: @ignaziomarino ritiri le sue dimissioni per favore
+RT @VivienCattani: @ignaziomarino ritiri le sue dimissioni per favore
 Firmate  @iostoconmarino @Laspeziaxmarino 
 
-USERprendipos: VivienCattani
+USER: VivienCattani
 DATE: 2015-10-14
-TEXTprendiposrt: @ignaziomarino ritiri le sue dimissioni per favore Firmate  @iostoconmarino @Laspeziaxmarino 
+@ignaziomarino ritiri le sue dimissioni per favore Firmate  @iostoconmarino @Laspeziaxmarino 
 
-USERprendipos: ar_cavaliere
+USER: ar_cavaliere
 DATE: 2015-10-14
-TEXTprendiposrt: RT @marielSiviglia: Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefian?
-
-USERprendipos: iostoconmarino
-DATE: 2015-10-14
-TEXTprendiposrt: RT @marielSiviglia: Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefian?
+RT @marielSiviglia: Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefian?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: 
+RT @marielSiviglia: Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefian?
+
+USER: iostoconmarino
+DATE: 2015-10-14
+RT @marielSiviglia: 
 Il prossimo sindaco di Roma  si arrabbia  x la metropolitana 
 @iostoconmarino  @titticri @Rossa?
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: 
+
 Il prossimo sindaco di Roma  si arrabbia  x la metropolitana 
 @iostoconmarino  @titticri @Rossana7336  @SalvoMely
 
 USER: vinceluise
 DATE: 2015-10-14
-TEXT: #Marino dietro il sentiment negativo non c'e' crollo del consenso.  via @Viralbeat #marinodimettiti #iostoconmarino
+#Marino dietro il sentiment negativo non c'e' crollo del consenso.  via @Viralbeat #marinodimettiti #iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefiano @iostoconmarino
+Non avete  il coraggio ad ammettere che avete fatto un compromesso con la chiesa  x dimissioni di Marino  @emanuelefiano @iostoconmarino
 
-USERprendipos: LucaGiandomenic
+USER: LucaGiandomenic
 DATE: 2015-10-14
-TEXTprendiposrt: @Pontifex_it ordina, @renzi e @orfini eseguono... @PD_ROMA @pdnetwork #iostoconmarino @ignaziomarino @roma 
-
-USER: iostoconmarino
-DATE: 2015-10-14
-TEXT: @marielSiviglia @ignaziomarino deligittamare voto ? interruzione democrazia @ignaziomarino
+@Pontifex_it ordina, @renzi e @orfini eseguono... @PD_ROMA @pdnetwork #iostoconmarino @ignaziomarino @roma 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconm?
+@marielSiviglia @ignaziomarino deligittamare voto ? interruzione democrazia @ignaziomarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ign?
+RT @marielSiviglia: Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconm?
 
-USERprendipos: FedericoBarli
+USER: iostoconmarino
 DATE: 2015-10-14
-TEXTprendiposrt: @SkyTG24 era nel programma elettorale @ignaziomarino #uomodiparola #iostoconmarino
+RT @marielSiviglia: Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ign?
 
 USER: FedericoBarli
 DATE: 2015-10-14
-TEXT: Roma,sfida di #Marino:
-Fori completamente pedonali vietato  il transito anche a taxi e bus  #programmaelettorale  #iostoconmarino
+@SkyTG24 era nel programma elettorale @ignaziomarino #uomodiparola #iostoconmarino
 
-USERprendipos: stefanialleccor
+USER: FedericoBarli
 DATE: 2015-10-14
-TEXTprendiposrt: RT @marielSiviglia: Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ign?
+Roma,sfida di #Marino:
+Fori completamente pedonali vietato  il transito anche a taxi e bus  #programmaelettorale  #iostoconmarino
 
 USER: stefanialleccor
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconm?
+RT @marielSiviglia: Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ign?
+
+USER: stefanialleccor
+DATE: 2015-10-14
+RT @marielSiviglia: Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconm?
 
 USER: MrMartcus
 DATE: 2015-10-14
-TEXT: @LaGabbiaTw questi lo sapevamo, quello che nn sappiamo ? chi paga quelli che sn andati a protestare #promarino e #contromarino
+@LaGabbiaTw questi lo sapevamo, quello che nn sappiamo ? chi paga quelli che sn andati a protestare #promarino e #contromarino
 
-USERprendipos: mtvaccari
+USER: mtvaccari
 DATE: 2015-10-14
-TEXTprendiposrt: #iostoconmarino superate le 50.000 firme in pochi giorni 
+#iostoconmarino superate le 50.000 firme in pochi giorni 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @VivienCattani: Da @sole24ore Incapacit?? Non direi @orfini @matteorenzi @meb @pdnetwork @FedericoBarli 
+RT @VivienCattani: Da @sole24ore Incapacit?? Non direi @orfini @matteorenzi @meb @pdnetwork @FedericoBarli 
 #resisti @ignaziomarino 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @ignaziomarino @VivienCattani "sei colui che ha permesso a tutti noi di tornare a sperare, di sognare ad occhi aperti. Grazie" 7/6/2013.
+@ignaziomarino @VivienCattani "sei colui che ha permesso a tutti noi di tornare a sperare, di sognare ad occhi aperti. Grazie" 7/6/2013.
 
 USER: VivienCattani
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
+RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
 
 USER: tizianotogna
 DATE: 2015-10-14
-TEXT: il resto ditelo voi, #iostoconMarino 
+il resto ditelo voi, #iostoconMarino 
 
-USERprendipos: vogliodirelamia
+USER: vogliodirelamia
 DATE: 2015-10-14
-TEXTprendiposrt: RT @Vincenzo_Vita: @iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
+RT @Vincenzo_Vita: @iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
 
 USER: romi_andrio
 DATE: 2015-10-14
-TEXT: RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
+RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
 
-USERprendipos: marielSiviglia
+USER: marielSiviglia
 DATE: 2015-10-14
-TEXTprendiposrt: Un boato !
+Un boato !
 Adesso chi deve intervenire a restituire  sindaco  @ignaziomarino  a Roma  ,intervenga  @iostoconmarino 
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconmarino
+Dimissioni forzate del sindaco  @ignaziomarino  equivale a permettere di ballare alle pantegane della mafia  @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ignaziomarino
+Pensiamo che andare a votare non serve se poi un partito delegittima il voto @iostoconmarino @titticri @RaiBallaro @ignaziomarino
 
-USERprendipos: GiordanoBattini
+USER: GiordanoBattini
 DATE: 2015-10-14
-TEXTprendiposrt: RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
+RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
 
-USERprendipos: GiordanoBattini
+USER: GiordanoBattini
 DATE: 2015-10-14
-TEXTprendiposrt: RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
+RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @ignaziomarino 50.000 firme. Ora verso le 75.000 la base c'?.
+@ignaziomarino 50.000 firme. Ora verso le 75.000 la base c'?.
 
 USER: AlessandroMil17
 DATE: 2015-10-14
-TEXT: @marielSiviglia @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely fa curriculum X  diventare Presidenti del consiglio non sindaci :-)
+@marielSiviglia @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely fa curriculum X  diventare Presidenti del consiglio non sindaci :-)
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Appunto!
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Appunto!
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Nessun partito chiede dimissioni dei suoi sindaci x 2 scontro che puzza di complotto.  @amelyre @fattoquotidiano @alias?
+RT @marielSiviglia: Nessun partito chiede dimissioni dei suoi sindaci x 2 scontro che puzza di complotto.  @amelyre @fattoquotidiano @alias?
 
 USER: amelyre
 DATE: 2015-10-14
-TEXT: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Appunto!
+@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Appunto!
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Nessun partito chiede dimissioni dei suoi sindaci x 2 scontro che puzza di complotto.  @amelyre @fattoquotidiano @alias16g @iostoconmarino
+Nessun partito chiede dimissioni dei suoi sindaci x 2 scontro che puzza di complotto.  @amelyre @fattoquotidiano @alias16g @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Marino ? stato controllato dal suo insediamento da aerea cattolica del PD  @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely
+Marino ? stato controllato dal suo insediamento da aerea cattolica del PD  @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Scontrini sono un pretesto
+Scontrini sono un pretesto
  @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
+RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
 
 USER: andreapoli8788
 DATE: 2015-10-14
-TEXT: @iostoconmarino che agenda piena sono passati solo sei mesi
+@iostoconmarino che agenda piena sono passati solo sei mesi
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia co?
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia co?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Vi ricordate l'aggressione da parte dell'Espresso a Crocetta?
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Vi ricordate l'aggressione da parte dell'Espresso a Crocetta?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino ? il famigerato metodo Boffo.
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino ? il famigerato metodo Boffo.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @raffael70709794: @Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  non ? esatto:Marino ? controllato,scontrini di Renzi gi? nel ?
+RT @raffael70709794: @Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  non ? esatto:Marino ? controllato,scontrini di Renzi gi? nel ?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @mdpennalunga: @BarillariM5S E QUINDI?Che c'entra?Allora mafiosa? @iostoconmarino @raffaeledstfn @ignaziomarino @FedeAngeli 
+RT @mdpennalunga: @BarillariM5S E QUINDI?Che c'entra?Allora mafiosa? @iostoconmarino @raffaeledstfn @ignaziomarino @FedeAngeli 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @mdpennalunga: @BarillariM5S la campagna elettorale dopo.Ora rispondi. @iostoconmarino @raffaeledstfn @ignaziomarino Perch? @FedeAngeli ?
+RT @mdpennalunga: @BarillariM5S la campagna elettorale dopo.Ora rispondi. @iostoconmarino @raffaeledstfn @ignaziomarino Perch? @FedeAngeli ?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @FedeAngeli grazie :)
+@FedeAngeli grazie :)
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @FedeAngeli: Certo e mio marito ha firmato @iostoconmarino
+RT @FedeAngeli: Certo e mio marito ha firmato @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: Tangenti: "Sabella, li avevo denunciati tutti ad aprile.
+Tangenti: "Sabella, li avevo denunciati tutti ad aprile.
 Oggi li avevamo convocati per escluderli dalla gara del
 Giubileo."
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
+RT @amelyre: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? pri?
 
 USER: amelyre
 DATE: 2015-10-14
-TEXT: @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? priorit? governo.
+@iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g Non ?  una novit? che lotta a corruzione e mafia non ? priorit? governo.
 
-USERprendipos: raffael70709794
+USER: raffael70709794
 DATE: 2015-10-14
-TEXT: @Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  non ? esatto:Marino ? controllato,scontrini di Renzi gi? nel dimenticatoio
-
-USER: amelyre
-DATE: 2015-10-14
-TEXT: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino ? il famigerato metodo Boffo.
-
-USER: iostoconmarino
-DATE: 2015-10-14
-TEXT: @amelyre @marielSiviglia @fattoquotidiano @alias16g tangenti Roma Sabella, li aveva denunciati ad aprile. @ignaziomarino combatteva mafia.
+@Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  non ? esatto:Marino ? controllato,scontrini di Renzi gi? nel dimenticatoio
 
 USER: amelyre
 DATE: 2015-10-14
-TEXT: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Vi ricordate l'aggressione da parte dell'Espresso a Crocetta?
-
-USER: marielSiviglia
-DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia co?
+@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino ? il famigerato metodo Boffo.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Che branco di ipocriti @amelyre @fattoquotidiano @alias16g @iostoconmarino
-
-USER: marielSiviglia
-DATE: 2015-10-14
-TEXT: Che branco di ipocriti @amelyre @fattoquotidiano @alias16g @iostoconmarino
+@amelyre @marielSiviglia @fattoquotidiano @alias16g tangenti Roma Sabella, li aveva denunciati ad aprile. @ignaziomarino combatteva mafia.
 
 USER: amelyre
 DATE: 2015-10-14
-TEXT: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia come Di Matteo.
+@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Vi ricordate l'aggressione da parte dell'Espresso a Crocetta?
+
+USER: marielSiviglia
+DATE: 2015-10-14
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia co?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Molti trasversalmente si sono accaniti su Marino sollecitando le su?
+RT @marielSiviglia: Che branco di ipocriti @amelyre @fattoquotidiano @alias16g @iostoconmarino
+
+USER: marielSiviglia
+DATE: 2015-10-14
+Che branco di ipocriti @amelyre @fattoquotidiano @alias16g @iostoconmarino
 
 USER: amelyre
 DATE: 2015-10-14
-TEXT: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Molti trasversalmente si sono accaniti su Marino sollecitando le sue dimissioni.
+@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono e tacciono.Spostano attenzione su icona antimafia come Di Matteo.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: @fattoquotidiano  ha fatto  campagna diffamatoria contro Marino  e cita Di Matteo?   @alias16g @amelyre @iostoconmarino
+RT @amelyre: @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Molti trasversalmente si sono accaniti su Marino sollecitando le su?
+
+USER: amelyre
+DATE: 2015-10-14
+@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Molti trasversalmente si sono accaniti su Marino sollecitando le sue dimissioni.
+
+USER: iostoconmarino
+DATE: 2015-10-14
+RT @marielSiviglia: @fattoquotidiano  ha fatto  campagna diffamatoria contro Marino  e cita Di Matteo?   @alias16g @amelyre @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: @fattoquotidiano  ha fatto  campagna diffamatoria contro Marino  e cita Di Matteo?   @alias16g @amelyre @iostoconmarino
+@fattoquotidiano  ha fatto  campagna diffamatoria contro Marino  e cita Di Matteo?   @alias16g @amelyre @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Fa specie vedere  paladina ddl unioni civili  @MonicaCirinna  allinearsi  a chi vuole far passare @ignaziomarino bugiar?
+RT @marielSiviglia: Fa specie vedere  paladina ddl unioni civili  @MonicaCirinna  allinearsi  a chi vuole far passare @ignaziomarino bugiar?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Come se nel  PD nessuno ha detto una bugia ,tutti santi con aureola @MonicaCirinna  @ignaziomarino  @iostoconmarino
+RT @marielSiviglia: Come se nel  PD nessuno ha detto una bugia ,tutti santi con aureola @MonicaCirinna  @ignaziomarino  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi le compensazioni date a Mezzaroma
+@marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi le compensazioni date a Mezzaroma
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi ultimo atto giunta veltroni con colata cemento roma
+@marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi ultimo atto giunta veltroni con colata cemento roma
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi assessore operazione bus J giubileo 2000
+@marielSiviglia @MonicaCirinna @ignaziomarino ci spieghi assessore operazione bus J giubileo 2000
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Come se nel  PD nessuno ha detto una bugia ,tutti santi con aureola @MonicaCirinna  @ignaziomarino  @iostoconmarino
+Come se nel  PD nessuno ha detto una bugia ,tutti santi con aureola @MonicaCirinna  @ignaziomarino  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @MonicaCirinna @ignaziomarino #cirinn? roma ce batte dentro ar core e le sapemo le magagne. Nun semo mica scemi.
+@marielSiviglia @MonicaCirinna @ignaziomarino #cirinn? roma ce batte dentro ar core e le sapemo le magagne. Nun semo mica scemi.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @MonicaCirinna @ignaziomarino assessore di Roma quando debito alzatosi. Con #marino sceso.
+@marielSiviglia @MonicaCirinna @ignaziomarino assessore di Roma quando debito alzatosi. Con #marino sceso.
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Fa specie vedere  paladina ddl unioni civili  @MonicaCirinna  allinearsi  a chi vuole far passare @ignaziomarino bugiardo @iostoconmarino
+Fa specie vedere  paladina ddl unioni civili  @MonicaCirinna  allinearsi  a chi vuole far passare @ignaziomarino bugiardo @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @Rossana7336 @marielSiviglia @SalvoMely @VirusRai2 a roma la mafia c'? ed ? grazie a #pignatone e #marino che sta uscendo
+@Rossana7336 @marielSiviglia @SalvoMely @VirusRai2 a roma la mafia c'? ed ? grazie a #pignatone e #marino che sta uscendo
 
 USER: mimmoscordino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
+RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @Rossana7336 @marielSiviglia @SalvoMely @VirusRai2 ? stato multato per tavolini selvaggi? Dopo dimissioni tavolini usciti di nuovo. Casi?
+@Rossana7336 @marielSiviglia @SalvoMely @VirusRai2 ? stato multato per tavolini selvaggi? Dopo dimissioni tavolini usciti di nuovo. Casi?
 
-USERprendipos: marielSiviglia
+USER: marielSiviglia
 DATE: 2015-10-14
-TEXTprendiposrt: RT @iostoconmarino: @marielSiviglia @ignaziomarino 25 ottobre 2015 ore 12 campidoglio manifestazione per #marino. 
-
-USERprendipos: mcacciaglia64
-DATE: 2015-10-14
-TEXTprendiposrt: RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
+RT @iostoconmarino: @marielSiviglia @ignaziomarino 25 ottobre 2015 ore 12 campidoglio manifestazione per #marino. 
 
 USER: mcacciaglia64
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
+RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
+
+USER: mcacciaglia64
+DATE: 2015-10-14
+RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
 
 USER: mimmoscordino
 DATE: 2015-10-14
-TEXT: RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
+RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
 
 USER: GiordanoBattini
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
+RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
+RT @marielSiviglia: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @Rossana7336 @SalvoMely @VirusRai2 a roma abituati a evasione.
+@marielSiviglia @Rossana7336 @SalvoMely @VirusRai2 a roma abituati a evasione.
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
+Cara Rossana, povera  Italia @Rossana7336 @SalvoMely @VirusRai2  @iostoconmarino 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @ignaziomarino questo anche ci? che si stava combattendo
+@marielSiviglia @ignaziomarino questo anche ci? che si stava combattendo
 
 
-USERprendipos: mcacciaglia64
+USER: mcacciaglia64
 DATE: 2015-10-14
-TEXTprendiposrt: RT @marielSiviglia: L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stef?
+RT @marielSiviglia: L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stef?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stef?
+RT @marielSiviglia: L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stef?
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
+RT @SalvoMely: In Italia i sindaci antimafia li facciamo dimettere e i camorristi li facciamo sedere in Parlamento! #IostoconMarino 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @SalvoMely: @RaiBallaro da PD presunzione innocenza per tutti ma non con Marino. Intanto le firme su note spese non combaciano.
+RT @SalvoMely: @RaiBallaro da PD presunzione innocenza per tutti ma non con Marino. Intanto le firme su note spese non combaciano.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @SalvoMely: Nel 2012 FERRARA, BELPIETRO, BECHIS, FELTRI ecc tutti condannati per diffamazione nei confronti di #IGNAZIOMARINO 
+RT @SalvoMely: Nel 2012 FERRARA, BELPIETRO, BECHIS, FELTRI ecc tutti condannati per diffamazione nei confronti di #IGNAZIOMARINO 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @SalvoMely: @RaiBallaro da PD presunzione di innocenza per tutti ma no per Marino. Firme su note spesa non combaciano a originale. Con M?
+RT @SalvoMely: @RaiBallaro da PD presunzione di innocenza per tutti ma no per Marino. Firme su note spesa non combaciano a originale. Con M?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @ignaziomarino 25 ottobre 2015 ore 12 campidoglio manifestazione per #marino. 
+@marielSiviglia @ignaziomarino 25 ottobre 2015 ore 12 campidoglio manifestazione per #marino. 
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @frondolino @ignaziomarino urtisti, abusivi, vigili, palazzinari, monnezzari
+@marielSiviglia @frondolino @ignaziomarino urtisti, abusivi, vigili, palazzinari, monnezzari
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stefanoesposito
+L'assessore ha contribuito alle dimissioni del sindaco, ? un ruffiano non un eroe  @iostoconmarino @ignaziomarino @stefanoesposito
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @ignaziomarino prontissimi a dimostrare a tutti cosa HA fatto #marino per Roma. Nessuno prima di lui toccato poteri forti
+@marielSiviglia @ignaziomarino prontissimi a dimostrare a tutti cosa HA fatto #marino per Roma. Nessuno prima di lui toccato poteri forti
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: @frondolino  non occorre  laurea in scienze politiche x capire che @ignaziomarino paga lo scotto x aver sfidato mafia  @iostoconmarino
+@frondolino  non occorre  laurea in scienze politiche x capire che @ignaziomarino paga lo scotto x aver sfidato mafia  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @ignaziomarino noi lo sappiamo @stefanoesposito ci stupisce suo comportamento.
+@marielSiviglia @ignaziomarino noi lo sappiamo @stefanoesposito ci stupisce suo comportamento.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: @frondolinoi sindaco di Parigi e New Work  dicono :  @ignaziomarino  si ?  confrontarsi con la mafia non @stefanoesposi?
+RT @marielSiviglia: @frondolinoi sindaco di Parigi e New Work  dicono :  @ignaziomarino  si ?  confrontarsi con la mafia non @stefanoesposi?
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: @frondolinoi sindaco di Parigi e New Work  dicono :  @ignaziomarino  si ?  confrontarsi con la mafia non @stefanoesposito  @iostoconmarino
+@frondolinoi sindaco di Parigi e New Work  dicono :  @ignaziomarino  si ?  confrontarsi con la mafia non @stefanoesposito  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 gli ricordiamo Mancini
+@marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 gli ricordiamo Mancini
 
 USER: PPIHAD
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
+RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 ricordiamo ad alemanno parentopoli atac e ama. Gli ricordiamo Panzironi
+@marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 ricordiamo ad alemanno parentopoli atac e ama. Gli ricordiamo Panzironi
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 alemanno non ci sono parole. La storia non gli dar? ragione
+@marielSiviglia @gaiatortora @AlemannoTW @ignaziomarino @OmnibusLa7 alemanno non ci sono parole. La storia non gli dar? ragione
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
+RT @marielSiviglia: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  ?
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  @iostoconmarino
+Ricordo a @gaiatortora che a Roma il processo ci sar? contro @AlemannoTW e @ignaziomarino ? parte civile  @OmnibusLa7  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia @matteorenzi @orfini hanno sospeso democrazia. Quasi 50mila voti primarie 650mila voti sindaco.
+@marielSiviglia @matteorenzi @orfini hanno sospeso democrazia. Quasi 50mila voti primarie 650mila voti sindaco.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: @marielSiviglia pensano che noi romani siamo scemi ma vedremo cosa succeder?. Questo @pdnetwork non pi? di sinistra.
+@marielSiviglia pensano che noi romani siamo scemi ma vedremo cosa succeder?. Questo @pdnetwork non pi? di sinistra.
 
 USER: iostoconmarino
 DATE: 2015-10-14
-TEXT: RT @marielSiviglia: Nessuno scrive che a Roma ? stata sospesa la democrazia .Con  Roma Renzi si gioca la poltrona @iostoconmarino
+RT @marielSiviglia: Nessuno scrive che a Roma ? stata sospesa la democrazia .Con  Roma Renzi si gioca la poltrona @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-14
-TEXT: Nessuno scrive che a Roma ? stata sospesa la democrazia .Con  Roma Renzi si gioca la poltrona @iostoconmarino
+Nessuno scrive che a Roma ? stata sospesa la democrazia .Con  Roma Renzi si gioca la poltrona @iostoconmarino
 
-USERprendipos: titticri
+USER: titticri
 DATE: 2015-10-14
-TEXTprendiposrt: RT @ilrere: L'invito dell'arcivescovo di Philadelphia. A che ora Bergoglio far? mea culpa dalla finestra? #iostoconmarino  
+RT @ilrere: L'invito dell'arcivescovo di Philadelphia. A che ora Bergoglio far? mea culpa dalla finestra? #iostoconmarino  
 
-USERprendipos: ilrere
+USER: ilrere
 DATE: 2015-10-14
-TEXT: L'invito dell'arcivescovo di Philadelphia. A che ora Bergoglio far? mea culpa dalla finestra? #iostoconmarino  
+L'invito dell'arcivescovo di Philadelphia. A che ora Bergoglio far? mea culpa dalla finestra? #iostoconmarino  
 
 USER: AFoccardi
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
-USERprendipos: StellaIsADiver
+USER: StellaIsADiver
 DATE: 2015-10-13
-TEXTprendiposrt: @RaiBallaro #Orfini aveva detto che mandar via #Marino era far gioco della mafia. Lui mi sa che deciso da che parte stare, #iostoconmarino.
+@RaiBallaro #Orfini aveva detto che mandar via #Marino era far gioco della mafia. Lui mi sa che deciso da che parte stare, #iostoconmarino.
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: "Scarpe rotte e pur bisogna andare". Oggi dove? 
+"Scarpe rotte e pur bisogna andare". Oggi dove? 
 
 USER: matarazzate
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: filigue78
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: GraziaIotti
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: luisaloffredo28
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: Giocoleria
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: Giocoleria
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
-
-USERprendipos: iostoconmarino
-DATE: 2015-10-13
-TEXTprendiposrt: @RaiBallaro arrestato vicepresidente della Lombardia e Tv non ne parla. Il problema ? @ignaziomarino. Cosa dobbiamo pensare noi elettori?
+RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @mdpennalunga: @PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
+@RaiBallaro arrestato vicepresidente della Lombardia e Tv non ne parla. Il problema ? @ignaziomarino. Cosa dobbiamo pensare noi elettori?
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: @ignaziomarino #marinoripensaci. Tu sei il nostro sindaco.
+RT @mdpennalunga: @PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
+
+USER: iostoconmarino
+DATE: 2015-10-13
+@ignaziomarino #marinoripensaci. Tu sei il nostro sindaco.
 
 USER: PieroChiappini
 DATE: 2015-10-13
-TEXT: RT @mdpennalunga: @PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
+RT @mdpennalunga: @PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
 
 USER: sig_cuorenero
 DATE: 2015-10-13
-TEXT: #iostoconmarino sar? incapace quanto vi pare ma da esterno mi sembra che abbia fatto un sacco di cose
+#iostoconmarino sar? incapace quanto vi pare ma da esterno mi sembra che abbia fatto un sacco di cose
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @fedepagasp: #Marino Sindaco di Roma e dei Romani @ignaziomarino ritiri le sue dimissioni per favore! 
+RT @fedepagasp: #Marino Sindaco di Roma e dei Romani @ignaziomarino ritiri le sue dimissioni per favore! 
 
 USER: cristjne127
 DATE: 2015-10-13
-TEXT: @ignaziomarino#IoStoConMarino, lei mi piace ed il PD non doveva combatterla ma aiutarla ? di sx Lei, non di destra,ma il cervello ce l'hanno
+@ignaziomarino#IoStoConMarino, lei mi piace ed il PD non doveva combatterla ma aiutarla ? di sx Lei, non di destra,ma il cervello ce l'hanno
 
 USER: ManuelaCarreri
 DATE: 2015-10-13
-TEXT: Cari giornalisti ora pretendo lo stesso sciacallaggio contro Maroni @repubblicait @espressonline #iostoconmarino
-
-USERprendipos: iostoconmarino
-DATE: 2015-10-13
-TEXTprendiposrt: @Cofferati ci aiuti con firma e a far firmare? 
+Cari giornalisti ora pretendo lo stesso sciacallaggio contro Maroni @repubblicait @espressonline #iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: La accusa di peculato a Marino ? stata fabbricata dall'assessore  Esposito. Non si capisce come mai non ha parlato prim?
+@Cofferati ci aiuti con firma e a far firmare? 
+
+USER: iostoconmarino
+DATE: 2015-10-13
+RT @marielSiviglia: La accusa di peculato a Marino ? stata fabbricata dall'assessore  Esposito. Non si capisce come mai non ha parlato prim?
 
 USER: marielSiviglia
 DATE: 2015-10-13
-TEXT: La accusa di peculato a Marino ? stata fabbricata dall'assessore  Esposito. Non si capisce come mai non ha parlato prima  @iostoconmarino
+La accusa di peculato a Marino ? stata fabbricata dall'assessore  Esposito. Non si capisce come mai non ha parlato prima  @iostoconmarino
 
 USER: campanavalerio
 DATE: 2015-10-13
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: campanavalerio
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: anna_mattarelli
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
+RT @marielSiviglia: Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: Al vicepresidente della  Emilia Romagna direi  :come fate a pretendere classe dirigente onesta se onesti vengono esclus?
+RT @marielSiviglia: Al vicepresidente della  Emilia Romagna direi  :come fate a pretendere classe dirigente onesta se onesti vengono esclus?
 
 USER: marielSiviglia
 DATE: 2015-10-13
-TEXT: Al vicepresidente della  Emilia Romagna direi  :come fate a pretendere classe dirigente onesta se onesti vengono esclusi ?@iostoconmarino
+Al vicepresidente della  Emilia Romagna direi  :come fate a pretendere classe dirigente onesta se onesti vengono esclusi ?@iostoconmarino
 
 USER: bobo4ka863
 DATE: 2015-10-13
-TEXT: #IoStoConMarino - Ignazio Marino alla manifestazione in sostegno di... I...  via @YouTube
+#IoStoConMarino - Ignazio Marino alla manifestazione in sostegno di... I...  via @YouTube
 
 USER: andreapoli8788
 DATE: 2015-10-13
-TEXT: @marielSiviglia @iostoconmarino ha falsificato rimborsi o no?se lo faccio io ben che mi vada mi licenziano
+@marielSiviglia @iostoconmarino ha falsificato rimborsi o no?se lo faccio io ben che mi vada mi licenziano
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
+RT @marielSiviglia: Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
 
 USER: ChiaraFracasssi
 DATE: 2015-10-13
-TEXT: #IoStoConMarino, voi fate ci? che volete. -  via @controversomag #MarinoNonMollare #marinosiedimesso @ignaziomarino
+#IoStoConMarino, voi fate ci? che volete. -  via @controversomag #MarinoNonMollare #marinosiedimesso @ignaziomarino
 
-USERprendipos: mimmoscordino
+USER: mimmoscordino
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
-
-USER: marielSiviglia
-DATE: 2015-10-13
-TEXT: Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
-
-USER: iostoconmarino
-DATE: 2015-10-13
-TEXT: @matteorenzi e il fascicolo aperto per le tue spese. A Maroni arrestano il vice. E il problema ? @ignaziomarino. Vergogna dimettiti pure tu
-
-USER: iostoconmarino
-DATE: 2015-10-13
-TEXT: RT @marielSiviglia: A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
+RT @marielSiviglia: A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-13
-TEXT: A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
+Marino  sar? anche goffo,come lo ha dipinto stampa diffamatoria,   ma non disonesto  @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: RT @marielSiviglia: Boicotto  @Ariachetira non si possono sentire i falsi moralisti del giorno dopo. @iostoconmarino
+@matteorenzi e il fascicolo aperto per le tue spese. A Maroni arrestano il vice. E il problema ? @ignaziomarino. Vergogna dimettiti pure tu
+
+USER: iostoconmarino
+DATE: 2015-10-13
+RT @marielSiviglia: A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
 
 USER: marielSiviglia
 DATE: 2015-10-13
-TEXT: Boicotto  @Ariachetira non si possono sentire i falsi moralisti del giorno dopo. @iostoconmarino
+A proposito di falsi moralisti. Arrestato  il vice di @RobertoMaroni_  ale' @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @pfvalentino @pfcatucci @petergomezblog
+RT @marielSiviglia: Boicotto  @Ariachetira non si possono sentire i falsi moralisti del giorno dopo. @iostoconmarino
+
+USER: marielSiviglia
+DATE: 2015-10-13
+Boicotto  @Ariachetira non si possono sentire i falsi moralisti del giorno dopo. @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @PierluigiBattis @pgheconomiadige
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @pfvalentino @pfcatucci @petergomezblog
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @piovonorane @pinosuriano @pinobruno
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @PierluigiBattis @pgheconomiadige
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Per? fa dimettere Marino. Firma    @rbonacina @rachidagrazi @pvigano65
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma    @piovonorane @pinosuriano @pinobruno
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?.Per? fa dimettere Marino.Firma   @robertosaviano @riccardowired @realpostitalia
+Renzi : ?Scontrini? Tempo galantuomo?. Per? fa dimettere Marino. Firma    @rbonacina @rachidagrazi @pvigano65
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Per? fa dimettere Marino. Firma   @rosybattaglia @rosalbacarbutti @riotta
+Renzi : ?Scontrini? Tempo galantuomo?.Per? fa dimettere Marino.Firma   @robertosaviano @riccardowired @realpostitalia
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Nel frattempo fa dimettere Marino. Firma    @salvosottile @SalvatoreMerlo
+Renzi : ?Scontrini? Tempo galantuomo?. Per? fa dimettere Marino. Firma   @rosybattaglia @rosalbacarbutti @riotta
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Ma poi fa dimettere Marino. Firma qui  @serena_danna @scottotweet @la_sarci
+Renzi : ?Scontrini? Tempo galantuomo?. Nel frattempo fa dimettere Marino. Firma    @salvosottile @SalvatoreMerlo
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Ma poi fa dimettere Marino. Firma qui   @simonamaggiorelli @SerenaRuffoni
+Renzi : ?Scontrini? Tempo galantuomo?. Ma poi fa dimettere Marino. Firma qui  @serena_danna @scottotweet @la_sarci
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @simoneferoli @simonebressan @masechi
+Renzi : ?Scontrini? Tempo galantuomo?. Ma poi fa dimettere Marino. Firma qui   @simonamaggiorelli @SerenaRuffoni
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @simonespetia @simonerovera @pelopida
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @simoneferoli @simonebressan @masechi
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @stanzaselvaggia @smenichini @sarabrag
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @simonespetia @simonerovera @pelopida
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @superlativa31 @StefanoFeltri
+Renzi : ?Scontrini? Tempo galantuomo?. Eppure fa dimettere Marino. Firma qui   @stanzaselvaggia @smenichini @sarabrag
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo? Intanto fa dimettere Marino. Firma qui   @tmaxgentile @telexjournal
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @superlativa31 @StefanoFeltri
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @vfeltri @Tommasolabate
+Renzi : ?Scontrini? Tempo galantuomo? Intanto fa dimettere Marino. Firma qui   @tmaxgentile @telexjournal
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @vittoriopasteris  @villino
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @vfeltri @Tommasolabate
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @vittoriozucconi  @Tornielli
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @vittoriopasteris  @villino
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @RFI @welt @Zazzaroni
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @vittoriozucconi  @Tornielli
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @internazionale @TelegraphNews
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @RFI @welt @Zazzaroni
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @CBSNews @SkyTG24
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @internazionale @TelegraphNews
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @lettera43 @la_stampa
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @CBSNews @SkyTG24
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @FedeAngeli @Romafaschifo
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @lettera43 @la_stampa
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @sinistraelib @askanews_ita
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @FedeAngeli @Romafaschifo
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @pdnetwork @PD_ROMA
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @sinistraelib @askanews_ita
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Corriereit @unitaonline
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @pdnetwork @PD_ROMA
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @romadailynews @romatoday
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Corriereit @unitaonline
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Italpress @repubblicait
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @romadailynews @romatoday
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Omniromanews @emmegipress
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Italpress @repubblicait
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @Agenzia_Ansa @Agenzia_Italia
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui   @Omniromanews @emmegipress
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi : ?Scontrini? Tempo galantuomo?. Lui non si dimette, Marino fatto dimettere. Firma!! 
+Renzi : ?Scontrini? Tempo galantuomo?. E nel frattempo fa dimettere Marino. Firma qui  @Agenzia_Ansa @Agenzia_Italia
+
+USER: iostoconmarino
+DATE: 2015-10-13
+Renzi : ?Scontrini? Tempo galantuomo?. Lui non si dimette, Marino fatto dimettere. Firma!! 
 
 USER: giulianocossari
 DATE: 2015-10-13
-TEXT: @M40FORH @edo_cavalieri @BarillariM5S @iostoconmarino o mi levate  o vi blocco tutti :D
+@M40FORH @edo_cavalieri @BarillariM5S @iostoconmarino o mi levate  o vi blocco tutti :D
 
 USER: M40FORH
 DATE: 2015-10-13
-TEXT: @iostoconmarino @giulianocossari @BarillariM5S be' classico pensiero demofascio Deluca " bravo politico con reati ridicoli"Grillo assassino"
+@iostoconmarino @giulianocossari @BarillariM5S be' classico pensiero demofascio Deluca " bravo politico con reati ridicoli"Grillo assassino"
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: Renzi: scontrini? Tempo galantuomo. Renzi non si dimette Marino fatto dimettere 
+Renzi: scontrini? Tempo galantuomo. Renzi non si dimette Marino fatto dimettere 
 
 
-USERprendipos: claudia_mauri
+USER: claudia_mauri
 DATE: 2015-10-13
-TEXTprendiposrt: Voglio i grillini e il pd incatenati sotto casa di @RobertoMaroni_ #iostoconmarino 
+Voglio i grillini e il pd incatenati sotto casa di @RobertoMaroni_ #iostoconmarino 
 
 USER: M40FORH
 DATE: 2015-10-13
-TEXT: @edo_cavalieri @giulianocossari @BarillariM5S @iostoconmarino lo dicono tutti  m poi  nell' urna avreste votato Al Capone piuttosto dei 5*
+@edo_cavalieri @giulianocossari @BarillariM5S @iostoconmarino lo dicono tutti  m poi  nell' urna avreste votato Al Capone piuttosto dei 5*
 
 USER: M40FORH
 DATE: 2015-10-13
-TEXT: @giulianocossari @edo_cavalieri @BarillariM5S @iostoconmarino il padrone del pd  no? non si era capito? ?
+@giulianocossari @edo_cavalieri @BarillariM5S @iostoconmarino il padrone del pd  no? non si era capito? ?
 
 USER: M40FORH
 DATE: 2015-10-13
-TEXT: @edo_cavalieri @giulianocossari @BarillariM5S @iostoconmarino te ne frega del suo padrone
+@edo_cavalieri @giulianocossari @BarillariM5S @iostoconmarino te ne frega del suo padrone
 
-USERprendipos: Slittiamo
+USER: Slittiamo
 DATE: 2015-10-13
-TEXT: Non mollare @ignaziomarino #Roma ha bisogno di un grande sindaco come te! Siamo con te! #Marinoresisti #iostoconmarino
+Non mollare @ignaziomarino #Roma ha bisogno di un grande sindaco come te! Siamo con te! #Marinoresisti #iostoconmarino
 
 USER: QuKa07
 DATE: 2015-10-13
-TEXT: perch? purtroppo le capre hanno la memoria corta! #iostoconMarino #sindacoMarino #IgnazioMarino #Marino 
+perch? purtroppo le capre hanno la memoria corta! #iostoconMarino #sindacoMarino #IgnazioMarino #Marino 
 
 USER: ivulnus
 DATE: 2015-10-13
-TEXT: Dev'essere cos? stancante #iostoconmarino che, dopo due giorni di battaglie, i sostenitori sono gi? tutti a riposare.
+Dev'essere cos? stancante #iostoconmarino che, dopo due giorni di battaglie, i sostenitori sono gi? tutti a riposare.
 
 USER: LucaGiandomenic
 DATE: 2015-10-13
-TEXT: @RepubblicaTv @repubblicait il PD dopo @ignaziomarino eccolo qui... #iostoconmarino @pdnetwork 
+@RepubblicaTv @repubblicait il PD dopo @ignaziomarino eccolo qui... #iostoconmarino @pdnetwork 
 
 USER: esisley
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: @Vincenzo_Vita firma e fate firmare. Noi non ci arrendiamo. Movimento c'?. La base c'?. Pd dovr? rendere conto. 
+@Vincenzo_Vita firma e fate firmare. Noi non ci arrendiamo. Movimento c'?. La base c'?. Pd dovr? rendere conto. 
 
-USERprendipos: iostoconmarino
+USER: iostoconmarino
 DATE: 2015-10-13
-TEXTprendiposrt: RT @Vincenzo_Vita: @iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
+RT @Vincenzo_Vita: @iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
 
-USERprendipos: Vincenzo_Vita
+USER: Vincenzo_Vita
 DATE: 2015-10-13
-TEXT: @iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
+@iostoconmarino purtroppo non ? strano. E' inquietante. Contro Marino una campagna inaudita
 
 USER: Sisetto79
 DATE: 2015-10-13
-TEXT: Renzi, il Reticente del Consiglio - Ilfattoquotidiano.it  #iostoconMarino
+Renzi, il Reticente del Consiglio - Ilfattoquotidiano.it  #iostoconMarino
 
 USER: IsabellaDeiana7
 DATE: 2015-10-13
-TEXT: @ignaziomarino Grazie a lei, per le sue belle parole! #iostoconmarino Le vogliamo bene! Forza! Siamo con lei!  <3 <3 <3
+@ignaziomarino Grazie a lei, per le sue belle parole! #iostoconmarino Le vogliamo bene! Forza! Siamo con lei!  <3 <3 <3
 
 USER: lievemente
 DATE: 2015-10-13
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
 
 USER: serenel14278447
 DATE: 2015-10-13
-TEXT: RT @concitadeg: Anche questo va detto 
+RT @concitadeg: Anche questo va detto 
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: @CorradinoMineo @civati @Cofferati @StefanoFassina @GotorMiguel  Avete visto? Firma e fai firmare! 
+@CorradinoMineo @civati @Cofferati @StefanoFassina @GotorMiguel  Avete visto? Firma e fai firmare! 
 
 USER: Andreabluesky
 DATE: 2015-10-13
-TEXT: RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
+RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
 
 USER: iostoconmarino
 DATE: 2015-10-13
-TEXT: @vittoriozucconi @EdoardoBuffoni @TgZeroCapital Avete visto? Firma e fai firmare 
+@vittoriozucconi @EdoardoBuffoni @TgZeroCapital Avete visto? Firma e fai firmare 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @mipiaceBarca @ignaziomarino Firma e fai firmare 
+@mipiaceBarca @ignaziomarino Firma e fai firmare 
 
 USER: raffaeledstfn
 DATE: 2015-10-12
-TEXT: @Riccardoet @BarillariM5S @NinaLadyice @iostoconmarino Roma  preda di mafia+cementisti da tanto tempo. Qst momento storico nn va sprecato!
+@Riccardoet @BarillariM5S @NinaLadyice @iostoconmarino Roma  preda di mafia+cementisti da tanto tempo. Qst momento storico nn va sprecato!
 
 USER: Riccardoet
 DATE: 2015-10-12
-TEXT: @BarillariM5S @NinaLadyice @iostoconmarino @raffaeledstfn siete riusciti a distruggere una citt? che per definizione era ETERNA miserabili
+@BarillariM5S @NinaLadyice @iostoconmarino @raffaeledstfn siete riusciti a distruggere una citt? che per definizione era ETERNA miserabili
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @FedeAngeli @iostoconmarino @raffaeledstfn nome delle finte associazioni antimafia con fatti concreti. RISP?
+RT @BarillariM5S: @mdpennalunga @FedeAngeli @iostoconmarino @raffaeledstfn nome delle finte associazioni antimafia con fatti concreti. RISP?
 
 USER: RomeiAntonella
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: NinaLadyice
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
 
 USER: MPenikas
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
+@PieroChiappini cercavo un'illuminazione!  @FedeAngeli @iostoconmarino @BarillariM5S 
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @FedeAngeli @iostoconmarino @BarillariM5S @raffaeledstfn  Lombardi risponde a Alfonso Sabella su Libera -https://t.co/TjWPfucpfO
+@FedeAngeli @iostoconmarino @BarillariM5S @raffaeledstfn  Lombardi risponde a Alfonso Sabella su Libera -https://t.co/TjWPfucpfO
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn nessun rapporto fra m5s e balneari..tu credi alle bufale? E i rapporti PD e MARINO con maf?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @iostoconmarino @BarillariM5S @raffaeledstfn @FedeAngeli CHE DICI DI QUESTO ? SUSU .. DAIDAI MONTAGNA MONTAGNA 
+@iostoconmarino @BarillariM5S @raffaeledstfn @FedeAngeli CHE DICI DI QUESTO ? SUSU .. DAIDAI MONTAGNA MONTAGNA 
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @iostoconmarino @BarillariM5S @raffaeledstfn METTILO VEDIAMO SE E' FARLOKKO :) LO SAI CHE SI VEDONO I FARLOKKI VERO ? O IN 3ANNI NON SAI ??
+@iostoconmarino @BarillariM5S @raffaeledstfn METTILO VEDIAMO SE E' FARLOKKO :) LO SAI CHE SI VEDONO I FARLOKKI VERO ? O IN 3ANNI NON SAI ??
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn per te una dichiarazione della ruocco, dopo trappola papagni, assicura che noi abbiamo rap?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn per te una dichiarazione della ruocco, dopo trappola papagni, assicura che noi abbiamo rap?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ah, si ? c'e eravate alla riunione ? e si puo' sapere chi, con nome e cognome e ruolo ?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ah, si ? c'e eravate alla riunione ? e si puo' sapere chi, con nome e cognome e ruolo ?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
+RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @FedeAngeli PER QUANTO CAMBIATE PROFILO IL TESTO E' PARO PARO
+@iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @FedeAngeli PER QUANTO CAMBIATE PROFILO IL TESTO E' PARO PARO
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @iostoconmarino @giulianocossari i @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino UN INCIDENTE INVOLONTARIO..#MAFICAPITALE #NONLOE'
+@iostoconmarino @giulianocossari i @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino UN INCIDENTE INVOLONTARIO..#MAFICAPITALE #NONLOE'
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
+RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
 
 USER: ManuPalo67
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn A QUANDO UN BLIZ A CHI E INFANGA.?#MAGISTRATURAPENSACITU
+@edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn A QUANDO UN BLIZ A CHI E INFANGA.?#MAGISTRATURAPENSACITU
 
 USER: pinopinollo
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
 
 USER: esisley
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn mi pare si chiami Tassone (PD) quello arrestato ;)
+@edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn mi pare si chiami Tassone (PD) quello arrestato ;)
 
 USER: domenicosabell1
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
+RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
 
 USER: ariolo_orazio
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
+RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: pinopinollo
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: @giulianocossari @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @FedeAngeli ha difeso Tassone, non noi: 
+@giulianocossari @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @FedeAngeli ha difeso Tassone, non noi: 
 
 USER: elisabettap38
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
+RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
+RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
 
 USER: ribelle51
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
+RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
 
 USER: ___John_Smith__
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
+RT @BarillariM5S: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: @iostoconmarino ti auguro di non avere mai un incidente d'auto
+@iostoconmarino ti auguro di non avere mai un incidente d'auto
  @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: PatoOsko
 DATE: 2015-10-12
-TEXT: @raffaeledstfn ma chi?il candidato del partito coinvolto in mafia capitale? @BarillariM5S @ale_dibattista @iostoconmarino
+@raffaeledstfn ma chi?il candidato del partito coinvolto in mafia capitale? @BarillariM5S @ale_dibattista @iostoconmarino
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
+RT @giulianocossari: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: @massimo_Iazzari @giulianocossari @edo_cavalieri @iostoconmarino  @FedeAngeli @raffaeledstfn 
+@massimo_Iazzari @giulianocossari @edo_cavalieri @iostoconmarino  @FedeAngeli @raffaeledstfn 
 Dov'? la denuncia? 
 
 USER: dracul473
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: PatoOsko
 DATE: 2015-10-12
-TEXT: @iostoconmarino infatti stai con Marino... Molto sveglio... @BarillariM5S @raffaeledstfn @FedeAngeli
+@iostoconmarino infatti stai con Marino... Molto sveglio... @BarillariM5S @raffaeledstfn @FedeAngeli
 
 USER: assataram
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: Stefanofiori1
 DATE: 2015-10-12
-TEXT: @BarillariM5S @esisley @raffaeledstfn @iostoconmarino perch? se fosse onesto non avrebbe nemmeno pensato di nasconderli
+@BarillariM5S @esisley @raffaeledstfn @iostoconmarino perch? se fosse onesto non avrebbe nemmeno pensato di nasconderli
 
 USER: PaolaTacconi
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: assataram
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: esisley
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
+RT @BarillariM5S: @iostoconmarino @raffaeledstfn ad ostia gli unici che lottano contro la mafia sono quelli del m5s. nulla da nascondere, a?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @PieroChiappini: @mdpennalunga @FedeAngeli @iostoconmarino @BarillariM5S  ancora perdete tempo con l'amico delle finte ass. antimafia
+RT @PieroChiappini: @mdpennalunga @FedeAngeli @iostoconmarino @BarillariM5S  ancora perdete tempo con l'amico delle finte ass. antimafia
 #B?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @raffaeledstfn @BarillariM5S @ale_dibattista elezioni fanno paura al pd.
+@raffaeledstfn @BarillariM5S @ale_dibattista elezioni fanno paura al pd.
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @raffaeledstfn: @BarillariM5S @ale_dibattista @iostoconmarino intendiamoci: io lo schifo il PD. Sia chiaro! Lo schifo e lo odio ANCHE pe?
+RT @raffaeledstfn: @BarillariM5S @ale_dibattista @iostoconmarino intendiamoci: io lo schifo il PD. Sia chiaro! Lo schifo e lo odio ANCHE pe?
 
 USER: raffaeledstfn
 DATE: 2015-10-12
-TEXT: @BarillariM5S @ale_dibattista @iostoconmarino il poco di buono nel PD che pensava @ignaziomarino nel 2008 corrisponde a troppo poche persone
+@BarillariM5S @ale_dibattista @iostoconmarino il poco di buono nel PD che pensava @ignaziomarino nel 2008 corrisponde a troppo poche persone
 
 USER: raffaeledstfn
 DATE: 2015-10-12
-TEXT: @BarillariM5S @ale_dibattista @iostoconmarino intendiamoci: io lo schifo il PD. Sia chiaro! Lo schifo e lo odio ANCHE per la vicenda Marino.
+@BarillariM5S @ale_dibattista @iostoconmarino intendiamoci: io lo schifo il PD. Sia chiaro! Lo schifo e lo odio ANCHE per la vicenda Marino.
 
 USER: raffaeledstfn
 DATE: 2015-10-12
-TEXT: @BarillariM5S @ale_dibattista @iostoconmarino scusate, xch? qst tweet nn  interessa?NoElezioni+RomaCommissariata ? unico risultato. E mo'?
+@BarillariM5S @ale_dibattista @iostoconmarino scusate, xch? qst tweet nn  interessa?NoElezioni+RomaCommissariata ? unico risultato. E mo'?
 
 USER: PieroChiappini
 DATE: 2015-10-12
-TEXT: @mdpennalunga @FedeAngeli @iostoconmarino @BarillariM5S  ancora perdete tempo con l'amico delle finte ass. antimafia
+@mdpennalunga @FedeAngeli @iostoconmarino @BarillariM5S  ancora perdete tempo con l'amico delle finte ass. antimafia
 #Barillarivergognati
 
-USERprendipos: lucina_maggi
+USER: lucina_maggi
 DATE: 2015-10-12
-TEXT: RT @danieledezi: 50.000 gridano #iostoconmarino  
+RT @danieledezi: 50.000 gridano #iostoconmarino  
 
 USER: pieromagnani
 DATE: 2015-10-12
-TEXT: @VirusRai2 con le dimissioni di @ignaziomarino muore la laicita' che si stava costruendo su roma! #iostoconmarino
+@VirusRai2 con le dimissioni di @ignaziomarino muore la laicita' che si stava costruendo su roma! #iostoconmarino
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @FedeAngeli su  @BarillariM5S la ANGELI CHE C'ENTRA?E SABELLA?E VOSTRA RELAZIONE AD ANTIMAFIA?Risposta?  @iostoconmarino ?
+RT @mdpennalunga: @FedeAngeli su  @BarillariM5S la ANGELI CHE C'ENTRA?E SABELLA?E VOSTRA RELAZIONE AD ANTIMAFIA?Risposta?  @iostoconmarino ?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
+RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstf?
+RT @FedeAngeli: Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstf?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
+RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
+RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari siete solo dei fanatici!La mafia si combatte con i fatti vedi #Sabella #Angeli
+@massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari siete solo dei fanatici!La mafia si combatte con i fatti vedi #Sabella #Angeli
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @massimo_Iazzari @iostoconmarino  @raffaeledstfn come quello di Ferrara confermato dalla giornalista    e ora levatemi grazie
+@edo_cavalieri @massimo_Iazzari @iostoconmarino  @raffaeledstfn come quello di Ferrara confermato dalla giornalista    e ora levatemi grazie
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari Mel frattempo smettete di andare contro giornalisti e magistrati antimafia
+@massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari Mel frattempo smettete di andare contro giornalisti e magistrati antimafia
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Perch? attaccavano Pd con finti dossier. Quelli che faranno su di lui seli molla @mdpennalunga @BarillariM5S @iostoconmarin?
+RT @FedeAngeli: Perch? attaccavano Pd con finti dossier. Quelli che faranno su di lui seli molla @mdpennalunga @BarillariM5S @iostoconmarin?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @BarillariM5S perch? candidare Spada e far incazzare i tuoi allora? @FedeAngeli @iostoconmarino @raffaeledstfn 
+RT @mdpennalunga: @BarillariM5S perch? candidare Spada e far incazzare i tuoi allora? @FedeAngeli @iostoconmarino @raffaeledstfn 
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Ho avvertito @iostoconmarino il signor  @BarillariM5S un anno fa di chi erano. Mi ha voltato spalleMeglio loro @mdpennalung?
+RT @FedeAngeli: Ho avvertito @iostoconmarino il signor  @BarillariM5S un anno fa di chi erano. Mi ha voltato spalleMeglio loro @mdpennalung?
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @iostoconmarino: @mdpennalunga @BarillariM5S @raffaeledstfn @FedeAngeli fotomontaggio vero? 
+RT @iostoconmarino: @mdpennalunga @BarillariM5S @raffaeledstfn @FedeAngeli fotomontaggio vero? 
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari @raffaeledstfn incontro alla Luce del  sole. Dovete aver rispetto per #Sabella
+@massimo_Iazzari @iostoconmarino @FedeAngeli @giulianocossari @raffaeledstfn incontro alla Luce del  sole. Dovete aver rispetto per #Sabella
 
 USER: zorzi46
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @BarillariM5S PENSA PRIMA AI TUOI!! @iostoconmarino @raffaeledstfn 
+RT @mdpennalunga: @BarillariM5S PENSA PRIMA AI TUOI!! @iostoconmarino @raffaeledstfn 
 
-USERprendipos: sarataigher
+USER: sarataigher
 DATE: 2015-10-12
-TEXTprendiposrt: RT @andysanguedolce: Nessuno lo vuole, tutti lo attaccano. .vuoi vedere che ? l'unico onesto? #iostoconmarino 
+RT @andysanguedolce: Nessuno lo vuole, tutti lo attaccano. .vuoi vedere che ? l'unico onesto? #iostoconmarino 
 
 USER: PiramideRossa
 DATE: 2015-10-12
-TEXT: RT @MarleyBrandy: @Torakjkj le indagini serie servono proprio a questo: a capire di chi ridere ;) #iostoconMarino
+RT @MarleyBrandy: @Torakjkj le indagini serie servono proprio a questo: a capire di chi ridere ;) #iostoconMarino
 
-USERprendipos: marco_zio
+USER: marco_zio
 DATE: 2015-10-12
-TEXT: #iostoconmarino Giornalista prezzolato.  PD vergognoso e tg corrotti... Vergogna. 
+#iostoconmarino Giornalista prezzolato.  PD vergognoso e tg corrotti... Vergogna. 
 
 USER: Frenkoz
 DATE: 2015-10-12
-TEXT: #iostoconmarino perch? forse solo un marziano pu? risollevare Roma. @ignaziomarino
+#iostoconmarino perch? forse solo un marziano pu? risollevare Roma. @ignaziomarino
 
 USER: ilrere
 DATE: 2015-10-12
-TEXT: Meglio le macerie dei sepolcri imbiancati.
+Meglio le macerie dei sepolcri imbiancati.
 #Marino #iostoconmarino #Roma #oltretevere #virusrai2
 
 USER: ilrere
 DATE: 2015-10-12
-TEXT: #Marino impara. 
+#Marino impara. 
 Alla domanda: E 'sti scontrini? 
 Non si risponde: Posso spiegare.
 Ma: 'azzo vuoi, bis'ero?
@@ -1192,854 +1192,854 @@ Ma: 'azzo vuoi, bis'ero?
 
 USER: billa_silvia
 DATE: 2015-10-12
-TEXT: RT @SimyFrant: #Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconm?
+RT @SimyFrant: #Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconm?
 
 USER: cinzia_cindyy
 DATE: 2015-10-12
-TEXT: #Renzi #RenziNasconde chi ? senza peccato scagli la prima pietra #iostoconmarino  
+#Renzi #RenziNasconde chi ? senza peccato scagli la prima pietra #iostoconmarino  
 
 USER: Ivatamy
 DATE: 2015-10-12
-TEXT: RT @SimyFrant: Cosa #RenzieNasconde ? Ad es altre 8 belle poltrone pronte x i suoi accoliti x #Roma #MarinoResisti #iostoconmarino 
+RT @SimyFrant: Cosa #RenzieNasconde ? Ad es altre 8 belle poltrone pronte x i suoi accoliti x #Roma #MarinoResisti #iostoconmarino 
 
 USER: Ivatamy
 DATE: 2015-10-12
-TEXT: RT @SimyFrant: #Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconm?
+RT @SimyFrant: #Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconm?
 
-USERprendipos: ilrere
+USER: ilrere
 DATE: 2015-10-12
-TEXT: Un incompetente come #Marino non pu? amministrare la capitale d'Italia: neanche riesce a fregare 900 euro...
+Un incompetente come #Marino non pu? amministrare la capitale d'Italia: neanche riesce a fregare 900 euro...
 #iostoconmarino #virusrai2
 
 USER: carlabrandolini
 DATE: 2015-10-12
-TEXT: RT @davidaprea: @matteorenzi ciao @pdnetwork! #iostoconmarino
+RT @davidaprea: @matteorenzi ciao @pdnetwork! #iostoconmarino
 
 USER: MarleyBrandy
 DATE: 2015-10-12
-TEXT: @Torakjkj le indagini serie servono proprio a questo: a capire di chi ridere ;) #iostoconMarino
+@Torakjkj le indagini serie servono proprio a questo: a capire di chi ridere ;) #iostoconMarino
 
 USER: ilrere
 DATE: 2015-10-12
-TEXT: Roma, Pino crolla per il vento.
+Roma, Pino crolla per il vento.
 Ignazio, per un venticello
 
 #iostoconmarino #marino #virusrai2
 
 USER: magrotto68
 DATE: 2015-10-12
-TEXT: @iostoconmarino @ilfattoblog @fattoquotidiano 'sti coglioni! Hanno fatto il gioco di renzi
+@iostoconmarino @ilfattoblog @fattoquotidiano 'sti coglioni! Hanno fatto il gioco di renzi
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @NuovoFaceMag @ignaziomarino quasi 50.000 
+@NuovoFaceMag @ignaziomarino quasi 50.000 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @NuovoFaceMag: La rivincita di @ignaziomarino:per lui 40 mila firme.Boom consensi sui social e in piazza ->  
+RT @NuovoFaceMag: La rivincita di @ignaziomarino:per lui 40 mila firme.Boom consensi sui social e in piazza ->  
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @AlonziSara @ignaziomarino firma e fai firmare 
+@AlonziSara @ignaziomarino firma e fai firmare 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @dariocavinato: Ecco cosa ha fatto Ignazio Marino in 2 anni. 
+RT @dariocavinato: Ecco cosa ha fatto Ignazio Marino in 2 anni. 
 
 USER: M5SVibor
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @slCIPCIP: Su #scontrini di #Renzi e indagini #cortedeiconti "Si ? rotto il rapporto tra Amministrazione e Italia" ? (cit. #Renzi) @igna?
+RT @slCIPCIP: Su #scontrini di #Renzi e indagini #cortedeiconti "Si ? rotto il rapporto tra Amministrazione e Italia" ? (cit. #Renzi) @igna?
 
 USER: ginocalcinotto
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @BarillariM5S MARINO INTEGERRIMO.RISPONDI E NON SVIARE!  @iostoconmarino @raffaeledstfn @FedeAngeli 
+RT @mdpennalunga: @BarillariM5S MARINO INTEGERRIMO.RISPONDI E NON SVIARE!  @iostoconmarino @raffaeledstfn @FedeAngeli 
 
 USER: stefania29060
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @BarillariM5S i tuoi prima di me!E Angeli che c'entra??!Rispostina? @FedeAngeli @iostoconmarino @raffaeledstfn 
+RT @mdpennalunga: @BarillariM5S i tuoi prima di me!E Angeli che c'entra??!Rispostina? @FedeAngeli @iostoconmarino @raffaeledstfn 
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @BarillariM5S @Monialustri @mdpennalunga @iostoconmarino @raffaeledstfn eccolo Marino integerrimo ahahahahah 
+RT @GrappaTommaso: @BarillariM5S @Monialustri @mdpennalunga @iostoconmarino @raffaeledstfn eccolo Marino integerrimo ahahahahah 
 
-USERprendipos: grigiestanze
+USER: grigiestanze
 DATE: 2015-10-12
-TEXTprendiposrt: RT @Aldo_Benassi: Il commissario #Sabella ? gi? pronto a gestire il dopo #Marino. #Marinoresisti #iostoconmarino 
-
-USER: Gauro5
-DATE: 2015-10-12
-TEXT: @norma_marco come se volessero colpire qualcun altro... @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978
+RT @Aldo_Benassi: Il commissario #Sabella ? gi? pronto a gestire il dopo #Marino. #Marinoresisti #iostoconmarino 
 
 USER: Gauro5
 DATE: 2015-10-12
-TEXT: @norma_marco @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978 avanguardia monnezzara.
+@norma_marco come se volessero colpire qualcun altro... @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978
 
 USER: Gauro5
 DATE: 2015-10-12
-TEXT: @norma_marco @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978 s?,arruolalo nella guardia della N.U.
+@norma_marco @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978 avanguardia monnezzara.
+
+USER: Gauro5
+DATE: 2015-10-12
+@norma_marco @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978 s?,arruolalo nella guardia della N.U.
 
 USER: giallocra
 DATE: 2015-10-12
-TEXT: RT @MaleInItaly1978: @ginocalcinotto quello ? battelli. @norma_marco @giulianocossari @iostoconmarino @discordoconme @UdoUdodance 
+RT @MaleInItaly1978: @ginocalcinotto quello ? battelli. @norma_marco @giulianocossari @iostoconmarino @discordoconme @UdoUdodance 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @fattoquotidiano @FattoInsider e Marino fatto fuori per 2 scontrini? @ignaziomarino #iostoconmarino
+@fattoquotidiano @FattoInsider e Marino fatto fuori per 2 scontrini? @ignaziomarino #iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @fattoquotidiano: Le cene di Renzi alla Corte dei Conti. Di @FattoInsider 
+RT @fattoquotidiano: Le cene di Renzi alla Corte dei Conti. Di @FattoInsider 
 
 USER: UdoUdodance
 DATE: 2015-10-12
-TEXT: @ginocalcinotto Lo sappiamo fin troppo bene. @norma_marco @giulianocossari @iostoconmarino @MaleInItaly1978 
+@ginocalcinotto Lo sappiamo fin troppo bene. @norma_marco @giulianocossari @iostoconmarino @MaleInItaly1978 
 
 USER: MaleInItaly1978
 DATE: 2015-10-12
-TEXT: @ginocalcinotto quello ? battelli. @norma_marco @giulianocossari @iostoconmarino @discordoconme @UdoUdodance 
+@ginocalcinotto quello ? battelli. @norma_marco @giulianocossari @iostoconmarino @discordoconme @UdoUdodance 
 
 USER: ginocalcinotto
 DATE: 2015-10-12
-TEXT: @norma_marco TU non sai leggere.. @giulianocossari @iostoconmarino @MaleInItaly1978 @discordoconme @UdoUdodance
+@norma_marco TU non sai leggere.. @giulianocossari @iostoconmarino @MaleInItaly1978 @discordoconme @UdoUdodance
 
 USER: RobertaCretella
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
+RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @enzocarnazza: @BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare i 5stelle ? vietato dalla legge?
+RT @enzocarnazza: @BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare i 5stelle ? vietato dalla legge?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @enzocarnazza si risolve meglio dando dei mafiosi a giornalisti e giudici scomodi. @BarillariM5S @iostoconmarino @raffaeledstfn @FedeAngeli
+@enzocarnazza si risolve meglio dando dei mafiosi a giornalisti e giudici scomodi. @BarillariM5S @iostoconmarino @raffaeledstfn @FedeAngeli
 
 USER: ster67e
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
+RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
 
 USER: enzocarnazza
 DATE: 2015-10-12
-TEXT: @BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare i 5stelle ? vietato dalla legge?
+@BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare i 5stelle ? vietato dalla legge?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @Vincenzo_Vita Perch? queste cose non vengono sparate in prima pagina come x Marino? Strano. 
+@Vincenzo_Vita Perch? queste cose non vengono sparate in prima pagina come x Marino? Strano. 
 
 
 USER: ginocalcinotto
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
+RT @giulianocossari: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voter?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voteranno PD?
+Quindi fatemi capire quelli che sono ora #promarino e  contro  il deposta #Renzi alle elezioni comunali Roma non voteranno PD?
 #VOGLIOVEDERE
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @MaxGramel Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano.
+@MaxGramel Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano.
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @MaxGramel Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano. 
+@MaxGramel Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano. 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @fabfazio Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano. 
+@fabfazio Perch? queste cose non vengono sparate in prima pagina come su Marino? Strano. 
 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @chetempochefa Perch? queste cose non vengono sparate in prima pagina come x Marino? Strano. 
+@chetempochefa Perch? queste cose non vengono sparate in prima pagina come x Marino? Strano. 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: Perch? queste cose non vengono sparate in prima pagina come su marino ? Strano no?
+Perch? queste cose non vengono sparate in prima pagina come su marino ? Strano no?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @ilmanifesto Perch? queste cose non vengono sparate in prima pagina come su marino? Strano. 
+@ilmanifesto Perch? queste cose non vengono sparate in prima pagina come su marino? Strano. 
 
 USER: SimyFrant
 DATE: 2015-10-12
-TEXT: Cosa #RenzieNasconde ? Ad es altre 8 belle poltrone pronte x i suoi accoliti x #Roma #MarinoResisti #iostoconmarino 
+Cosa #RenzieNasconde ? Ad es altre 8 belle poltrone pronte x i suoi accoliti x #Roma #MarinoResisti #iostoconmarino 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @unitaonline Perch? queste cose non vengono sparate in prima pagina come su marino? Strano.. 
+@unitaonline Perch? queste cose non vengono sparate in prima pagina come su marino? Strano.. 
 
 USER: SimyFrant
 DATE: 2015-10-12
-TEXT: #Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconmarino #Marino
+#Renzi smentisce,ma non documenta e i conti continuano a non tornare...   #marinosiedimesso #iostoconmarino #Marino
 
 USER: danielerazzoli
 DATE: 2015-10-12
-TEXT: @iostoconmarino Una sola cosa conta: che non venga estromesso un sindaco che ha sfidato delinquenti e parassiti organizzati
+@iostoconmarino Una sola cosa conta: che non venga estromesso un sindaco che ha sfidato delinquenti e parassiti organizzati
 
 USER: enzocarnazza
 DATE: 2015-10-12
-TEXT: Da Torino: andr? a Roma, prender? la residenza e mi iscriver?  a @iostoconmarino
+Da Torino: andr? a Roma, prender? la residenza e mi iscriver?  a @iostoconmarino
 
 USER: checco710
 DATE: 2015-10-12
-TEXT: Tra l'altro taggando la Angeli @GrappaTommaso @BarillariM5S @iostoconmarino
+Tra l'altro taggando la Angeli @GrappaTommaso @BarillariM5S @iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @marielSiviglia: Hanno accusato Marino di essere un cattivo comunicatore .Da chi vogliano essere governati  ?Da bravi comunicatori che a?
+RT @marielSiviglia: Hanno accusato Marino di essere un cattivo comunicatore .Da chi vogliano essere governati  ?Da bravi comunicatori che a?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @marielSiviglia: Iscritti del PD a sostegno di  Marino davanti al Nazareno, incazzati ,giustamente.
+RT @marielSiviglia: Iscritti del PD a sostegno di  Marino davanti al Nazareno, incazzati ,giustamente.
 
 USER: Dan_skorpio87
 DATE: 2015-10-12
-TEXT: RT @iostoconmarino: Perch? queste cose non vengono messe in prima pagina come su Marino ? Noi non ci arrendiamo?   h?
+RT @iostoconmarino: Perch? queste cose non vengono messe in prima pagina come su Marino ? Noi non ci arrendiamo?   h?
 
 USER: Dan_skorpio87
 DATE: 2015-10-12
-TEXT: RT @iostoconmarino: @Agenzia_Italia @matteorenzi movimento nato spontaneamente in 24h. Quale scollamento?  
+RT @iostoconmarino: @Agenzia_Italia @matteorenzi movimento nato spontaneamente in 24h. Quale scollamento?  
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @matteorenzi @orfini  dimettetevi tutte e 2 per questo 
+@matteorenzi @orfini  dimettetevi tutte e 2 per questo 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: Perch? queste cose non vengono messe in prima pagina come su Marino ? Noi non ci arrendiamo?   
+Perch? queste cose non vengono messe in prima pagina come su Marino ? Noi non ci arrendiamo?   
 
 USER: ginocalcinotto
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @ignaziomarino @FedeAngeli @crialicata
+@ignaziomarino @FedeAngeli @crialicata
 Perch? questo non viene sparato in prima pagina come su marino? Strano no?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @fattoquotidiano @ignaziomarino non ci arrendiamo #marinoripensaci 
+@fattoquotidiano @ignaziomarino non ci arrendiamo #marinoripensaci 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @fattoquotidiano: Sit-in pro Marino: ?#Renzi dimettiti tu. Pd salva De Luca e scarica un sindaco onesto?
+RT @fattoquotidiano: Sit-in pro Marino: ?#Renzi dimettiti tu. Pd salva De Luca e scarica un sindaco onesto?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @GLOBALNOTIZIE non ci arrendiamo #marinoripensaci 
+@GLOBALNOTIZIE non ci arrendiamo #marinoripensaci 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @GLOBALNOTIZIE: Sit in Pro Marino davanti al Nazareno ?Renzi dimettiti tu, il Pd tratta con Verdini, salva De Luca: 
+RT @GLOBALNOTIZIE: Sit in Pro Marino davanti al Nazareno ?Renzi dimettiti tu, il Pd tratta con Verdini, salva De Luca: 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @ignaziomarino grazie sindaco. Ma ancora non ci arrendiamo. #marinoripensaci te lo chiediamo in tante e tanti. 
+@ignaziomarino grazie sindaco. Ma ancora non ci arrendiamo. #marinoripensaci te lo chiediamo in tante e tanti. 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @eziomauro @repubblicait non ci arrendiamo  #marinoripensaci
+@eziomauro @repubblicait non ci arrendiamo  #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @marielSiviglia: Hanno poco da festeggiare. 
+RT @marielSiviglia: Hanno poco da festeggiare. 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @espressonline @lucasappino non ci arrendiamo. 
+@espressonline @lucasappino non ci arrendiamo. 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @ilfattoblog @fattoquotidiano non ci arrendiamo ancora 
+@ilfattoblog @fattoquotidiano non ci arrendiamo ancora 
 
 USER: floria1405
 DATE: 2015-10-12
-TEXT: perch? poi @VirusRai2  chieda la mia opinione su #marino ? un mistero visto che sono una qualunque. modalit? narciso off  #iostoconmarino
+perch? poi @VirusRai2  chieda la mia opinione su #marino ? un mistero visto che sono una qualunque. modalit? narciso off  #iostoconmarino
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @GayCenterItalia firmate e fate firmare 
+@GayCenterItalia firmate e fate firmare 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @PaolaVaccari firmate e fate firmare 
+@PaolaVaccari firmate e fate firmare 
 
 USER: nicoladingegno
 DATE: 2015-10-12
-TEXT: @iostoconmarino @FedeAngeli @mauriziofdf @BarillariM5S @mdpennalunga @raffaeledstfn Chi si vota a primavera?
+@iostoconmarino @FedeAngeli @mauriziofdf @BarillariM5S @mdpennalunga @raffaeledstfn Chi si vota a primavera?
 
 USER: pinpin68
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
+RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
 
 USER: floria1405
 DATE: 2015-10-12
-TEXT: @VirusRai2 unico commento possibile #iostoconmarino pessima vicenda comunque, fa passare la voglia di interessarsi di politica
+@VirusRai2 unico commento possibile #iostoconmarino pessima vicenda comunque, fa passare la voglia di interessarsi di politica
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @BarillariM5S @iostoconmarino ahahahhahahah...tu non sai proprio cosa sia #M5S ....ne i suoi voti in parlamento
+@edo_cavalieri @BarillariM5S @iostoconmarino ahahahhahahah...tu non sai proprio cosa sia #M5S ....ne i suoi voti in parlamento
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @marielSiviglia: Vi meritate Alemanno  
+RT @marielSiviglia: Vi meritate Alemanno  
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @giulianocossari @BarillariM5S @iostoconmarino ex M5S poi ho capito che eravate una massa di fanatici..
+@giulianocossari @BarillariM5S @iostoconmarino ex M5S poi ho capito che eravate una massa di fanatici..
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @BarillariM5S @iostoconmarino linkala che ti sputtani da solo
+@edo_cavalieri @BarillariM5S @iostoconmarino linkala che ti sputtani da solo
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @BarillariM5S @iostoconmarino non oso immaginare chi sostieni ahahhahah
+@edo_cavalieri @BarillariM5S @iostoconmarino non oso immaginare chi sostieni ahahhahah
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Ho avvertito @iostoconmarino il signor  @BarillariM5S un anno fa di chi erano. Mi ha voltato spalleMeglio loro @mdpennalung?
+RT @FedeAngeli: Ho avvertito @iostoconmarino il signor  @BarillariM5S un anno fa di chi erano. Mi ha voltato spalleMeglio loro @mdpennalung?
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @giulianocossari @BarillariM5S @iostoconmarino vai a vederti l'interrogazione parlamentare presentata dalla ruocco
+@giulianocossari @BarillariM5S @iostoconmarino vai a vederti l'interrogazione parlamentare presentata dalla ruocco
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @BarillariM5S @iostoconmarino  cosa si prova a votare chi cena e prende finanziamenti della mafia,sai io voto non indagati
+@edo_cavalieri @BarillariM5S @iostoconmarino  cosa si prova a votare chi cena e prende finanziamenti della mafia,sai io voto non indagati
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @giulianocossari @BarillariM5S @iostoconmarino ma sai che me frega del PD
+@giulianocossari @BarillariM5S @iostoconmarino ma sai che me frega del PD
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso TESTUALE SABELLA :se Roma ? pi?
+RT @giulianocossari: @GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso TESTUALE SABELLA :se Roma ? pi?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @BarillariM5S @iostoconmarino non ? che se racconti menzogne tolgono dalla Galera mezzo PD EH 
+@edo_cavalieri @BarillariM5S @iostoconmarino non ? che se racconti menzogne tolgono dalla Galera mezzo PD EH 
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Perch? attaccavano Pd con finti dossier. Quelli che faranno su di lui seli molla @mdpennalunga @BarillariM5S @iostoconmarin?
+RT @FedeAngeli: Perch? attaccavano Pd con finti dossier. Quelli che faranno su di lui seli molla @mdpennalunga @BarillariM5S @iostoconmarin?
 
 USER: GiorgioAntonel1
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @mdpennalunga: @BarillariM5S rispondi,con LIBERA PERCH? ALTRA ASSOCIAZIONI?A CHE SERVONO? @iostoconmarino @raffaeledstfn @FedeAngeli
+RT @mdpennalunga: @BarillariM5S rispondi,con LIBERA PERCH? ALTRA ASSOCIAZIONI?A CHE SERVONO? @iostoconmarino @raffaeledstfn @FedeAngeli
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
+RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
 
 USER: CapaccioMc
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
+RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
+RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @giulianocossari @BarillariM5S @iostoconmarino @raffaeledstfn l'unica interrogazione parlamentare a favore di buzzi ? stata fatta dal M5S
+@giulianocossari @BarillariM5S @iostoconmarino @raffaeledstfn l'unica interrogazione parlamentare a favore di buzzi ? stata fatta dal M5S
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @24paolabottelli @_arianna Ma avete letto?   #marinoripensaci
+@24paolabottelli @_arianna Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @albertoinfelise @alaffranchi @adrianoattus @abeccaria @a_padellaro  Ma avete letto?   #marinoripensaci
+@albertoinfelise @alaffranchi @adrianoattus @abeccaria @a_padellaro  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @alexfrosio @alexdimaio @AlessLongo @alesallusti @aleceschi @aldotorchiaro  Ma avete letto?   #marinoripensaci
+@alexfrosio @alexdimaio @AlessLongo @alesallusti @aleceschi @aldotorchiaro  Ma avete letto?   #marinoripensaci
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @andreapater @andreagale @andreabertaglio  @andrea_spadoni @AMenzani @alinomilan  Ma avete letto?   #marinoripensaci
+@andreapater @andreagale @andreabertaglio  @andrea_spadoni @AMenzani @alinomilan  Ma avete letto?   #marinoripensaci
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
+RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
 
 USER: mariadesireh
 DATE: 2015-10-12
-TEXT: RT @edo_cavalieri: @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn il #M5S ha le stesse posizioni dei clan di ostia. Tutti contro ?
+RT @edo_cavalieri: @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn il #M5S ha le stesse posizioni dei clan di ostia. Tutti contro ?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @angelamauro4 @andreavianel @AndreaScanzi @andreasarubbi @andreariscassi  Ma avete letto?   #marinoripensaci
+@angelamauro4 @andreavianel @AndreaScanzi @andreasarubbi @andreariscassi  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @antoniodini @antoniocorsa @AntonellaCard1 @antoclerici @annamasera  Ma avete letto?   #marinoripensaci
+@antoniodini @antoniocorsa @AntonellaCard1 @antoclerici @annamasera  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @barbarasgarzi  @atortelli  @ARoldering @Antoscut @antoniopolito1   Ma avete letto?   #marinoripensaci
+@barbarasgarzi  @atortelli  @ARoldering @Antoscut @antoniopolito1   Ma avete letto?   #marinoripensaci
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @GrappaTommaso @iostoconmarino @edo_cavalieri @BarillariM5S @SabellaAlfonso Sono ridicoli
+@GrappaTommaso @iostoconmarino @edo_cavalieri @BarillariM5S @SabellaAlfonso Sono ridicoli
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @betman @beppespatola @beppesevergnini @BelpietroTweet @bastefanelli  Ma avete letto?   #marinoripensaci
+@betman @beppespatola @beppesevergnini @BelpietroTweet @bastefanelli  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @carnevale1986 @CarloStagnaro @BrunoVespa @BorisSollazzo @BG_Gramellini  Ma avete letto?   #marinoripensaci
+@carnevale1986 @CarloStagnaro @BrunoVespa @BorisSollazzo @BG_Gramellini  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @chiaberger @chepalleblog @chedisagio @ce_rigoni @cbuquicchio @carolafrediani  Ma avete letto?   #marinoripensaci
+@chiaberger @chepalleblog @chedisagio @ce_rigoni @cbuquicchio @carolafrediani  Ma avete letto?   #marinoripensaci
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
+RT @BarillariM5S: @raffaeledstfn  @iostoconmarino se marino fosse davvero onesto, farebbe tutti i nomi. come mai non li fa ?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @mauriziofdf: qui trovi un po' di risposte @barillarim5s 
+RT @mauriziofdf: qui trovi un po' di risposte @barillarim5s 
 @mdpennalunga @fedeangeli @iostoconmarino @raffaeledstfn
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @Claudiogiua @claudiocerasa @cinecasella @ChiaraMaff @chiaraalbanese  Ma avete letto?   #marinoripensaci
+@Claudiogiua @claudiocerasa @cinecasella @ChiaraMaff @chiaraalbanese  Ma avete letto?   #marinoripensaci
 
 USER: baloi361
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
+RT @giulianocossari: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S ?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso io ho fatto una sintesi tu pi? preciso :D
+@GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso io ho fatto una sintesi tu pi? preciso :D
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @Daniele_Manca @corradoformigli @concitadeg @Clio_bittoni @claudioruss  Ma avete letto?   #marinoripensaci
+@Daniele_Manca @corradoformigli @concitadeg @Clio_bittoni @claudioruss  Ma avete letto?   #marinoripensaci
 
 USER: enricopaoli1
 DATE: 2015-10-12
-TEXT: @iostoconmarino @eziomauro @ettoremaria @emiliomarrese @EmanuelaMortar purtroppo si, MA ABBIAMO LETTO ANCHE LE CARTE DEI RIMBORS. E NON SOLO
+@iostoconmarino @eziomauro @ettoremaria @emiliomarrese @EmanuelaMortar purtroppo si, MA ABBIAMO LETTO ANCHE LE CARTE DEI RIMBORS. E NON SOLO
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli si attaccate ferrara. e intanto il pd trattava con la mafia ad o?
+RT @BarillariM5S: @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli si attaccate ferrara. e intanto il pd trattava con la mafia ad o?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @GrappaTommaso @iostoconmarino @BarillariM5S  MENTANA :VOI PARLATE DI UN FORSE #M5S SENZA PROVA E SIETE COINVOLTI A OSTIA
+@edo_cavalieri @GrappaTommaso @iostoconmarino @BarillariM5S  MENTANA :VOI PARLATE DI UN FORSE #M5S SENZA PROVA E SIETE COINVOLTI A OSTIA
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @davidemaggio @davidallegranti @dariodivico @Dario_Donato @Dario_Colombo  Ma avete letto?   #marinoripensaci
+@davidemaggio @davidallegranti @dariodivico @Dario_Donato @Dario_Colombo  Ma avete letto?   #marinoripensaci
 
 USER: Antony970
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn @FedeAngeli da voi ci pensa la magistratura a fare pulizia :-) ed e' solo al?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn @FedeAngeli da voi ci pensa la magistratura a fare pulizia :-) ed e' solo al?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @elenatebano @e_terranova @dontyna @domeniconaso @DeBortoliF @dbellasio  Ma avete letto?   #marinoripensaci
+@elenatebano @e_terranova @dontyna @domeniconaso @DeBortoliF @dbellasio  Ma avete letto?   #marinoripensaci
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @GrappaTommaso @BarillariM5S @Monialustri Vedi @iostoconmarino che gente?Prima blocca e poi ti parla @raffaeledstfn 
+@GrappaTommaso @BarillariM5S @Monialustri Vedi @iostoconmarino che gente?Prima blocca e poi ti parla @raffaeledstfn 
 
 USER: Bopava91
 DATE: 2015-10-12
-TEXT: RT @eluniel: Avete estromesso @ignaziomarino perch? preferite questi di pranzi? #iostoconmarino 
+RT @eluniel: Avete estromesso @ignaziomarino perch? preferite questi di pranzi? #iostoconmarino 
 
 USER: BarillariM5S
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @eziomauro @ettoremaria @enricopaoli1 @emiliomarrese @EmanuelaMortari Ma avete letto?   #marinoripensaci
+@eziomauro @ettoremaria @enricopaoli1 @emiliomarrese @EmanuelaMortari Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @fede_guerrini @fcavalera @fbrancoli @fabiogermani @fabiochiusi @fabfazio  Ma avete letto?   #marinoripensaci
+@fede_guerrini @fcavalera @fbrancoli @fabiogermani @fabiochiusi @fabfazio  Ma avete letto?   #marinoripensaci
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @GrappaTommaso fai il giudice pure tu trollazzo che blocchi prevent.? @BarillariM5S @Monialustri @iostoconmarino @raffaeledstfn @FedeAngeli
+@GrappaTommaso fai il giudice pure tu trollazzo che blocchi prevent.? @BarillariM5S @Monialustri @iostoconmarino @raffaeledstfn @FedeAngeli
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @FilippoFacci1 @FGoria @ffranchi @ferrarailgrasso @fedesene @FedericoRampini  Ma avete letto?   #marinoripensaci
+@FilippoFacci1 @FGoria @ffranchi @ferrarailgrasso @fedesene @FedericoRampini  Ma avete letto?   #marinoripensaci
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso TESTUALE SABELLA :se Roma ? pi? sporca ? colpa mia
+@GrappaTommaso @iostoconmarino @edo_cavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso TESTUALE SABELLA :se Roma ? pi? sporca ? colpa mia
 
 USER: edo_cavalieri
 DATE: 2015-10-12
-TEXT: @GrappaTommaso @iostoconmarino @giulianocossari @FedeAngeli @BarillariM5S quale figuraccia?
+@GrappaTommaso @iostoconmarino @giulianocossari @FedeAngeli @BarillariM5S quale figuraccia?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
+@iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn  INFATTI CHIEDILO A CHI DIFENDEVA TASSONE
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @ignaziomarino sputtanati ovunque5?????. 
+@iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @ignaziomarino sputtanati ovunque5?????. 
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
+RT @GrappaTommaso: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
+RT @BarillariM5S: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2?
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S 
+@BarillariM5S @iostoconmarino @edo_cavalieri @raffaeledstfn inutile sono in mala fede ..Buzzi finanziava il PD no M5S 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @FrancoBechis  @francescocosta @FrancescoCoccoT @Francescaglossy @framcescabarra  Ma avete letto?   #marinoripensaci
+@FrancoBechis  @francescocosta @FrancescoCoccoT @Francescaglossy @framcescabarra  Ma avete letto?   #marinoripensaci
 
 USER: GrappaTommaso
 DATE: 2015-10-12
-TEXT: @iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso da Mentana?
+@iostoconmarino @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S non ? bastata la figuraccia di @SabellaAlfonso da Mentana?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @gadlernertweet @gabrieligm @fulvioscaglione @frapac71 @francofontana43  Ma avete letto?   #marinoripensaci
+@gadlernertweet @gabrieligm @fulvioscaglione @frapac71 @francofontana43  Ma avete letto?   #marinoripensaci
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
+RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
 
 USER: GhitaIacono
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD htt?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @FedeAngeli @mauriziofdf @BarillariM5S @mdpennalunga @raffaeledstfn non siamo scemi. I giochini ormai dal pd al m5s li conosciamo.
+@FedeAngeli @mauriziofdf @BarillariM5S @mdpennalunga @raffaeledstfn non siamo scemi. I giochini ormai dal pd al m5s li conosciamo.
 
 USER: danieledvpd
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Perch? attaccare me? Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @FedeAngeli con candidature e dibattito interno... @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S 
+@FedeAngeli con candidature e dibattito interno... @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S 
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
+RT @FedeAngeli: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn ?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstf?
+RT @FedeAngeli: Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstf?
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Con chi fa gioco della mafia @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
+RT @FedeAngeli: Con chi fa gioco della mafia @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: mauriziofdf
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
+RT @FedeAngeli: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
 
 USER: BarillariM5S
 DATE: 2015-10-12
-TEXT: RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione ? PD htt?
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione ? PD htt?
 
 USER: mauriziofdf
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
+RT @FedeAngeli: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giorgiocappozzo @giolevi @GigiPadovani @GianluigiNuzzi @GenCarotenuto  Ma avete letto?   #marinoripensaci
+@giorgiocappozzo @giolevi @GigiPadovani @GianluigiNuzzi @GenCarotenuto  Ma avete letto?   #marinoripensaci
 
 USER: AntonioSpadafo4
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: S? sono avvicinati al diavolo pur di dar contro alla legalit?. Buffoni o collusi? @iostoconmarino @BarillariM5S @raffaeleds?
+RT @FedeAngeli: S? sono avvicinati al diavolo pur di dar contro alla legalit?. Buffoni o collusi? @iostoconmarino @BarillariM5S @raffaeleds?
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
+Fratello era in societ? CON Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giuliamietta @giuliainnocenzi @GiudittaMosca @giudebellis @Giu_Di_Piazza  Ma avete letto?   #marinoripensaci
+@giuliamietta @giuliainnocenzi @GiudittaMosca @giudebellis @Giu_Di_Piazza  Ma avete letto?   #marinoripensaci
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+@iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
 camorra mafia peculato corruzione ? PD 
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
+Quando erano opposizione nel Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn
 
 USER: AntonioSpadafo4
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: @iostoconmarino @BarillariM5S @raffaeledstfn luna nuova anche. Quando li arresteranno 5 stelle di Ostia e Barillari sono fi?
+RT @FedeAngeli: @iostoconmarino @BarillariM5S @raffaeledstfn luna nuova anche. Quando li arresteranno 5 stelle di Ostia e Barillari sono fi?
 
 USER: BarillariM5S
 DATE: 2015-10-12
-TEXT: @iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2 anni x muro ostia
+@iostoconmarino @giulianocossari @edo_cavalieri @raffaeledstfn sabella incontrava balneari.marino non ha fatto nulla in 2 anni x muro ostia
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @guidoolimpio @GreenBuild_Mag @gparagone @gloquenzi @giusmo1 @giurnal @giosava   Ma avete letto?   #marinoripensaci
+@guidoolimpio @GreenBuild_Mag @gparagone @gloquenzi @giusmo1 @giurnal @giosava   Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
+RT @FedeAngeli: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ig?
 
 USER: mauriziofdf
 DATE: 2015-10-12
-TEXT: qui trovi un po' di risposte @barillarim5s  @mdpennalunga @fedeangeli @iostoconmarino @raffaeledstfn
+qui trovi un po' di risposte @barillarim5s  @mdpennalunga @fedeangeli @iostoconmarino @raffaeledstfn
 
 USER: mdpennalunga
 DATE: 2015-10-12
-TEXT: @giulianocossari tutti cacciati.E voi i vs? @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn 
+@giulianocossari tutti cacciati.E voi i vs? @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn 
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
+In societ? con Spada. Colloca FI #vergogna @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @La_Rouge_DOC  @jacopotondelli @jacopo_iacoboni @IlPaoloGiordano @ilariolombardo  Ma avete letto?   #marinoripensaci
+@La_Rouge_DOC  @jacopotondelli @jacopo_iacoboni @IlPaoloGiordano @ilariolombardo  Ma avete letto?   #marinoripensaci
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
+Fratello di leader Casapound arrestato perch? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: BarillariM5S
 DATE: 2015-10-12
-TEXT: @iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
+@iostoconmarino ormai sei caduto nel ridicolo. rispondi alle domande su marino e su mafia
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
+Sai chi haeletto come vicepresidente municipio? @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino solo quanno ve' pare fate le pulci. Ammazza che bravi.
+@giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino solo quanno ve' pare fate le pulci. Ammazza che bravi.
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @edo_cavalieri  @BarillariM5S @raffaeledstfn fu comunque @ignaziomarinoa nominare assessori poi arrestati
+@iostoconmarino @edo_cavalieri  @BarillariM5S @raffaeledstfn fu comunque @ignaziomarinoa nominare assessori poi arrestati
 
 USER: BrokenwindowsRm
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: S? sono avvicinati al diavolo pur di dar contro alla legalit?. Buffoni o collusi? @iostoconmarino @BarillariM5S @raffaeleds?
+RT @FedeAngeli: S? sono avvicinati al diavolo pur di dar contro alla legalit?. Buffoni o collusi? @iostoconmarino @BarillariM5S @raffaeleds?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @lucaborioni @liumonti @liacapizzi @leliosimi @lasoncini @LaGiovinco @la_sarci Ma avete letto?   #marinoripensaci
+@lucaborioni @liumonti @liacapizzi @leliosimi @lasoncini @LaGiovinco @la_sarci Ma avete letto?   #marinoripensaci
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @edo_cavalieri  @BarillariM5S @raffaeledstfn @ignaziomarino sei di una tristezza infinita ,un incidente di 32 anni #chepena
+@iostoconmarino @edo_cavalieri  @BarillariM5S @raffaeledstfn @ignaziomarino sei di una tristezza infinita ,un incidente di 32 anni #chepena
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino sempre ucciso persone ha. 32 o 3 sempre assassino rimani
+@giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino sempre ucciso persone ha. 32 o 3 sempre assassino rimani
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @lucatelese @lucasofri @lucarinaldi @lucagarosi @lucadondoni @lucadebiase  Ma avete letto?   #marinoripensaci
+@lucatelese @lucasofri @lucarinaldi @lucagarosi @lucadondoni @lucadebiase  Ma avete letto?   #marinoripensaci
 
 USER: FedeAngeli
 DATE: 2015-10-12
-TEXT: Con chi fa gioco della mafia @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
+Con chi fa gioco della mafia @iostoconmarino @giulianocossari @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino incidente stradale di 32 anni fa.... cenate pure con la mafia
+@iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino incidente stradale di 32 anni fa.... cenate pure con la mafia
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi se la prende con Libera non parliamo
+@giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi se la prende con Libera non parliamo
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @manuelaboselli @maledettoscano @LuigiEsposito @luigicrespi @LucaTentoni  Ma avete letto?   #marinoripensaci
+@manuelaboselli @maledettoscano @LuigiEsposito @luigicrespi @LucaTentoni  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi incontra balneari non parliamo
+@giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi incontra balneari non parliamo
 
 USER: BrokenwindowsRm
 DATE: 2015-10-12
-TEXT: RT @edo_cavalieri: @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn il #M5S ha le stesse posizioni dei clan di ostia. Tutti contro ?
+RT @edo_cavalieri: @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn il #M5S ha le stesse posizioni dei clan di ostia. Tutti contro ?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @marcotravaglio @marcoprat @marcocobianchi @marcobardazzi @ManuManuelg  Ma avete letto?   #marinoripensaci
+@marcotravaglio @marcoprat @marcocobianchi @marcobardazzi @ManuManuelg  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi ha per leader un assassino non parliamo.
+@giulianocossari @edo_cavalieri @FedeAngeli @BarillariM5S @raffaeledstfn @ignaziomarino con chi ha per leader un assassino non parliamo.
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @iostoconmarino @BarillariM5S @raffaeledstfn Chi ha nominato assessori arrestati ..non rispondete mai ,perch? ?
+@edo_cavalieri @iostoconmarino @BarillariM5S @raffaeledstfn Chi ha nominato assessori arrestati ..non rispondete mai ,perch? ?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @Masonotarianni @masechi @mariocalabresi @marilur1 @MariaLatella @marcotti  Ma avete letto?   #marinoripensaci
+@Masonotarianni @masechi @mariocalabresi @marilur1 @MariaLatella @marcotti  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @MenicaBersani gi? ma non demordiamo 
+@MenicaBersani gi? ma non demordiamo 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @Max_Cristina @Maumol @mattiafeltri @matteograndi @matgiannini @massimosideri  Ma avete letto?   #marinoripensaci
+@Max_Cristina @Maumol @mattiafeltri @matteograndi @matgiannini @massimosideri  Ma avete letto?   #marinoripensaci
 
 USER: Official_zanzi
 DATE: 2015-10-12
-TEXT: RT @AnnaGDato: I numeri parlano e voi non sapete di che parlate #iostoconmarino #Marino 
+RT @AnnaGDato: I numeri parlano e voi non sapete di che parlate #iostoconmarino #Marino 
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose ,governato dal PD
+@edo_cavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto per infiltrazione mafiose ,governato dal PD
 
 USER: giulianocossari
 DATE: 2015-10-12
-TEXT: @iostoconmarino @BarillariM5S @raffaeledstfn @FedeAngeli ovviamente sei un grande bugiardo ..arrestati e indagati quelli del PD e lo sai
+@iostoconmarino @BarillariM5S @raffaeledstfn @FedeAngeli ovviamente sei un grande bugiardo ..arrestati e indagati quelli del PD e lo sai
 
 USER: GrappaTommaso
 DATE: 2015-10-12
-TEXT: @BarillariM5S @Monialustri @mdpennalunga @iostoconmarino @raffaeledstfn eccolo Marino integerrimo ahahahahah 
+@BarillariM5S @Monialustri @mdpennalunga @iostoconmarino @raffaeledstfn eccolo Marino integerrimo ahahahahah 
 
 USER: MenicaBersani
 DATE: 2015-10-12
-TEXT: @IOSTOCONMARINO un po' pi? di tempo,un po' pi? di aiuto e Roma poteva diventare la capitale di cui essere fieri.
+@IOSTOCONMARINO un po' pi? di tempo,un po' pi? di aiuto e Roma poteva diventare la capitale di cui essere fieri.
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @FedeAngeli @ignaziomarino e' il pd che con tassone regalava appalti e concessioni agli amici. non il m5s?
+RT @BarillariM5S: @iostoconmarino @FedeAngeli @ignaziomarino e' il pd che con tassone regalava appalti e concessioni agli amici. non il m5s?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @raffaeledstfn @edo_cavalieri @iostoconmarino @FedeAngeli fino a ieri, e per 2 anni, marino governava con il pd. ora non ?
+RT @BarillariM5S: @raffaeledstfn @edo_cavalieri @iostoconmarino @FedeAngeli fino a ieri, e per 2 anni, marino governava con il pd. ora non ?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @muratcinar @micolsar @michelegazzetti @michelafinizio @mazzettam @MaxGramel  Ma avete letto?   #marinoripensaci
+@muratcinar @micolsar @michelegazzetti @michelafinizio @mazzettam @MaxGramel  Ma avete letto?   #marinoripensaci
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn marino integerrimo ? AHAHAH se non andavamo con i carabinieri non uscivano l?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn marino integerrimo ? AHAHAH se non andavamo con i carabinieri non uscivano l?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @iostoconmarino @mdpennalunga @raffaeledstfn  @ignaziomarino marino fa parte del passato. indaghera' la procura. Ora e' g?
+RT @BarillariM5S: @iostoconmarino @mdpennalunga @raffaeledstfn  @ignaziomarino marino fa parte del passato. indaghera' la procura. Ora e' g?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn marino ha nascosto x anni cene con amici, parenti +spese d lusso.ha mentito ?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn marino ha nascosto x anni cene con amici, parenti +spese d lusso.ha mentito ?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn non hai notato foto senza faccia? ;) solo cos? si fanno eco
+@BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn non hai notato foto senza faccia? ;) solo cos? si fanno eco
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @nicoladituri @nicolabruno @niccolovecchia @netnewsmaker @NenaDarling @nelsonmau  Ma avete letto?   #marinoripensaci
+@nicoladituri @nicolabruno @niccolovecchia @netnewsmaker @NenaDarling @nelsonmau  Ma avete letto?   #marinoripensaci
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn quali sarebbero le "finte associazioni antimafia" ? nomi, cognomi e fatti. n?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn quali sarebbero le "finte associazioni antimafia" ? nomi, cognomi e fatti. n?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @FedeAngeli @iostoconmarino @raffaeledstfn nome delle finte associazioni antimafia con fatti concreti. RISP?
+RT @BarillariM5S: @mdpennalunga @FedeAngeli @iostoconmarino @raffaeledstfn nome delle finte associazioni antimafia con fatti concreti. RISP?
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn di fronte a reati io ho il dovere di intervenire. invece quelli del pd chiud?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn di fronte a reati io ho il dovere di intervenire. invece quelli del pd chiud?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @paolabacchiddu @olivegreche @OGiannino @officialmazz @nureldin @NicolaPorro  Ma avete letto?   #marinoripensaci
+@paolabacchiddu @olivegreche @OGiannino @officialmazz @nureldin @NicolaPorro  Ma avete letto?   #marinoripensaci
 
 USER: Monialustri
 DATE: 2015-10-12
-TEXT: RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn fai i nomi delle finte associazioni antimafia. o solo balle ? altrimenti dis?
+RT @BarillariM5S: @mdpennalunga @iostoconmarino @raffaeledstfn fai i nomi delle finte associazioni antimafia. o solo balle ? altrimenti dis?
 
 USER: PiramideRossa
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
+RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @petergomezblog @pestoverde @pelopida @PButtafuoco @PaoloSalom @paolomaggioni  Ma avete letto?   #marinoripensaci
+@petergomezblog @pestoverde @pelopida @PButtafuoco @PaoloSalom @paolomaggioni  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @pinobruno @PierluigiBattis @pgheconomiadige @pfvalentino @pfcatucci   Ma avete letto?   #marinoripensaci
+@pinobruno @PierluigiBattis @pgheconomiadige @pfvalentino @pfcatucci   Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @realpostitalia  @rbonacina @rachidagrazi @pvigano65 @piovonorane @pinosuriano  Ma avete letto?   #marinoripensaci
+@realpostitalia  @rbonacina @rachidagrazi @pvigano65 @piovonorane @pinosuriano  Ma avete letto?   #marinoripensaci
 
 USER: marcohilo
 DATE: 2015-10-12
-TEXT: RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
+RT @FedeAngeli: Attaccare una cronista minacciata da mafia ? fare gioco della mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @?
 
 USER: Balqis_3asal
 DATE: 2015-10-12
-TEXT: RT @Aldo_Benassi: Il commissario #Sabella ? gi? pronto a gestire il dopo #Marino. #Marinoresisti #iostoconmarino 
+RT @Aldo_Benassi: Il commissario #Sabella ? gi? pronto a gestire il dopo #Marino. #Marinoresisti #iostoconmarino 
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @rosybattaglia @rosalbacarbutti @robertosaviano @riotta @riccardowired  Ma avete letto?   #marinoripensaci
+@rosybattaglia @rosalbacarbutti @robertosaviano @riotta @riccardowired  Ma avete letto?   #marinoripensaci
 
 USER: iostoconmarino
 DATE: 2015-10-12
-TEXT: @serena_danna @scottotweet @sarabrag @salvosottile @SalvatoreMerlo  Ma avete letto?   #marinoripensaci
+@serena_danna @scottotweet @sarabrag @salvosottile @SalvatoreMerlo  Ma avete letto?   #marinoripensaci
 

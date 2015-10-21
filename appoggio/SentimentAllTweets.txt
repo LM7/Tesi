@@ -1,0 +1,40 @@
+USER: campuseverest
+DATE: 2015-10-10
+VIDEO YouTube. Crozza-Marino: ?Ora posso visitare Roma?? - ROMA ? Anche il sindaco Ignazio Marino finisce tra i pe... 
+neutralVero
+
+USER: peppemongiardo
+DATE: 2015-10-12
+Non solo #Marino : il ristoratore fiorentino: ?Era sempre qui, fatturavo al Comune? - Ilfattoquotidiano.it
+negativeVero
+
+USER: titticri
+DATE: 2015-10-15
+RT @marielSiviglia:  Il prossimo sindaco di Roma  si arrabbia  x la metropolitana @iostoconmarino  @titticri @Rossa?
+positiveVero
+
+USER: MPenikas
+DATE: 2015-10-08
+RT @marcello_devito: Incredibile, Marino ha detto che restituisce i soldi: Ha mangiato a sua insaputa!
+negativeVero
+
+USER: marino29b
+DATE: 2015-10-08
+Tassone (PD),ARRESTATO,ha portato a Marino:47933 voti #Marinodimettiti #la?
+negativeVero
+
+USER: ulde_sco
+DATE: 2015-10-12
+Coro di Ncd fuori dal Campidoglio "Marino te ne devi ann?" Basterebbe solo questo per stare dalla sua parte. #MarinoResisti
+positiveVero
+
+USER: Towheehillart
+DATE: 2015-10-12
+#marino E FAMIGGHIA!! A CASA ANZI IN GALERA! GRAZIE @beppe_grillo IL FUTURO CHE VOGLIO STA COMINCIANDO!!
+negativeVero
+
+USER: titticri
+DATE: 2015-10-15
+Il prossimo sindaco di Roma  si arrabbia  x la metropolitana @iostoconmarino  @titticri @Rossa?
+positiveVero
+

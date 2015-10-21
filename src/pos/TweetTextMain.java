@@ -18,10 +18,20 @@ public class TweetTextMain {
 		return hashtags;
 	}
 	
+	public ArrayList<String> tweetTextEntities(String tweet) {
+		List<Entity> entities = new ArrayList<Entity>();
+		entities = this.extractor.extractEntitiesWithIndices(tweet);
+		ArrayList<String> stringhe = new ArrayList<String>();
+		for (Entity ent: entities) {
+			stringhe.add(ent.getValue());
+		}
+		return stringhe;
+	}
+	
 	public static void main(String[] args) {
 		TweetTextMain tweetext = new TweetTextMain();
-		List<String> hashtags = tweetext.tweetTextHashTags("Turbina non si tocca #saveiturbe #Number7 @Juan_iturbe93");
-		for (String stringa: hashtags) {
+		List<String> entities = tweetext.tweetTextEntities("Turbina non si tocca #saveiturbe #Number7 @Juan_iturbe93");
+		for (String stringa: entities) {
 			System.out.println(stringa);
 		}
 	}
