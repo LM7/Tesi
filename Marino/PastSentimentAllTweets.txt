@@ -1,1322 +1,774 @@
-USER: sbaffato
-NUMERO DEI TWEET: 0
-USER: maumau6666
-NUMERO DEI TWEET: 0
-USER: MPenikas
-NUMERO DEI TWEET: 0
-USER: marino29b
-NUMERO DEI TWEET: 0
-USER: TAL77SVAD
-NUMERO DEI TWEET: 0
-USER: PGiancontier
-NUMERO DEI TWEET: 0
-USER: infoitinterno
-NUMERO DEI TWEET: 0
-USER: poke_dem
-NUMERO DEI TWEET: 0
-USER: GambiniStefano
-NUMERO DEI TWEET: 0
-USER: tanalibera
 ........... USER: tanalibera............
 2015-07-28
 RT @ArsenaleKappa: Il senatore pro Tav Stefano #Esposito sar? l?assessore ai Trasporti nella nuova giunta di Ignazio #Marino. Collegher? la?
-NUMERO DEI TWEET: 2
-USER: cavgabgab
+neutralVero
+
 ........... USER: cavgabgab............
 2015-09-30
 RT @gasparripdl: Dimissioni all'Atac, @stefanoesposito semina caos, un pericolo per Roma e per tutti, peggio di @ignaziomarino , a casa
-NUMERO DEI TWEET: 0
-USER: tito_m5s
-NUMERO DEI TWEET: 0
-USER: attuale
-NUMERO DEI TWEET: 0
-USER: RafLindia
+negativeVero
+
 ........... USER: RafLindia............
 2015-07-24
 A Nerone sarebbe bastato uno come #marino e risparmiava tempo. @Storace @a_meluzzi @gasparripdl @AlemannoTW @FabriBracco64 @GiorgiaMeloni
-NUMERO DEI TWEET: 6
-USER: slavina6
-NUMERO DEI TWEET: 0
-USER: GhitaIacono
-NUMERO DEI TWEET: 0
-USER: elisabettamass3
-NUMERO DEI TWEET: 0
-USER: selezione5stell
-NUMERO DEI TWEET: 0
-USER: pztretes
+negativeVero
+
 ........... USER: pztretes............
 2014-10-01
 Credo che quello che ha detto il sindaco di Roma Marino riguardo alle droghe abbia dello stupefacente.
-NUMERO DEI TWEET: 0
-USER: ohmabasta
-NUMERO DEI TWEET: 0
-USER: MisterDonnie13
+positive
+
 ........... USER: MisterDonnie13............
 2015-06-26
 #Marino: "Mi scuso per la frase su destra e fogne. Per farmi perdonare, eccovi un po' di formaggio".
-NUMERO DEI TWEET: 2
-USER: borriroberto
+neutral
+
 ........... USER: borriroberto............
 2015-09-29
 RT @Qelsi: Papa Francesco smentisce Marino: ?Non l?ho invitato io negli USA, e neppure gli organizzatori? 
-NUMERO DEI TWEET: 1
-USER: daniloraineri
-NUMERO DEI TWEET: 0
-USER: To_Arise
-NUMERO DEI TWEET: 0
-USER: aleimpa
+neutral
+
 ........... USER: aleimpa............
 2014-03-10
 #Marino devi privatizzare e non ha fatto niente!
-NUMERO DEI TWEET: 0
-USER: CarloAlterego
-NUMERO DEI TWEET: 0
-USER: MimodiCreta
-NUMERO DEI TWEET: 0
-USER: EnrichettaNegri
-NUMERO DEI TWEET: 0
-USER: VuonoGiuseppe
-NUMERO DEI TWEET: 0
-USER: Corrado_info
-NUMERO DEI TWEET: 0
-USER: cipriani90
-NUMERO DEI TWEET: 0
-USER: giuliocampese
-NUMERO DEI TWEET: 0
-USER: LeonePortoghese
+neutral
+
 ........... USER: LeonePortoghese............
 2015-09-28
 Ora il Papa sbugiarda Marino: Non l'ho invitato io negli Usa: Una figuraccia colossale. Anzi, mondiale. A ques... 
-NUMERO DEI TWEET: 1
-USER: Exy_xy
-NUMERO DEI TWEET: 0
-USER: Blandamura
-NUMERO DEI TWEET: 0
-USER: augustosantori
+neutral
+
 ........... USER: augustosantori............
 2015-09-21
-La settimana è cominciata così: Marino torna negli Usa, noi al lavoro... #sgomma
-NUMERO DEI TWEET: 10
+La settimana ?? cominciata cos??: Marino torna negli Usa, noi al lavoro... #sgomma
+neutral
+
 ........... USER: MassimoFasciolo............
 2015-09-23
 RT @Piovegovernolad: Nuova grana per Marino: "Con i soldi del Comune avrebbe pagato cene in hotel di lusso" -  
-USER: RegoliClaudia
+negativeVero
+
 ........... USER: RegoliClaudia............
 2015-09-30
 #Marino e' riuscito a fare innervosire pure Papa Francesco 
-NUMERO DEI TWEET: 3
-USER: giorgiogaias92
-NUMERO DEI TWEET: 0
-USER: gfaccolla
+neutral
+
 ........... USER: gfaccolla............
 2014-02-27
 Francamente le minacce di dimissioni del sindaco #Marino non fanno disperare nessun romano. Magara! Rafforzativo romanesco di magari...
-NUMERO DEI TWEET: 3
-USER: ChiaraColosimo
+negative
+
 ........... USER: ChiaraColosimo............
 2015-09-07
-Iniziamo col lunedì chiedendo a Marino di dimettersi?... 
-NUMERO DEI TWEET: 10
-USER: marytaxi65
+Iniziamo col luned?? chiedendo a Marino di dimettersi?... 
+negative
+
 ........... USER: marytaxi65............
 2015-08-10
 RT @danyATAC: A CAZZAROOOOO ! Ce prendono in giro in tutto il mondo ? ancora parli? TE NE DEVI ANDA' @ignaziomarino .
-NUMERO DEI TWEET: 1
-USER: DilotKale
+positiveVero
+
 ........... USER: DilotKale............
 2015-06-15
 RT @ale_dibattista: #marinodimettiti Oggi nessun giornale ha scritto una riga sull'assemblea cittadina convocata alle 17.30 al Campidoglio.?
-NUMERO DEI TWEET: 5
-USER: tilt61
-NUMERO DEI TWEET: 0
-USER: newsfeed_it
-NUMERO DEI TWEET: 0
-USER: tosovale
+negativeVero
+
 ........... USER: tosovale............
 2015-09-29
 Ma non ce l'ha #Marino una moglie che se lo tenga a casa, giusto per evitare figure dimmerda?
-NUMERO DEI TWEET: 12
-USER: lorellacorelli
-NUMERO DEI TWEET: 0
-USER: nonovvio
+negative
+
 ........... USER: nonovvio............
 2015-07-18
 RT @Giorgiolaporta: 7 assessori su 12 hanno abbandonato la Giunta #Marino. Siamo a #Roma o al #GrandeFratello? #MafiaCapitale 
-NUMERO DEI TWEET: 3
-USER: mauroev
+negative
+
 ........... USER: mauroev............
 2015-06-09
 Casapound, Salvini, m5s... Poi dice che uno sta con marino
-NUMERO DEI TWEET: 16
-USER: AmerioRosanna
+neutral
+
 ........... USER: AmerioRosanna............
 2015-08-27
 RT @ilfoglio_it: Quanto fa male a Renzi il ritorno di Marino a Roma. Indagine sul costo politico della sua permanenza 
-NUMERO DEI TWEET: 1
-USER: AchilleNobiloni
+neutralVero
+
 ........... USER: AchilleNobiloni............
 2015-06-22
 #Roma: in #poltrona fino al #2023. Ma #Marino ci crede davvero?! #Civati ? con lui!! Ah b?, allora ....
-NUMERO DEI TWEET: 2
-USER: Nad45P
-NUMERO DEI TWEET: 0
-USER: agabbia
+positive
+
 ........... USER: agabbia............
 2015-09-22
-RT @FratellidItaIia: Roma, Meloni: Mondo ride dietro a Marino che vola in Usa per Papa e non sa che la domenica c'è angelus a San Pietro
-NUMERO DEI TWEET: 3
-USER: il__filosofo
+RT @FratellidItaIia: Roma, Meloni: Mondo ride dietro a Marino che vola in Usa per Papa e non sa che la domenica c'?? angelus a San Pietro
+negativeVero
+
 ........... USER: il__filosofo............
 2015-09-28
-RT @foxyvol: Ma alla fine ,una foto del Papa con Marino ,anche sullo sfondo, c'è? #Filadelfia #Papa #Marino
-NUMERO DEI TWEET: 0
-USER: gaetano_rizza
+RT @foxyvol: Ma alla fine ,una foto del Papa con Marino ,anche sullo sfondo, c'??? #Filadelfia #Papa #Marino
+positive
+
 ........... USER: gaetano_rizza............
 2015-09-28
 A #Philadelphia col #PapaFrancisco c'era ank #Marino, il papa dice che non l'ha invitato. Sindaco: "? vero" ma che cazzo ce sto a fa a Roma?
-NUMERO DEI TWEET: 2
-USER: barkilphedro_
-NUMERO DEI TWEET: 0
-USER: gigidepalo
+positive
+
 ........... USER: gigidepalo............
 2015-09-28
 RT @ilmessaggeroit: Il #papa gela Marino: ?Io non l'ho invitato negli Usa? @ignaziomarino  
-NUMERO DEI TWEET: 1
-USER: vecchiotac
-NUMERO DEI TWEET: 0
-USER: CarloDelNero
+negativeVero
+
 ........... USER: CarloDelNero............
 2015-09-29
 Il papa ha smentito una dichiarazione che Marino non aveva fatto ?mi ricorda qualcosa!
-NUMERO DEI TWEET: 0
-USER: eurovisionvideo
-NUMERO DEI TWEET: 0
-USER: FraLisci75
-NUMERO DEI TWEET: 0
-USER: lgtricoli
+positive
+
 ........... USER: lgtricoli............
 2015-09-10
 RT @AugustoMinzolin: Per salvare suo partito dall'estinzione (? sotto il 2%) Alfie promette il ponte sullo Stretto:? pi? ridicolo di Marino?
-NUMERO DEI TWEET: 0
-USER: flinx15
-NUMERO DEI TWEET: 0
-USER: emanuelmaddalen
-NUMERO DEI TWEET: 0
-USER: angelorgiordano
-NUMERO DEI TWEET: 0
-USER: s_fusco
-NUMERO DEI TWEET: 0
-USER: HSIXTYNINE
+negative
+
 ........... USER: HSIXTYNINE............
 2015-08-21
 @ignaziomarino La frase di Marino  che la mafia a Roma c'? ? da oggi lui ? meno isolato?Si perch? lui denuncia.Infatti ha parlato prima!????
-NUMERO DEI TWEET: 7
-USER: PPicerni
-NUMERO DEI TWEET: 0
-USER: albamontori
+positiveVero
+
 ........... USER: albamontori............
 2015-09-28
 FORZA E CORAGGIO, Sindaco Ignazio Marino! Bisogna insistere, insistere e ancora insistere.    :) 
-NUMERO DEI TWEET: 4
-USER: zizionice
-NUMERO DEI TWEET: 0
-USER: LUCADIMEO93
-NUMERO DEI TWEET: 0
-USER: ebergonzaga
-NUMERO DEI TWEET: 0
-USER: portoghesi
+positive
+
 ........... USER: portoghesi............
 2015-08-10
 RT @ignaziomarino: Pi? personale AMA in strada, operativit? degli impianti anche nei giorni festivi, 300 nuovi spazzini di quartiere https:?
-NUMERO DEI TWEET: 5
-USER: _rjardon
-NUMERO DEI TWEET: 0
-USER: pempipot
-NUMERO DEI TWEET: 0
-USER: comodino80
-NUMERO DEI TWEET: 0
-USER: luigidiplacido
-NUMERO DEI TWEET: 0
-USER: ndiiorio1
+positiveVero
+
 ........... USER: ndiiorio1............
 2015-09-29
 RT @Rinaldi_euro: A sentire #Marino lo invitano ovunque tutti. Anche i romani ad andarsene subito.
-NUMERO DEI TWEET: 0
-USER: SpecialeLuca
+negative
+
 ........... USER: SpecialeLuca............
 2015-07-27
 RT @augustociardi: Sta buca a Trastevere compie 1000 giorni. #Marino e #Malag? la terranno fino al 2024 xk? il golf torna sport olimpico ht?
-NUMERO DEI TWEET: 2
-USER: Hellzapoppin80
-NUMERO DEI TWEET: 0
-USER: masgreek
+neutral
+
 ........... USER: masgreek............
 2015-01-06
 La vicenda dei vigili di Capodanno sta diventando un boomerang per Marino.Attacco strumentale per nascondere Mafia Capitale.#dimissioni.
-NUMERO DEI TWEET: 5
-USER: cymaryella
-NUMERO DEI TWEET: 0
-USER: VirusRai2
-NUMERO DEI TWEET: 0
-USER: fran_orsini
-NUMERO DEI TWEET: 0
-USER: Bigalfry
+negative
+
 ........... USER: Bigalfry............
 2015-09-30
 Ignazio Marino e il Giubileo, il prefetto: "Basta farci del male" | Giornalettismo  via @giornalettismo
-NUMERO DEI TWEET: 0
-USER: Gloriamonaco
+negative
+
 ........... USER: Gloriamonaco............
 2015-06-16
 Credo che se Marino si guarda in uno specchio riconosce se stesso, non so se l'effetto sia il medesimo per tutti e cmq meglio andare cauti!
-NUMERO DEI TWEET: 2
-USER: valy_s
-NUMERO DEI TWEET: 0
-USER: eguanella
-NUMERO DEI TWEET: 0
-USER: anitamarialaila
-NUMERO DEI TWEET: 0
-USER: vanillamarcodi1
-NUMERO DEI TWEET: 0
-USER: SchirruLaura
+neutral
+
 ........... USER: SchirruLaura............
 2015-09-30
 Non ho mai visto tanto accanimento verso una persona #Marino
-NUMERO DEI TWEET: 0
-USER: cherubinapazza
-NUMERO DEI TWEET: 0
-USER: FBaraggi
+neutral
+
 ........... USER: FBaraggi............
 2015-09-27
 RT @PopoloGeniale: Marino agli Usa: ?Vi spiego io come gestire la visita del Santo Padre? (Da che pulpito?) -   
-NUMERO DEI TWEET: 0
-USER: Lucio_Apuleio
-NUMERO DEI TWEET: 0
-USER: pandistelle
-NUMERO DEI TWEET: 0
-USER: kickmyballs222
-NUMERO DEI TWEET: 0
-USER: campuseverest
-NUMERO DEI TWEET: 0
-USER: Sostenitori1
-NUMERO DEI TWEET: 0
-USER: tictactappi
-NUMERO DEI TWEET: 0
-USER: ultimenews
+positive
+
 ........... USER: ultimenews............
 2015-07-26
 Marino ringrazia Gassmann per l'iniziativa #Romasonoio: rispetto per Roma parte da piccoli ... 
-NUMERO DEI TWEET: 4
-USER: virginiaraggi
+positive
+
 ........... USER: virginiaraggi............
 2015-08-12
 RT @EnricoStefano: Sappiate che ogni estate @ignaziomarino annuncia citt? di #Roma pulita. Non sei credibile #MarinoDimettiti 
-NUMERO DEI TWEET: 10
-USER: mafaldina61
-NUMERO DEI TWEET: 0
-USER: socialcom15
-NUMERO DEI TWEET: 0
-USER: LFerlaino
-NUMERO DEI TWEET: 0
-USER: italiadigital
-NUMERO DEI TWEET: 0
-USER: mikytavolo13
+negativeVero
+
 ........... USER: mikytavolo13............
 2015-09-28
 RT @flower___: @PaolaTavernaM5S "Abbiamo messo dei cartelli WANTED per #Roma. Dov'? il Sindaco #Marino? Sta all'estero.. ma dovrebbe stare ?
-NUMERO DEI TWEET: 0
-USER: NoImuAgricola
-NUMERO DEI TWEET: 0
-USER: MoreschiLeila
+neutral
+
 ........... USER: MoreschiLeila............
 2015-06-11
 #iostoconmarino!
-NUMERO DEI TWEET: 4
-USER: flower___
+positiveVero
+
 ........... USER: flower___............
 2015-09-28
 @PaolaTavernaM5S "Abbiamo messo dei cartelli WANTED per #Roma. Dov'? il Sindaco #Marino? Sta all'estero.. ma dovrebbe stare l?" #TorSapienza
-NUMERO DEI TWEET: 1
-USER: lucabruno18
-NUMERO DEI TWEET: 0
-USER: mafiacapitale
-NUMERO DEI TWEET: 0
-USER: LucianoOgnibene
-NUMERO DEI TWEET: 0
-USER: Monialustri
-NUMERO DEI TWEET: 0
-USER: Pretore75
-NUMERO DEI TWEET: 0
-USER: FulvieT
-NUMERO DEI TWEET: 0
-USER: enzocarnazza
-NUMERO DEI TWEET: 0
-USER: AntonioDecorato
-NUMERO DEI TWEET: 0
-USER: BlogNews_it
-NUMERO DEI TWEET: 0
-USER: pas_alb
+neutral
+
 ........... USER: pas_alb............
 2014-10-20
-Inaccettabile l'arroganza del sindaco Marino vergognosa la solidarietà della Boldrini che ancora una volta dimostra la inadeguatezza
-NUMERO DEI TWEET: 9
-USER: tranellio
-NUMERO DEI TWEET: 0
-USER: MacondoZuma
-NUMERO DEI TWEET: 0
-USER: Bale6beil
-NUMERO DEI TWEET: 0
-USER: mie_idee
-NUMERO DEI TWEET: 0
-USER: Scintillanza
-NUMERO DEI TWEET: 0
-USER: Arsenio_
+Inaccettabile l'arroganza del sindaco Marino vergognosa la solidariet?? della Boldrini che ancora una volta dimostra la inadeguatezza
+neutral
+
 ........... USER: Arsenio_............
 2015-09-08
 RT @ignaziomarino: Non ? un capriccio ma una battaglia di civilt?. L'Italia non resti indietro. https://t.co/Ny29rR3Lom
-NUMERO DEI TWEET: 0
-USER: 1001ptsIT
-NUMERO DEI TWEET: 0
-USER: GiorgioVaccaro
-NUMERO DEI TWEET: 0
-USER: MatteoCorreani
-NUMERO DEI TWEET: 0
-USER: xanil01
-NUMERO DEI TWEET: 0
-USER: kidstu
-NUMERO DEI TWEET: 0
-USER: FrancescoFusc81
+positiveVero
+
 ........... USER: FrancescoFusc81............
 2014-10-16
 @ignaziomarino CERCHIAMO DI FAR BRILLARE QUESTA MERAVIGLIOSA CITTA'...
-NUMERO DEI TWEET: 0
-USER: mariamuser
-NUMERO DEI TWEET: 0
-USER: LuzPagoda
-NUMERO DEI TWEET: 0
-USER: zazoomblog
-NUMERO DEI TWEET: 0
-USER: AntonioSpadafo4
-NUMERO DEI TWEET: 0
-USER: nandupopusss
-NUMERO DEI TWEET: 0
-USER: TripAZnet
-NUMERO DEI TWEET: 0
-USER: Cover_forever
-NUMERO DEI TWEET: 0
-USER: Clouseau76
-NUMERO DEI TWEET: 0
-USER: Choroukenzo
+positiveVero
+
 ........... USER: Choroukenzo............
 2015-06-09
 RT @FabozziGennaro: L'invasione degli ultracorpi #MafiaCapitale #MarinoDimettiti 
-NUMERO DEI TWEET: 0
-USER: FacchinettiSil
+negativeVero
+
 ........... USER: FacchinettiSil............
 2015-08-22
 RT @roby_italy_51: Roma, ESCUSIVO: arrestati i cavalli del funerale faraonico. Alfano esulta, giustizia ? fatta. Marino si complimenta: azi?
-NUMERO DEI TWEET: 1
-USER: ulde_sco
+neutral
+
 ........... USER: ulde_sco............
 2015-09-28
 @sandromerendi @matteomatzuzzi Esattamente, pur di tirare merda su @ignaziomarino si inventano scoop che non esistono
-NUMERO DEI TWEET: 0
-USER: ellyesse
-NUMERO DEI TWEET: 0
-USER: Towheehillart
-NUMERO DEI TWEET: 0
-USER: ottimistasemper
+positiveVero
+
 ........... USER: ottimistasemper............
 2015-09-27
 RT @BeatricedimaDi: #Marino viene scambiato dai media americani come  esperto di organizzazione di grandi eventi.. devono aver visto i fun?
-NUMERO DEI TWEET: 1
-USER: nella_norma
-NUMERO DEI TWEET: 0
-USER: ifardel
+positive
+
 ........... USER: ifardel............
 2015-08-23
 RT @NinaLadyice: .@jacopo_iacoboni e questo disperato tentativo di ricondurre alla normalit? un'EVIDENTE FIGURA DI MERDA di #marino e del #?
-NUMERO DEI TWEET: 5
-USER: ermejo5
-NUMERO DEI TWEET: 0
-USER: fmamato
-NUMERO DEI TWEET: 0
-USER: CrisNettuni
-NUMERO DEI TWEET: 0
-USER: larizza1950
+negative
+
 ........... USER: larizza1950............
 2015-09-29
 @giorgiobenvenut Marino tornato dall'America tra le polemiche, ? subito ripartito facendo arrabbiare anche il Papa. Pi? casino di cos?!!!
-NUMERO DEI TWEET: 2
-USER: PiramideRossa
-NUMERO DEI TWEET: 0
-USER: DonatellaRu
-NUMERO DEI TWEET: 0
-USER: betman
+negative
+
 ........... USER: betman............
 2015-09-28
 La nettezza delle parole del Papa sul sindaco Marino lasciano pochi margini al dubbio:  
-NUMERO DEI TWEET: 0
-USER: CerciElena
-NUMERO DEI TWEET: 0
-USER: miss0uri4
+negative
+
 ........... USER: miss0uri4............
 2015-09-28
 RT @AmaliaMarino: 1? puntatone di @welikechopin io c'ero. Grazie a tutti siete stati meravigliosi. @miss0uri4 @zdizoro #Gazebo 
-NUMERO DEI TWEET: 0
-USER: marliesvoss1
-NUMERO DEI TWEET: 0
-USER: lilysei
-NUMERO DEI TWEET: 0
-USER: the_newstweets
-NUMERO DEI TWEET: 0
-USER: MassimoBordin
+positive
+
 ........... USER: MassimoBordin............
 2015-09-21
 @lauracesaretti1  Marino "crocefisso" per mafiacapitale e xch? pessimo sindaco. Sul funerale non c'entra in nulla.Cos? De M. su omicidi.
-NUMERO DEI TWEET: 1
-USER: tyxaqek
-NUMERO DEI TWEET: 0
-USER: fresia__
-NUMERO DEI TWEET: 0
-USER: Siroblue
-NUMERO DEI TWEET: 0
-USER: VocidiSINISTRA
+neutral
+
 ........... USER: VocidiSINISTRA............
 2015-08-31
 #sinistra | Marino Badiale, Fabrizio Tringali: Le dure repliche della storia: Le dure repliche della storia Marino? 
-NUMERO DEI TWEET: 0
-USER: SalvoMely
+neutral
+
 ........... USER: SalvoMely............
 2015-09-29
 Poi si attacca il Presidente De Luca quando parla di "camorrismo" dei mass media. Il Sindaco Marino prima di... 
-NUMERO DEI TWEET: 2
-USER: marytmar
+neutral
+
 ........... USER: marytmar............
 2014-12-16
 RT @ignaziomarino: La festa di tutti nel cuore della citt?. ?  #capodannoroma  
-NUMERO DEI TWEET: 0
-USER: giangy1976
-NUMERO DEI TWEET: 0
-USER: yrizaqoS
-NUMERO DEI TWEET: 0
-USER: laltraguanciama
-NUMERO DEI TWEET: 0
-USER: RTaverBella
+positiveVero
+
 ........... USER: RTaverBella............
 2015-09-30
 @antonio_bordin ormai c'? la #sindrome dell'imbucato #Marino ?? 
-NUMERO DEI TWEET: 0
-USER: fedquattrocchi
-NUMERO DEI TWEET: 0
-USER: LUDOVICOTODINI
-NUMERO DEI TWEET: 0
-USER: simonedemi
-NUMERO DEI TWEET: 0
-USER: daffy6561
+neutral
+
 ........... USER: daffy6561............
 2015-09-11
 10 a 0 per Ignazio #Marino #Storace  non ti vedo tanto bene due analisi te le dovresti fare https://t.co/DG9O8pL0TF
-NUMERO DEI TWEET: 0
-USER: rosalbacarbutti
+negativeVero
+
 ........... USER: rosalbacarbutti............
 2015-08-28
 RT @giusev76: @matteorenzi non vuole che a #Roma si voti perch? sa che il #M5S vincerebbe. Metter? @ignaziomarino  sotto tutela, ma senza b?
-NUMERO DEI TWEET: 2
-USER: donatellabrusch
+positiveVero
+
 ........... USER: donatellabrusch............
 2015-09-28
-RT @PieraPadovani: Marino indegno...sfanculato pure dal Papa ..Non è mica da tutti..#quintacolonna
-NUMERO DEI TWEET: 0
-USER: peppemongiardo
-NUMERO DEI TWEET: 0
-USER: PierfrancoMonni
+RT @PieraPadovani: Marino indegno...sfanculato pure dal Papa ..Non ?? mica da tutti..#quintacolonna
+negative
+
 ........... USER: PierfrancoMonni............
 2015-09-29
 RT @GhitaIacono: "#marinoimbucato, me sa che nun te conviene de rientr?. Dovrai rendere conto ai romani di come spendi i nostri soldi https?
-NUMERO DEI TWEET: 2
-USER: armandopiu
+negativeVero
+
 ........... USER: armandopiu............
 2015-09-28
 RT @Comeprincipe: Roma, crolla parte del controsoffitto nella #metroA, Marino tuona: "Non ci faremo tenere in scacco dalla forza di gravit??
-NUMERO DEI TWEET: 1
-USER: Mary73Angel
+neutral
+
 ........... USER: Mary73Angel............
 2014-06-24
 RT @VikUtopia: Domani a Roma. Chi si trover? in zona, partecipi. Per rinfrescare la memoria al sindaco Marino. 
-NUMERO DEI TWEET: 0
-USER: lalitapetila
-NUMERO DEI TWEET: 0
-USER: CiroSayan94
-NUMERO DEI TWEET: 0
-USER: johnpaltan
-NUMERO DEI TWEET: 0
-USER: barone_luciano
-NUMERO DEI TWEET: 0
-USER: serfrendz
-NUMERO DEI TWEET: 0
-USER: figliolaraf45
+neutral
+
 ........... USER: figliolaraf45............
 2015-07-01
 RT @gasparripdl: Marino non ? adeguato e ci sono infiltrazioni della malavita: a Roma si deve commissariare il Comune #portaaporta staff @f?
-NUMERO DEI TWEET: 0
-USER: a1b2cdgdg
-NUMERO DEI TWEET: 0
-USER: GargiuloSara
-NUMERO DEI TWEET: 0
-USER: sabrinaganzenua
-NUMERO DEI TWEET: 0
-USER: ilu_iciao
-NUMERO DEI TWEET: 0
-USER: renzocrosa
-NUMERO DEI TWEET: 0
-USER: sherlock5stelle
-NUMERO DEI TWEET: 0
-USER: pinopinollo
-NUMERO DEI TWEET: 0
-USER: bertrada
+negativeVero
+
 ........... USER: bertrada............
 2015-07-29
 Nuova giunta monocolore #PD a #Roma: #Renzi d? tre mesi a #Marino; ma che significa? che si prova e si gioca con cosa pubblica?
-NUMERO DEI TWEET: 0
-USER: 1306lou
-NUMERO DEI TWEET: 0
-USER: RoStangoni
-NUMERO DEI TWEET: 0
-USER: jujudutra2
-NUMERO DEI TWEET: 0
-USER: susy_ott
-NUMERO DEI TWEET: 0
-USER: BuzzLogger
-NUMERO DEI TWEET: 0
-USER: ClauStrin
+neutralVero
+
 ........... USER: ClauStrin............
 2015-03-01
 RT @CesareOrtis: Naturalmen si ricordano delle costruzioni #ecosostenibili solo dopo aver vinto e #Nerone #Marino non ospita ediz 2016 http?
-NUMERO DEI TWEET: 0
-USER: VPunzo
-NUMERO DEI TWEET: 0
-USER: mcuart
+neutral
+
 ........... USER: mcuart............
 2015-09-29
-RT @laudan62: COMUNICATO
-Anche il Dalai Lama rende noto di non avere mai invitato in Tibet il sindaco Marino. Peccato!  Aldo Lavagnino ;-)
-NUMERO DEI TWEET: 9
-USER: djpolin
-NUMERO DEI TWEET: 0
-USER: FulvioAch
-NUMERO DEI TWEET: 0
-USER: ANTIPOLLITICA
-NUMERO DEI TWEET: 0
-USER: lhwotton85
+RT @laudan62: Anche il Dalai Lama rende noto di non avere mai invitato in Tibet il sindaco Marino. Peccato!  Aldo Lavagnino ;-)
+negative
+
 ........... USER: lhwotton85............
 2015-09-01
 RT @GnocchiGene: Stop al calciomercato. Ignazio Marino resta al Caraibi FC #SkyCalciomercato
-NUMERO DEI TWEET: 0
-USER: GiuseppeMELE
+neutral
+
 ........... USER: GiuseppeMELE............
 2015-09-05
 Ignazio Marino, indagine per truffa - Politica - Libero Quotidiano 
-NUMERO DEI TWEET: 0
-USER: jakubjz420
+negativeVero
+
 ........... USER: jakubjz420............
 2015-07-28
 RT @Linkiesta: ?Marino non c?entra, Roma fa Schifo da almeno 30 anni?. Parla Tonelli del blog @romafaschifo:  
-NUMERO DEI TWEET: 3
-USER: FabbriRosa
-NUMERO DEI TWEET: 0
-USER: romagiornale
+neutral
+
 ........... USER: romagiornale............
 2015-06-30
 Secondo voi, Ignazio #Marino ha letto l'enciclica "Laudato si" di #PapaFrancesco? -  
-NUMERO DEI TWEET: 0
-USER: Empedocleagrig1
-NUMERO DEI TWEET: 0
-USER: tglrsr
+positive
+
 ........... USER: tglrsr............
 2015-02-20
 RT @AGEFIS_asso: Pi? tempo per la delega fiscale e nessuna sanzione per #Imu agricola pagata entro 31 marzo @mauro_m_marino 
-NUMERO DEI TWEET: 1
-USER: LidiaBeduschi
-NUMERO DEI TWEET: 0
-USER: MariannaOldani
-NUMERO DEI TWEET: 0
-USER: FabiaSW
+negative
+
 ........... USER: FabiaSW............
 2015-09-18
 @ignaziomarino Aprire un museo ai turisti non ? un servizio essenziale. Un ospedale ? un servizio essenziale. L'assemblea ? un #diritto
-NUMERO DEI TWEET: 2
-USER: NotizieVirali
-NUMERO DEI TWEET: 0
-USER: valtaro
+positiveVero
+
 ........... USER: valtaro............
 2015-09-30
 ##DiMarted? - La copertina di Crozza: Renzi, Marino, il Papa e Salvini: chi parte e chi resta 
-NUMERO DEI TWEET: 0
-USER: AnitaTemperini
-NUMERO DEI TWEET: 0
-USER: markgrika
-NUMERO DEI TWEET: 0
-USER: discordoconme
-NUMERO DEI TWEET: 0
-USER: lucia_for
+neutralVero
+
 ........... USER: lucia_for............
 2015-09-26
 @ilmessaggeroit #roma #autistaaggredito #marino @ignaziomarino Io ho sentito il telegiornale... e allora? Problema risolto?
-NUMERO DEI TWEET: 0
-USER: dxmariella
+positiveVero
+
 ........... USER: dxmariella............
 2015-09-28
 RT @simonefurlan1: Penso sia la prima volta nella storia che un sindaco incapace riesce a farsi smentire perfino dal Papa. #solomarino gran?
-NUMERO DEI TWEET: 0
-USER: AndreaAndregard
-NUMERO DEI TWEET: 0
-USER: carmentpf
-NUMERO DEI TWEET: 0
-USER: BarbaraRaval
-NUMERO DEI TWEET: 0
-USER: ary_seddo
-NUMERO DEI TWEET: 0
-USER: Edoardocignoli
-NUMERO DEI TWEET: 0
-USER: NowinItaly
-NUMERO DEI TWEET: 0
-USER: pameladiverona
-NUMERO DEI TWEET: 0
-USER: AlemannoTW
+negative
+
 ........... USER: AlemannoTW............
 2015-09-23
 RT @DavideRicci1973: Ignazio Marino riparte per gli USA, Gianni Alemanno: "Scappa". Non rientra nella fuga dei cervelli. 
-NUMERO DEI TWEET: 33
-USER: superjuly91
-NUMERO DEI TWEET: 0
-USER: gcosentino_84
-NUMERO DEI TWEET: 0
-USER: stefa186
-NUMERO DEI TWEET: 0
-USER: FIgiovaniCs
+negativeVero
+
 ........... USER: FIgiovaniCs............
 2015-06-30
 RT @tripodimaria: Malaffare in Comune e Roma allo sbando qst bilancio di due anni di #GiuntaMarino, ma il #SindacoMarziano insulta il cdx! ?
-NUMERO DEI TWEET: 0
-USER: williamsverta
+negative
+
 ........... USER: williamsverta............
 2015-09-21
 RT @AngieCalabria: Da #Marino idiosincrasia per #Roma: appena pu? va via. Forse anche lui ha capito che sua presenza nella #capitale ? inut?
-NUMERO DEI TWEET: 1
-USER: MarinoBruschini
-NUMERO DEI TWEET: 0
-USER: carmencasablanc
-NUMERO DEI TWEET: 0
-USER: RomanOsservator
+positive
+
 ........... USER: RomanOsservator............
 2015-09-29
-RT @edilacascina1: Siete tutti invitati al mio compleanno.  Tu Marino no però.
-NUMERO DEI TWEET: 0
-USER: florianademiche
+RT @edilacascina1: Siete tutti invitati al mio compleanno.  Tu Marino no per??.
+neutral
+
 ........... USER: florianademiche............
 2015-09-29
 @magomerlino1971 #Marino ? #sindaco di #Roma fa quello che fanno tutti i #politici eletti in istituzioni
-NUMERO DEI TWEET: 0
-USER: AndreaLigios
+neutral
+
 ........... USER: AndreaLigios............
 2015-07-06
 #marinodimettiti Stazione Termini, i bisogni ?en plein air? del senzatetto  
-NUMERO DEI TWEET: 0
-USER: Marco_Tuveri
+negativeVero
+
 ........... USER: Marco_Tuveri............
 2015-09-16
 RT @riccardo_fra: #Marino come #Alemanno:90% dei lavori senza bando gara, 72mln di? a #MafiaCapitale #elezioni!  
-NUMERO DEI TWEET: 1
-USER: shopenauerwho
+positive
+
 ........... USER: shopenauerwho............
 2015-09-26
 RT @mart_primi: @enzo_boschi In Abruzzo, al vaglio la creazione di un "parco marino" costiero per cercare di fermare le #trivelle
-NUMERO DEI TWEET: 0
-USER: ezia77
+neutral
+
 ........... USER: ezia77............
 2015-09-14
 RT @Giancar36923409: #Lariachetira La verit? ? che Renzi non vuol pi? mandar via Marino perch? alle elezioni vincerebbero i 5stelle|
-NUMERO DEI TWEET: 0
-USER: ilRicciardelli
+neutralVero
+
 ........... USER: ilRicciardelli............
 2013-05-05
 RT @PierpaolMarino: L' Avellino ? tornato in Serie B !!Un abbraccio a tutti Dirigenti, tecnici, giocatori e tifosi della squadra della mia ?
-NUMERO DEI TWEET: 0
-USER: valeriotorchio
-NUMERO DEI TWEET: 0
-USER: matematico65
+positive
+
 ........... USER: matematico65............
 2015-09-29
 Comportamento Marino imperdonabile. Se fosse stato sindaco m5s nn sareste cos? "serenamente critici" come avete gi? dimostrato #lariachetira
-NUMERO DEI TWEET: 0
-USER: ApocalisseLaica
+neutral
+
 ........... USER: ApocalisseLaica............
 2015-09-28
 Ora il Papa sbugiarda Marino: ?Non l?ho invitato io negli Usa?: Marino aveva detto di essere andato all?Incontro? 
-NUMERO DEI TWEET: 3
-USER: vikingmetal
+neutral
+
 ........... USER: vikingmetal............
 2015-09-10
 RT @ignaziomarino: Nel Lazio c'? forte carenza di sangue. Qualche minuto della tua giornata possono salvare una vita. Andiamo a donare! htt?
-NUMERO DEI TWEET: 0
-USER: IWantToBeTweet
+positiveVero
+
 ........... USER: IWantToBeTweet............
 2015-09-22
 RT @Kotiomkin: Il sindaco Marino voler?' a Philadelphia per incontrare il Papa. Che dev'essere molto pi?' facile che parcheggiare in zona V?
-NUMERO DEI TWEET: 0
-USER: annacerofolini
+neutral
+
 ........... USER: annacerofolini............
 2015-09-28
 Essere smentiti da un pap? ? impresa unica, complimenti sindaco #Marino
-NUMERO DEI TWEET: 2
-USER: GIULIANA7G
+neutral
+
 ........... USER: GIULIANA7G............
 2015-06-16
 @petergomezblog incredibile renzi ha il potere di farmi diventare simpatico persino marino...solidariet? ai rottamandi!!!
-NUMERO DEI TWEET: 7
-USER: PIDP42
-NUMERO DEI TWEET: 0
-USER: agnostico43
+neutral
+
 ........... USER: agnostico43............
 2015-09-29
 #Roma. Imbarazzzante. Vieni avanti, #Marino.
-NUMERO DEI TWEET: 11
-USER: valhoell
+positive
+
 ........... USER: valhoell............
 2015-09-29
 RT @PamelaFerrara: L'unico modo per sapere se Marte ? abitato ? spedirci Marino. Se nessuno si lamenta non c'? anima viva #Crozza #diMartedi
-NUMERO DEI TWEET: 1
-USER: GiuliaAniaF
-NUMERO DEI TWEET: 0
-USER: jacopobrambilla
+neutralVero
+
 ........... USER: jacopobrambilla............
 2015-06-14
 RT @RenzoMattei: Mafia capitale: per fare chiarezza Marino sara' sostituito direttamente dal capo della cupola.
-NUMERO DEI TWEET: 0
-USER: FedericaBuz
-NUMERO DEI TWEET: 0
-USER: antoniopascotto
+neutral
+
 ........... USER: antoniopascotto............
 2015-09-28
 PAPA TORNA A ROMA 'I MURI CONTRO I MIGRANTI CADRANNO' MARINO? IO NON L'HO INVITATO  #papa #marino via @parlamentonews
-NUMERO DEI TWEET: 1
-USER: PiLu975
-NUMERO DEI TWEET: 0
-USER: FedericoBarli
+negative
+
 ........... USER: FedericoBarli............
 2015-07-14
 RT @ignaziomarino: Mafia Capitale aveva messo le mani sul verde. Pronti i nuovi bandi trasparenti, intanto parte sfalcio straordinario  determinato ad andare avanti con cambiamento iniziato nel 2013' 
-NUMERO DEI TWEET: 65
-USER: del_massi
-NUMERO DEI TWEET: 0
-USER: folksonomia
-NUMERO DEI TWEET: 0
-USER: LUCIADIMARCO2
+positiveVero
+
 ........... USER: LUCIADIMARCO2............
 2015-09-10
 RT @donatobuc: Marino ? l'uomo di gomma e le schiva tutte ma Gruber & Franco lo stanno menando come capita raramente, che scenette
-#ottoeme?
+positive
 
 ........... USER: LUCIADIMARCO2............
 2015-09-10
 RT @donatobuc: Marino a Franco del Corriere: "Come lei sa le interviste sui giornali sono false" #lool
-#ottoemezzo
+positive
 
-NUMERO DEI TWEET: 2
-USER: LettaLorenzo
-NUMERO DEI TWEET: 0
-USER: AltuncGaye
-NUMERO DEI TWEET: 0
-USER: Ultima_Notizia
-NUMERO DEI TWEET: 0
-USER: Calberto45
-NUMERO DEI TWEET: 0
-USER: puntoagronews
-NUMERO DEI TWEET: 0
-USER: Amoquesto
-NUMERO DEI TWEET: 0
-USER: PublishingAll
-NUMERO DEI TWEET: 0
-USER: PublishingSite
-NUMERO DEI TWEET: 0
-USER: LucaBersano
 ........... USER: LucaBersano............
 2015-08-08
 Mi ? piaciuto un video di @YouTube:  Roma, Ignazio Marino dovrebbe dimettersi? In caso di elezioni anticipate
-NUMERO DEI TWEET: 1
-USER: giancarloscordo
+neutralVero
+
 ........... USER: giancarloscordo............
 2015-07-01
 #marino ora non ? tanto favorevole a staccare la spina. Evidentemente Alla morte dignitosa si pensa meglio per gli altri che per se stessi
-NUMERO DEI TWEET: 2
-USER: silvina6882
-NUMERO DEI TWEET: 0
-USER: rojmul261123
-NUMERO DEI TWEET: 0
-USER: mystartup08
-NUMERO DEI TWEET: 0
-USER: RomaNews
-NUMERO DEI TWEET: 0
-USER: NICOVENDOME55
-NUMERO DEI TWEET: 0
-USER: Focus_italy
+neutral
+
 ........... USER: Focus_italy............
 2015-01-05
 Vigili assenteisti a Roma, Grillo contro Marino: ?Vuole distogliere l?attenzione da Mafia Capitale. #forzavigi... 
-NUMERO DEI TWEET: 1
-USER: vivalaradiontw
-NUMERO DEI TWEET: 0
-USER: davidecalusi
-NUMERO DEI TWEET: 0
-USER: PorcodelMolente
+negative
+
 ........... USER: PorcodelMolente............
 2015-09-29
 Caso Marino, monsignor Paglia a La Zanzara: ha fatto infuriare il Papa - Il Messaggero: Il MessaggeroCaso Mari... 
-NUMERO DEI TWEET: 1
-USER: Enzo1nikita
+positive
+
 ........... USER: Enzo1nikita............
 2015-09-29
 Caso Marino, monsignor Paglia a La Zanzara: ha fatto infuriare il Papa - Il Messaggero: Il MessaggeroCaso Mari... 
-NUMERO DEI TWEET: 1
-USER: GiulianoRobe
-NUMERO DEI TWEET: 0
-USER: pierdario
-NUMERO DEI TWEET: 0
-USER: chiara_lyla
-NUMERO DEI TWEET: 0
-USER: elmorisco
-NUMERO DEI TWEET: 0
-USER: Spacciatweet
-NUMERO DEI TWEET: 0
-USER: Spacciaretweet
-NUMERO DEI TWEET: 0
-USER: AMagna7
+positive
+
 ........... USER: AMagna7............
 2015-09-22
 RT @coniglioradio2: Il sindaco Marino vola a Philadelphia per incontrare il Papa, ma se prendeva l "autobus 64 non faceva prima?
-NUMERO DEI TWEET: 1
-USER: mauneobux
-NUMERO DEI TWEET: 0
-USER: titticri
+neutral
+
 ........... USER: titticri............
 2015-09-30
 @ignaziomarino  https://t.co/SE88gaOXCq
-NUMERO DEI TWEET: 0
-USER: ElezioniLazio
+positiveVero
+
 ........... USER: ElezioniLazio............
 2015-08-26
 #EleLazio: perche? marino si nasconde? ? le vacanze del marziano sono diventate?  see more 
-NUMERO DEI TWEET: 1
-USER: ArsenaleKappa
-NUMERO DEI TWEET: 0
-USER: vanessatw2
-NUMERO DEI TWEET: 0
-USER: FXS_Finance_IT
-NUMERO DEI TWEET: 0
-USER: OroscopoBlog1
-NUMERO DEI TWEET: 0
-USER: M5SVibor
-NUMERO DEI TWEET: 0
-USER: igolmar
-NUMERO DEI TWEET: 0
-USER: DaLeopardo
-NUMERO DEI TWEET: 0
-USER: vulorp
-NUMERO DEI TWEET: 0
-USER: MatAlbani
+neutral
+
 ........... USER: MatAlbani............
 2015-08-22
 A proposito dei #FuneraliCasamonica, Marino dichiara: ?? stato fatto tutto #amiainsaputa?. Una giustificazione imbarazzante e gi? sentita.
-NUMERO DEI TWEET: 0
-USER: ValerioCoscetti
+neutral
+
 ........... USER: ValerioCoscetti............
 2015-08-30
 La Roma gioca bene ma non segna. #marinodimettiti! #RomaJuventus
-NUMERO DEI TWEET: 0
-USER: DarKnight_87
+negativeVero
+
 ........... USER: DarKnight_87............
 2015-08-26
 Ormai ogni estate spuntano foto di Grillo al mare; di Marino che si trova ai Caraibi mentre Roma brucia, invece, nemmeno una foto #M5S
-NUMERO DEI TWEET: 0
-USER: anziato
-NUMERO DEI TWEET: 0
-USER: leonardometalli
+negativeVero
+
 ........... USER: leonardometalli............
 2015-09-30
 Vaticano, un finto Matteo Renzi chiama mons. Paglia alla Zanzara: "Marino? Si ? imbucato, che figura" - 
-NUMERO DEI TWEET: 5
-USER: awkweirkz
-NUMERO DEI TWEET: 0
-USER: Dansai75
-NUMERO DEI TWEET: 0
-USER: DaniPitarresi
-NUMERO DEI TWEET: 0
-USER: RadioLondra_
-NUMERO DEI TWEET: 0
-USER: MaraRaqu
-NUMERO DEI TWEET: 0
-USER: gasparripdl
-NUMERO DEI TWEET: 0
-USER: PortaKittePare
-NUMERO DEI TWEET: 0
-USER: romasulweb
-NUMERO DEI TWEET: 0
-USER: notizie_roma
-NUMERO DEI TWEET: 0
-USER: MicaelaTacconi
-NUMERO DEI TWEET: 0
-USER: TerzoDiritto
+neutralVero
+
 ........... USER: TerzoDiritto............
 2015-09-05
-RT @Marco_defalco: Io, romano da 4 generazioni, ringrazio il Sindaco Ignazio Marino per farmi vergognare della mia città. 
-NUMERO DEI TWEET: 0
-USER: wertjb
+RT @Marco_defalco: Io, romano da 4 generazioni, ringrazio il Sindaco Ignazio Marino per farmi vergognare della mia citt??. 
+neutral
+
 ........... USER: wertjb............
 2015-09-28
 @AlemannoTW #marinodimettiti #Marinovattene marino sparisci!!!
-NUMERO DEI TWEET: 0
-USER: ERoscioni
+negativeVero
+
 ........... USER: ERoscioni............
 2015-06-18
 RT @AttilioBassetti: #sedeviandarevai, Marino dichiara "sino al 2023 sar? il sindaco di Roma", possiamo fare cambio con le piaghe d'Egitto?
-NUMERO DEI TWEET: 0
-USER: Mario_Giannetta
-NUMERO DEI TWEET: 0
-USER: cris_cersei
+neutral
+
 ........... USER: cris_cersei............
 2015-09-27
 Avete notato? Renzi se ne ? andato di nuovo in USA a un'altra parata di star. Somiglia sempre pi? a Ignazio Marino.
-NUMERO DEI TWEET: 0
-USER: IMoresi
-NUMERO DEI TWEET: 0
-USER: stylemotorfano
-NUMERO DEI TWEET: 0
-USER: LuanaSenesi
-NUMERO DEI TWEET: 0
-USER: AmaliaPepino
-NUMERO DEI TWEET: 0
-USER: Grujic_Sergio
-NUMERO DEI TWEET: 0
-USER: iostoconmarino
-NUMERO DEI TWEET: 0
-USER: VivienCattani
+neutralVero
+
 ........... USER: VivienCattani............
 2015-08-23
 RT @ignaziomarino: Mafia a Roma: ora meno soli in questa battaglia. 
-NUMERO DEI TWEET: 25
-USER: ar_cavaliere
+positiveVero
+
 ........... USER: ar_cavaliere............
 2015-06-29
 RT @ignaziomarino: Oggi apriamo altre 6 stazioni della #MetroC. Grazie a tutti quelli che hanno lavorato duramente per questo risultato htt?
-NUMERO DEI TWEET: 18
-USER: marielSiviglia
-NUMERO DEI TWEET: 0
-USER: stefanialleccor
+positiveVero
+
 ........... USER: stefanialleccor............
 2015-06-23
 RT @sos_roma: #iostoconmarino 
-NUMERO DEI TWEET: 3
-USER: MrMartcus
-NUMERO DEI TWEET: 0
-USER: mtvaccari
+positiveVero
+
 ........... USER: mtvaccari............
 2015-09-04
 RT @ignaziomarino: Oggi una comunit? intera ? qui a Don Bosco a testa alta, a dire che non saranno loro a vincere. #antimafiacapitale 
-NUMERO DEI TWEET: 15
-USER: tizianotogna
-NUMERO DEI TWEET: 0
-USER: vogliodirelamia
-NUMERO DEI TWEET: 0
-USER: romi_andrio
-NUMERO DEI TWEET: 0
-USER: GiordanoBattini
-NUMERO DEI TWEET: 0
-USER: AlessandroMil17
+positiveVero
+
 ........... USER: AlessandroMil17............
 2014-12-07
 Il "segreto" di Marino: il mio primo stipendio alla comunit? di Buzzi:  via @YouTube non l'avrei mai pensato
-NUMERO DEI TWEET: 1
-USER: amelyre
-NUMERO DEI TWEET: 0
-USER: andreapoli8788
-NUMERO DEI TWEET: 0
-USER: raffael70709794
+neutral
+
 ........... USER: raffael70709794............
 2015-06-18
 @CongiFlavio @FabrizioRira perch?,Marino chi l'ha votato?quelli che voteranno il prox. E chi ti dice che il prox sar? onesto come Marino?
-NUMERO DEI TWEET: 2
-USER: mimmoscordino
+positive
+
 ........... USER: mimmoscordino............
 2015-09-29
 RT @marielSiviglia: Accanimento dei media contro il sindaco  @ignaziomarino  ?  semplicemente vergognoso.Quando a Roma comandava la mafia t?
-NUMERO DEI TWEET: 14
-USER: mcacciaglia64
+positiveVero
+
 ........... USER: mcacciaglia64............
 2015-09-28
 @romafaschifo per favore spiegatelo a @stefanoesposito @ignaziomarino https://t.co/3nDIGC5KTx
-NUMERO DEI TWEET: 10
-USER: PPIHAD
-NUMERO DEI TWEET: 0
-USER: ilrere
+positiveVero
+
 ........... USER: ilrere............
 2015-07-08
 RT @titticri:  @ignaziomarino chiede a autisti metro di timbrare come tutti e quelli scioperano. #marinodevirestare @?
-NUMERO DEI TWEET: 0
-USER: AFoccardi
-NUMERO DEI TWEET: 0
-USER: StellaIsADiver
+positiveVero
+
 2015-07-21
 RT @ignaziomarino: Con i sindaci di tutto il mondo convocati da @Pontifex per parlare di moderne schiavit? alla @CasinaPioIV #MayorsCare ht?
-NUMERO DEI TWEET: 0
-USER: matarazzate
+positiveVero
+
 ........... USER: matarazzate............
 2015-09-23
 RT @BarillariM5S: Ignazio Marino? Ti aspettiamo fra i banchi dell'opposizione nella prossima giunta di ROMA 5 STELLE...... 
-NUMERO DEI TWEET: 6
-USER: filigue78
-NUMERO DEI TWEET: 0
-USER: GraziaIotti
-NUMERO DEI TWEET: 0
-USER: luisaloffredo28
-NUMERO DEI TWEET: 0
-USER: Giocoleria
+negativeVero
+
 ........... USER: Giocoleria............
 2015-09-17
 RT @marcello_devito: Marino smetti di raccontare balle ai romani  #marinodimettiti 
-NUMERO DEI TWEET: 0
-USER: sig_cuorenero
+negativeVero
+
 ........... USER: sig_cuorenero............
 2015-03-03
 RT @LiaCeli: Critiche sia a Mattarella in tram che a #Renzi in elicottero che a Marino che va in bici. Auto blu per carit?. Restano il razz?
-NUMERO DEI TWEET: 0
-USER: cristjne127
+neutralVero
+
 ........... USER: cristjne127............
 2015-08-05
 @ignaziomarino @roma ho fiducia in te, non farti fregar, falli morir d'invidia tutti i tuoi delatori. Forza e coraggio.
-NUMERO DEI TWEET: 0
-USER: ManuelaCarreri
+positiveVero
+
 ........... USER: ManuelaCarreri............
 2013-12-08
 @ignaziomarino vero sindaco. Mi spiace per Civati. Ho votato lui, ma felice di aver partecipato a questa giornata
-NUMERO DEI TWEET: 0
-USER: campanavalerio
-NUMERO DEI TWEET: 0
-USER: anna_mattarelli
-NUMERO DEI TWEET: 0
-USER: bobo4ka863
+positiveVero
+
 ........... USER: bobo4ka863............
 2014-12-20
 RT @ignaziomarino: Riaperto Ponte Sisto dopo il restauro e l'installazione di dissuasori per il passaggio di passeggini e carrozzelle 
-NUMERO DEI TWEET: 0
-USER: ChiaraFracasssi
-NUMERO DEI TWEET: 0
-USER: M40FORH
-NUMERO DEI TWEET: 0
-USER: claudia_mauri
+positiveVero
+
 ........... USER: claudia_mauri............
 2013-10-08
 Una rara immagine di @ignaziomarino  senza bicicletta 
-NUMERO DEI TWEET: 0
-USER: Slittiamo
+positiveVero
+
 ........... USER: Slittiamo............
 2015-02-19
 Bravo Sindaco @ignaziomarino. Il nostro primo cittadino chiede le risposte che vogliamo tutti dopo gli atti barbari a #Roma #iostoconmarino
-NUMERO DEI TWEET: 39
-USER: QuKa07
-NUMERO DEI TWEET: 0
-USER: ivulnus
+positiveVero
+
 ........... USER: ivulnus............
 2015-08-25
 #Marino non torna dai #Caraibi. #Roma spera.
-NUMERO DEI TWEET: 0
-USER: esisley
-NUMERO DEI TWEET: 0
-USER: Vincenzo_Vita
+positive
+
 ........... USER: Vincenzo_Vita............
 2015-02-27
 RT @BeppeGiulietti: Un decreto per fare cosa? #Rai di Vittorio Emiliani @Artventuno @Vincenzo_Vita @vditrapani @marinosinibaldi @CorradinoM?
-NUMERO DEI TWEET: 2
-USER: Sisetto79
+neutral
+
 ........... USER: Sisetto79............
 2015-07-11
 RT @rbernabei: #RiprendiamociRoma! Bravo! @ignaziomarino !!! 
-NUMERO DEI TWEET: 0
-USER: IsabellaDeiana7
-NUMERO DEI TWEET: 0
-USER: lievemente
-NUMERO DEI TWEET: 0
-USER: serenel14278447
-NUMERO DEI TWEET: 0
-USER: Andreabluesky
-NUMERO DEI TWEET: 0
-USER: raffaeledstfn
+positiveVero
+
 ........... USER: raffaeledstfn............
 2015-07-09
 RT @ignaziomarino: Nel 2014 venduti 382 alloggi Erp. Arriveremo a 900 nel 2015. Da vendita si acquisteranno nuove case popolari.
-NUMERO DEI TWEET: 9
-USER: Riccardoet
-NUMERO DEI TWEET: 0
-USER: ManuPalo67
-NUMERO DEI TWEET: 0
-USER: RomeiAntonella
+positiveVero
+
 ........... USER: RomeiAntonella............
 2015-09-28
-RT @antonio_bordin: il Papa smentisce #Marino: "mai invitato a Philadelphia".
-Esiste un limite umano alla figure di merda? 
-NUMERO DEI TWEET: 3
-USER: NinaLadyice
+RT @antonio_bordin: il Papa smentisce #Marino: "mai invitato a Philadelphia". Esiste un limite umano alla figure di merda?
+negativeVero
+
 ........... USER: NinaLadyice............
 2015-09-30
 @tito_m5s @M5SRoma1 @ignaziomarino @marcomorbioli @alexanco07 questa ? meravigliosa
-NUMERO DEI TWEET: 4
-USER: domenicosabell1
-NUMERO DEI TWEET: 0
-USER: ariolo_orazio
-NUMERO DEI TWEET: 0
-USER: elisabettap38
-NUMERO DEI TWEET: 0
-USER: ___John_Smith__
-NUMERO DEI TWEET: 0
-USER: PatoOsko
+positiveVero
+
 ........... USER: PatoOsko............
 2015-09-28
 RT @GiuliaDiVita: Il perch? Marino sia di nuovo in America interessa solo alla stampa.Oggi la metro ? bloccata e l'ass. ai trasporti parla ?
-NUMERO DEI TWEET: 0
-USER: dracul473
-NUMERO DEI TWEET: 0
-USER: assataram
+neutral
+
 ........... USER: assataram............
 2015-09-10
 #Marino sta a #Roma come la #Gruber al giornalismo indipendente. #ottoemezzo #MafiaCapitale #Buzzi
-NUMERO DEI TWEET: 0
-USER: Stefanofiori1
+positive
+
 ........... USER: Stefanofiori1............
 2015-06-11
 @Piovegovernolad Marino ?  indifendibile a priori...proprio come individuo..
-NUMERO DEI TWEET: 1
-USER: PaolaTacconi
-NUMERO DEI TWEET: 0
-USER: PieroChiappini
+positive
+
 ........... USER: PieroChiappini............
 2015-09-18
 RT @ignaziomarino: Condanna di Panzironi conferma "Parentopoli" che denunciammo. Ora Ama dovr? procedere ai necessari licenziamenti...https?
-NUMERO DEI TWEET: 0
-USER: lucina_maggi
+positiveVero
+
 ........... USER: lucina_maggi............
 2015-08-28
 L'Elenco della HA del Sindaco di Roma Capitale, Ignazio Marino (troppo forti quelli del gruppo)!! 
-NUMERO DEI TWEET: 2
-USER: pieromagnani
-NUMERO DEI TWEET: 0
-USER: zorzi46
-NUMERO DEI TWEET: 0
-USER: edo_cavalieri
-NUMERO DEI TWEET: 0
-USER: sarataigher
-NUMERO DEI TWEET: 0
-USER: marco_zio
-NUMERO DEI TWEET: 0
-USER: Frenkoz
+positive
+
 ........... USER: Frenkoz............
 2015-06-26
 RT @ignaziomarino: Grazie a tutte le romane e a tutti i romani che mi hanno stretto in un grande abbraccio in piazza del Campidoglio 
-NUMERO DEI TWEET: 10
-USER: billa_silvia
-NUMERO DEI TWEET: 0
-USER: cinzia_cindyy
-NUMERO DEI TWEET: 0
-USER: Ivatamy
-NUMERO DEI TWEET: 0
-USER: carlabrandolini
+positiveVero
+
 ........... USER: carlabrandolini............
 2015-09-29
-Non è questo il titolo giusto sulla vicenda del Papa che "smentisce" Marino 
-NUMERO DEI TWEET: 0
-USER: MarleyBrandy
+Non ?? questo il titolo giusto sulla vicenda del Papa che "smentisce" Marino 
+neutral
+
 ........... USER: MarleyBrandy............
 2015-09-28
-@marcopalasciano una polemica ridicola, da un aereo all'altro. A me Marino piace, è incorruttibile e di sinistra: due ottime cose.
-NUMERO DEI TWEET: 0
-USER: magrotto68
-NUMERO DEI TWEET: 0
-USER: ginocalcinotto
-NUMERO DEI TWEET: 0
-USER: stefania29060
+@marcopalasciano una polemica ridicola, da un aereo all'altro. A me Marino piace, ?? incorruttibile e di sinistra: due ottime cose.
+positive
+
 ........... USER: stefania29060............
 2015-08-26
 RT @MauroCherubino: #Roma Ignazio #Marino non rinuncia alle ferie, mentre nella Capitale succede di tutto 
-NUMERO DEI TWEET: 2
-USER: grigiestanze
+neutral
+
 ........... USER: grigiestanze............
 2015-09-25
 RT @sinistraelib: Oltre 20mila evasori italiani scovati a San Marino per un'evasione di decine di miliardi di euro sottratti allo... 
-NUMERO DEI TWEET: 2
-USER: Gauro5
-NUMERO DEI TWEET: 0
-USER: RobertaCretella
-NUMERO DEI TWEET: 0
-USER: mdpennalunga
-NUMERO DEI TWEET: 0
-USER: ster67e
-NUMERO DEI TWEET: 0
-USER: giulianocossari
-NUMERO DEI TWEET: 0
-USER: SimyFrant
-NUMERO DEI TWEET: 0
-USER: danielerazzoli
-NUMERO DEI TWEET: 0
-USER: Dan_skorpio87
-NUMERO DEI TWEET: 0
-USER: floria1405
+neutral
+
 ........... USER: floria1405............
 2015-05-11
 The Lorenza Boninu Daily is out!  Stories via @ObamaNews @NichiVendola @ignaziomarino
-NUMERO DEI TWEET: 5
-USER: nicoladingegno
+positiveVero
+
 ........... USER: nicoladingegno............
 2014-03-02
 #Roma non pu? continuare ad essere amministrata cos?: separazione dalla centralit? deve essere l'obiettivo @romafaschifo @ignaziomarino
-NUMERO DEI TWEET: 40
-USER: pinpin68
-NUMERO DEI TWEET: 0
-USER: mariadesireh
-NUMERO DEI TWEET: 0
-USER: Antony970
-NUMERO DEI TWEET: 0
-USER: GiorgioAntonel1
-NUMERO DEI TWEET: 0
-USER: CapaccioMc
-NUMERO DEI TWEET: 0
-USER: baloi361
-NUMERO DEI TWEET: 0
-USER: enricopaoli1
+positiveVero
+
 ........... USER: enricopaoli1............
 2015-09-14
 ma quanto sei bella Roma senza le scuole, le mamme fancazziste in doppia fila perenne, guidatori da patibolo,scippatori, @ignaziomarino ...
-NUMERO DEI TWEET: 33
-USER: Bopava91
-NUMERO DEI TWEET: 0
-USER: danieledvpd
-NUMERO DEI TWEET: 0
-USER: mauriziofdf
-NUMERO DEI TWEET: 0
-USER: FedeAngeli
-NUMERO DEI TWEET: 0
-USER: BrokenwindowsRm
+positiveVero
+
 ........... USER: BrokenwindowsRm............
 2015-09-07
 RT @ignaziomarino: Tutte le schede dei cantieri che iniziano da oggi intorno alla Stazione Termini https://t.co/EoeBf5fees
-NUMERO DEI TWEET: 23
-USER: Official_zanzi
-NUMERO DEI TWEET: 0
-USER: marcohilo
+positiveVero
+
 ........... USER: marcohilo............
 2015-09-07
 RT @ignaziomarino: Tutte le schede dei cantieri che iniziano da oggi intorno alla Stazione Termini https://t.co/EoeBf5fees
-NUMERO DEI TWEET: 7
-USER: Balqis_3asal
+positiveVero
+
 ........... USER: Balqis_3asal............
 2015-09-08
 RT @ignaziomarino: "Forse non avete capito che Federica Angeli non ? sola". Ha ragione Bolzoni. Da uomo e da sindaco: @Roma ? con te. https?
-NUMERO DEI TWEET: 1
+positiveVero
+

@@ -11,8 +11,22 @@ import java.util.ArrayList;
 
 public class OperationFile {
 	
+	public static int contNeutral(File file) throws IOException {
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
+		String line = reader.readLine();
+		int cont = 0;
+		while (line != null) {
+			if (line.contains("_Neutral")) {
+				cont++;
+			}
+			line = reader.readLine();
+		}
+		reader.close();
+		return cont;
+	}
+	
 	public static String deleteURLAndCapo(String stringa) {
-		if (stringa.contains("http")) {
+		if (stringa.contains("http:")) {
 			stringa = stringa.replaceAll("\n", " ");
 			String[] splits;
 			splits = stringa.split(" ");
@@ -63,11 +77,18 @@ public class OperationFile {
 	
 	
 	
-	/*
-	 * Colleziono tutti gli Users e i RT (eliminando URL e a capo)
-	 */
+	
 	public static void main(String[] args) throws IOException {
-		FileWriter file = new FileWriter("Marino/AllUSERSCollection.txt");
+		/* Conto gli users neutrali dopo il tweetpast*/
+		/*File file = new File("appoggio/AltraProva.txt");
+		int result;
+		result = contNeutral(file);
+		System.out.println(result);*/	
+		
+		/*
+		 * Colleziono tutti gli Users e i RT (eliminando URL e a capo)
+		 */
+		/*FileWriter file = new FileWriter("Marino/AllUSERSCollection.txt");
 		PrintWriter outFile = new PrintWriter(file);
 		BufferedReader reader = new BufferedReader(new FileReader("Marino/AllTweetsMarino.txt")); //da dove leggere
 		String line = reader.readLine();
@@ -87,7 +108,7 @@ public class OperationFile {
 		reader.close();
 		FileWriter fileRT = new FileWriter("Marino/AllRTCollection.txt");
 		getRT(fileRT);
-		System.out.println("DONE");
+		System.out.println("DONE");*/
 	}
 
 }

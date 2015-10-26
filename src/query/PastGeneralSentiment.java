@@ -2,20 +2,17 @@ package query;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import pos.TweetTextMain;
-import pos.Extractor.Entity;
 import sentiment.SentiStrengthMain;
 
-public class GeneralSentiment {
+public class PastGeneralSentiment {
 	
 	public static String getRTfromString(String tweet) {
 		String rt = "";
@@ -49,8 +46,8 @@ public class GeneralSentiment {
 		// -----
 		TweetTextMain tweetext = new TweetTextMain();
 		ArrayList<String> entities = new ArrayList<String>();
-		PrintWriter outFile = new PrintWriter("Marino/SentimentAllTweets.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("Marino/AllTweetsMarino.txt"));
+		PrintWriter outFile = new PrintWriter("Marino/PastSentimentAllTweets.txt"); //"Marino/PastSentimentAllTweets.txt"
+		BufferedReader reader = new BufferedReader(new FileReader("Marino/SentimentTweetPast2.txt")); //"Marino/SentimentTweetPast2.txt"
 		File hashtagneg = new File("HelpSentiment/#Neg.txt");
 		File hashtagpos = new File("HelpSentiment/#Pos.txt");
 		File rtneg = new File("HelpSentiment/RTNeg.txt");
@@ -72,13 +69,13 @@ public class GeneralSentiment {
 		while (line != null) {
 			cont++;
 			System.out.println(cont);
-			if ((line.startsWith("USER:"))) {
+			if ((line.startsWith("........... USER:"))) {
 				outFile.println(line);
 			}
-			else if ((line.startsWith("DATE:"))) {
+			else if ((line.matches("\\d{4}-\\d{2}-\\d{2}"))) {
 				outFile.println(line);
 			}
-			else if ( !(line.startsWith("USER:")) && !(line.startsWith("DATE:")) && !(line.equals("")) ) {
+			else if ( !(line.startsWith("USER:")) && !(line.startsWith("........... USER:")) && !(line.startsWith("NUMERO DEI TWEET:")) && !(line.matches("\\d{4}-\\d{2}-\\d{2}")) && !(line.equals("")) ) {
 				fuori = false;
 				outFile.println(line);
 				valoriProveOneTweet = ss.sentimentOneTweet(line);

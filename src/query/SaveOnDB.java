@@ -21,8 +21,10 @@ import com.mongodb.util.JSON;
 
 public class SaveOnDB {
 
-	public static String deleteURL(String stringa) {
-		if (stringa.contains("http")) {
+	
+	public static String deleteURLAndCapo(String stringa) {
+		if (stringa.contains("http:")) {
+			stringa = stringa.replaceAll("\n", " ");
 			String[] splits;
 			splits = stringa.split(" ");
 			for (int i = 0; i < splits.length; i++) {
@@ -50,7 +52,7 @@ public class SaveOnDB {
 
 		try {
 			// apro il file
-			fstream = new FileInputStream("NewMarinoPro.txt");
+			fstream = new FileInputStream("Marino/SentimentTweetPast2.txt");
 
 			// prendo l'inputStream
 			in = new DataInputStream(fstream);
@@ -61,7 +63,7 @@ public class SaveOnDB {
 			// Leggo il file riga per riga
 			while ((strLine = br.readLine()) != null) {
 				//System.out.println(strLine); // stampo sulla console la riga corrispondente
-				strLine = deleteURL(strLine);
+				strLine = deleteURLAndCapo(strLine);
 				//la trascrivo così com'è-> con la cancellazione url
 				fileContent.append(strLine);
 				fileContent.append(System.getProperty("line.separator"));
@@ -69,7 +71,7 @@ public class SaveOnDB {
 			}
 
 			// Sovrascrivo il file con il nuovo contenuto (aggiornato)
-			FileWriter fstreamWrite = new FileWriter("NewMarinoPro.txt");
+			FileWriter fstreamWrite = new FileWriter("Marino/SentimentTweetPast2.txt");
 			out = new BufferedWriter(fstreamWrite);
 			out.write(fileContent.toString());
 
