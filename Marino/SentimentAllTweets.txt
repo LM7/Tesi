@@ -508,9 +508,7 @@ DATE: 2015-10-10
 RT @ANNAQuercia: Carlo Verdone: "Marino ha fallito, diamo fiducia ai 5 Stelle" - Termometro Politico 
 negative
 
-MonicaFortino
-neutral
-
+USER: MonicaFortino
 DATE: 2015-10-10
 Cosa c'? dietro al linciaggio mediatico e alla "demolizione" di Ignazio Marino?!? | La verit?... 
 positive
@@ -815,9 +813,7 @@ DATE: 2015-10-10
 RT @GAlessandrino: Sale Marino su Marte. Oh, quello pur di non stare a Roma andrebbe ovunque.
 negativeVero
 
-Ericballabene
-neutral
-
+USER: Ericballabene
 DATE: 2015-10-10
 Ho l'impressione che tutto quest' accanimento nei confronti di #Marino sia un diversivo per nascondere i problemi di #Roma. E dell'Italia.
 negative
@@ -942,9 +938,6 @@ DATE: 2015-10-10
 RT @isolahokkaido: @LUDOVICOTODINI infatti ? una mossa.
 neutral
 
-Finch? ? servito, ora via.Marino comincia a rendersi conto.
-neutral
-
 USER: mikytavolo13
 DATE: 2015-10-10
 RT @maurorizzi_mr: Segnalo con affetto che a far dimettere #Marino ? stato il Pd 
@@ -1021,7 +1014,10 @@ RT @PiramideRossa: Ma gli ignoti #scontrinologi del #M5S che cacciano Marino, se
 negativeVero
 
 USER: nandupopusss
-DATE: 2015-10-12 Se il Vaticano e Renzi fanno fuori Marino ? perch? ci sar? il Giubileo. Papa Francesco ? solo l'ennesimo potente al servizio dei potenti.
+DATE: 2015-10-12 
+Se il Vaticano e Renzi fanno fuori Marino ? perch? ci sar? il Giubileo. Papa Francesco ? solo l'ennesimo potente al servizio dei potenti.
+neutral
+
 USER: TripAZnet
 DATE: 2015-10-12
 Renzi: ?Si ? rotto il rapporto tra Marino e la citt??: Matteo Renzi ci ripensa.
@@ -1172,9 +1168,7 @@ DATE: 2015-10-12
 RT @welikechopin: Nessuna l'ha vista questa agenda di #Marino, tranne il maestro @makkox Non si pu? perdere il #makkoxtutorial #gazebo
 negative
 
-marytaxi65
-neutral
-
+USER: marytaxi65
 DATE: 2015-10-12
 RT @PatriziaRametta: RENZI COME SI PUO'SPENDERE 600MILA DELLA PROVINCIA EURO IN PRANZI E CHIEDERE A MARINO DI DIMETTERSI PER 20MILA? 
 neutral
@@ -1404,9 +1398,6 @@ DATE: 2015-10-12
 RT @Kotiomkin: #FlaviaVento pensa di candidarsi dopo le dimissioni di #Marino . La notizia ? nella prime tre parole.
 negative
 
-[Diletta Mezzina]
-neutral
-
 USER: laltraguanciama
 DATE: 2015-10-12
 RT @ultimenotizie: #Marino pronto a candidarsi con la sinistra e contro il #Pd, una mossa che potrebbe significare la sconfitta quasi certa?
@@ -1442,9 +1433,7 @@ DATE: 2015-10-12
 RT @welikechopin: Quelli sposati oggi da Marino hanno venti giorni per ripensarci #gazebo #socialtopten
 neutral
 
-mauriziomauri89
-neutral
-
+USER: mauriziomauri89
 DATE: 2015-10-12
 #Marino non ha solo ostacolato gli interessi di #MafiaCapitale ha osato strafarea la #Chiesa con le #unionicivili nonostante la sua fede.
 negative
@@ -1462,9 +1451,6 @@ negativeVero
 USER: susy_ott
 DATE: 2015-10-12
 RT @lddio: ?Senti un po' Gramazio che intenzioni c?hanno con #Marino. Se fossero abbastanza seri, dovrebbero fallo casc?" 
-neutral
-
-(Telefonata Buzz?
 neutral
 
 USER: VirusRai2
@@ -1930,9 +1916,6 @@ neutral
 USER: FedericoBarli
 DATE: 2015-10-14
 RT @lddio: Gli italiani ti sostengono solo dopo il martirio, e ora finalmente hanno Sant'Ignazio, protettore delle cause perse.
-neutral
-
-Prima era s?
 neutral
 
 USER: del_massi
@@ -2772,11 +2755,8 @@ negativeVero
 
 USER: Giocoleria
 DATE: 2015-10-13
-RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione ? PD htt?
 negativeVero
-
-camorra mafia peculato corruzione ? PD htt?
-negative
 
 USER: Giocoleria
 DATE: 2015-10-13
@@ -3035,11 +3015,8 @@ negativeVero
 
 USER: Monialustri
 DATE: 2015-10-12
-RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino 
+RT @giulianocossari: @iostoconmarino @edo_cavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione ? PD htt?
 negativeVero
-
-camorra mafia peculato corruzione ? PD htt?
-negative
 
 USER: pinopinollo
 DATE: 2015-10-12

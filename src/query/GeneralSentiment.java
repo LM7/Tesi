@@ -51,11 +51,11 @@ public class GeneralSentiment {
 		ArrayList<String> entities = new ArrayList<String>();
 		PrintWriter outFile = new PrintWriter("Marino/SentimentAllTweets.txt");
 		BufferedReader reader = new BufferedReader(new FileReader("Marino/AllTweetsMarino.txt"));
-		File hashtagneg = new File("HelpSentiment/#Neg.txt");
-		File hashtagpos = new File("HelpSentiment/#Pos.txt");
-		File rtneg = new File("HelpSentiment/RTNeg.txt");
-		File rtpos = new File("HelpSentiment/RTPos.txt");
-		File mentionNeg = new File("HelpSentiment/@Neg.txt");
+		File hashtagneg = new File("HelpSentimentMarino/#Neg.txt");
+		File hashtagpos = new File("HelpSentimentMarino/#Pos.txt");
+		File rtneg = new File("HelpSentimentMarino/RTNeg.txt");
+		File rtpos = new File("HelpSentimentMarino/RTPos.txt");
+		File mentionNeg = new File("HelpSentimentMarino/@Neg.txt");
 		String line = reader.readLine();
 		String result = "";
 		SentiStrengthMain ss = new SentiStrengthMain();

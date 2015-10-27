@@ -20,8 +20,6 @@ import com.mongodb.MongoClient;
 public class OperationDB {
 
 	public static void main(String[] args) throws IOException {
-		
-	
 		/*PrintWriter outOp = new PrintWriter("DatabaseProvaOperation.txt");
 		MongoClient mongo = null;
 		try {

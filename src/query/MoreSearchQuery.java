@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import database.TwitterNeo4j;
 import twitter4j.GeoLocation;
 import twitter4j.Query;
 import twitter4j.QueryResult;
@@ -20,7 +21,8 @@ import twitter4j.conf.ConfigurationBuilder;
 public class MoreSearchQuery {
 
 	public static void main(String[] args) throws IOException {
-		FileWriter file = new FileWriter("FIFAoPES.txt");
+		TwitterNeo4j neo = new TwitterNeo4j();
+		FileWriter file = new FileWriter("Garcia.txt");
 		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
@@ -38,11 +40,11 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("");
-		int numberOfTweets = 1; //512
+		Query query = new Query("Garcia Roma");
+		int numberOfTweets = 20; //512
 		//-----
-		String dataStart = "2015-10-06";
-	    String dataEnd = "2015-10-19";
+		String dataStart = "2015-10-20";
+	    String dataEnd = "2015-10-27";
 	    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 	    query.setSince(dataStart); // Start date of search
  		query.until(dataEnd);
@@ -60,6 +62,7 @@ public class MoreSearchQuery {
 				tweets.addAll(result.getTweets());
 				System.out.println("Ottenuti " + tweets.size() + " tweets");
 				for (Status t: tweets) {
+					neo.newStatus(t);
 					if(t.getId() < lastID) {
 						lastID = t.getId();
 					}
