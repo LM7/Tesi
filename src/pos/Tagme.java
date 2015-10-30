@@ -2,14 +2,21 @@ package pos;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.PrintWriter;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Set;
 
 public class Tagme {
 
@@ -21,9 +28,10 @@ public class Tagme {
 		//add request header
 		con.setRequestMethod("POST");
 		//con.setRequestProperty("User-Agent", USER_AGENT);
-		con.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
-
-		String urlParameters = "key=8020b57e2d41b6041c4fd06937acbec7&text="+text+"&include_categories=true";
+		con.setRequestProperty("Accept-Language", "en-US,en;q=0.5"); //"en-US,en;q=0.5"
+		
+		String lang = "it"; //en
+		String urlParameters = "key=8020b57e2d41b6041c4fd06937acbec7&text="+text+"&include_categories=true&lang="+lang;
 
 		//send post request
 		try {
@@ -48,6 +56,7 @@ public class Tagme {
 			try{
 			con.setDoOutput(true);
 			}catch(Exception e) {
+				System.out.println(e.getMessage());
 				System.out.println("NEL CATCH");
 			}
 			wr = new DataOutputStream(con.getOutputStream());
@@ -87,18 +96,80 @@ public class Tagme {
 		
 		
 		//provo a stampare
-		for (String parola: tagMeResult.keySet()) {
+		/*for (String parola: tagMeResult.keySet()) {
 			System.out.println("CHIAVE: "+ parola);
 			
 			for (String categoria: tagMeResult.get(parola) ) {
 				System.out.println("CATEGORIA: "+ categoria);
 			}
-		}
+		}*/
 		return tagMeResult;
 	}
 	
+	public static String sortABC(String stringa) {
+		String[] splits = stringa.split(" ");
+		Arrays.sort(splits);
+		String ordinata = "";
+		for (int i = 0; i < splits.length; i++) {
+			ordinata = ordinata + " " + splits[i];
+		}
+		ordinata = ordinata.trim();
+		return ordinata;
+	}
+	
+	public static String joinChiavi(Set<String> chiavi) {
+		String sommaChiavi = "";
+		for (String chiave: chiavi) {
+			sommaChiavi = chiave + " " + sommaChiavi;
+		}
+		sommaChiavi = sommaChiavi.trim();
+		return sommaChiavi;
+	}
+	
+	public static HashMap<String, Integer>  updateMap(HashMap<String, Integer> mappa, Set<String> chiavi) {
+		int valore = 0;
+		for (String chiave: chiavi) {
+			if ( !(mappa.containsKey(chiave)) ) {
+				mappa.put(chiave, 1);
+			}
+			else {
+				valore = mappa.get(chiave);
+				valore++;
+				mappa.put(chiave, valore);
+			}
+		}
+		return mappa;
+	}
+	
 	public static void main(String[] args) throws IOException {
-		HashMap<String, List<String>> mappa = Tagme.categories("Totti Roma");
+		FileWriter file = new FileWriter("topic/ListaTopic.txt");
+		PrintWriter outFile = new PrintWriter(file);
+		BufferedReader reader = new BufferedReader(new FileReader("topic/ListaTitoli.txt"));
+		String line = reader.readLine();
+		HashMap<String, List<String>> mappa = new HashMap<String, List<String>>();
+		HashMap<String, Integer> keyToNumber = new HashMap<String, Integer>();
+		String sommaChiavi = "";
+		String finale = "";
+		while (line != null) {
+			System.out.println(line);
+			line = line.replaceAll("%", "percent");
+			mappa = Tagme.categories(line);
+			keyToNumber = updateMap(keyToNumber, mappa.keySet());
+			sommaChiavi = joinChiavi(mappa.keySet());
+			//finale = sortABC(sommaChiavi); 
+			outFile.println(sommaChiavi); //finale
+			mappa.clear();
+			line = reader.readLine();
+		}
+		reader.close();
+		outFile.close();
+		
+		
+		for (String chiave : keyToNumber.keySet()) {
+			if (keyToNumber.get(chiave) > 1) {
+				System.out.println(chiave+ ":"+keyToNumber.get(chiave));
+			}
+		}
 	}
 }
 
