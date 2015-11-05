@@ -22,7 +22,7 @@ public class MoreSearchQuery {
 
 	public static void main(String[] args) throws IOException {
 		TwitterNeo4j neo = new TwitterNeo4j();
-		FileWriter file = new FileWriter("Garcia.txt");
+		FileWriter file = new FileWriter("ProvaMarinoNonDimissioni.txt");
 		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
@@ -40,11 +40,11 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("Garcia Roma");
-		int numberOfTweets = 20; //512
+		Query query = new Query("Marino");
+		int numberOfTweets = 1000; //512
 		//-----
 		String dataStart = "2015-10-20";
-	    String dataEnd = "2015-10-27";
+	    String dataEnd = "2015-10-30";
 	    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 	    query.setSince(dataStart); // Start date of search
  		query.until(dataEnd);

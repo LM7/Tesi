@@ -18,6 +18,12 @@ public class TweetTextMain {
 		return hashtags;
 	}
 	
+	public List<String> tweetTextScreenName(String tweet) {
+		List<String> screennames = new ArrayList<String>();
+		screennames = this.extractor.extractMentionedScreennames(tweet);
+		return screennames;
+	}
+	
 	public ArrayList<String> tweetTextEntities(String tweet) {
 		List<Entity> entities = new ArrayList<Entity>();
 		entities = this.extractor.extractEntitiesWithIndices(tweet);
@@ -30,7 +36,7 @@ public class TweetTextMain {
 	
 	public static void main(String[] args) {
 		TweetTextMain tweetext = new TweetTextMain();
-		List<String> entities = tweetext.tweetTextEntities("Turbina non si tocca #saveiturbe #Number7 @Juan_iturbe93");
+		List<String> entities = tweetext.tweetTextScreenName("Turbina non si tocca #saveiturbe #Number7 @Juan_iturbe93");
 		for (String stringa: entities) {
 			System.out.println(stringa);
 		}
