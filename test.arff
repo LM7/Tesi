@@ -1,0 +1,11 @@
+@relation prova-test
+
+@attribute User string
+@attribute Text string
+@attribute Sentiment {positive,negative,neutral}
+
+
+@data
+'lollo','daje',?
+'totti','forza',?
+'cri','no',?
