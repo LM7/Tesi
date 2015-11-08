@@ -17,7 +17,6 @@ public class ParserArff {
 		outFile.println("@attribute Text string");
 		outFile.println("@attribute Sentiment {positive,negative,neutral}");
 		outFile.println();
-		outFile.println();
 		outFile.println("@data");
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -52,7 +51,6 @@ public class ParserArff {
 		outFile.println("@attribute Text string");
 		outFile.println("@attribute Sentiment {positive,negative,neutral}");
 		outFile.println();
-		outFile.println();
 		outFile.println("@data");
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -79,7 +77,7 @@ public class ParserArff {
 	}
 
 	public static void main(String[] args) throws Exception {
-		File file = new File("appoggio/AltraProva.txt");
+		File file = new File("WekaMarino/training.txt");
 		createTraining(file);
 		createTesting(file);
 	}

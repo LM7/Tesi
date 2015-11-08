@@ -86,7 +86,7 @@ public class FileForExcel {
 	}
 	
 	/*
-	 * Pulisce il file di da stopword, punteggiatura e lo riscrive per il file excel (unica cosa fatta a mano è levare la parola Vero vicino al sentiment
+	 * Pulisce il file di da stopword, punteggiatura e lo riscrive per il file excel (unica cosa fatta a mano ?? levare la parola Vero vicino al sentiment
 	 */
 	public static void main(String[] args) throws IOException {
 		File file = new File("WekaMarino/trainingForExcel.txt");
