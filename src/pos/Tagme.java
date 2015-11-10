@@ -164,12 +164,15 @@ public class Tagme {
 		reader.close();
 		outFile.close();
 		
-		
+		FileWriter file2 = new FileWriter("topic/query.txt");
+		PrintWriter outFile2 = new PrintWriter(file2);
 		for (String chiave : keyToNumber.keySet()) {
-			if (keyToNumber.get(chiave) > 1) {
+			if (keyToNumber.get(chiave) >= 3) {
+				outFile2.println(chiave);
 				System.out.println(chiave+ ":"+keyToNumber.get(chiave));
 			}
 		}
+		outFile2.close();
 	}
 }
 

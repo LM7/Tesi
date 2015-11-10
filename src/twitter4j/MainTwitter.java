@@ -63,7 +63,7 @@ public class MainTwitter {
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
 		ResponseList<Status> stati = null;
-		stati = twitter.getUserTimeline(user, new Paging(4,numeroTweet)); //cambiando il paging posso risalire agli stati più vecchi
+		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet)); //cambiando il paging posso risalire agli stati più vecchi
 		/*for (Status stato: stati) {
 			//outTOU.println("LINGUA: "+stato.getLang());
 			//outTOU.println("DATA: "+ stato.getCreatedAt());
