@@ -23,7 +23,7 @@ public class TwitterNeo4j {
 	private static enum RelType implements RelationshipType
 	{
 		MENTION,
-		TWITT,
+		TWEET,
 		HASHTAG,
 		URL,
 		MEDIA,
@@ -31,15 +31,17 @@ public class TwitterNeo4j {
 	}
 
 	private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4j-community-2.3.0-M01/data/graph.db";
+	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jengland/data/graph.db";
+	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jspain/data/graph.db";
 	private Index _entitiesIndex ;
 
 	private Index _UserIndex ;
-	private Index _TwittIndex ;
+	private Index _TweetIndex ;
 	private Index _URLIndex ;
 	private Index _HashtagIndex ;
 	private Index _MediaIndex ;
 	private Index _relMENTION;
-	private Index _relTWITT;
+	private Index _relTWEET;
 	private Index _relHASHTAG;
 	private Index _relURL;
 	private Index _relMEDIA;
@@ -61,13 +63,13 @@ public class TwitterNeo4j {
         {
 		_entitiesIndex= _graphDB.index().forNodes( "twitterEntities" );
 		_UserIndex= _graphDB.index().forNodes( "User" ); 
-		_TwittIndex= _graphDB.index().forNodes( "Twitt" ); 
+		_TweetIndex= _graphDB.index().forNodes( "Tweet" ); 
 		_URLIndex = _graphDB.index().forNodes( "URL" );
 		_HashtagIndex= _graphDB.index().forNodes( "Hashtag" ); 
 		_MediaIndex= _graphDB.index().forNodes( "Media" ); 
 
 		_relMENTION = _graphDB.index().forRelationships("Mention");
-		_relTWITT = _graphDB.index().forRelationships("Twitt");
+		_relTWEET = _graphDB.index().forRelationships("Tweet");
 		_relHASHTAG = _graphDB.index().forRelationships("Hashtag");
 		_relURL = _graphDB.index().forRelationships("URL");
 		_relMEDIA = _graphDB.index().forRelationships("Media");
@@ -88,38 +90,38 @@ public class TwitterNeo4j {
 		statusNode.setProperty("type", type);
 		if(type.equals("User"))
 		{
-			_UserIndex.add(statusNode, "twitt_id", id);
+			_UserIndex.add(statusNode, "tweet_id", id);
 		}
 		if(type.equals("Hashtag"))
 		{
-			_HashtagIndex.add(statusNode, "twitt_id", id);
+			_HashtagIndex.add(statusNode, "tweet_id", id);
 		}
 		if(type.equals("URL"))
 		{
-			_URLIndex.add(statusNode, "twitt_id", id);
+			_URLIndex.add(statusNode, "tweet_id", id);
 		}
 		if(type.equals("Media"))
 		{
-			_MediaIndex.add(statusNode, "twitt_id", id);
+			_MediaIndex.add(statusNode, "tweet_id", id);
 		}
-		if(type.equals("Twitt"))
+		if(type.equals("Tweet"))
 		{
-			_TwittIndex.add(statusNode, "twitt_id", id);
+			_TweetIndex.add(statusNode, "tweet_id", id);
 		}
 		return statusNode;
 	}
 	private Node createNode(Object id)
 	{
 		Node statusNode;
-		statusNode = (Node) _entitiesIndex.get( "twitt_id", id).getSingle(); //CAST!!!
+		statusNode = (Node) _entitiesIndex.get( "tweet_id", id).getSingle(); //CAST!!!
 		if(statusNode!=null)
 		{
 			return statusNode;
 		}
 
 		statusNode = _graphDB.createNode();
-		statusNode.setProperty("twitt_id",id);
-		_entitiesIndex.add( statusNode, "twitt_id", id );
+		statusNode.setProperty("tweet_id",id);
+		_entitiesIndex.add( statusNode, "tweet_id", id );
 		return statusNode;
 	}
 	public void newStatus(Status s)
@@ -127,7 +129,7 @@ public class TwitterNeo4j {
 		Transaction tx = _graphDB.beginTx();
 		try
 		{
-			Node statusNode = createNodeType(s.getId(),"Twitt");
+			Node statusNode = createNodeType(s.getId(),"Tweet");
 			statusNode.setProperty("text", s.getText());
 			if(s.getGeoLocation()!=null)
 			{
@@ -138,7 +140,7 @@ public class TwitterNeo4j {
 			Node user = createNodeType("@"+s.getUser().getScreenName().toLowerCase(),"User");
 			user.setProperty("name", s.getUser().getName());
 
-			_relTWITT.add(user.createRelationshipTo(statusNode, RelType.TWITT),"rel_id",_relcounter++);
+			_relTWEET.add(user.createRelationshipTo(statusNode, RelType.TWEET),"rel_id",_relcounter++);
 
 			if(s.isRetweet())
 			{
@@ -146,16 +148,16 @@ public class TwitterNeo4j {
 				Node retweetedUser = createNodeType("@"+rts.getUser().getScreenName(),"User");
 				retweetedUser.setProperty("name", rts.getUser().getName());
 
-				Node retweetedTwitt = createNodeType(rts.getId(),"Twitt");
-				retweetedTwitt.setProperty("text", rts.getText());
+				Node retweetedTweet = createNodeType(rts.getId(),"Tweet");
+				retweetedTweet.setProperty("text", rts.getText());
 				if(rts.getGeoLocation()!=null)
 				{
-					retweetedTwitt.setProperty("Geo_Lat", rts.getGeoLocation().getLatitude());
-					retweetedTwitt.setProperty("Geo_Long", rts.getGeoLocation().getLongitude());
+					retweetedTweet.setProperty("Geo_Lat", rts.getGeoLocation().getLatitude());
+					retweetedTweet.setProperty("Geo_Long", rts.getGeoLocation().getLongitude());
 				}
-				_relTWITT.add(retweetedUser.createRelationshipTo(retweetedTwitt, RelType.TWITT),"rel_id",_relcounter++);
+				_relTWEET.add(retweetedUser.createRelationshipTo(retweetedTweet, RelType.TWEET),"rel_id",_relcounter++);
 				_relRT.add(user.createRelationshipTo(retweetedUser, RelType.RT),"rel_id",_relcounter++);
-				_relRT.add(user.createRelationshipTo(retweetedTwitt, RelType.RT),"rel_id",_relcounter++);
+				_relRT.add(user.createRelationshipTo(retweetedTweet, RelType.RT),"rel_id",_relcounter++);
 
 			}
 

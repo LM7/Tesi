@@ -24,7 +24,7 @@ public class MoreSearchQuery {
 
 	public static void main(String[] args) throws IOException {
 		TwitterNeo4j neo = new TwitterNeo4j();
-		FileWriter file = new FileWriter("UltimiTweetMarino.txt");
+		FileWriter file = new FileWriter("DatiMarquez/tweetMarquezspa.txt");
 		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
@@ -42,15 +42,15 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("Marino");
-		int numberOfTweets = 2000; //512
+		Query query = new Query("Marquez");
+		int numberOfTweets = 1500; //512
 		//-----
-		String dataStart = "2015-11-02";
+		String dataStart = "2015-11-08";
 	    String dataEnd = "2015-11-09";
 	    SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 	    query.setSince(dataStart); // Start date of search
  		query.until(dataEnd);
- 		query.setLang("it");
+ 		query.setLang("es");
  		//-----
 		long lastID = Long.MAX_VALUE;
 		List<Status> tweets = new ArrayList<Status>();
@@ -64,7 +64,7 @@ public class MoreSearchQuery {
 				tweets.addAll(result.getTweets());
 				System.out.println("Ottenuti " + tweets.size() + " tweets");
 				for (Status t: tweets) {
-					//neo.newStatus(t);
+					neo.newStatus(t);
 					if(t.getId() < lastID) {
 						lastID = t.getId();
 					}
@@ -78,14 +78,14 @@ public class MoreSearchQuery {
 		}
 		
 		/* Per non avere stati con user già analizzati */
-		BufferedReader reader2 = new BufferedReader(new FileReader("NaiveBayes/TuttiGliUsers.txt"));
+		/*BufferedReader reader2 = new BufferedReader(new FileReader("NaiveBayes/TuttiGliUsers.txt"));
 		String line2 = reader2.readLine();
 		ArrayList<String> users = new ArrayList<String>();
 		while (line2 != null) {
 			users.add(line2);
 			line2 = reader2.readLine();
 		}
-		reader2.close();
+		reader2.close();*/
 
 		for (int i = 0; i < tweets.size(); i++) {
 			Status t = (Status) tweets.get(i);
@@ -101,14 +101,14 @@ public class MoreSearchQuery {
 				Double lon = t.getGeoLocation().getLongitude();
 				System.out.println(i + " USER: " + user + " wrote: " + msg + " located at " + lat + ", " + lon+", Date"+date.toString());
 			} */
-			if ( !(users.contains(user)) ) {
-				neo.newStatus(t);
+			//if ( !(users.contains(user)) ) {
+				//neo.newStatus(t);
 				outFile.println("USER: "+user);
 				outFile.println("DATE: "+dateString);
 				outFile.println(msg);
 				outFile.println();
 				System.out.println(i + " USER: " + user + " wrote: " + msg+", Date: "+dateString);
-			}
+			//}
 			
 		}
 		outFile.close();
