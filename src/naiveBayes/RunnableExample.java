@@ -36,7 +36,7 @@ public class RunnableExample {
         final String[] neutralText = "Forza grande Youtube".split("\\s");
         bayes.learn("neutral", Arrays.asList(neutralText));*/
         
-        BufferedReader reader = new BufferedReader(new FileReader("NaiveBayes/trainingReady.txt")); //leggo i tweet
+        BufferedReader reader = new BufferedReader(new FileReader("NaiveBayesMarquez/trainingReadyITA.txt")); //leggo i tweet
 		String line = reader.readLine();
 		String[] splits;
 		while (line != null) {
@@ -78,7 +78,7 @@ public class RunnableExample {
         System.out.println( 
                 bayes.classify(Arrays.asList(unknownText3)).getCategory());*/
 		
-		BufferedReader reader2 = new BufferedReader(new FileReader("NaiveBayes/testingPastDate.txt")); //leggo i tweet
+		BufferedReader reader2 = new BufferedReader(new FileReader("NaiveBayesMarquez/testingPastReadyITA.txt")); //leggo i tweet
 		String line2 = reader2.readLine();
 		String sentiment;
 		int pos = 0;
