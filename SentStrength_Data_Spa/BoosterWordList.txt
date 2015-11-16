@@ -1,0 +1,169 @@
+incluso	1	SFU
+especialmente	1	SFU
+muy	2
+menos	-2	SFU
+mayor	1	SFU
+principal	1	SFU
+particularmente	1	SFU
+moderadamente	-1	SFU
+así como	-1	SFU
+en gran medida	1	SFU
+realmente	1	SFU
+tremendo	1	SFU
+immensamente	1	SFU
+significativamente	1	SFU
+ciertamente	1	SFU
+sobre todo	1	SFU
+semejante	-1	SFU
+importante	1	SFU
+alucinantemente	1	SFU
+indiscutiblemente	1	SFU
+obviamente	1	SFU
+el menos	-3	SFU
+concretamente	1	SFU
+algún	-1	SFU
+lo menos	-3	SFU
+ni de coña	-3	SFU
+definitivo	1	SFU
+elevado	1	SFU
+totalmente	1	SFU
+con mucho	1	SFU
+los menos	-3	SFU
+así	-1	SFU
+sencillamente	-1	SFU
+prácticamente	-1	SFU
+monumental	1	SFU
+intensamente	1	SFU
+insignificante	-1	SFU
+gran	2
+marcadamente	1	SFU
+máxime	1	SFU
+un poco de	-1	SFU
+en particular	1	SFU
+solo	-1	SFU
+﻿absolutamente	1
+exceptionalmente	1	SFU
+sumamente	1	SFU
+abundantemente	1	SFU
+abundante	1	SFU
+la más	1	SFU
+en cierto modo	-1	SFU
+altamente	1	SFU
+crucial	1	SFU
+masivo	1	SFU
+bien	1	SFU
+sorprendentemente	1	SFU
+perfectamente	1	SFU
+difícil de	-2	SFU
+extraordinariamente	1	SFU
+relativamente	-1	SFU
+moderado	-1	SFU
+pequeño	-1	SFU
+increíble	1	SFU
+apasionadamente	1	SFU
+lo más	1	SFU
+consistentemente	1	SFU
+intenso	1	SFU
+frecuentemente	1	SFU
+muchísimo	1	SFU
+las menos	-3	SFU
+fundamentalmente	1	SFU
+del todo	1	SFU
+únicamente	-1
+dramáticamente	1	SFU
+exactamente	1	SFU
+un montón	1	SFU
+a conciencia	1	SFU
+profundo	1	SFU
+una barbaridad de	1	SFU
+un poco	-1	SFU
+claro	1	SFU
+de cierta manera	-1	SFU
+simplemente	1	SFU
+extraordinario	1	SFU
+extra	1	SFU
+extremadamente	2
+unusualmente	1	SFU
+enorme	1	SFU
+mucho	1	SFU
+extravagante	1	SFU
+inmejorablemente	1	SFU
+no demasiado	-2	SFU
+total	1	SFU
+ligero	-1	SFU
+con frecuencia	1	SFU
+un par de	-1	SFU
+sin duda	1	SFU
+completamente	1	SFU
+precisamente	1	SFU
+super	1	SFU
+una barbaridad	1	SFU
+enormemente	1	SFU
+verdaderamente	1	SFU
+notablemente	1	SFU
+solamente	-1
+espectacularmente	1	SFU
+infinitamente	1	SFU
+en absoluto	-1	SFU
+puto	1	SFU
+más	1	SFU
+mayormente	1	SFU
+ligeramente	-1	SFU
+demasiado	-1	SFU
+completo	1	SFU
+fenomenal	1	SFU
+absolutamente	1	SFU
+el más	1	SFU
+considerable	1	SFU
+parcialmente	-1	SFU
+el más grande	1	SFU
+immediatamente	1	SFU
+casi	-1	SFU
+puramente	1	SFU
+estupendo	1	SFU
+francamente	1	SFU
+el más claro	1	SFU
+seriamente	-1	SFU
+horriblemente	1	SFU
+real	1	SFU
+lo mínimo	-3	SFU
+seguramente	1	SFU
+los más	1	SFU
+tremendamente	1	SFU
+enteramente	1	SFU
+absoluto	1	SFU
+radicalmente	1	SFU
+tan	1	SFU
+profundamente	1	SFU
+bastante	1	SFU
+!	1	SFU
+tal	1	SFU
+medio	1	SFU
+universalmente	1	SFU
+sin consecuencia	-1	SFU
+un montón de	1	SFU
+definitivamente	1
+principalmente	1	SFU
+un poquito de	-1	SFU
+puro	1	SFU
+como mucho	-1	SFU
+algo	-1
+menudo	1	SFU
+justamente	1	SFU
+terriblemente	1	SFU
+las más	1	SFU
+obscenamente	1	SFU
+apenas	-2	SFU
+literalmente	1	SFU
+claramente	1	SFU
+de manera excepcional	1	SFU
+obvio	1	SFU
+alguno	-1	SFU
+muchísimo	2
+increíblemente	1	SFU
+un par	-1	SFU
+fuertemente	1	SFU
+increiblemente	2
+la menos	-3	SFU
+so	2	DEV_CORPUS
+re	1	DEV_CORPUS

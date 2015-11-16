@@ -1,0 +1,309 @@
+agarrarse a un clavo ardiendo	-4
+asco de vida	-4
+a tomar por culo	-3
+buen humor	-3
+buenos días	0
+buenas tardes	0
+buenas noches	0
+﻿como va todo 	0
+qué tal	0
+qué hay	0
+buen palo	-3
+caer chuzos	-2
+caen chuzos	-2
+caían chuzos	-2
+caian chuzos	-2
+cayeron chuzos	-2
+caído chuzos	-2
+caido chuzos	-2
+cagarse en	-4
+me cago en	-4
+te cagas en	-4
+se caga en	-4
+nos cagamos en	-4
+os cagais en	-4
+se cagan en	-4
+me cagué en	-4
+me cague en	-4
+te cagaste en	-4
+se cagó en	-4
+se cago en	-4
+os cagasteis en	-4
+se cagaron en	-4
+me cagaba en	-4
+te cagabas en	-4
+se cababa en	-4
+nos cagábamos en	-4
+os cagabais en	-4
+se cagaban en	-4
+cagado en	-4
+como una cabra	-3
+cuando menos	0
+dar con	2	
+doy con	2
+das con	2
+da con	2
+damos con	2
+dais con	2
+dan con	2
+dado con	2
+daba con	2
+dabamos con	2
+dabais con	2
+daban con 	2
+di con	2
+diste con	2
+dio con 	2
+dimos con	2
+disteis con	2
+dieron con	2
+de puta madre	4
+echar de menos	2
+echo de menos	2
+echas de menos	2
+echa de menos	2
+echamos de menos	2
+echáis de menos	2
+echan de menos	2
+echaba de menos	2
+echabas de menos	2
+echaba de menos	2
+echábamos de menos	2
+echabáis de menos	2
+echaban de menos	2
+eché de menos	2
+echaste de menos	2
+echó de menos	2
+echáis de menos	2
+echan de menos	2
+el mejor de todos	4
+el dedo en la herida	-5
+fuera del top	-2
+hacerse pasar por	-2
+haciendo pasar por	-2
+hago pasar por	-2
+haces pasar por	-2
+hace pasar por	-2
+hacemos pasar por	-2
+hacéis pasar por	-2
+haceis pasar por	-2
+hacen pasar por	-2
+hacía pasar por	-2
+hacías pasar por	-2
+hacía pasar por	-2
+hacíamos pasar por	-2
+hacíais pasar por	-2
+hacían  pasar por	-2
+hice pasar por	-2
+hiciste pasar por	-2
+hizo pasar por	-2
+hicimos pasar por	-2
+hicisteis pasar por	-2
+hicieron pasar por	-2
+haciendo pasar por	-2
+hecho pasar por	-2
+hecho polvo	-2
+humor de perros	-2
+ir contra	-2
+voy contra	-2
+vas contra	-2
+va contra	-2
+vamos contra	-2
+váis contra	-2
+van contra	-2
+iba contra	-2
+ibas contra	-2
+iba contra	-2
+íbamos contra	-2
+íbais contra	-2
+iban contra	-2
+fui contra	-2
+fuiste contra	-2
+fue contra	-2
+fuimos contra	-2
+fuisteis contra	-2
+fueron contra	-2
+yendo contra	-2
+ido contra	-2
+la boca agua	2
+la casa por el tejado	-2
+la concha de tu vieja	-4
+llorar de felicidad	5
+llorar de alegría	5
+mal humor	-3
+mala hostia	-5
+mal de la cabeza	-3
+mejor que no	0
+merece la pena luchar	2
+meterse con los demás	-2
+montar el pollo	-4
+monto el pollo	-4
+montas el pollo	-4
+monta el pollo	-4
+montamos el pollo	-4
+montáis el pollo	-4
+montan el pollo	-4
+montaba el pollo	-4
+montabas el pollo	-4
+montábamos el pollo	-4
+montabais el pollo	-4
+montaban el pollo	-4
+monté el pollo	-4
+montaste el pollo	-4
+montó el pollo	-4
+montáis el pollo	-4
+montaron el pollo	-4
+montando el pollo	-4
+montado el pollo	-4
+morir de los nervios	-3
+muero de los nervios	-3
+mueres de los nervios	-3
+muere de los nervios	-3
+morimos de los nervios	-3
+morís de los nervios	-3
+mueren de los nervios	-3
+moría de los nervios	-3
+morías de los nervios	-3
+moría de los nervios	-3
+moríamos de los nervios	-3
+moríais de los nervios	-3
+morían de los nervios	-3
+morí de los nervios	-3
+moriste de los nervios	-3
+murió de los nervios	-3
+morimos de los nervios	-3
+moristeis de los nervios	-3
+murieron de los nervios	-3
+muriendo de los nervios	-3
+muerto de los nervios	-3
+no hay mal que por bien no venga	2
+pan comido	2
+parar de reir	-2
+paro de reir	-2
+paras de reir	-2
+para de reir	-2
+paramos de reir	-2
+parais de reir	-2
+paráis de reir	-2
+paran de reir	-2
+paraba de reir	-2
+parabas de reir	-2
+paraba de reir	-2
+parabais de reir	-2
+paraban de reir	-2
+paré de reir	-2
+pare de reir	-2
+paraste de reir	-2
+paró de reir	-2
+paro de reir	-2
+parasteis de reir	-2
+pararon de reir	-2
+pararé de reir	-2
+parare de reir	-2
+pararás de reir	-2
+pararas de reir	-2
+parara de reir	-2
+parará de reir	-2
+pararemos de reir	-2
+pararéis de reir	-2
+parareis de reir	-2
+pararán de reir	-2
+pararan de reir
+parara de reir	-2
+parar de llorar	-2
+paro de llorar	-2
+paras de llorar	-2
+para de llorar	-2
+paramos de llorar	-2
+parais de llorar	-2
+paráis de llorar	-2
+paran de llorar	-2
+paraba de llorar	-2
+parabas de llorar	-2
+paraba de llorar	-2
+parabais de llorar	-2
+paraban de llorar	-2
+paré de llorar	-2
+pare de llorar	-2
+paraste de llorar	-2
+paró de llorar	-2
+paro de llorar	-2
+parasteis de llorar	-2
+pararon de llorar	-2
+pararé de llorar	-2
+parare de llorar	-2
+pararás de llorar	-2
+pararas de llorar	-2
+parara de llorar	-2
+parará de llorar	-2
+pararemos de llorar	-2
+pararéis de llorar	-2
+parareis de llorar	-2
+pararán de llorar	-2
+pararan de llorar
+parara de llorar	-2
+quedarse de piedra	-2
+quedo de piedra	-2
+quedas de piedra	-2
+queda de piedra	-2
+quedamos de piedra	-2
+quedáis de piedra	-2
+quedan de piedra	-2
+quedé de piedra	-2
+quede de piedra	-2
+quedaste de piedra	-2
+quedó de piedra	-2
+quedasteis de piedra	-2
+quedaron de piedra	-2
+quedaba de piedra	-2
+quedabas de piedra	-2
+quedaba de piedra	-2
+quedabamos de piedra	-2
+quedabais de piedra	-2
+quedaban de piedra	-2
+sentido común	2
+tocarse los cojones	-5
+tocarme los cojones	-5
+tocarte los cojones	-5
+tocarle los cojones	-5
+tocarnos los cojones	-5
+tocaros los cojones	-5
+tocarles los cojones	-5
+trata de personas	-4
+trata de blancas	-4
+tomar el pelo	-2
+tomo el pelo	-2
+toma el pelo	-2
+tomas el pelo	-2
+tomais el pelo	-2
+tomáis el pelo	-2
+tomamos el pelo	-2
+tomáis el pelo	-2
+toman el pelo	-2
+tomado el pelo	-2
+tomé el pelo	-2
+tome el pelo	-2
+tomaste el pelo	-2
+tomó el pelo	-2
+tomo el pelo	-2	
+tomastéis el pelo	-2
+tomasteis el pelo	-2
+tomaron el pelo	-2
+tomaba el pelo	-2
+tomabas el pelo	-2
+tomaba el pelo	-2
+tomábamos el pelo	-2
+tomabamos el pelo	-2
+tomabais el el pelo	-2
+tomaban el pelo	-2
+tomar en serio	0
+uña y carne	2
+vida imposible	-5
+vienen curvas	-2
+zasca	-2
+uff*	-2
+ehh	-2
+jo	-2
+apuff*	-2
+fuera de norma	-3
+por lo menos	1

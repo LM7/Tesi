@@ -45,7 +45,7 @@ public class FileForExcel {
 	public static String removeStopWord(String text) throws IOException    {
 		StringTokenizer tokens = new StringTokenizer(text, " ");
 		String newText = "";
-		File stopWordFile = new File("WekaMarino/stopwordsIta.txt");
+		File stopWordFile = new File("WekaMarino/stopwordsEng.txt");
 		while (tokens.hasMoreTokens()) {
 			String temp = tokens.nextToken();
 			if (!checkStopWord(temp,stopWordFile)) {
