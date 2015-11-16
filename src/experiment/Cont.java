@@ -17,6 +17,23 @@ import com.mongodb.util.Hash;
 
 public class Cont {
 	
+	public static void rewriteUsers(File file) throws Exception {
+		FileWriter fileWrite = new FileWriter("DatiMarquez/provaaaa.txt");
+		PrintWriter outFile = new PrintWriter(fileWrite);
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
+		String line = reader.readLine();
+		ArrayList<String> users = new ArrayList<String>();
+		while (line != null) {
+			if ( !(users.contains(line)) ) {
+				users.add(line);
+				outFile.println(line);
+			}
+			line = reader.readLine();
+		}
+		outFile.close();
+		reader.close();
+	}
+	
 	public static void contUsers(File file) throws Exception {
 		FileWriter fileWrite = new FileWriter("DatiMarquez/AllUsersSpa.txt");
 		PrintWriter outFile = new PrintWriter(fileWrite);
@@ -139,11 +156,12 @@ public class Cont {
 	}
 
 	public static void main(String[] args) throws Exception {
-		File file = new File("DatiMarquez/tweetMarquezeng.txt"); //file da LEGGERE
+		File file = new File("appoggio/UtentiForseNeutrali.txt"); //file da LEGGERE
+		//rewriteUsers(file);
 		//contUsers(file);
-		contRT(file);
-		contHashTag(file);
-		contScreenNames(file);
+		//contRT(file);
+		//contHashTag(file);
+		//contScreenNames(file);
 	}
 
 }

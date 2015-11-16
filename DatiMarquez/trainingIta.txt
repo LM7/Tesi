@@ -1,7 +1,7 @@
 USER: ErnestoLikebike
 DATE: 2015-11-09
 Valentino Rossi intervista post gara "Marquez ?? un..." Valencia  via @YouTube 
-neutralVero
+neutral
 
 USER: ZulianiCamilla
 DATE: 2015-11-08
@@ -26,7 +26,7 @@ positive
 USER: bubajenny
 DATE: 2015-11-09
 RT @lddio: E comunque sempre FORZA MARQUEZ, che ha fatto moltissimo per la letteratura latinoamericana! #ValenciaGP #iostoconMarquez 
-positiveVero
+positive
 
 USER: acrestaALTA91
 DATE: 2015-05-31
@@ -56,52 +56,52 @@ positive
 USER: AngieS912
 DATE: 2015-11-08
 #IoStoConLorenzo perch?? mi sembra pi?? grave il calcio di Rossi a Marquez 
-positiveVero
+positive
 
 USER: watanabe1Q84
 DATE: 2015-11-08
 RT @diodeglizilla: Twitter non smette mai di stupirmi, tipo oggi che vi siete dati tutti alla letteratura sudamericana parlando di Marquez.??? 
-positiveVero
+positive
 
 USER: mele180
 DATE: 2015-11-08
 RT @daniel20355: Cio?? qua su twitter, non rituittate alcuni perch?? interagiscono con quelli, e poi vi meravigliate se Rossi sta sul cazzo a??? 
-positiveVero
+positive
 
 USER: lagiobac
 DATE: 2015-11-08
 RT @lddio: Scrivere "bimbominchia" sulla pagina Wiki di #Marquez ?? chiaro indice di maturit??. Se non lo avete fatto, metteteci pure cose su??? 
-positiveVero
+positive
 
 USER: VoceVeritatis90
 DATE: 2015-11-09
 RT @David_IsayBlog: Campioni come Rossi si nasce. E tu Marquez, campione non lo sarai mai, nemmeno se lo diventi. #iostoconVale 
-negativeVero
+negative
 
 USER: jessy_ing_
 DATE: 2015-11-08
 RT @sole24ore: Biscotto spagnolo: Marquez non attacca, a Lorenzo gara e titolo, Rossi beffato  #iostoconVale  
-negativeVero
+negative
 
 USER: silviapassacant
 DATE: 2015-11-08
 RT @LeleAngeli: La DIFFERENZA. #iostoconVale #Marquez #Lorenzo #Rossi #ValenciaGP #MotoGP #TheGrandFinale #SkyMotori #memecronaca  
-negativeVero
+negative
 
 USER: DonyMa
 DATE: 2015-11-08
 RT @Francescortenzi: #valelostesso Valentino ha perso il mondiale, ma ne aveva altri 9. Marquez ha perso la faccia, ma ne aveva una sola. V??? 
-negativeVero
+negative
 
 USER: MrJordan_YT
 DATE: 2015-11-09
 RT @AleAntinelli: Complimenti a Marquez Ha confermato di lavorare per Lorenzo Complimenti a Lorenzo ?? campione del mondo con tutto il mondo??? 
-negativeVero
+negative
 
 USER: matzam77
 DATE: 2015-11-08
 RT @Saturnino69: #Marquez non hai attaccato #Lorenzo mai.... Corri solo per #Hobbit ????????  VValentino Rossi VR46 Official...  
-negativeVero
+negative
 
 USER: irevaschetto
 DATE: 2015-10-18
@@ -111,7 +111,7 @@ positive
 USER: giuseppe_gaggio
 DATE: 2015-11-08
 RT @craccocarlo: Complimenti a Marquez, campione di disonest??. @ValeYellow46 sempre e solo il numero uno! 
-negativeVero
+negative
 
 USER: EmaSasso
 DATE: 2013-11-11
@@ -121,7 +121,7 @@ positive
 USER: Ubergilardino
 DATE: 2015-11-08
 RT @MatteoPedrosi: Alla fine poi hanno limonato #Marquez e #Lorenzo?  #MotoGPValencia W #Rossi!  
-negativeVero
+negative
 
 USER: Pattynavmeli9
 DATE: 2015-10-18
@@ -131,22 +131,22 @@ positive
 USER: umbethechef
 DATE: 2015-11-08
 RT @matteograndi: E un applauso Marc Marquez per aver rovinato un motomondiale bellissimo.  #iostoconVale 
-negativeVero
+negative
 
 USER: m_lella
 DATE: 2015-11-08
 RT @RenzoMattei: Il comportamento di Marquez e' stato corretto, come il mio con Letta #iostoconVale 
-negativeVero
+negative
 
 USER: r_giada
 DATE: 2015-11-08
 RT @andatepiano: @lorenzo99 Non ti dimenticare eh! #Marquez #Lorenzo #Valelostesso #iostoconVale  
-negativeVero
+negative
 
 USER: base1075
 DATE: 2015-11-08
 RT @tutticonvocati: Pare che il brand non c'entri...ma baby #Marquez con ciuccio e biscotti ?? gi?? virale  
-negativeVero
+negative
 
 USER: TotoCaristo
 DATE: 2013-11-10
@@ -156,202 +156,202 @@ positive
 USER: crocket197
 DATE: 2015-11-09
 RT @balda1969: Argomenti del luned??  Rigore Roma : non so, non si vede bene  Marquez : ridicolo Fuorigioco gol Juve del 1-3 : scandalo mond??? 
-negativeVero
+negative
 
 USER: Kalamity1976
 DATE: 2015-11-09
 RT @albyporta: C'?? grande differenza tra capire e giustificare. Io NON giustifico Marquez... 
-negativeVero
+negative
 
 USER: santucci_elisa
 DATE: 2015-11-08
 RT @NH_Infinity8_LT: Tu: ma noooo N: cosa c'?? adesso? Tu: doveva vincere Valentino! Mannaia a Marquez! N: N: in questa casa lo sport ci ucc??? 
-negativeVero
+negative
 
 USER: ale_sandros
 DATE: 2015-11-08
 RT @ArsenaleKappa: Si difende #Marquez: "Ho distrutto le gomme frenando ogni volta che ho rischiato di passare Lorenzo". #iostoconVale #Sky??? 
-negativeVero
+negative
 
 USER: fabriziachecchi
 DATE: 2015-11-08
 RT @DarioPresident: Il luned?? ?? un po' come il duo "Marquez-Lorenzo". 
-negativeVero
+negative
 
 USER: amemacula
 DATE: 2015-11-08
 RT @tuttosport: #ValenciaGp Valentino furioso e deluso: "Marquez imbarazzante"  
-negativeVero
+negative
 
 USER: roberto_roccia
 DATE: 2015-11-08
 RT @CorSport: FOTO #iostoconVale Il web si scatena sul "biscottone" #Marquez #Lorenzo  
-negativeVero
+negative
 
 USER: 46Armin
 DATE: 2015-11-08
 RT @vale46vale: "Marquez ?? un gran talento il futuro della MotoGP ma uno che fa cos?? se ne sbatte i coglioni di tutto"  
-negativeVero
+negative
 
 USER: Goku24972876
 DATE: 2015-11-08
 RT @guidomeda: Rossi:" marquez ?? uno che di solito sorpassa. Speci all'ultimo giro. Stavolta l'unico sorpasso che ha fatto ?? stato su Pedro??? 
-negativeVero
+negative
 
 USER: BenitoAtos
 DATE: 2015-11-09
 RT @Interic1908: Buonanotte a tutti. E ricordate: Marquez merda 
-negativeVero
+negative
 
 USER: FrancoCirillo1
 DATE: 2015-11-09
 RT @unfair_play: +++ NEL 2016 LORENZO E MARQUEZ GAREGGERANNO NEL MONDIALE SIDECAR +++    #MotoGP #ValenciaGP 
-negativeVero
+negative
 
 USER: GianlucaGhini
 DATE: 2015-11-08
 RT @BonnieLaCozza: Un pilota come Marquez dovrebbe baciare la terra che calpesta @ValeYellow46 , perch?? se il MotoGP oggi ?? cos?? grande, ?? ??? 
-negativeVero
+negative
 
 USER: ManuelTuli
 DATE: 2015-11-08
 RT @ClaudiaGiosue: #SkyMotori vi faccio una domanda per conto di Lallo:"Perch?? Marquez si faceva segnalare dai box la quarta posizione?" Gr??? 
-negativeVero
+negative
 
 USER: Freddym21
 DATE: 2015-11-08
 RT @Box_Official46: #ValenciaGP "Mi sembra anche molto triste che Marquez si riduca a fare il guardaspalle di Jorge."-Valentino Rossi  
-negativeVero
+negative
 
 USER: eleinadotisopse
 DATE: 2015-11-08
 RT @SkySport: VIDEO: Rossi: "Marquez penoso negli ultimi giri"  
-negativeVero
+negative
 
 USER: MChiaraRocco
 DATE: 2015-11-08
 RT @Santre_sfc: Dopo ultimi GP Mulino Bianco licenzia Banderas e cerca in Marquez nuovo volto per pubblicizzare i suoi Biscottoni #SkyMotor??? 
-negativeVero
+negative
 
 USER: iredao81
 DATE: 2015-11-08
 RT @Lobuit: Nuovo allarme dell'#OMS: #Marquez nuoce alla sportivit??. @ValeYellow46  #iostoconVale 
-negativeVero
+negative
 
 USER: vivosolodisogni
 DATE: 2015-11-08
 RT @gabbodsquared: Marquez , come mai non tagli la strada a Lorenzo come hai fatto con Rossi? #Infame #Iostoconvale #ForzaVale 
-negativeVero
+negative
 
 USER: RizzoEdoardo
 DATE: 2015-11-09
 RT @SergioSierra67: Il comportamento di #Marquez disgustoso e antisportivo , 21 sorpassi di #Vale parlano da soli, coraggio estro e fantasi??? 
-negativeVero
+negative
 
 USER: CettinaCasella
 DATE: 2015-11-09
 RT @battiatufrancu: Non so niente n?? di moto n?? di gare di moto. Per?? concordo su una cosa. Marquez ?? una testa di minchia. #francustaconva??? 
-negativeVero
+negative
 
 USER: intoccabile_l
 DATE: 2015-11-09
 RT @amotalbrezza: #Marquez alle elementari era quello che faceva la spia alla maestra. #MotoGPValencia 
-negativeVero
+negative
 
 USER: r_giada
 DATE: 2015-11-08
 RT @arvik18g: Marquez campione mondiale 2015 di antisportivit??. Complimenti! #iostoconvale 
-negativeVero
+negative
 
 USER: crissscri871
 DATE: 2015-11-08
 RT @fabioalisei: Povero Banderas, Marquez e Lorenzo gli hanno rubato l'idea del #biscottone spagnolo #iostoconVale 
-negativeVero
+negative
 
 USER: bulnes_4
 DATE: 2015-11-08
 RT @ciroimmobile: Marquez frena per non superare lorenzo...misteri.... 
-negativeVero
+negative
 
 USER: Leobardolc
 DATE: 2015-11-08
 RT @Eurosport_IT: Valentino Rossi: "Mi sembra molto triste che Marquez si riduca a fare il guardaspalle di Lorenzo" #ValenciaGP #TheGrandF??? 
-negativeVero
+negative
 
 USER: _YaYa_86
 DATE: 2015-11-08
 RT @Gazzetta_it: Ma quali Lorenzo e Marquez? Anche gli spagnoli tifano @ValeYellow46 #ValenciaGP #TheGrandFinale  #m??? 
-negativeVero
+negative
 
 USER: AndreaBen155
 DATE: 2015-11-08
 RT @Denis_Peach: Un vincente rimane vincente anche quando perde. Un perdente rimane  perdente anche quando vince. Marc Marquez ?? qualcosa d??? 
-negativeVero
+negative
 
 USER: ClaudioPak1
 DATE: 2015-11-08
 RT @GnocchiGene: Lorenzo e Marquez subito dopo il Moto GP hanno firmato come testimonials della Barilla. Sostituiscono Banderas e Rosita #M??? 
-negativeVero
+negative
 
 USER: Giola_Bi
 DATE: 2015-11-08
 RT @Pinucciosono: Marquez e Lorenzo, potevate correre con questa #iostoconVale  
-negativeVero
+negative
 
 USER: JoeLegnani
 DATE: 2015-11-08
 RT @SkySportMotoGP: VIDEO: Rossi: "Marquez penoso negli ultimi giri"  #SkyMotori 
-negativeVero
+negative
 
 USER: AlexZan87
 DATE: 2015-11-08
 RT @enomis1699: Rossi ha perso un mondiale ma ne ha 9, Marquez ha perso la dignit?? e ne ha solo una. #SkyMotori @SkySportMotoGP  
-negativeVero
+negative
 
 USER: BolloAlessandro
 DATE: 2015-11-08
 RT @deidda_paolo: #Vale ha perso il mondiale ma ne aveva gi?? 9. #Marquez ha perso la dignit?? e ne aveva solo una @Box_Official46 
-negativeVero
+negative
 
 USER: EmiePlanas
 DATE: 2015-11-09
 RT @GianniCuperIoPD: #Marquez sempre a correre in soccorso del vincitore. Mi ricorda #franceschini.  #belloefake 
-negativeVero
+negative
 
 USER: KleopasSoul23
 DATE: 2015-11-09
 RT @m4gny: - Pap??, io sto con Valentino! - Anche io! Marquez deve mor??. - Ma???pap??, sto facendo coming out! - DOPO! Oggi c????? la gara. 
-negativeVero
+negative
 
 USER: Dickun9Ahcmad
 DATE: 2015-11-08
 RT @Beritasatu: #PopulerB1 6: Rossi: Marquez jadi "Bodyguard" Lorenzo   
-negativeVero
+negative
 
 USER: DavideBuccid
 DATE: 2015-11-08
 RT @laciui: Per difendere un ragazzino stanno affondando tutti.Vergognosi. #Marquez #Honda #Suppo #Nakamoto #Repsol #Gas #iostoconVale 
-negativeVero
+negative
 
 USER: MattiaRvt
 DATE: 2015-11-09
 RT @giovannivernia: #narcos ?? fighissimo ed ha pure uno scopo didattico-sociale: sto imparando lo spagnolo per insultare meglio #marquez   ??? 
-negativeVero
+negative
 
 USER: LolliGiorgio
 DATE: 2015-11-09
 RT @motogp_italia: MotoGP, podio di Valencia: fischi e contestazioni per Lorenzo e Marquez | VIDEO   
-negativeVero
+negative
 
 USER: Nichola25916404
 DATE: 2015-11-09
 RT @francescabarra: #marquez e tutto ci?? che non vorresti vedere mai in una competizione sportiva #iostoconVale 
-negativeVero
+negative
 
 USER: arossolini
 DATE: 2015-11-08
 RT @re_assoluto: Oggi non so se mi sta pi?? sul cazzo Marquez o Fazio. #chetempochefa 
-negativeVero
+negative
 
 USER: albyloca85
 DATE: 2013-04-21
@@ -361,52 +361,49 @@ positive
 USER: CriPeruzzi
 DATE: 2015-11-08
 RT @Tremenoventi: Marquez che non supera Lorenzo anche se va molto pi?? veloce sembra me quando ho i carabinieri davanti. 
-negativeVero
+negative
 
 USER: 712oliver
 DATE: 2015-11-08
 RT @coccodj: #Marquez vince il mondiale dell'infamia. che sia ricordato in secula seculorum #MotoGPValencia 
-negativeVero
+negative
 
 USER: PolpettaPsc
 DATE: 2015-11-09
 @motocuatro @marcmarquez93 @ValeYellow46 l'unico insulto ?? quello di Marquez allo sport #iorestoconVale #grazieVale 
-negativeVero
+negative
 
 USER: AtzoriFabryatz
 DATE: 2015-11-09
 Pedrosa avanza ma Marquez non sorpassa #LaDS 
-negativeVero
+negative
 
 USER: ValBazz
 DATE: 2015-11-08
 RT @disquisizione: #Marquez: "perche' non ho superato #Lorenzo? Ha un bel sedere".  #motogp #MotoGPValencia #iostoconrossi #lsd  
-negativeVero
+negative
 
 USER: Rasticanz
 DATE: 2015-11-08
 #Marquez #bimbominkia  #Lorenzo un freddo calcolatore #iostoconVale  
-negativeVero
+negative
 
 USER: Damianodipalma
 DATE: 2015-11-08
 "Ciao mi chiamo Marc Marquez e mi sono fatto inculare senza vasellina da Jorge Lorenzo"  #Marquezmerda #iostoconVale  
-negativeVero
+negative
 
 USER: francescoki
 DATE: 2015-11-09
 questa ?? fantastica #MotoGP #Marquez #Lorenzo #iostoconVale #MarquezFaiSchifo  
-negativeVero
+negative
 
 USER: Jhugodesign
 DATE: 2015-11-09
 Guido Meda contro Marquez: ???Il Dottore ti fa la puntura, bimbominkia!???  #marquezbimbominchia 
-negativeVero
+negative
 
 USER: Friedrich_90
 DATE: 2015-11-08
 Guarda il Video - Rossi: "Marquez penoso negli ultimi giri"  #VideoSkysport #iostoconVale #ForzaVale #idolo #legend46 
-negativeVero
-
-
-
+negative
