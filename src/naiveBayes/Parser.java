@@ -19,7 +19,7 @@ public class Parser {
 	
 	//Eliminare lo spazio dopo RT a mano...
 	public static void trainingForClassifier(File file) throws Exception {
-		PrintWriter outFile = new PrintWriter("NaiveBayes/trainingReady.txt");
+		PrintWriter outFile = new PrintWriter("NaiveBayesMarquez/trainingReadyENG.txt");
 		FileForExcel ff = new FileForExcel();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -46,7 +46,7 @@ public class Parser {
 	}
 	
 	public static void testingForClassifier(File file) throws Exception {
-		PrintWriter outFile = new PrintWriter("NaiveBayes/testingPastReady.txt");
+		PrintWriter outFile = new PrintWriter("NaiveBayesMarquez/testingPastReadyENG.txt");
 		FileForExcel ff = new FileForExcel();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -69,7 +69,7 @@ public class Parser {
 		outFile.close();
 	}
 	
-	public static void testingPastYearMonthForClassifier(File file) throws Exception {
+	/*public static void testingPastYearMonthForClassifier(File file) throws Exception {
 		PrintWriter outFile = new PrintWriter("NaiveBayes/testingPastDate.txt");
 		FileForExcel ff = new FileForExcel();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
@@ -99,7 +99,7 @@ public class Parser {
 		}
 		reader.close();
 		outFile.close();
-	}
+	}*/
 	
 	public static String deleteURL(String stringa) {
 		if (stringa.contains("http")) {
@@ -124,8 +124,8 @@ public class Parser {
 	}
 	
 	public static void cleanFile() throws Exception {
-		PrintWriter outFile = new PrintWriter("NaiveBayes/testingPastPulito.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("NaiveBayes/testingPast.txt"));
+		PrintWriter outFile = new PrintWriter("DatiMarquez/pastEngClean.txt");
+		BufferedReader reader = new BufferedReader(new FileReader("DatiMarquez/pastEng.txt"));
 		String line = reader.readLine();
 		int cont = 0;
 		while (line != null) {
@@ -155,13 +155,13 @@ public class Parser {
 	
 	
 	public static void main(String[] args) throws Exception {
-		cleanFile(); //prima pulizia da url e a capo
-		//File filetraining = new File("NaiveBayes/training.txt");
-		File filetesting = new File("NaiveBayes/testingPastPulito.txt");
-		//File filetesting = new File("appoggio/AltraProva.txt");
-		//trainingForClassifier(filetraining);
-		//testingForClassifier(filetesting);
-		testingPastYearMonthForClassifier(filetesting);
+		//cleanFile(); //prima pulizia da url e a capo
+		File filetraining = new File("DatiMarquez/trainingeng.txt");
+		//File filetesting = new File("DatiMarquez/tweetMarquezengClean.txt");
+		File filetesting = new File("DatiMarquez/pastEngClean.txt");
+		trainingForClassifier(filetraining);
+		testingForClassifier(filetesting);
+		//testingPastYearMonthForClassifier(filetesting);
 	}
 
 }

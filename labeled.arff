@@ -1,0 +1,698 @@
+@relation testing
+
+@attribute User string
+@attribute Text string
+@attribute Sentiment {positive,negative,neutral}
+
+@data
+sbaffato,'RT @marioadinolfi Notte agitata Roma Marino verso dimissioni Commissario vota primavera ',negative
+maumau6666,'Crozza vergogni davvero Ormai fa ridere Marino Renzi risultato patetico  identico ',positive
+MPenikas,'RT @marcellodevito Incredibile Marino ha detto restituisce soldi Ha mangiato insaputa ',negative
+marino29b,'RT @collecolluso Tassone (PD)ARRESTATOha portato Marino47933 voti #Marinodimettiti #la ',negative
+TAL77SVAD,'RT @FraLisci75 diamine deve fare politico dimettersi Italia#Marino situazione  diventata patetica aspetti  ',negative
+TAL77SVAD,'RT @demmy747 certezze Marinoabbandonato #PD traballano sussurro dimissioni diffonde ',negative
+PGiancontier,'RT @virginiaraggi @ignaziomarino regala 20mila cittRoma compra @M5SRoma @marcellodevito @danielefron ',negative
+infoitinterno,'Campidoglio polveriera spese pazze sindaco Marino Restituisco soldi vado avanti Procura indaga ',negative
+poke_dem,'Marino indagato spese lui Restituisco 20mila euro citt ',negative
+GambiniStefano,'Marino vieni autobus romani vogliono parlarti  MARINO GUARDA RIDE ',negative
+tanalibera,'RT @MisterDonnie13 insomma #Marino avrebbe usato soldi pubblici portare cena parenti invece sistemarli allAtac ',negative
+PGiancontier,'RT @GhitaIacono @marcellodevito Voglio dirlo orgoglio  stato #M5S stanare #Marino #Marinodimettiti @beppegrillo ',negative
+cavgabgab,'RT @antoniobordin fanno dimettere #Marino solo perch #PD Coop devono papparsi appalti #Giubileo #Marinodimettiti ht ',negative
+tito_m5s,'RT @BarillariM5S Marino ha mentito romaniNon schioda perche vincerebbero grillini E vero Dimostreremo amministra un ',negative
+attuale,'FARSA UOMO RIDICOLO  MARINO PAGHER TASCA 20 MILA EURO SPESI CARTA CREDITO COMUNE ',negative
+RafLindia,'#marino ha vergogna @Storace @ameluzzi @MPenikas @gasparripdl @bastaCasta @beppegrillo @fattoquotidiano ',negative
+slavina6,'RT @antoniobordin #Marino nega caccia soldi qualcuno negasse furto trovassero refurtiva #Marinodimettiti ',negative
+GhitaIacono,'RT @antoniobordin fanno dimettere #Marino solo perch #PD Coop devono papparsi appalti #Giubileo #Marinodimettiti ht ',negative
+marino29b,'RT @M5SCamera @virginiaraggi presentato accesso atti verificare introiti incontri Marinomecenati #Marinodimettiti ',negative
+slavina6,'RT @selezione5stell Alessandro Battista  Se Marino mente pu farlo Mafia  ',negative
+angelo7milano,'RT @LuciaBorgonzoni @italygenocide situazione fosse drammatica Marino farebbe ridere gente uccide crisi b ',negative
+elisabettamass3,'RT @tosovale ristorante #Marino  mangiato pure dignit dimettersi ',negative
+slavina6,'RT @marcellodevito Incredibile Marino ha detto restituisce soldi Ha mangiato insaputa ',negative
+selezione5stell,'Alessandro Battista  Se Marino mente pu farlo Mafia  ',negative
+pztretes,'Marino dopo aver mangiato restituisce tutto ',negative
+GambiniStefano,'Conferenza stampa M5S MARINO CREDEVA FARLA FRANCA CREDEVA BENE PD DIFENDERA INTERESSE ',negative
+elisabettamass3,'RT @Piovegovernolad Marino piagnucola annuncia Pagher tasca mia (Certo si prima   ',negative
+GhitaIacono,'RT @marcellodevito Incredibile Marino ha detto restituisce soldi Ha mangiato insaputa ',negative
+ohmabasta,'RT @MadiaElenaBosch Ho parlato moglie #Marino ha detto conosce ogni caso lha invitato lei #Marinodimettiti ',negative
+MisterDonnie13,'insomma #Marino avrebbe usato soldi pubblici portare cena parenti invece sistemarli allAtac ',negative
+sbaffato,'RT @BarillariM5S Marino ha mentito romaniNon schioda perche vincerebbero grillini E vero Dimostreremo amministra un ',negative
+borriroberto,'RT @GhitaIacono Smentita Comunit #SantEgidio dichiarazioni Marino @M5SRoma #Marinodimettiti ',negative
+daniloraineri,'RT @antoniobordin #Marino nega caccia soldi qualcuno negasse furto trovassero refurtiva #Marinodimettiti ',negative
+To_Arise,'RT @BarillariM5S Marino ha mentito romaniproprio ZingarettiNon schiodano poltrona paura possano ',negative
+GhitaIacono,'RT @antoniobordin #Marino nega caccia soldi qualcuno negasse furto trovassero refurtiva #Marinodimettiti ',negative
+aleimpa,'RT @CarloDelNero ha detto ristoratore Marino  stato cena 15 anni fa  andato 3 volte toilette ',negative
+CarloAlterego,'RT @GhitaIacono Smentita Comunit #SantEgidio dichiarazioni Marino @M5SRoma #Marinodimettiti ',negative
+MimodiCreta,'RT @borghiclaudio deriva pauperista far credere siamo crisi aragoste marino (peraltro scandalose) sar nostr ',negative
+EnrichettaNegri,'RT @BarillariM5S Marino ha mentito romaniproprio ZingarettiNon schiodano poltrona paura possano ',negative
+To_Arise,'RT @EmilianoLiuzzi #Marino giorno dimetter sar grazie ristoratori romani dice lunga stato comatoso partiti ',negative
+VuonoGiuseppe,'Quando Marino fu cacciato Pittsburgh falsi rimborsi ',negative
+Corrado_info,'RT @carlaruocco1 CONFERENZA STAMPA M5S CHIEDERE DIMISSIONI MARINO DOPO LENNESIMO SPRECO SOLDI PUBBLICI Dopo ',negative
+cipriani90,'RT @gmartinelli1985  autocondonato spese pazzesco #Marinodimettiti #Marino ',negative
+slavina6,'RT @GhitaIacono Smentita Comunit #SantEgidio dichiarazioni Marino @M5SRoma #Marinodimettiti ',negative
+cipriani90,'RT @ZucconiPark Ecco bravo Marino Paga conto vai casa #Marinodimettiti ',negative
+borriroberto,'RT @demmy747 certezze Marinoabbandonato #PD traballano sussurro dimissioni diffonde ',negative
+cipriani90,'RT @FabriFernet #marino pezzente canta pure #bellaciao #marinoDIMETTITI ',negative
+cipriani90,'RT @antoniobordin fanno dimettere #Marino solo perch #PD Coop devono papparsi appalti #Giubileo #Marinodimettiti ht ',negative
+giuliocampese,'RT @RegoliClaudia Municipio Roma III buca strada gomma spaccata GRAZIE MARINO  ',negative
+LeonePortoghese,'Marino indagato spese lui Restituisco 20mila euro citt Un&#39ammissione colpa desi ',negative
+Exy_xy,'RT @tosovale ristorante #Marino  mangiato pure dignit dimettersi ',negative
+Blandamura,'Marino indagato spese lui Restituisco 20mila euro citt Un&#39ammissione colpa desi ',negative
+cipriani90,'RT @kappaespada Marino ha pagato colazione reduce Auschwitz carta credito Comune 8 euro #Marinodimettiti ',negative
+augustosantori,'Romani credono LAustralia essere vergognoso sia pi vicina 20000 euro vuole regalare ',negative
+GhitaIacono,'RT @titom5s domanda sorge spontanea passi notti hotel regali fiori mangi ristorante spese nostre ',negative
+GhitaIacono,'RT @BarillariM5S Marino ha mentito romaniproprio ZingarettiNon schiodano poltrona paura possano ',negative
+cipriani90,'RT @Penelopy2000 #Marino barava professore Recidivo #Marinodimettiti ',negative
+GhitaIacono,'RT @BarillariM5S Marino ha mentito romaniNon schioda perche vincerebbero grillini E vero Dimostreremo amministra un ',negative
+MassimoFasciolo,'RT @BarillariM5S Marino ha mentito romaniproprio ZingarettiNon schiodano poltrona paura possano ',negative
+cipriani90,'RT @MadiaElenaBosch Ho parlato moglie #Marino ha detto conosce ogni caso lha invitato lei #Marinodimet ',negative
+RegoliClaudia,'Municipio Roma III buca strada gomma spaccata GRAZIE MARINO  ',negative
+cipriani90,'RT @massimoIazzari Paolo Mieli chiede dimissioni #Marino #lagabbia #la7 #marinodimettiti ',negative
+cipriani90,'RT @emanuelemoraldi #lagabbia dimostra #Marino ha scaricato cena dirigenti Comunit S Egidio smentite stessi #Mar ',negative
+To_Arise,'@romafaschifo @LaGabbiaTw  onesto ora Marino difendi pi Sentiamo ',negative
+giorgiogaias92,'HA STUFATO PD ',negative
+gfaccolla,'#Marino  quei bambini hanno amici immaginari solo sinventa cene ',negative
+ChiaraColosimo,'RT @mauroev Marino dimetta coloro sono stati sindaci #Roma presidenti regione Lazio restituiscano spese ra ',negative
+marytaxi65,'RT @aledibattista restituzioni #Marino sanno tanto patteggiamento  Renzi dovrebbe pagare danno immagine Roma ',negative
+DilotKale,'RT @GhitaIacono @marcellodevito Voglio dirlo orgoglio  stato #M5S stanare #Marino #Marinodimettiti @beppegrillo ',negative
+MPenikas,'RT @demmy747 certezze Marinoabbandonato #PD traballano sussurro dimissioni diffonde ',negative
+tilt61,'RT @tosovale ristorante #Marino  mangiato pure dignit dimettersi ',negative
+newsfeed_it,'Ignazio Marino ha stufato Pd Fonti dem passo dimissioni poi colpo dala ',negative
+tosovale,'ristorante #Marino  mangiato pure dignit dimettersi ',negative
+lorellacorelli,'RT @VittorioSgarbi @VittorioSgarbi Marino  Paperino  cattivo gliene viene bene unaRenzi invece  Topolino c ',negative
+lorellacorelli,'RT @BelpietroTweet Marino rinuncia carta credito Comune vede cera rimasto soldo ',negative
+cipriani90,'RT @massimogreco10 #Marino  quel compagno classe pi parlava pi combinava guai #Marinodimettiti ',negative
+nonovvio,'RT @amperrino Marino sussurro dimissioni Il sindaco ormai  sotto choc  Affaritalianiit ',negative
+mauroev,'Marino dimetta coloro sono stati sindaci #Roma presidenti regione Lazio restituiscano spese rappresentanza ',negative
+AmerioRosanna,'Marino mente sapendo spudoratamente mentire sciocco bugiardo importa giova lasciarlo carica ',negative
+To_Arise,'@SabellaAlfonso @museiincomune @Roma @Turismoromaweb @ignaziomarino @visitlazio  onesto ora Marino  credibile ',negative
+cipriani90,'RT @EnricoPazzi genovese offriva tasca propriasembrava strano Infatti pagava soldi romani #Marino #Marinodimettiti ',negative
+nonovvio,'RT @italiainsieme #ScontrinoGate ora liberiamo Roma #Marino ',negative
+AchilleNobiloni,'Detto fra #Marino pu risparmiare 20000  tanto cacciano stesso via @HuffPostItalia ',negative
+Nad45P,'Cari Compagni Compagne qui qui perch altri termini sfuggono sono offensivi ha ',negative
+agabbia,'RT @Piovegovernolad Marino piagnucola annuncia Pagher tasca mia (Certo si prima   ',negative
+il__filosofo,'RT @emiddionovi #Cota governatore Piemonte processato cacciato mutanda verde Marino rimane ladruncolo moralista ',negative
+agabbia,'RT @Piovegovernolad Marino pronto dimettersi secondo fonti staff Campidoglio (Dimissioni   h ',negative
+gaetano_rizza,'RT @carlaruocco1 CONFERENZA STAMPA M5S CHIEDERE DIMISSIONI MARINO DOPO LENNESIMO SPRECO SOLDI PUBBLICI Dopo ',negative
+barkilphedro_,'Spese Ignazio Marino Lombardi Battista (M5S) Ha mentito deve dimettere ',negative
+cipriani90,'RT @Alfredo22542194 Marino te cercano casamonacaavranno qualche incarico datte #Marinodimettiti ',negative
+giorgiogaias92,'RT @lucarocca72 #Pd lha ancora capito ormai essere imbarazzante Roma  pi solo #Marino soglia lha  ',negative
+cipriani90,'RT @FraLisci75 diamine deve fare politico dimettersi Italia#Marino situazione  diventata patetica aspetti  ',negative
+gigidepalo,'#Marino Regalo citt quei 20mila  spesi rappresentanza Fermatelo Consigliatelo #testaiaffammaledasolo ',negative
+vecchiotac,'Ho letto Marino pagher spese fatte carta credito Comune sto commuovermi ',negative
+cipriani90,'RT @paceinterrait Ora #Marino fa gesto signore Rinuncia bancomat Comune rimborsa spese Troppo facile cos dimett ',negative
+CarloDelNero,'ha detto ristoratore Marino  stato cena 15 anni fa  andato 3 volte toilette ',negative
+eurovisionvideo,'Eurovision 2015 San Marino Anita Simoncini & Michele Perniola Chain Of Lights Video ',negative
+EnrichettaNegri,'RT @FraLisci75 diamine deve fare politico dimettersi Italia#Marino situazione  diventata patetica aspetti  ',negative
+FraLisci75,'diamine deve fare politico dimettersi Italia#Marino situazione  diventata patetica aspetti #Marinodimettiti ',negative
+lgtricoli,'RT @graziellafiore figure imbarazzanti #Marino livello mondiale sono peggiori scioglimento Comune Mafia #lineanott ',negative
+flinx15,'RT @suzukimaruti Ho scritto post caso Marino cercando mettere ordine pensieri  venuto fuori elenco puntato ',negative
+emanuelmaddalen,'RT @ANNAQuercia Carlo Verdone Marino ha fallito diamo fiducia 5 Stelle  Termometro Politico ',negative
+MonicaFortino,'Cosa c dietro linciaggio mediatico demolizione Ignazio Marino  verit ',negative
+angelorgiordano,'Paolo Verri Sindaco Roma Alemanno Matera 2019 contentiS vabb sgombra macerie #Marino giubileoI Casamonica ',negative
+s_fusco,'RT @virginiaraggi ultimi atti Marino prima dimissioni sono stati molto confusionari Ancora sappiamo sua ',negative
+HSIXTYNINE,'@orfini Sei senza vergogna cialtrone FirenzeMarino fottuto incapacitFate schifo Siete falsi pieni indagati ',negative
+PPicerni,'RT @collecolluso #DiBattista #M5S  Ora PD ha unico obiettivoSMARCARSI #MARINO # ',negative
+PPicerni,'RT @collecolluso #DiBattista #M5S  CAPIRE MEGLIO QUESTIONE #MARINO #BERSAGLIOMOBI ',negative
+marino29b,'RT @Rinaldieuro Ho limpressione dopo dimissioni #Marino prossimi giorni Roma uscir fuori tanta merda seppe ',negative
+cipriani90,'RT @valys mentre distraggono #Marino #Senato prosegue smantellamento #FermateLoScempiodellaCostituzione ',negative
+albamontori,'HA PAURA IGNAZIO MARINO ECCO VERE RAGIONI LINCIAGGIO (SENZA PRECEDENTI)  FACE ',negative
+zizionice,'RT @DavideRicci1973 vendetta #Marino Far nomi tiro gi tutti Ignazio stai calmo ora #PD dar altra poltrona cam ',negative
+LUCADIMEO93,'cera Kill Silvio posto Marino cene faceva ruby insieme bungabunga era ok ',negative
+ebergonzaga,'Marino Pur cacciarmi avrebbero messo cocaina tasca via @lastampa ',negative
+PPicerni,'RT @Rinaldieuro Ho limpressione dopo dimissioni #Marino prossimi giorni Roma uscir fuori tanta merda seppe ',negative
+portoghesi,'RT @jacopoiacoboni Bersani Letta Marino C (sola) cosa comune denigrazione massiccia pianificata ha sempre preceduto le ',negative
+_rjardon,'RT @TrastevereRM 36 ore allarme meteo x Tevere Aniene e stavolta Marino centra nulla quel  giusto  giusto ',negative
+pempipot,'Verso paese stupidi Amen ',negative
+comodino80,'Photo Comunque me  MARINO SINDACO ',negative
+luigidiplacido,'Ottima analisi ',negative
+ndiiorio1,'RT @lumorisi UNO #disastroRoma #disastroPD #Marino #Romaliberata #SalviniLeader #piazzapulita #quintacolonna #virusrai2 ',negative
+SpecialeLuca,'RT @1starrynight #Marino  stato peggior sindaco Roma Almeno secondo camioncini abusivi dipendenti Atac vigili urbani  ',negative
+Hellzapoppin80,'RT @BaldiniEnrica @CRCalcagno @Hellzapoppin80 @chiarameazza Prepariamoci Marino Roma 2016 tipo Civati Genova ',negative
+masgreek,'RT @GiorgiaMeloni  finito lincubo #Marino Caso #Roma ultimo lunga serie fallimenti amministrazioni guidate sx ',negative
+masgreek,'RT @GiorgiaMeloni #Marino vergogna infinita #PD prolunghi agonia firmi insieme consiglieri dimissioni immediate ST ',negative
+cymaryella,'RT @valys mentre distraggono #Marino #Senato prosegue smantellamento #FermateLoScempiodellaCostituzione ',negative
+VirusRai2,'@erikaleciancio commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+fran_orsini,'@bon1z @66pallina sembra lepitaffio #marino ',negative
+VirusRai2,'@carlogozzober commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+Bigalfry,'Roboanti discorsi sulletica piccoli imbrogli Ecco Marino ',negative
+Gloriamonaco,'manco lironia Crozza Marino chi domanda campagna primarie chi ',negative
+valy_s,'mentre distraggono #Marino #Senato prosegue smantellamento #FermateLoScempiodellaCostituzione ',negative
+eguanella,'RT @MadameSwann caso Marino applica perfettamente logica Cigno Nero sappiamo  molto pi importante ch ',negative
+anitamarialaila,'Roma inizia dopoMarino Lui Sto bene vado celebrare matrimonio Salvini lancia ',negative
+vanillamarcodi1,'RT @lastampa Renzi rompe silenzio Bene dimissioni Marino cerano alternative ',negative
+SchirruLaura,'RT @suzukimaruti Ho scritto post caso Marino cercando mettere ordine pensieri  venuto fuori elenco puntato ',negative
+cherubinapazza,'Guida politica Ignazio Marino ingenui beoti ',negative
+FBaraggi,'pure er pupone magna Roma tacci @beppegrillo ',negative
+Lucio_Apuleio,'RT @lucasappino S Orfini disse Cacciare #Marino  linea Mafia ricordarlo pu esser utile @espresso ',negative
+pandistelle,'RT @frafuma sindaco Parigi @AnneHidalgo Perfino Francia hanno chiara situazioneAltro scontrini#Marino #Roma ',negative
+kickmyballs222,'RT @carlotaormina Marino e ladro deve andare calciSe Renzi ha fatto stessa cosaProcura Roma indagaProcura Firenze igno ',negative
+campuseverest,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+Sostenitori1,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+tictactappi,'RT @ilfoglioit #marinosiedimesso ora Niente paura #Grillo vince @masechi ',negative
+ultimenews,'Roma via dopoMarino Salvini lancia Meloni  ',negative
+cipriani90,'@foxrino Restituisci maschera #Marino ',negative
+virginiaraggi,'ultimi atti Marino prima dimissioni sono stati molto confusionari Ancora sappiamo sua ',negative
+mafaldina61,'RT @lucasappino S Orfini disse Cacciare #Marino  linea Mafia ricordarlo pu esser utile @espresso ',negative
+socialcom15,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+LFerlaino,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+italiadigital,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+socialcom15,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+mikytavolo13,'RT @flower @maurorizzimr @mikytavolo13 credo MOLTISSIMI volessero dimissioni #Marino  dimesso pressioni  ',negative
+NoImuAgricola,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma  ROMA  sindaco Ignazio Marino finisce pe ',negative
+MoreschiLeila,'Marino incassa sostegno sindaci Parigi New York Hidalgo ha osato sfidare mafia ',negative
+masgreek,'RT @marcomarsilio sono pi parole Marino ha ancora formalizzato dimissioni ieri (gioved) ha ',negative
+flower___,'RT @DavideRicci1973 vendetta #Marino Far nomi tiro gi tutti Ignazio stai calmo ora #PD dar altra poltrona cam ',negative
+lucabruno18,'@GoghiBostoro @kidstu @giulianocossari @ignaziomarino salutm soretsenti ho invitato marino cena  dici  ricorder  ',negative
+mafiacapitale,'@MafiaCapitale MARINO SMENTISCE TUTTI  VEDO FRASI INESISTENTI MAIL WALTER VELTRONI ',negative
+flower___,'@maurorizzimr @mikytavolo13 credo MOLTISSIMI volessero dimissioni #Marino  dimesso pressioni partito ',negative
+LucianoOgnibene,'RT @CINZIA1172 GASPARRI Marino ha mentito ha tutti minuto silenzio morte lingua italianaChe tristezza  D ',negative
+Monialustri,'RT @lucasappino S Orfini disse Cacciare #Marino  linea Mafia ricordarlo pu esser utile @espresso ',negative
+Pretore75,'RT @GAlessandrino Sale Marino Marte Oh pur stare Roma andrebbe ovunque ',negative
+Ericballabene,'Ho limpressione quest accanimento confronti #Marino sia diversivo nascondere problemi #Roma dellItalia ',negative
+FulvieT,'RT @Pinucciosono Destinazione Svezia parte Ciampino primo gruppo rifugiati realt erano 20 poi hanno scoperto Marino mezzo ',negative
+enzocarnazza,'Inciucio MeloniRenzi5s far fuori Marino ',negative
+AntonioDecorato,'Marino Golinelli La fede laica restituire fortuna ho ricevuto via @lastampa ',negative
+BlogNews_it,'sindaco New York Bill De Blasio difende Ignazio Marino  leader ha ispirato ',negative
+flower___,'RT @maurorizzimr Segnalo affetto far dimettere #Marino  stato Pd ',negative
+FBaraggi,'Tirando somme #verdini  mostro #compagnodimerende #deluca #amicofraterno  allora #mostrodilochness era #marino ',negative
+pas_alb,'Marino ha diritto 20gg xche aspettare 7 mesi elezioni 27 giorni ',negative
+tranellio,'RT @carlotaormina Marino e ladro deve andare calciSe Renzi ha fatto stessa cosaProcura Roma indagaProcura Firenze igno ',negative
+MacondoZuma,'RT @EmilianoContino Abbiamo scoperto ha preso cocaina mettere tasche #marino #sabella #sclerototale #BERSAGLIOMOBILE ',negative
+To_Arise,'RT @ElioLannutti #Dimissioni #MarinoOsservatore Romano Unica certezza #macerie Buche voragini disservizi #dilettantismo puro htt ',negative
+masgreek,'RT @diRomapuntocom #Campidoglio #Roma rimpianger #Marino Ogni punto ha portato #dimissioni  ',negative
+cipriani90,'RT @maurorizzimr Segnalo affetto far dimettere #Marino  stato Pd ',negative
+cipriani90,'RT @EmilianoContino Abbiamo scoperto ha preso cocaina mettere tasche #marino #sabella #sclerototale #BERSAGLIOMOBILE ',negative
+mafaldina61,'RT @EmilianoContino Abbiamo scoperto ha preso cocaina mettere tasche #marino #sabella #sclerototale #BERSAGLIOMOBILE ',negative
+cipriani90,'RT @DavideRicci1973 vendetta #Marino Far nomi tiro gi tutti Ignazio stai calmo ora #PD dar altra poltrona cam ',negative
+Bale6beil,'RT @spinozait Marino  dimesso Ora metro sembra nuova[@pirata21] ',negative
+mie_idee,'sindaco New York Bill De Blasio difende Ignazio Marino  leader ha ispirato ',negative
+mikytavolo13,'RT @DavideRicci1973 vendetta #Marino Far nomi tiro gi tutti Ignazio stai calmo ora #PD dar altra poltrona cam ',negative
+Scintillanza,'RT @GAlessandrino Sale Marino Marte Oh pur stare Roma andrebbe ovunque ',negative
+Arsenio_,'RT @yanez72 Salvate soldato Marino #fb ',negative
+lucabruno18,'@AnneHidalgo @ignaziomarino signora marino vuole fare po pulizia nn tenga nomi partito complice mafia ',negative
+1001ptsIT,'VIDEO YouTube CrozzaMarino Ora posso visitare Roma ',negative
+kickmyballs222,'RT @EmilianoContino Abbiamo scoperto ha preso cocaina mettere tasche #marino #sabella #sclerototale #BERSAGLIOMOBILE ',negative
+GiorgioVaccaro,'RT @isolahokkaido @LUDOVICOTODINI infatti  mossa ',negative
+mikytavolo13,'RT @maurorizzimr Segnalo affetto far dimettere #Marino  stato Pd ',negative
+MatteoCorreani,'RT @pokedem VIDEO YouTube CrozzaMarino Ora posso visitare Roma ',negative
+GiorgioVaccaro,'RT @LUDOVICOTODINI Marino cade scontrino Renzi fa dimettere #Renzi va sciare famiglia seguito aereo Stato  ',negative
+To_Arise,'RT @stomigrando meno quarto dora giornalista ha confezionato servizio marino Bersaglio Mobile iscriver al ',negative
+GiorgioVaccaro,'RT @BeatricedimaDi #Marino   ieri mangio ci presume abbia gi restituito carta credito Comune #Marino ',negative
+GiorgioVaccaro,'RT @BeatricedimaDi #Marino Far nomi tiro gi tutti Ultima scoperta scientifica amnesie dimissioni fanno tornare memo ',negative
+GiorgioVaccaro,'RT @BeatricedimaDi #Marino minaccia tirare fuori sms appunti mail Quindi chiedeva cera faceva risposta g ',negative
+xanil01,'Lettera dellarcivescovo Marino aspettiamo Philadelphia ',negative
+kidstu,'RT @EmilianoContino Abbiamo scoperto ha preso cocaina mettere tasche #marino #sabella #sclerototale #BERSAGLIOMOBILE ',negative
+GiorgioVaccaro,'RT @BeatricedimaDi #Marino firma assegno 1970400  restituzione spese Ora attendiamo ansia compagno Renzi ',negative
+FrancescoFusc81,'RT @VirusRai2 @FrancescoFusc81 commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+mariamuser,'Attenzione RomaniMarino minaccia ripensarci 20 giorni ',negative
+LuzPagoda,'Hanno parlato bene consiglieri #M5s ieri #inmezzora #Marino ha rotto passato  stato rotto lui #Pd  marcio ',negative
+zazoomblog,'#Renzi  rotto rapporto Marino citt #Renzi #Si # #rotto #il #rapporto  ',negative
+AntonioSpadafo4,'RT @PiramideRossa ignoti #scontrinologi #M5S cacciano Marino senza nessuna prova doverano quando cera Alemanno #inmezz ',negative
+nandupopusss,'Vaticano Renzi fanno fuori Marino  perch sar Giubileo Papa Francesco  solo lennesimo potente servizio potenti ',negative
+TripAZnet,'Renzi Si  rotto rapporto Marino citt Matteo Renzi ripensa ',negative
+Cover_forever,'tema #Marino sono pi illuminanti parole unattrice opinioni mille giornalisti ',negative
+Clouseau76,'RT @federiconero marino minaccia fare nomi prima faceva perch cambio lasciavano stare campidoglio sarebbe quel ',negative
+Choroukenzo,'RT @aledibattista #Marino  pesce piccolo partito PD pericoloso Renzi temendo M5S ha preferito portare Roma caos  ',negative
+FacchinettiSil,'RT @aledibattista #Marino  pesce piccolo partito PD pericoloso Renzi temendo M5S ha preferito portare Roma caos  ',negative
+ulde_sco,'RT @lpatrizia Coro Ncd fuori Campidoglio Marino te devi ann Basterebbe solo stare parte #MarinoResisti ',negative
+FacchinettiSil,'RT @ArsenaleKappa Calvario Roma ecco totosindaco Di Battista M5S Meloni FDI Lega Pippo Paperino PD #Marino ',negative
+ellyesse,'@Maxim1114 @YTomaselli @PossibileIt @civati @gghrrrr forse eri perso post quattro giorni fa ',negative
+Towheehillart,'RT @pentotaldoll #marino FAMIGGHIA CASA ANZI GALERA GRAZIE @beppegrillo FUTURO VOGLIO STA COMINCIANDO ',negative
+ottimistasemper,'RT @lucabattanta Incredibile tg1 riescano fare servizio errori Marino senza citare membri pd Giunta coinvolt ',negative
+nella_norma,'RT @aledibattista #Marino  pesce piccolo partito PD pericoloso Renzi temendo M5S ha preferito portare Roma caos  ',negative
+VirusRai2,'@egyzia commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@exprofcasapens commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+ifardel,'RT @ArsenaleKappa Calvario Roma ecco totosindaco Di Battista M5S Meloni FDI Lega Pippo Paperino PD #Marino ',negative
+ermejo5,'RT @PiramideRossa Parlano onest affossano lonesto Marino dicono democratici dialogano caccapound vomito @Klingsor8 ',negative
+fmamato,'Salvate soldato Marino  micromegaonline  micromega ',negative
+CrisNettuni,'RT @welikechopin Nessuna lha vista agenda #Marino tranne maestro @makkox pu perdere #makkoxtutorial #gazebo ',negative
+ottimistasemper,'RT @TommyBrain Bene mentre parla Marino Governo Cloaca regala Amici Finanzieri Poste Italiane Ferrari Ferrovie ',negative
+MPenikas,'RT @ArsenaleKappa Calvario Roma ecco totosindaco Di Battista M5S Meloni FDI Lega Pippo Paperino PD #Marino ',negative
+MPenikas,'RT @aledibattista #Marino  pesce piccolo partito PD pericoloso Renzi temendo M5S ha preferito portare Roma caos  ',negative
+GhitaIacono,'RT @ArsenaleKappa Calvario Roma ecco totosindaco Di Battista M5S Meloni FDI Lega Pippo Paperino PD #Marino ',negative
+GhitaIacono,'RT @aledibattista #Marino  pesce piccolo partito PD pericoloso Renzi temendo M5S ha preferito portare Roma caos  ',negative
+FacchinettiSil,'RT @tranellio Caso #Marino sintesi siccome altri hanno rubato molto pi Lui  ingiustizia sia costretto dimissioni ',negative
+larizza1950,'@RepubblicaTv prima Marino rapporto citt Roma lha rotto Pd ',negative
+PiramideRossa,'ignoti #scontrinologi #M5S cacciano Marino senza nessuna prova doverano quando cera Alemanno #inmezzora #Rai3 ',negative
+DonatellaRu,'RT @tranellio Caso #Marino sintesi siccome altri hanno rubato molto pi Lui  ingiustizia sia costretto dimissioni ',negative
+betman,'RT @gianlusempri Ormai citt gira solo nome #Capitano #sindaco #Roma @TottiOfficial #Marino ',negative
+CerciElena,'RT @LUDOVICOTODINI Ora ripensa TGCOM24 Roma Renzi primarie post Marino Sabella commissario Ok scelgo io ',negative
+ottimistasemper,'RT @FmMosca Fatemi capire fra dichiarazioni smentite sindaco Marino minaccia Renzi mentre Orfini minaccia Marino Aveva ragion ',negative
+miss0uri4,'RT @welikechopin Nessuna lha vista agenda #Marino tranne maestro @makkox pu perdere #makkoxtutorial #gazebo ',negative
+marytaxi65,'RT @PatriziaRametta RENZI PUOSPENDERE 600MILA PROVINCIA EURO PRANZI CHIEDERE MARINO DIMETTERSI 20MILA ',negative
+marliesvoss1,'RT @max888ant Roma ha visto passare Re Imperatori Papi Sindaci Solo Gatti restano  #Marino ',negative
+lilysei,'RT @LUDOVICOTODINI Ora ripensa TGCOM24 Roma Renzi primarie post Marino Sabella commissario Ok scelgo io ',negative
+the_newstweets,'Huffingtonpostit  Dimissioni Marino campagna elettorale coincide Giubileo entrare Campidoglio ',negative
+ottimistasemper,'RT @GiuliaDiVita fanno giustamente notare fino quando chiedevamo dimissioni Marino @orfini era linea mafia ',negative
+MassimoBordin,'RT @AntFuniciello Roma comunali 1993 Rutelli 684529 1997 Rutelli 983902 2001 Veltroni 800275 2006 Veltroni 926932 2008 Rutelli 759252 ',negative
+tyxaqek,'RT @mipiaceBarca Intervista radiofonica Radio1 @fabriziobarca caso Marino Pd romano ',negative
+ottimistasemper,'RT @Piovegovernolad Giampaolo Pansa parla Renzi Orfini Marino le Sorelle Bandiera stanno sfasciando   h ',negative
+fresia__,'RT @armandopiu #Marino abbiamo appreso sinistra ha copiato destra far funzionare macchina fango #virus ',negative
+Siroblue,'Poi dice Marino ',negative
+VocidiSINISTRA,'#sinistra  Considerazioni freddo caso Marino Caso complesso interessante Marino presta ',negative
+SalvoMely,'@VirusRai2 SOLE24ORE predecessori Marino incremento debito oltre 400mila GIORNO Marino 11milioni ',negative
+marytmar,'RT @welikechopin sposati oggi Marino hanno venti giorni ripensarci #gazebo #socialtopten ',negative
+VirusRai2,'@SanTenChan commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+poke_dem,'Marino lascia  guerra Pd Sogna correre ancora sindaco ',negative
+giangy1976,'RT @gugo76 @welikechopin mavete preso coglione No sei eroe #marino #lallenatorenelpallone ',negative
+yrizaqoS,'RT @mipiaceBarca Intervista radiofonica Radio1 @fabriziobarca caso Marino Pd romano ',negative
+laltraguanciama,'RT @GiuliaDiVita Ora Pd ha fatto dimettere Marino fa gioco mafia via @HuffPostItalia ',negative
+RTaverBella,'RT @tranellio Caso #Marino sintesi siccome altri hanno rubato molto pi Lui  ingiustizia sia costretto dimissioni ',negative
+fedquattrocchi,'RT @PatriziaRametta RENZI PUOSPENDERE 600MILA PROVINCIA EURO PRANZI CHIEDERE MARINO DIMETTERSI 20MILA ',negative
+LUDOVICOTODINI,'Ora ripensa TGCOM24 Roma Renzi primarie post Marino Sabella commissario Ok scelgo io ',negative
+simonedemi,' piaciuto video @YouTube 13 Rallylegend San Marino 2015 ShowCrash &Pure Sound ',negative
+daffy6561,'RT @lercionotizie +++ #Carminati accusa #Marino  stato cecamme n occhio +++ @ESettembrini ',negative
+rosalbacarbutti,'RT @welikechopin sposati oggi Marino hanno venti giorni ripensarci #gazebo #socialtopten ',negative
+zazoomblog,'#Renzi Rottura Marino Pd  rotto rapporto Marino citt #Renzi  ',negative
+poke_dem,'Roma luned dimissioni irrevocabili Marino ',negative
+donatellabrusch,'RT @carmentpf Difendere #Marino  impossibile maxch #Renzi caccia tt altri indagati condannati partitomagari se ',negative
+peppemongiardo,'solo #Marino  #Renzi  ristoratore fiorentino Era sempre qui fatturavo Comune  Ilfattoquotidianoit ',negative
+SalvoMely,'@VirusRai2 Linea PD Presunzione innocenza fino sentenza definitiva Marino richiesta dimissioni prima pronuncia procura ',negative
+ottimistasemper,'RT @cocchi2a Altro meriti Cos mentono fans Marino #M5S ',negative
+PierfrancoMonni,'RT @PediciniM5S perdere 4 consiglieri comunali #m5s #Roma hanno beccato #Marino mani marmellata ',negative
+armandopiu,'lannuncio ufficiale dimissioni #marino atteso elicottero lancer buoni mensa #virusrai2 ',negative
+Mary73Angel,'RT @ArsenaleKappa Dimissioni #Marino Orfini Non dica ora torna mafia Vuole fargli sorpresa [@MarcoCamillieri] ',negative
+1001ptsIT,'FOCUS ultimi venti giorni Marino via lavori Giubileo ',negative
+armandopiu,'RT @Soppressatira Fossi #Marino adesso dieci domande #Repubblica farei {@enzofilia} #virusrai2 ',negative
+lalitapetila,'RT @kalyaMail @panibbi @avvocato2punto0 #Marino dacce na mano mann #renzi quer paese #maipipd #PDelinquenti #vergogna #renziacasa # ',negative
+CiroSayan94,' piaciuto video @YouTube Sagra delluva Marino (Roma)  4 ottobre 2015 ',negative
+mafiacapitale,'@pokedem popolo Marino Resisti mafia capitale vedremo belle ',negative
+PierfrancoMonni,'RT @GiuliaDiVita fanno giustamente notare fino quando chiedevamo dimissioni Marino @orfini era linea mafia ',negative
+johnpaltan,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+barone_luciano,'bello vedere piu faccia quel pesce lesso marino ',negative
+serfrendz,'RT @ivanscalfarotto proposito Roma sono preso alcuni giorni commentare vicenda Ignazio Marino Avevo gi scritt ',negative
+figliolaraf45,'RT @gasparripdl Roma Marino incontra sostenitori mi avete fatto piangere  HA FATTO PIANGERE TUTTA ROMA INCAPACE TOTALE ',negative
+a1b2cdgdg,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+GargiuloSara,'Roma Marino abbatte Renzi Numeri impietosi Pd ',negative
+sabrinaganzenua,'RT @Kotiomkin #FlaviaVento pensa candidarsi dopo dimissioni #Marino  notizia  prime tre parole ',negative
+laltraguanciama,'RT @ultimenotizie #Marino pronto candidarsi sinistra #Pd mossa potrebbe significare sconfitta quasi certa ',negative
+ilu_iciao,'RT @welikechopin sposati oggi Marino hanno venti giorni ripensarci #gazebo #socialtopten ',negative
+renzocrosa,'RT @Kotiomkin #FlaviaVento pensa candidarsi dopo dimissioni #Marino  notizia  prime tre parole [Diletta Mezzina] ',negative
+sherlock5stelle,'RT @tranellio Caso #Marino sintesi siccome altri hanno rubato molto pi Lui  ingiustizia sia costretto dimissioni ',negative
+pinopinollo,'RT @tranellio Caso #Marino sintesi siccome altri hanno rubato molto pi Lui  ingiustizia sia costretto dimissioni ',negative
+bertrada,'par capire romani vogliono #Marino vuole #Vaticano #Renzi vuole perch vuole Vaticano ',negative
+1306lou,'RT @welikechopin sposati oggi Marino hanno venti giorni ripensarci #gazebo #socialtopten ',negative
+mauriziomauri89,'#Marino ha solo ostacolato interessi #MafiaCapitale ha osato strafarea #Chiesa #unionicivili nonostante fede ',negative
+RoStangoni,'RT @Brunoinimer strenuo moralizzatore Marino impara spese c sempre puro pi puro epura  ',negative
+jujudutra2,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+susy_ott,'RT @lddio Senti po Gramazio intenzioni channo #Marino fossero abbastanza seri dovrebbero fallo casc ',negative
+VirusRai2,'@crisquill commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@dellimellow commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@matteosalvinimi commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@leggoit commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+laltraguanciama,'RT @kalyaMail @panibbi @avvocato2punto0 #Marino dacce na mano mann #renzi quer paese #maipipd #PDelinquenti #vergogna #renziacasa # ',negative
+BuzzLogger,'ImprotaMarino addio amaro Lui va ',negative
+ClauStrin,'RT @antoniobordin #Renzi mangiava sempre qui mandavo fattura Comune Altro #Marino  @matteorenzi re abbuffini ht ',negative
+VPunzo,'@BelpietroTweet doveva andare molto tempo primaMarino sei migliore ',negative
+VirusRai2,'@PIPPOLORUSSO commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+1001ptsIT,'SONDAGGI  Marino manda picco Pd M5S primo partito capitale la ',negative
+mafiacapitale,'@luciafor @mafiacapitale @1001ptsIT guardatelo sembra @meb FACCE dangelo HAN FATTO FUORI MARINO x restare ',negative
+mcuart,'RT @romagiornale #Roma @paolovoltaggio Dopo #Marino serve reset politico amministrativo   @cduitalia ',negative
+djpolin,'14 ottobre Mercoledi VISION CLUB LatinEvolution San Marino #grancaribestaff #marcosmejia #jorgeherrera ',negative
+FulvioAch,'@VirusRai2 #marino Elezioni Vinci gratta #suppostafilosofia ',negative
+ANTIPOLLITICA,'RT @VirusRai2 @ANTIPOLLITICA commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marinomai avrei immaginato #Sindaco potessero ricordare scontrini #PedonalizzazionedeiFori ( ',negative
+lhwotton85,'RT @ArsenaleKappa Nellintervista prepartita Capitano Norvegia ha tenuto ricordare cena base salmone offerta Marin ',negative
+GiuseppeMELE,'gi Marino ora tocca sponsor Scalfarotto ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marinose #Sindaco perde fiducia citt inutile arrampichi specchi giustificarsi#Restanoscontrini ',negative
+VirusRai2,'@VESEVIU commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@passionescatto commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@officialsassano commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+jakubjz420,'Ponte Milvio allEur dimissioni Marino lasciano Roma caos via @linkiesta ',negative
+FabbriRosa,'RT @marcotravaglio #Renzi Reticente Consiglio editoriale oggi @fattoquotidiano #Marino @il ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marino predecessori hanno sempre salvato faccia perch avevano spessore acume politicoa sconosciuto( ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marino ha fatto #Sindaco dovrebbe mai farescaricare colpe propria incapacit altri ( ',negative
+romagiornale,'#Roma @paolovoltaggio Dopo #Marino serve reset politico amministrativo   @cduitalia ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marino ammesso sia stato vittima macchinazioni pollitichedi ha messo superficialit senza eguali ( ',negative
+Empedocleagrig1,'RT @ultimenotizie  vero #Marino ex sindaco #Roma era stato invitato Philadelphia lettera dellarcivescovo ',negative
+tglrsr,'RT @ultimenotizie  vero #Marino ex sindaco #Roma era stato invitato Philadelphia lettera dellarcivescovo ',negative
+LidiaBeduschi,'Crozza Marino E dottor House bastone glielhanno messo mano via @fattoquotidiano ',negative
+ANTIPOLLITICA,'@VirusRai2 #Marino hadimostrato profonda incapacit gestire problematiche sono presentate davanti#Dimissioninevitabili ',negative
+MariannaOldani,'RT @defilippim RT vuoi sindaco Roma posto Marino ',negative
+FabiaSW,'@VirusRai2 lunica cosa chiara sembra essere c nulla chiaro #marino ',negative
+NotizieVirali,'#Perch  dimesso #Marino cosa succede ora #Roma #OTRABirmingham3 ',negative
+valtaro,'#La scheda Vicsia Portel rimborsi spese Marino #DiMarted CondividiClicca inviare  ',negative
+AnitaTemperini,'RT @VauroSenesi #Roma #Vaticano Serve scossa #Buongiorno cari ecco vignetta oggi #inedicola @FattoQuotidiano #Marino ',negative
+markgrika,'@VirusRai2 #Marino bambino mette regole perch pallone  suoviene lasciato solo sempre@lOmbradiDAlema c comunque ',negative
+discordoconme,'@FuoriTesta1 @DanielaPF75 @ilConte78 >liberissimo farlo eh Per guarda po Renzi so contesta presenzialismo Marino le> ',negative
+lucia_for,'@mafiacapitale @1001ptsIT guardatelo sembra @meb FACCE dangelo HAN FATTO FUORI MARINO x restare mAFIA CAPITALE schifo ',negative
+markgrika,'RT @VirusRai2 @markgrika commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+dxmariella,'RT @anziato Ah ecco  colpa @AlemannoTW pareva nessuno dicesse stasera Rutelli No Veltroni No Marino No Alemann ',negative
+AndreaAndregard,'RT @celoren45 MARINO  DIMESSOTORNIAMO OCCUPARCI ROMA  ',negative
+carmentpf,'@RaiPortaaPorta Parlano #Mantovanisenza provecos parla pi provate false spese #Marino #pd ha sciolto cani ',negative
+BarbaraRaval,'@VirusRai2 #Marino  Troppo autoreferenziale ingenuamente ambizioso stare allaltezza nuovo partito affari #pd ',negative
+ary_seddo,'@GiorgiaMeloni finito incubo marino Ora c tuo dille nulla tu Ahahahahahah ',negative
+VirusRai2,'@MvOttaviani commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+VirusRai2,'@markgrika commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+carmentpf,'#PortaaPorta finch saranno elezioni #pd ricostituisce x Roma Aliaspassa tempovi scordare #Marino rifottiamo ',negative
+Edoardocignoli,'verit centrale san marino Edoardo Cignoli ',negative
+emanuelmaddalen,'RT @tranellio S dopo tredici anni confermiamo dottor Marino aveva creato doppia contabilit spese trasferta ',negative
+NowinItaly,'RT anziato Ah ecco  colpa AlemannoTW pareva nessuno dicesse stasera Rutelli No Veltroni No Marino No Alemanno  ',negative
+pameladiverona,'@BlobRai3 Virus commenta dimissioni #marino tweet sar letto diretta Quarto potere Porro sa pi Renzi ',negative
+AlemannoTW,'RT @anziato Ah ecco  colpa @AlemannoTW pareva nessuno dicesse stasera Rutelli No Veltroni No Marino No Alemann ',negative
+superjuly91,'RT @SkyTG24 futuro #Marino dopo polemiche spese fatte carta credito Comune Ora #TG24Pomeriggio ',negative
+gcosentino_84,'finalmente Causi ricorda #Marino intanto era Sindaco eletto @Tg3web ',negative
+stefa186,'RT @enricozanetti Enrico Zanetti Porta Porta Marino era rischio reputazionale s stesso altri ',negative
+FIgiovaniCs,'RT @williamsverta @VirusRai2 Politici cm #Marino #Renzi stanno portando lItalia deriva dobbiamo invertire rotta naz ',negative
+williamsverta,'@VirusRai2 Politici cm #Marino #Renzi stanno portando lItalia deriva dobbiamo invertire rotta nazione deve ripartire ',negative
+MarinoBruschini,'Retweeted Momenti Zen (@MomentiZen) Luomo pi ricco  accontenta poco perch contentezza ',negative
+carmencasablanc,'#lineanotte PDnon Marino principale artefice disastro Romae voglio difendere MarinofessacchiottoI delinquenti sono piddin ',negative
+VirusRai2,'@moderatto commenta dimissioni #marino tweet sar letto diretta visibile qui ',negative
+RomanOsservator,'RT @DAGOSPIA RENZI GUAI CENE FAMIGLIA FINTA SMENTITA RISTORATORE ACCUSA ',negative
+florianademiche,'RIVINCITA MARINO FIRMANO 40 MILA  BOOM CONSENSI SOCIAL (E PIAZZA) ',negative
+AndreaLigios,'RT @PamelaFerrara Primo devastante effetto dimissioni Marino riesumazione Rutelli #dimartedi ',negative
+SalvoMely,'@RaiPortaaPorta Marino debito Roma scende Basta balla sapeva amministrare ',negative
+RomanOsservator,'RT @DAGOSPIA CADUTA MARINO VISTA SPINOZACADUTO BOTTIGLIA VINO HA DETTO PRONTO SOCCORSO ',negative
+Marco_Tuveri,'RT @marcotravaglio #Renzi Reticente Consiglio editoriale oggi @fattoquotidiano #Marino @il ',negative
+shopenauerwho,'RT @GiovanniToti #Pd ha tenuto Marino fino ultimo giorno utile Oggi fanno finta essere stati mandarlo casaun minimo se ',negative
+ezia77,'RT @matematico65 Di c Rutelli st sempre tv fatto Marino Pensa devono ricorrere x recuperare p credibi ',negative
+ilRicciardelli,'RT @diMartedi #Crozza Renzi vuole sostituire Marino 1 commissario 8 sottocommissari 9 posto 1 vedi Jobs Act funzion ',negative
+valeriotorchio,'RT @spinozait Marino pubblica 492 pagine note spese ricevute Ora  nuovo Fabio Volo ',negative
+matematico65,'Di c Rutelli st sempre tv fatto Marino Pensa devono ricorrere x recuperare p credibilit #portaaporta ',negative
+ApocalisseLaica,'Ignazio Marino invadenze Vaticano silenzi politica Primo Nicola  Provate leggere un ',negative
+vikingmetal,'@agnostico43 #MarinoRipensaci PD vuole sempre primeggiare  capace mostrarsi modesto collaborare #Marino  umile sempre ',negative
+IWantToBeTweet,'RT @bravimabasta Pd Roma pensa primarie modello Prodi Cio eleggono ostacolano fanno cadere sfanculano Tale qu ',negative
+annacerofolini,'RT @BeppeGiulietti Dimissione compiuta #Marino @OSSERVATORIOTG @RealeScenari @annacerofolini @GassmanGassmann ',negative
+marytaxi65,'RT @VittorioSgarbi @VittorioSgarbi Marino  Paperino  cattivo gliene viene bene unaRenzi invece  Topolino c ',negative
+GIULIANA7G,'@VirusRai2 #Renzi elimina #Marino rischiando pesantemente esserne eliminatoe sarebbe bello strikeil #vaticano cmq  peggio ',negative
+PIDP42,'Orfini risponde Marino Per legalit Pd ha lottato prima lui ',negative
+agnostico43,'#Orfini risponde #Marino Per legalit PD ha lottato prima lui eliminarla ',negative
+valhoell,'RT @diMartedi #Gomez #scontrini Marino  suicidato mettendoli online Renzi  impossibile verificare momento @petergomezbl ',negative
+GiuliaAniaF,'RT @defilippim RT vuoi sindaco Roma posto Marino ',negative
+jacopobrambilla,'RT @spinozait Prima dimettersi Marino stanzia dieci milioni Giubileo Lassegno  intestato Ali Agca [@edelman] ',negative
+poke_dem,'Roma lultimo regalo Ignazio Marino dimissionario soldi soci Buzzi ',negative
+valhoell,'RT @diMartedi #DeCataldo #Marino Era talmente estraneo hanno fatto guerra modi @Giancadeca #dimarted ',negative
+tranellio,'@SANFRAMONDI PD Marino sbagliano x te  colpa dellopposizione perch finalmente esiste vera opposizione Lamore  cieco ',negative
+FedericaBuz,'Politici imprenditori travet Vaticano equilibri romani toccati #Marino via @fattoquotidiano ',negative
+antoniopascotto,'GUARDIA FINANZA CAMPIDOGLIO SCONTRINI MARINO PREMIER VUOLE DREAM TEAM ALFANO S via @parlamentonews ',negative
+vikingmetal,'@VirusRai2 #marino #MarinoRipensaci ha portato GDF Campidoglio farle leggere conti perch sindaco aveva trovato irregolarit ',negative
+vikingmetal,'@VirusRai2 #marino #MarinoRipensaci ha ridotto poltrone consiglio ACEA 9 7 davanti Caltagirone arrabbiatissimo ',negative
+PiLu975,'#cortocircuito sar quando qualcuno chieder  costata lindagine #finanza scontrini #Marino ',negative
+FedericoBarli,'RT @lddio italiani sostengono solo dopo martirio ora finalmente hanno SantIgnazio protettore cause perse ',negative
+del_massi,'RT @diMartedi #Crozza Ieri Campidoglio 2000 persone chiedevano Marino restare Tutta gente era stata cena lui la ',negative
+vikingmetal,'@VirusRai2 #marino #MarinoRipensaci ha saputo chiudere Malagrotta 1963 era aperta aveva procedura dinfrazione UE 2007 ',negative
+del_massi,'RT @diMartedi #Crozza Ferilli dice Papa doveva attaccare Marino cazzia Papa d lidea quadro muovi ',negative
+del_massi,'RT @diMartedi #Crozza Renzi vuole sostituire Marino 1 commissario 8 sottocommissari 9 posto 1 vedi Jobs Act funzion ',negative
+folksonomia,'Crozza Marino E dottor House bastone glielhanno #Inostrivideo #Terzapagina #Videogallery ',negative
+vikingmetal,'@VirusRai2 #marino #MarinoRipensaci Chiesa Roma ha giocato ruolo determinante ottenere dimissioni modo forzato ',negative
+MPenikas,'RT @ZampieriChiara tratta essere pro #Marino #Renzi chiediamo medesima trasparenza Quindi #RenziTrova scontrini ht ',negative
+pinopinollo,'RT @ZampieriChiara tratta essere pro #Marino #Renzi chiediamo medesima trasparenza Quindi #RenziTrova scontrini ht ',negative
+LUCIADIMARCO2,'RT @CremaschiG #PD #Lega #ForzaItalia danno 45Ml pubblici senza controllo spese fan dimettere #Marino 20000 scusate rozzezza  ',negative
+LettaLorenzo,'RT @LotitoClaudio Dateme stipendio de #Marino ve faccio divent New York 6 mesi ',negative
+AltuncGaye,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+Ultima_Notizia,'#Casamonica #Porta #Porta polemica vice #Marino #Rai chieda Daniel Sharman ',negative
+Calberto45,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+puntoagronews,'Punto Agro News  Nocera inquinamento SMauro SMarino Gori difende ',negative
+Amoquesto,'@christianconlH ah altro ideologizzato Prenditela pare punto  Marino  incapace @CrisiFinanza ',negative
+renzocrosa,'RT @freeskipper1 Mafia Capitale Roma perde Marino vizio ',negative
+GhitaIacono,'RT @ZampieriChiara tratta essere pro #Marino #Renzi chiediamo medesima trasparenza Quindi #RenziTrova scontrini ht ',negative
+PublishingAll,'#GoogleNewsItalia Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+PublishingSite,'#GoogleNewsItalia Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+LucaBersano,' piaciuto video @YouTube @sanmarinortv MUTOID WASTE COMPANY  RSMagazine ',negative
+giancarloscordo,'Marino #Maroni invertendo vocali prodotto cambia ',negative
+silvina6882,'RT @GAlessandrino Sale Marino Marte Oh pur stare Roma andrebbe ovunque ',negative
+rojmul261123,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+infoitinterno,'Fori pedonali Marino lavoro (Rosa Rossa) ',negative
+mystartup08,'Dispetto Capitale lultimo regalo Marino  Messaggero MessaggeroDispetto Capitale lultimo regalo  ',negative
+FacchinettiSil,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+RomaNews,'Marino cinema prima Suburra  Messaggero MessaggeroMarino cinema prima Suburr ',negative
+NICOVENDOME55,'@Corriereit #marino ha dato dimissionisenza luia daranno colpa ora  ',negative
+infoitinterno,'Fori Imperiali prima delladdio lultimo sogno Marino pedonalizzazione totale (Corriere Roma News) ',negative
+infoitinterno,'Marino colpo mano prima lasciare Fori pendonalizzazione totale (Solo News) ',negative
+Focus_italy,'Lultima sfida Marino dimissionario via Fori imperiali liberi taxi autobus Ignazio Marino ',negative
+vivalaradiontw,'#VivaLaRadio Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+davidecalusi,'Dispetto Capitale lultimo regalo Marino  Messaggero MessaggeroDispetto Capitale lultimo regalo  ',negative
+PorcodelMolente,'Dispetto Capitale lultimo regalo Marino  Messaggero MessaggeroDispetto Capitale lultimo regalo  ',negative
+Enzo1nikita,'Dispetto Capitale lultimo regalo Marino  Messaggero MessaggeroDispetto Capitale lultimo regalo  ',negative
+NICOVENDOME55,'@MediasetTgcom24 adesso diranno #marino  trasferito Napoli  ',negative
+FacchinettiSil,'RT @ArsenaleKappa Svelata lidentit ristoratore ha smentito Marino ',negative
+GiulianoRobe,'RT @aIexcat #Roma salver #Marchini unica opposizione ha difeso romani qsti 2anni inferno#Marino #MarchiniSindaco #lagabbi ',negative
+pierdario,'RT @SkyTG24 Marino lultimo atto sindaco Fori interamente pedonali #cronaca ',negative
+chiara_lyla,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+elmorisco,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+Spacciatweet,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+Spacciaretweet,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+marino29b,'RT @PediciniM5S Dopo Ignazio Marino avremo sindaco Cinque Stelle Roma (Claudio Amendola) ',negative
+AMagna7,'RT @ArsenaleKappa Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava  ',negative
+mauneobux,'#NEWS Dispetto Capitale lultimo regalo Marino  Messaggero Buona giornata )) ',negative
+newsfeed_it,'Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+titticri,'Aggiornamento petizione  Roma 12102015 ore 1542 scatta countdown  ',negative
+ElezioniLazio,'#EleLazio Marino Fori Imperiali piedi via bus taxi prima della see more ',negative
+ArsenaleKappa,'Pare ristoratore romano ha accusato Marino abbia aggiunto Veniva spesso Angelina Jolie mangiava pure piatto suo ',negative
+vanessatw2,'RT @SanTenChan #BreakingNews  #ultimi #sviluppi #MafiaCapitale #M5S chiede #dimissioni #sindaco #Marino #Roma ',negative
+FXS_Finance_IT,'Roma lultima sfida Marino I Fori saranno solo pedonali #Finanza ',negative
+OroscopoBlog1,'Dispetto Capitale lultimo regalo Marino  IlMessaggero ',negative
+infoitinterno,'Dispetto Capitale lultimo regalo Marino (Il Messaggero) ',negative
+M5SVibor,'RT @elpme10 Marino ha preso decisione AUTONOMIA #ahahahahahahahahahahahahahahahahhaahhaahhaahahahahahahahahahahahahahahahahahahah ',negative
+CerciElena,'@123stoka @CesareOrtis danno noia marino Du spaghi   ',negative
+M5SVibor,'RT @tranellio Ditte bloccate x corruzione Marino Sabella dimostra cose funzionanoMa Cantone avvis perch comune n ',negative
+CerciElena,'RT @lucapodio questione #Marino @gasparripdl aveva gi chiesto scioglimento Comune #Roma motivi ',negative
+igolmar,'RT @GiadaGiadina Mastella parla Marino inutili spese carico cittadini Mastellaquello addebitava spese  ',negative
+DaLeopardo,'@LiciaRonzulli @OmnibusLa7 stesso terzo grado giudizio Marino ',negative
+vulorp,'Dispetto Capitale lultimo regalo Marino  Messaggero MessaggeroDispetto Capitale lultimo regalo  ',negative
+MatAlbani,' dallinizio #Marino vuol pedonalizzare via Fori Imperiali ora sindaco dimesso prepara lultimo sfregio romani ',negative
+ValerioCoscetti,'RT @ilregresso Strage Ankara governo due uomini sono responsabili Ok  Marino laltro (Elisio Marinelli) ',negative
+Edoardocignoli,'verit centrale san marino Edoardo Cignoli ',negative
+DarKnight_87,'RT @jacopoiacoboni Seicentomila euro ristoranti tre anni 548 euro giorno  Marino No Renzi Provincia Firenze ',negative
+anziato,'Xch mai lega parla attacco politico dare mano pd difficolta #marino #mafiacapitale sa #ottoemezzo ',negative
+leonardometalli,'Roma Marino fa perdere Renzi sondaggio scuote Pd  Affaritalianiit ',negative
+awkweirkz,'@zebilha marino  cancro xD ',negative
+nella_norma,'RT @RaiBallaro Claudio Amendola Suburra Le dimissioni Marino sono state spoileraggio film ',negative
+Dansai75,'@gparagone @davidevecchi modesto parere Marino  punta delliceberg laddove ancora vari retroscena = concause debito pubblico ',negative
+DaniPitarresi,'RT @lucapodio questione #Marino @gasparripdl aveva gi chiesto scioglimento Comune #Roma motivi ',negative
+RadioLondra_,'Qui Radio Londra Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+MaraRaqu,'Marino nudo mentre fa doccia ',negative
+gasparripdl,'RT @lucapodio questione #Marino @gasparripdl aveva gi chiesto scioglimento Comune #Roma motivi ',negative
+PortaKittePare,'RT @MaraRaqu Marino fa na foto gatto ',negative
+MaraRaqu,'Marino fa na foto gatto ',negative
+MaraRaqu,'Marino bagno dopo na peperonata ',negative
+MaraRaqu,'RT @ilmessaggeroit Marino cinema prima Suburra ',negative
+romasulweb,'Marino cinema prima Suburra ',negative
+romasulweb,'Dispetto Capitale lultimo regalo Marino ',negative
+notizie_roma,'Marino cinema prima Suburra #roma ',negative
+notizie_roma,'Dispetto Capitale lultimo regalo Marino #roma ',negative
+MicaelaTacconi,'RT @UAARit Ingerenze #Vaticano politica #Roma rivelano inconsistenza #Concordato abolire ',negative
+TerzoDiritto,'RT @ilmessaggeroit Marino cinema prima Suburra ',negative
+poke_dem,'Lultimo sogno Marino pedonalizzare Fori Imperiali ',negative
+wertjb,'#Renzi autoelettosi liquida #Marino democraticamente eletto schifo schifo mafia mafia Vomito ',negative
+ERoscioni,'Fori Imperiali pedonali prima delladdio Marino lavora delibera Campidoglio via @repubblicait ',negative
+Mario_Giannetta,'RT @GiadaGiadina Mastella parla Marino inutili spese carico cittadiniMastellaquello addebitava spese  ',negative
+cris_cersei,'Il cancro fintoislamista andava stroncato subito prima dilagasse mezza #Siria Assad devessere specie #Marino(cit)D ',negative
+IMoresi,'RT @borghiclaudio @adriatzara @fattoquotidiano telegiornali giornaloni indignazione pubblica stile marino ',negative
+stylemotorfano,'#news #notizieitalia Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+LuanaSenesi,'Dispetto Capitale lultimo regalo Marino  Messaggero ',negative
+MatteoCorreani,'RT @ilmessaggeroit Marino cinema prima Suburra ',negative
+eurovisionvideo,'Eurovision 2015 San Marino Anita Simoncini & Michele Perniola Chain Of Lights Lyrik ',negative
+PiramideRossa,'Caso Marino invadenze Vaticano silenzi politica  Fatto Quotidiano ',negative
+AmaliaPepino,'RT @FrancoBechis Adesso @matteorenzi promette dopo Marino dream team Roma Dopo anni cos  pu prendere fondelli iI ',negative
+mauneobux,'#News #Astronomia Dispetto Capitale lultimo regalo Marino  Messaggero Buona visione  )) ',negative
+the_newstweets,'TGcom24  Roma lultima sfida Marino I Fori saranno solo pedonali ',negative
+Grujic_Sergio,'RT @PediciniM5S Dopo Ignazio Marino avremo sindaco Cinque Stelle Roma (Claudio Amendola) ',negative
+titticri,'RT @marielSiviglia prossimo sindaco Roma arrabbia x metropolitana @iostoconmarino @titticri @Rossa ',negative
+iostoconmarino,'RT @VivienCattani @ignaziomarino ritiri dimissioni favore Firmate @iostoconmarino @Laspeziaxmarino ',negative
+VivienCattani,'@ignaziomarino ritiri dimissioni favore Firmate @iostoconmarino @Laspeziaxmarino ',negative
+ar_cavaliere,'RT @marielSiviglia avete coraggio ammettere avete fatto compromesso chiesa x dimissioni Marino @emanuelefian ',negative
+iostoconmarino,'RT @marielSiviglia avete coraggio ammettere avete fatto compromesso chiesa x dimissioni Marino @emanuelefian ',negative
+iostoconmarino,'RT @marielSiviglia prossimo sindaco Roma arrabbia x metropolitana @iostoconmarino @titticri @Rossa ',negative
+marielSiviglia,'prossimo sindaco Roma arrabbia x metropolitana @iostoconmarino @titticri @Rossana7336 @SalvoMely ',negative
+marielSiviglia,'avete coraggio ammettere avete fatto compromesso chiesa x dimissioni Marino @emanuelefiano @iostoconmarino ',negative
+LucaGiandomenic,'@Pontifexit ordina @renzi @orfini eseguono @PDROMA @pdnetwork #iostoconmarino @ignaziomarino @roma ',negative
+iostoconmarino,'@marielSiviglia @ignaziomarino deligittamare voto  interruzione democrazia @ignaziomarino ',negative
+iostoconmarino,'RT @marielSiviglia Dimissioni forzate sindaco @ignaziomarino equivale permettere ballare pantegane mafia @iostoconm ',negative
+iostoconmarino,'RT @marielSiviglia Pensiamo andare votare serve poi partito delegittima voto @iostoconmarino @titticri @RaiBallaro @ign ',negative
+FedericoBarli,'@SkyTG24 era programma elettorale @ignaziomarino #uomodiparola #iostoconmarino ',negative
+FedericoBarli,'Romasfida #Marino Fori completamente pedonali vietato transito taxi bus #programmaelettorale #iostoconmarino ',negative
+stefanialleccor,'RT @marielSiviglia Pensiamo andare votare serve poi partito delegittima voto @iostoconmarino @titticri @RaiBallaro @ign ',negative
+stefanialleccor,'RT @marielSiviglia Dimissioni forzate sindaco @ignaziomarino equivale permettere ballare pantegane mafia @iostoconm ',negative
+MrMartcus,'@LaGabbiaTw sapevamo nn sappiamo  paga sn andati protestare #promarino #contromarino ',negative
+mtvaccari,'#iostoconmarino superate 50000 firme pochi giorni ',negative
+iostoconmarino,'RT @VivienCattani @sole24ore Incapacit direi @orfini @matteorenzi @meb @pdnetwork @FedericoBarli #resisti @ignaziomarino ',negative
+iostoconmarino,'@ignaziomarino @VivienCattani sei colui ha permesso tornare sperare sognare occhi aperti Grazie 762013 ',negative
+VivienCattani,'RT @marielSiviglia Cara Rossana povera Italia @Rossana7336 @SalvoMely @VirusRai2 @iostoconmarino ',negative
+tizianotogna,'resto ditelo voi #iostoconMarino ',negative
+vogliodirelamia,'RT @VincenzoVita @iostoconmarino purtroppo  strano E inquietante Marino campagna inaudita ',negative
+romi_andrio,'RT @amelyre @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g  novit lotta corruzione mafia  pri ',negative
+marielSiviglia,'boato  Adesso deve intervenire restituire sindaco @ignaziomarino Roma intervenga @iostoconmarino ',negative
+marielSiviglia,'Dimissioni forzate sindaco @ignaziomarino equivale permettere ballare pantegane mafia @iostoconmarino ',negative
+marielSiviglia,'Pensiamo andare votare serve poi partito delegittima voto @iostoconmarino @titticri @RaiBallaro @ignaziomarino ',negative
+GiordanoBattini,'RT @marielSiviglia Cara Rossana povera Italia @Rossana7336 @SalvoMely @VirusRai2 @iostoconmarino ',negative
+GiordanoBattini,'RT @SalvoMely Italia sindaci antimafia facciamo dimettere camorristi facciamo sedere Parlamento #IostoconMarino ',negative
+iostoconmarino,'@ignaziomarino 50000 firme Ora verso 75000 base c ',negative
+AlessandroMil17,'@marielSiviglia @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely fa curriculum X diventare Presidenti consiglio sindaci ) ',negative
+iostoconmarino,'RT @marielSiviglia Nessun partito chiede dimissioni sindaci x 2 scontro puzza complotto @amelyre @fattoquotidiano @alias ',negative
+amelyre,'@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Appunto ',negative
+marielSiviglia,'Marino  stato controllato insediamento aerea cattolica PD @raffael70709794 @Rossana7336 @iostoconmarino @SalvoMely ',negative
+marielSiviglia,'RT @amelyre @iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g  novit lotta corruzione mafia  pri ',negative
+andreapoli8788,'@iostoconmarino agenda piena sono passati solo sei mesi ',negative
+iostoconmarino,'RT @amelyre @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono taccionoSpostano attenzione icona antimafia co ',negative
+iostoconmarino,'RT @amelyre @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino ricordate laggressione parte dellEspresso Crocetta ',negative
+iostoconmarino,'RT @amelyre @marielSiviglia @fattoquotidiano @alias16g @iostoconmarino  famigerato metodo Boffo ',negative
+iostoconmarino,'RT @raffael70709794 @Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  esattoMarino  controllatoscontrini Renzi gi  ',negative
+iostoconmarino,'RT @mdpennalunga @BarillariM5S QUINDIChe centraAllora mafiosa @iostoconmarino @raffaeledstfn @ignaziomarino @FedeAngeli ',negative
+iostoconmarino,'RT @mdpennalunga @BarillariM5S campagna elettorale dopoOra rispondi @iostoconmarino @raffaeledstfn @ignaziomarino Perch @FedeAngeli ',negative
+iostoconmarino,'@FedeAngeli grazie ) ',negative
+iostoconmarino,'RT @FedeAngeli Certo marito ha firmato @iostoconmarino ',negative
+iostoconmarino,'Tangenti Sabella avevo denunciati aprile Oggi avevamo convocati escluderli gara delGiubileo ',negative
+amelyre,'@iostoconmarino @amelyre @marielSiviglia @fattoquotidiano @alias16g  novit lotta corruzione mafia  priorit governo ',negative
+raffael70709794,'@Rossana7336 @marielSiviglia @iostoconmarino @SalvoMely  esattoMarino  controllatoscontrini Renzi gi dimenticatoio ',negative
+amelyre,'@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino  famigerato metodo Boffo ',negative
+iostoconmarino,'@amelyre @marielSiviglia @fattoquotidiano @alias16g tangenti Roma Sabella aveva denunciati aprile @ignaziomarino combatteva mafia ',negative
+iostoconmarino,'RT @marielSiviglia branco ipocriti @amelyre @fattoquotidiano @alias16g @iostoconmarino ',negative
+amelyre,'@marielSiviglia @fattoquotidiano @alias16g @iostoconmarino Oggi attendono taccionoSpostano attenzione icona antimafia Matteo ',negative
+mimmoscordino,'RT @marielSiviglia Ricordo @gaiatortora Roma processo sar @AlemannoTW @ignaziomarino  parte civile @OmnibusLa7  ',negative
+marielSiviglia,'RT @iostoconmarino @marielSiviglia @ignaziomarino 25 ottobre 2015 ore 12 campidoglio manifestazione #marino ',negative
+mcacciaglia64,'RT @SalvoMely Italia sindaci antimafia facciamo dimettere camorristi facciamo sedere Parlamento #IostoconMarino ',negative
+mcacciaglia64,'RT @marielSiviglia Cara Rossana povera Italia @Rossana7336 @SalvoMely @VirusRai2 @iostoconmarino ',negative
+mimmoscordino,'RT @SalvoMely Italia sindaci antimafia facciamo dimettere camorristi facciamo sedere Parlamento #IostoconMarino ',negative
+GiordanoBattini,'RT @marielSiviglia Ricordo @gaiatortora Roma processo sar @AlemannoTW @ignaziomarino  parte civile @OmnibusLa7  ',negative
+mcacciaglia64,'RT @marielSiviglia Lassessore ha contribuito dimissioni sindaco  ruffiano eroe @iostoconmarino @ignaziomarino @stef ',negative
+PPIHAD,'RT @marielSiviglia Ricordo @gaiatortora Roma processo sar @AlemannoTW @ignaziomarino  parte civile @OmnibusLa7  ',negative
+titticri,'RT @ilrere Linvito dellarcivescovo Philadelphia ora Bergoglio far mea culpa finestra #iostoconmarino ',negative
+ilrere,'Linvito dellarcivescovo Philadelphia ora Bergoglio far mea culpa finestra #iostoconmarino ',negative
+AFoccardi,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+StellaIsADiver,'@RaiBallaro #Orfini aveva detto mandar via #Marino era far gioco mafia sa deciso parte stare #iostoconmarino ',negative
+iostoconmarino,'Scarpe rotte pur bisogna andare Oggi dove ',negative
+matarazzate,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+filigue78,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+GraziaIotti,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+luisaloffredo28,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+Giocoleria,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+Giocoleria,'RT @giulianocossari @BarillariM5S @iostoconmarino @edocavalieri @raffaeledstfn inutile sono mala fede Buzzi finanziava PD no M5S  ',negative
+sig_cuorenero,'#iostoconmarino sar incapace pare esterno sembra abbia fatto sacco cose ',negative
+iostoconmarino,'RT @fedepagasp #Marino Sindaco Roma Romani @ignaziomarino ritiri dimissioni favore ',negative
+cristjne127,'@ignaziomarino #IoStoConMarino piace PD doveva combatterla aiutarla  sx Lei destrama cervello ce lhanno ',negative
+ManuelaCarreri,'Cari giornalisti ora pretendo stesso sciacallaggio Maroni @repubblicait @espressonline #iostoconmarino ',negative
+campanavalerio,'RT @GrappaTommaso @iostoconmarino @giulianocossari @edocavalieri @FedeAngeli @BarillariM5S  bastata figuraccia @SabellaAlfonso ',negative
+campanavalerio,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+anna_mattarelli,'RT @marielSiviglia Marino sar goffocome ha dipinto stampa diffamatoria disonesto @iostoconmarino ',negative
+bobo4ka863,'#IoStoConMarino  Ignazio Marino manifestazione sostegno di I via @YouTube ',negative
+andreapoli8788,'@marielSiviglia @iostoconmarino ha falsificato rimborsi nose faccio ben vada licenziano ',negative
+iostoconmarino,'RT @marielSiviglia Marino sar goffocome ha dipinto stampa diffamatoria disonesto @iostoconmarino ',negative
+ChiaraFracasssi,'#IoStoConMarino fate ci volete  via @controversomag #MarinoNonMollare #marinosiedimesso @ignaziomarino ',negative
+mimmoscordino,'RT @marielSiviglia proposito falsi moralisti Arrestato vice @RobertoMaroni ale @iostoconmarino ',negative
+M40FORH,'@iostoconmarino @giulianocossari @BarillariM5S be classico pensiero demofascio Deluca  bravo politico reati ridicoliGrillo assassino ',negative
+iostoconmarino,'Renzi scontrini Tempo galantuomo Renzi dimette Marino fatto dimettere ',negative
+claudia_mauri,'Voglio grillini pd incatenati sotto casa @RobertoMaroni #iostoconmarino ',negative
+M40FORH,'@edocavalieri @giulianocossari @BarillariM5S @iostoconmarino dicono m poi nell urna avreste votato Capone piuttosto 5* ',negative
+M40FORH,'@giulianocossari @edocavalieri @BarillariM5S @iostoconmarino padrone pd no era capito  ',negative
+M40FORH,'@edocavalieri @giulianocossari @BarillariM5S @iostoconmarino te frega padrone ',negative
+Slittiamo,'mollare @ignaziomarino #Roma ha bisogno grande sindaco te Siamo te #Marinoresisti #iostoconmarino ',negative
+QuKa07,'perch purtroppo capre hanno memoria corta #iostoconMarino #sindacoMarino #IgnazioMarino #Marino ',negative
+ivulnus,'Devessere cos stancante #iostoconmarino che dopo due giorni battaglie sostenitori sono gi riposare ',negative
+LucaGiandomenic,'@RepubblicaTv @repubblicait PD dopo @ignaziomarino eccolo qui #iostoconmarino @pdnetwork ',negative
+esisley,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+iostoconmarino,'RT @VincenzoVita @iostoconmarino purtroppo  strano E inquietante Marino campagna inaudita ',negative
+Vincenzo_Vita,'@iostoconmarino purtroppo  strano E inquietante Marino campagna inaudita ',negative
+Sisetto79,'Renzi Reticente Consiglio  Ilfattoquotidianoit #iostoconMarino ',negative
+IsabellaDeiana7,'@ignaziomarino Grazie lei belle parole #iostoconmarino vogliamo bene Forza Siamo lei <3 <3 <3 ',negative
+lievemente,'RT @BarillariM5S @iostoconmarino @raffaeledstfn nessun rapporto fra m5s balnearitu credi bufale rapporti PD MARINO maf ',negative
+serenel14278447,'RT @concitadeg va detto ',negative
+Andreabluesky,'RT @giulianocossari @edocavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto infiltrazione mafiose ',negative
+raffaeledstfn,'@Riccardoet @BarillariM5S @NinaLadyice @iostoconmarino Roma preda mafia+cementisti tanto tempo Qst momento storico nn va sprecato ',negative
+Riccardoet,'@BarillariM5S @NinaLadyice @iostoconmarino @raffaeledstfn siete riusciti distruggere citt definizione era ETERNA miserabili ',negative
+ManuPalo67,'RT @BarillariM5S @mdpennalunga @FedeAngeli @iostoconmarino @raffaeledstfn nome finte associazioni antimafia fatti concreti RISP ',negative
+RomeiAntonella,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+NinaLadyice,'RT @BarillariM5S @iostoconmarino @raffaeledstfn nessun rapporto fra m5s balnearitu credi bufale rapporti PD MARINO maf ',negative
+MPenikas,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+ManuPalo67,'@FedeAngeli @iostoconmarino @BarillariM5S @raffaeledstfn Lombardi risponde Alfonso Sabella Libera httpstcoTjWPfucpfO ',negative
+ManuPalo67,'RT @BarillariM5S @iostoconmarino @raffaeledstfn nessun rapporto fra m5s balnearitu credi bufale rapporti PD MARINO maf ',negative
+ManuPalo67,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+ManuPalo67,'@iostoconmarino @BarillariM5S @raffaeledstfn @FedeAngeli DICI  SUSU  DAIDAI MONTAGNA MONTAGNA ',negative
+ManuPalo67,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+ManuPalo67,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ah  ce eravate riunione  puo sapere chi nome cognome ruolo  ',negative
+ManuPalo67,'RT @giulianocossari @BarillariM5S @iostoconmarino @edocavalieri @raffaeledstfn inutile sono mala fede Buzzi finanziava PD no M5S  ',negative
+pinopinollo,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn INFATTI CHIEDILO DIFENDEVA TASSONE ',negative
+esisley,'RT @GrappaTommaso @iostoconmarino @giulianocossari @edocavalieri @FedeAngeli @BarillariM5S  bastata figuraccia @SabellaAlfonso ',negative
+Monialustri,'@edocavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn pare chiami Tassone (PD) arrestato ) ',negative
+domenicosabell1,'RT @giulianocossari @edocavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto infiltrazione mafiose ',negative
+ariolo_orazio,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+Monialustri,'RT @BarillariM5S @iostoconmarino ormai sei caduto ridicolo rispondi domande marino mafia ',negative
+Monialustri,'RT @BarillariM5S @iostoconmarino @giulianocossari @edocavalieri @raffaeledstfn sabella incontrava balnearimarino ha fatto nulla 2 ',negative
+Monialustri,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+pinopinollo,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+GhitaIacono,'@giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @FedeAngeli ha difeso Tassone noi ',negative
+elisabettap38,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+M5SVibor,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn INFATTI CHIEDILO DIFENDEVA TASSONE ',negative
+M5SVibor,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+___John_Smith__,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+GhitaIacono,'RT @BarillariM5S @iostoconmarino @giulianocossari @edocavalieri @raffaeledstfn sabella incontrava balnearimarino ha fatto nulla 2 ',negative
+PatoOsko,'@raffaeledstfn chiil candidato partito coinvolto mafia capitale @BarillariM5S @aledibattista @iostoconmarino ',negative
+GhitaIacono,'RT @giulianocossari @edocavalieri @iostoconmarino @FedeAngeli @BarillariM5S @raffaeledstfn comune Ostia sciolto infiltrazione mafiose ',negative
+dracul473,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+PatoOsko,'@iostoconmarino infatti stai Marino Molto sveglio @BarillariM5S @raffaeledstfn @FedeAngeli ',negative
+assataram,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+Stefanofiori1,'@BarillariM5S @esisley @raffaeledstfn @iostoconmarino perch fosse onesto avrebbe nemmeno pensato nasconderli ',negative
+PaolaTacconi,'RT @BarillariM5S @iostoconmarino @raffaeledstfn ostia unici lottano mafia sono m5s nulla nascondere a ',negative
+assataram,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+esisley,'RT @BarillariM5S @raffaeledstfn @iostoconmarino marino fosse davvero onesto farebbe nomi mai fa  ',negative
+iostoconmarino,'RT @raffaeledstfn @BarillariM5S @aledibattista @iostoconmarino intendiamoci schifo PD Sia chiaro schifo odio pe ',negative
+raffaeledstfn,'@BarillariM5S @aledibattista @iostoconmarino poco buono PD pensava @ignaziomarino 2008 corrisponde troppo poche persone ',negative
+raffaeledstfn,'@BarillariM5S @aledibattista @iostoconmarino intendiamoci schifo PD Sia chiaro schifo odio vicenda Marino ',negative
+raffaeledstfn,'@BarillariM5S @aledibattista @iostoconmarino scusate xch qst tweet nn interessaNoElezioni+RomaCommissariata  unico risultato mo ',negative
+PieroChiappini,'@mdpennalunga @FedeAngeli @iostoconmarino @BarillariM5S ancora perdete tempo lamico finte ass antimafia #Barillarivergognati ',negative
+lucina_maggi,'RT @danieledezi 50000 gridano #iostoconmarino ',negative
+pieromagnani,'@VirusRai2 dimissioni @ignaziomarino muore laicita stava costruendo roma #iostoconmarino ',negative
+zorzi46,'RT @FedeAngeli Fratello era societ Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn ',negative
+zorzi46,'RT @mdpennalunga @FedeAngeli @BarillariM5S ANGELI CENTRAE SABELLAE RELAZIONE ANTIMAFIARisposta @iostoconmarino  ',negative
+edo_cavalieri,'@massimoIazzari @iostoconmarino @FedeAngeli @giulianocossari siete solo fanaticiLa mafia combatte fatti vedi #Sabella #Angeli ',negative
+zorzi46,'RT @mdpennalunga @BarillariM5S PENSA PRIMA TUOI @iostoconmarino @raffaeledstfn ',negative
+sarataigher,'RT @andysanguedolce Nessuno vuole attaccano vuoi vedere  lunico onesto #iostoconmarino ',negative
+PiramideRossa,'RT @MarleyBrandy @Torakjkj indagini serie servono proprio questo capire ridere ) #iostoconMarino ',negative
+marco_zio,'#iostoconmarino Giornalista prezzolato PD vergognoso tg corrotti Vergogna ',negative
+Frenkoz,'#iostoconmarino perch forse solo marziano pu risollevare Roma @ignaziomarino ',negative
+ilrere,'Meglio macerie sepolcri imbiancati #Marino #iostoconmarino #Roma #oltretevere #virusrai2 ',negative
+ilrere,'#Marino impara domanda sti scontrini risponde Posso spiegare Ma azzo vuoi bisero #iostoconmarino #virusrai2 ',negative
+billa_silvia,'RT @SimyFrant #Renzi smentiscema documenta conti continuano tornare #marinosiedimesso #iostoconmarino ',negative
+cinzia_cindyy,'#Renzi #RenziNasconde  senza peccato scagli prima pietra #iostoconmarino ',negative
+Ivatamy,'RT @SimyFrant Cosa #RenzieNasconde  es altre 8 belle poltrone pronte x accoliti x #Roma #MarinoResisti #iostoconmarino ',negative
+ilrere,'incompetente #Marino pu amministrare capitale dItalia neanche riesce fregare 900 euro #iostoconmarino #virusrai2 ',negative
+carlabrandolini,'RT @davidaprea @matteorenzi ciao @pdnetwork #iostoconmarino ',negative
+MarleyBrandy,'@Torakjkj indagini serie servono proprio questo capire ridere ) #iostoconMarino ',negative
+ilrere,'Roma Pino crolla vento Ignazio venticello #iostoconmarino #marino #virusrai2 ',negative
+magrotto68,'@iostoconmarino @ilfattoblog @fattoquotidiano sti coglioni Hanno fatto gioco renzi ',negative
+M5SVibor,'RT @GrappaTommaso @iostoconmarino @giulianocossari @edocavalieri @FedeAngeli @BarillariM5S  bastata figuraccia @SabellaAlfonso ',negative
+iostoconmarino,'RT @NuovoFaceMag rivincita @ignaziomarinoper 40 mila firmeBoom consensi social piazza > ',negative
+iostoconmarino,'RT @dariocavinato Ecco cosa ha fatto Ignazio Marino 2 anni ',negative
+M5SVibor,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+ginocalcinotto,'RT @mdpennalunga @BarillariM5S MARINO INTEGERRIMORISPONDI SVIARE @iostoconmarino @raffaeledstfn @FedeAngeli ',negative
+stefania29060,'RT @mdpennalunga @BarillariM5S prima meE Angeli centraRispostina @FedeAngeli @iostoconmarino @raffaeledstfn ',negative
+Monialustri,'RT @GrappaTommaso @BarillariM5S @Monialustri @mdpennalunga @iostoconmarino @raffaeledstfn eccolo Marino integerrimo ahahahahah ',negative
+grigiestanze,'RT @AldoBenassi commissario #Sabella  gi pronto gestire dopo #Marino #Marinoresisti #iostoconmarino ',negative
+Gauro5,'@normamarco volessero colpire qualcun altro @UdoUdodance @ginocalcinotto @giulianocossari @iostoconmarino @MaleInItaly1978 ',negative
+RobertaCretella,'RT @giulianocossari Quindi fatemi capire sono ora #promarino deposta #Renzi elezioni comunali Roma voter ',negative
+mdpennalunga,'RT @enzocarnazza @BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare 5stelle  vietato legge ',negative
+ster67e,'RT @giulianocossari Quindi fatemi capire sono ora #promarino deposta #Renzi elezioni comunali Roma voter ',negative
+enzocarnazza,'@BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli Attaccare 5stelle  vietato legge ',negative
+ginocalcinotto,'RT @giulianocossari Quindi fatemi capire sono ora #promarino deposta #Renzi elezioni comunali Roma voter ',negative
+giulianocossari,'Quindi fatemi capire sono ora #promarino deposta #Renzi elezioni comunali Roma voteranno PD #VOGLIOVEDERE ',negative
+SimyFrant,'#Renzi smentiscema documenta conti continuano tornare #marinosiedimesso #iostoconmarino #Marino ',negative
+danielerazzoli,'@iostoconmarino sola cosa conta venga estromesso sindaco ha sfidato delinquenti parassiti organizzati ',negative
+Dan_skorpio87,'RT @iostoconmarino Perch cose vengono messe prima pagina Marino  arrendiamo ',negative
+floria1405,'perch poi @VirusRai2 chieda opinione #marino  mistero visto sono qualunque modalit narciso off #iostoconmarino ',negative
+nicoladingegno,'@iostoconmarino @FedeAngeli @mauriziofdf @BarillariM5S @mdpennalunga @raffaeledstfn vota primavera ',negative
+pinpin68,'RT @FedeAngeli Fratello leader Casapound arrestato perch @iostoconmarino @giulianocossari @edocavalieri @BarillariM5S @raffaeledstfn  ',negative
+mariadesireh,'RT @FedeAngeli Ho avvertito @iostoconmarino signor @BarillariM5S anno fa erano ha voltato spalleMeglio @mdpennalung ',negative
+mariadesireh,'RT @FedeAngeli Perch attaccare me Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn ',negative
+Antony970,'RT @giulianocossari @GrappaTommaso @iostoconmarino @edocavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso TESTUALE SABELLA se Roma  pi ',negative
+GiorgioAntonel1,'RT @giulianocossari @iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD htt ',negative
+mariadesireh,'RT @mdpennalunga @BarillariM5S rispondicon LIBERA PERCH ALTRA ASSOCIAZIONIA SERVONO @iostoconmarino @raffaeledstfn @FedeAngeli ',negative
+CapaccioMc,'RT @FedeAngeli Quando erano opposizione Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin ',negative
+Antony970,'RT @GrappaTommaso @iostoconmarino @giulianocossari @edocavalieri @FedeAngeli @BarillariM5S  bastata figuraccia @SabellaAlfonso ',negative
+Antony970,'RT @BarillariM5S @iostoconmarino @giulianocossari @edocavalieri @raffaeledstfn sabella incontrava balnearimarino ha fatto nulla 2 ',negative
+baloi361,'RT @giulianocossari @BarillariM5S @iostoconmarino @edocavalieri @raffaeledstfn inutile sono mala fede Buzzi finanziava PD no M5S  ',negative
+giulianocossari,'@GrappaTommaso @iostoconmarino @edocavalieri @FedeAngeli @BarillariM5S @SabellaAlfonso ho fatto sintesi pi preciso D ',negative
+enricopaoli1,'@iostoconmarino @eziomauro @ettoremaria @emiliomarrese @EmanuelaMortar purtroppo si ABBIAMO LETTO CARTE RIMBORS SOLO ',negative
+Antony970,'RT @BarillariM5S @iostoconmarino @mdpennalunga @raffaeledstfn @FedeAngeli attaccate ferrara intanto pd trattava mafia o ',negative
+giulianocossari,'@edocavalieri @GrappaTommaso @iostoconmarino @BarillariM5S MENTANA VOI PARLATE FORSE #M5S SENZA PROVA SIETE COINVOLTI OSTIA ',negative
+Bopava91,'RT @eluniel Avete estromesso @ignaziomarino perch preferite pranzi #iostoconmarino ',negative
+danieledvpd,'RT @FedeAngeli Perch attaccare me Chiediglielo #vergognabarillari @mdpennalunga @BarillariM5S @iostoconmarino @raffaeledstfn ',negative
+mauriziofdf,'RT @FedeAngeli Quando erano opposizione Xhanno elettoColloca FI vicepresidente @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarin ',negative
+AntonioSpadafo4,'RT @FedeAngeli S sono avvicinati diavolo pur dar legalit Buffoni collusi @iostoconmarino @BarillariM5S @raffaeleds ',negative
+FedeAngeli,'Fratello era societ Spada @mauriziofdf @BarillariM5S @mdpennalunga @iostoconmarino @raffaeledstfn ',negative
+giulianocossari,'@iostoconmarino @edocavalieri @BarillariM5S @raffaeledstfn @ignaziomarino camorra mafia peculato corruzione  PD ',negative
+BrokenwindowsRm,'RT @FedeAngeli S sono avvicinati diavolo pur dar legalit Buffoni collusi @iostoconmarino @BarillariM5S @raffaeleds ',negative
+Official_zanzi,'RT @AnnaGDato numeri parlano sapete parlate #iostoconmarino #Marino ',negative
+Monialustri,'RT @BarillariM5S @iostoconmarino @FedeAngeli @ignaziomarino e pd tassone regalava appalti concessioni amici m5s ',negative
+PiramideRossa,'RT @FedeAngeli Attaccare cronista minacciata mafia  fare gioco mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @ ',negative
+marcohilo,'RT @FedeAngeli Attaccare cronista minacciata mafia  fare gioco mafia #vergogna @mdpennalunga @BarillariM5S @iostoconmarino @ ',negative
+Balqis_3asal,'RT @AldoBenassi commissario #Sabella  gi pronto gestire dopo #Marino #Marinoresisti #iostoconmarino ',negative

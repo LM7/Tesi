@@ -46,17 +46,18 @@ public class GeneralSentiment {
 		String mentionPos2 = "ignaziomarino";*/
 		//List<String> wordsNeg = new ArrayList<String>(Arrays.asList("Messaggero", "Quotidiano", "Ilfattoquotidiano.it", "Ilfattoquotidiano", "ilmessaggero.it", "ilmessaggero"));
 		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube","YouTube.", "@YouTube:", "focus", "intervista", "@ArsenaleKappa:", "ultimenotizie", "commenta con noi", "sondaggi", "condividi", "clicca", "SkyTG24", "Renzi", "Crozza", "#Crozza:", "Crozza:", "#Crozza", "#Renzi", "#Renzi:", "Renzi:", "GoogleNewsItalia", "BreakingNews", "Solo News"));
-		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube", "YouTube.", "@YouTube", "Agenzia_Ansa", "nonleggerlo", "Fedeok7", "unitaonline", "ftartoni03"));
+		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube", "YouTube.", "@YouTube", "Agenzia_Ansa", "nonleggerlo", "Fedeok7", "unitaonline", "ftartoni03"));
+		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("theandymac65", "MarchinoSanchez"));
 		// -----
 		TweetTextMain tweetext = new TweetTextMain();
 		ArrayList<String> entities = new ArrayList<String>();
-		PrintWriter outFile = new PrintWriter("HelpSentimentMarquez/SentimentITAVeri.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("DatiMarquez/tweetMarquezitaClean.txt"));
-		File hashtagneg = new File("HelpSentimentMarquez/HashTagitaneg.txt");
-		File hashtagpos = new File("HelpSentimentMarquez/HashTagitapos.txt");
-		File rtneg = new File("HelpSentimentMarquez/RTitaneg.txt");
-		File rtpos = new File("HelpSentimentMarquez/RTitapos.txt");
-		File mentionNeg = new File("HelpSentimentMarquez/ScreenNamesitaneg.txt");
+		PrintWriter outFile = new PrintWriter("HelpSentimentMarquezEng/SentimentVeri.txt");
+		BufferedReader reader = new BufferedReader(new FileReader("DatiMarquez/tweetMarquezengClean.txt"));
+		File hashtagneg = new File("HelpSentimentMarquezEng/HashTagengneg.txt");
+		File hashtagpos = new File("HelpSentimentMarquezEng/HashTagengpos.txt");
+		File rtneg = new File("HelpSentimentMarquezEng/RTengneg.txt");
+		File rtpos = new File("HelpSentimentMarquezEng/RTengpos.txt");
+		//File mentionNeg = new File("HelpSentimentMarquezEng/ScreenNamesengneg.txt");
 		String line = reader.readLine();
 		String result = "";
 		SentiStrengthMain ss = new SentiStrengthMain();
@@ -126,16 +127,16 @@ public class GeneralSentiment {
 								result = "positiveVero";
 								posV++;
 							}
-							else {
+							/*else {
 								if (isInFile(mentionNeg, entita)) {
 									result = "negativeVero";
 									negV++;
-								}
+								}*/
 								/*else if (mentionPos.equalsIgnoreCase(entita) || mentionPos2.equalsIgnoreCase(entita)){
 									result = "positiveVero";
 									posV++;
 								}*/
-							}
+							//}
 						}
 					}
 				}
