@@ -3,6 +3,11 @@ DATE: 2015-11-09
 RT @Ste_F1: Cry all you want, the facts are  Lorenzo 7 wins  Marquez 5 wins  Rossi 4 wins  #NoArgument 
 positive
 
+USER: JedPB67
+DATE: 2015-09-27
+RT @marcmarquez93: Al mal tiempo siempre la mejor cara. / After an storm always a good face. ? @alexmarquez73  
+positive
+
 USER: TopperHarley26
 DATE: 2015-11-09
 RT @GP_Xtra: Nakamoto has come out in defence of Marquez saying Rossi's claims are the 'perception of one person' & 'not reality'  
@@ -23,6 +28,16 @@ DATE: 2015-11-08
 RT @MarchinoSanchez: Wake me up when i tweet su Marquez e Valentino Rossi end 
 neutral
 
+USER: 555Cruz
+DATE: 2015-08-30
+RT @FormulaOneWorld: Silverstone MotoGP: Rossi wins, Marquez tumbles
+neutral
+
+USER: reny_hikmawati
+DATE: 2015-10-19
+RT @box_repsol: #MalaysianGP  @marcmarquez93  @26_DaniPedrosa  #RepsolTeam Our special info graphic
+positive
+
 USER: bettybeatries
 DATE: 2015-11-09
 RT @MotoGP_FanClub: Congratulations Lorenzo&Marquez. You ruined #MotoGP championship  
@@ -32,6 +47,26 @@ USER: JJZX10r
 DATE: 2015-11-09
 @ValeYellow46 we all love you, marquez is a shamefull bodyguard, lorenzo just a piece of shit, so you can't stop racing ;) long live Vale!! 
 negative
+
+USER: mo_elliott
+DATE: 2015-06-27
+RT @btsportmotogp: Valentino Rossi wins the #MotoGP race at Assen from Marc Marquez and Jorge Lorenzo. #DutchGP  
+neutral
+
+USER: mbaulcombe
+DATE: 2014-11-09
+Huge congratulations @alexmarquez23. See you in Texas and Donnington next year  
+positive
+
+USER: mikeio_tkd
+DATE: 2014-08-26
+@marcmarquez93 Hope you packed your raincoat.  It's grim today! 
+positive
+
+USER: slowflat4
+DATE: 2014-05-09
+RT @marcmarquez93: Dando gas con la moto de supermotard en el circuito de Alcarr?s! / Training supermotard in Alcarras! ?  
+positive
 
 USER: maulanashev46
 DATE: 2015-11-09
@@ -47,6 +82,11 @@ USER: adhikadwi
 DATE: 2015-11-09
 @ValeYellow46 is the real winner. It's so crazy when you see Marquez become Lorenzo bodyguard... 
 negative
+
+USER: MC_Powersports
+DATE: 2015-10-18
+Sensational Marquez takes 8th pole position of 2015  
+positive
 
 USER: Simonsospan13
 DATE: 2015-11-09
@@ -124,6 +164,11 @@ DATE: 2015-11-08
 RT @MissBethAndrews: Can we just remember Marc Marquez and Jorge Lorenzo are actual human beings and their friends and families see this sh????????? 
 negative
 
+USER: ruthcarson92
+DATE: 2011-05-15
+RT @MotoRaceFeed: That, ladies and gentlemen, is why we are all Marquez fans.
+positive
+
 USER: gaetarob
 DATE: 2015-11-08
 RT @Jamesallenonf1: Great ride by @lorenzo99 but #Marquez needs to ask himself where priorities lie - made no effort to pass and blocked Pe????????? 
@@ -133,6 +178,16 @@ USER: Mr_slimjames
 DATE: 2015-11-08
 RT @steve17brogan: Valentino Rossi : Marc Marquez is a small fucking bastard ! ????????????????????????????????????  
 negative
+
+USER: FachruziUzi
+DATE: 2015-10-18
+RT @MotoGP: The battle for second continues to rage, @andreaiannone29 charges through on both @marcmarquez93 & @ValeYellow46  
+neutral
+
+USER: braderz46
+DATE: 2015-07-01
+RT @MotoGP: WATCH VIDEO. #MotoGP @lorenzo99 says where he stands on #RossiVsMarquez: 
+neutral
 
 USER: max_prabawa
 DATE: 2015-11-09
@@ -154,10 +209,20 @@ DATE: 2015-11-08
 RT @Miss_JenniG: Someone is a winner.. someone needs to grow up #marquez #thisisnotmotoGP #thisisnotfairplay #Valencia #iostoconVale  
 negative
 
+USER: TerryReeve
+DATE: 2015-10-18
+RT @marcmarquez93: No hay mejor lugar para lograr la victoria 50! / There isn't best track that Phillip Island to get my victory 50! ? 
+positive
+
 USER: TullioFlorio
 DATE: 2015-11-08
 @lorenzo99 Champion with help from Marquez. There is only true champion that does not win with cookie is @ValeYellow46 #iostoconvale 
 negative
+
+USER: moonymeia
+DATE: 2015-10-18
+RT @btsportmotogp: "That's the best lap of his life!" @JamesMToseland praises @marcmarquez93 on record-breaking lap. #AustralianGP  
+neutral
 
 USER: farichaa_RH
 DATE: 2015-11-09
