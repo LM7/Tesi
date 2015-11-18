@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 
 public class SupportTwitterNeo4jFromMe {
 	
@@ -67,7 +68,7 @@ public class SupportTwitterNeo4jFromMe {
 	public static void createFile(File file) throws Exception {
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
-		PrintWriter outFile = new PrintWriter("DatiVolkswagen/datiInizialiNeo.txt");
+		PrintWriter outFile = new PrintWriter("DatiWindows10/datiInizialiNeo.txt");
 		int cont = 0;
 		String appoggio = "";
 		while (line != null) {
@@ -75,7 +76,7 @@ public class SupportTwitterNeo4jFromMe {
 				appoggio = "ID: "+cont;
 				appoggio = appoggio + " " + line;
 			}
-			else if ( !(line.startsWith("DATE: ")) && !(line.contains("positive")) && !(line.contains("negative")) && !(line.contains("neutral")) ) {
+			else if ( !(line.startsWith("DATE: ")) && !(line.contains("positive")) && !(line.contains("negative")) && !(line.contains("neutral")) && !(line.equals("")) ) {
 				appoggio = appoggio + " " + line;
 				outFile.println(appoggio);
 				appoggio = "";
@@ -87,9 +88,47 @@ public class SupportTwitterNeo4jFromMe {
 		outFile.close();
 	}
 	
+	public static void rewrite(File file) throws Exception {
+		BufferedReader reader = new BufferedReader(new FileReader(file));
+		String line = reader.readLine();
+		PrintWriter outFile = new PrintWriter("DatiVolkswagen/datiIniziali.txt");
+		while (line != null) {
+			if ( !(line.contains("positive")) &&  !(line.contains("neutral")) && !(line.contains("negative")) ) {
+				outFile.println(line);
+			}
+			line = reader.readLine();
+		}
+		reader.close();
+		outFile.close();
+	}
+	
+	public static void getUsers(File file) throws Exception {
+		PrintWriter outFile = new PrintWriter("DatiWindows10/usersVecchi.txt");
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
+		String line = reader.readLine();
+		String[] splits;
+		ArrayList<String> users = new ArrayList<String>();
+		while (line != null) {
+			if ( (line.startsWith("USER:")) ) {
+				splits = line.split(" ");
+				if ( !(users.contains(splits[1])) ) {
+					users.add(splits[1]);
+					outFile.println(splits[1]);
+				}
+			}
+			line = reader.readLine();
+		}
+		outFile.close();
+		reader.close();
+	}
+	
+	
 	public static void main(String[] args) throws Exception {
 		//File file = new File("DatiVolkswagen/datiIniziali.txt");
+		File file = new File("DatiWindows10/datiIniziali.txt");
 		//createFile(file);
+		//rewrite(file);
+		getUsers(file);
 	}
 
 }

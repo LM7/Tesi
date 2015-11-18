@@ -30,7 +30,9 @@ public class TwitterNeo4j {
 		RT
 	}
 
-	private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4j-community-2.3.0-M01/data/graph.db";
+	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jVolkswagenNow/data/graph.db";
+	private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jWindows10Now/data/graph.db";
+	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4j-community-2.3.0-M01/data/graph.db";
 	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jengland/data/graph.db";
 	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jspain/data/graph.db";
 	private Index _entitiesIndex ;

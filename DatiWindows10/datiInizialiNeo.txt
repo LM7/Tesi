@@ -1,0 +1,806 @@
+ID: 0 USER: teddystiles RT@Tableteer: How I feel about #Windows10 and #IOT :) 
+ID: 1 USER: The_Girl971 I switching back to Windows 8.1 tomorrow...fuxk that. #Windows10
+ID: 2 USER: Tableteer How I feel about #Windows10 and #IOT :) 
+ID: 3 USER: nestor822 RT@windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial:  
+ID: 4 USER: contactmzn #Windows10 will be available for existing phones starting December by mobelmedia 
+ID: 5 USER: KBC00PER That's a nice change of view! Didn't even know to expect it yet!!! #windows10 #xbox #xboxo?  
+ID: 6 USER: SelAromDotNet I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
+ID: 7 USER: lovelay_xo I hate #windows10 update just give me my windows 8 back
+ID: 8 USER: saffronistah RT@andrewpickup: New Yorker: Microsoft's Very Good Day.  #msft #windows10 #surface #newyork
+ID: 9 USER: GoodHealthWorks Microsoft's new #Lumina phones 950 ($749) and 950 XL ($849) include 20 MPcameras interlinked with Windows10 across devices. AllinTorStarBus
+ID: 10 USER: djedmuzic #NXTTakeOverRespect  is first event iam watching using the @WWENetwork  app for #Windows10
+ID: 11 USER: The_Girl971 Ok why won't any of my videos play? #Windows10
+ID: 12 USER: DanialPooran RT@helpdeskathome1: Before you reach for the recovery discs, try this scan to fix problems in #Windows10!  #microso?
+ID: 13 USER: froemke RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 14 USER: infosecuritweet RT@TheHackersNews: TIP: How to Activate GodMode in #Windows10  
+ID: 15 USER: hlabadi I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
+ID: 16 USER: alwasat_tech #Windows10 will be available for existing phones starting December 
+ID: 17 USER: mobelmedia #Windows10 will be available for existing phones starting December 
+ID: 18 USER: mbah360 RT@windowsdev: Learn how you can build #Windows10 games with @Unity 5 in this @MSVirtAcademy tutorial:  
+ID: 19 USER: mbah360 RT@windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
+ID: 20 USER: hsdaustralia Good to see @MSAU doing #security #enhancements for #Windows10! @iTnews_au @niftytech_news @womenlovetech #safety 
+ID: 21 USER: ejruthenberg @XFINITY When will you have a Windows10 universal streampix application?
+ID: 22 USER: helenango RT@WeAreListen: .@Microsoft unveiled a new era of #Windows10 devices yesterday. Check out the recap if you missed the big announce: 
+ID: 23 USER: Windows10Info Anyone else having HUGE issues with google music's web player right now? [Windows 10 +...  
+ID: 24 USER: CsharpCorner Security Enhancements in #Windows10 by @rali57554 CC @CsharpCorner  
+ID: 25 USER: smokeyrises RT@CDNThe3rd: Also #Windows10 messed up my prgms[OBS, Skype, TeamSpeak] frm being able 2 detect my recording device[Mic]. But My PC detect?
+ID: 26 USER: DellSysMgmt #Windows10 enhancements for #endpoint security ? preventing desktops + servers from being infected by malware: 
+ID: 27 USER: TranxitionSoft Time to use #Migrate7: #Windows10 Momentum up as @Microsoft launches #SurfaceBook and #SurfacePro4  via @SSforWindows
+ID: 28 USER: helpdeskathome1 Before you reach for the recovery discs, try this scan to fix problems in #Windows10!  #microsoft #office2016
+ID: 29 USER: Windows10Info Microsoft reveals first-ever laptop, Surface Book video - CNET  
+ID: 30 USER: Sigit_free RT@Windows: Fitness bands got personal, and so has Windows. It's time to upgrade to #Windows10:  
+ID: 31 USER: Mracket RT@NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" -  #ConfigMgr #SCCM #Windows10 #MDT
+ID: 32 USER: paidsupportinc NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
+ID: 33 USER: JayTechTV #PS4 had 1 #PriceCut in #Japan and this is what happened to the #XboxOne #XB1 #Xbox #XboxLive #XBL #XBOT #Windows10 
+ID: 34 USER: kinwalker 0.9 megapixels ? #Lumia830 #windows10 
+ID: 35 USER: NikitinIlya Hands-on with #Microsoft ?s #SurfacePro 4 and Surface Book #windows10 by @VentureBeat 
+ID: 36 USER: PeterHGiftos @Windows first Windows used was 3.0, started out with DOS 2.0. #Windows10 is the best yet. I had Windows Mobile on a phone in 2007.
+ID: 37 USER: jpigott With #windows10 #continuum will #cisco create an #anyconnect #windowsstoreapp ?? Please!!!
+ID: 38 USER: GersoRobert RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 39 USER: majjor_tom RT@Lumia: @fracapri92 Windows 10 on other devices will begin rolling out in November. For more info, head over here ?> 
+ID: 40 USER: icySTARS2 RT@prepayasyougo: Microsoft October 2015 launch event: What devices to expect  #Windows10 #Mobile 
+ID: 41 USER: BemepPartyboy RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 42 USER: 3187798 RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 43 USER: joreinablanco Finally! Windows10. :)
+ID: 44 USER: cfrinvest RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 45 USER: DariyaMkevich RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 46 USER: cazdonz2 RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 47 USER: nodenow Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how 
+ID: 48 USER: nodenow The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working toda? 
+ID: 49 USER: ggameself RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 50 USER: Windows10Info Microsoft unveils new Lumia 950 phone  
+ID: 51 USER: HotgirlAngelina RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 52 USER: apocriva Well here goes nothing... #Windows10 
+ID: 53 USER: twityoufast RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 54 USER: moyinoluwa_mm Details About Upcoming HP Envy 8 Note...  #Envy8Note #HP #Microsoft #Tablet #UpgradeYourWorld #Windows #WINDOWS10
+ID: 55 USER: Veki551155 RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 56 USER: antoinewelch456 RT@LNPServices: #HP Announces New PCs Built to Deliver Amazing Experiences Made Possible by #Windows10 -  
+ID: 57 USER: MrStephenMiller #Windows10 @Microsoft wtf... 2 hours of my life was wasted updating my @hewlettpacka_dp envy yesterday now today
+ID: 58 USER: eross #Windows10 randomly shit the bed on me. Recovery and repair tools failed. Reinstalling and keeping my data failed. Luckily windows let's me?
+ID: 59 USER: CDNThe3rd Also #Windows10 messed up my prgms[OBS, Skype, TeamSpeak] frm being able 2 detect my recording device[Mic]. But My PC detects it. Any1 else?
+ID: 60 USER: ParisofPrairies #blackberry may be #boring but #reliabletech which is more than I can say for #Windows10! #BooMicrosoft #FrequentCrashes, make #BBemail ncsy
+ID: 61 USER: justreadout Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
+ID: 62 USER: justreadout Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
+ID: 63 USER: CEEKTechnology TIP ? Unlock #Windows10 260+ Hidden Settings with God Mode. posted by @TheHackersNews
+ID: 64 USER: kenflagg Sorry, @microsoft, but #windows10 is a dud.  Going back to 8, which also sucks, but need the Thunderbolt support. 
+ID: 65 USER: ServerPals Get Node Gyp #nodejs #windows10 and #visualstudio to work together! Check out how 
+ID: 66 USER: WindowsAU Who knows what he might find on Mars? #Windows10. Do great things.  
+ID: 67 USER: azzh316 As Gandalf would say: "So it begins." #windows10 
+ID: 68 USER: Fahdsons #Deals #529  Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One Desktop #la? 
+ID: 69 USER: Applications2U The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
+ID: 70 USER: nullivex The battle with #nodejs #nodegyp and #visualstudio are over on #windows10 check out how to get builds working today. 
+ID: 71 USER: dschouse Just got my free upgrade to windows 10...a little unsure about it.  Anyone else out there upgrade from 7 to 10? #Windows10
+ID: 72 USER: stevegereb #Windows10 Development for Absolute Beginners - 
+ID: 73 USER: TechNetNZ Our #Windows10 IT Camps are just around the corner! Have you reserved your seat? 
+ID: 74 USER: azzh316 Me waiting for #windows10 to update. Curiosity has beaten me. 
+ID: 75 USER: azzh316 Well... This should be fun... #windows10 
+ID: 76 USER: msftmfg .@HP Offers Premium #Windows10 PCs for the World #manufacturing 
+ID: 77 USER: torresfrisqo How to Activate GodMode in Windows 10  via @TheHackersNews #Security
+ID: 78 USER: OIGEL #Windows10 #Mobile ? Windows 10 Mobile is coming to Windows Phone devices in December ? Microsoft d...  - #Windows
+ID: 79 USER: OIGEL #Windows10 #OS ? Windows 10 Mobile Rollout to Begin in December, Says Microsoft ? Microsoft has con...  - #Windows
+ID: 80 USER: EdTechRetweet RT@dwdeeds: A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl  
+ID: 81 USER: dingl_ A Windows Store update is avaiable #Windows10 
+ID: 82 USER: ryanhassall #Windows10 devices and what it means for you!
+ID: 83 USER: SrikanthNair No doubt #Windows10 mobile will shape into a great OS soon but I'd forgotten how quick and stable Windows Phone 8.1 was on my #Lumia930.
+ID: 84 USER: hashmi9111 Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules @Eva... (Vine by @JoshDarnit) 
+ID: 85 USER: dwdeeds A New Era of Windows 10 Devices from Microsoft #microsoft #edtech #windows10 via @gopikl  
+ID: 86 USER: Darthgreg78 RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 87 USER: davidsmi I just ordered a Surface Dock to review on @SurfaceSmiths podcast #windows10 
+ID: 88 USER: chmx RT@Pete_Brown: Is the PC dead? No. We've expanded what you call a PC and how you use your phones and devices to do more. #Continuum #Windo?
+ID: 89 USER: dinogoldie fao techy tweeps! I've got sound (mp3s/vids/etc) on my #Windows10 PC but for some reason, desktop sounds/notifications are muted? Wha gwan?
+ID: 90 USER: Mohd631Amir @windowsblog When shall we get windows10 For windows phones?
+ID: 91 USER: DreySecurity15 RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 92 USER: sakurasasku RT@goodsolitaire: Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
+ID: 93 USER: H5PAHezry RT@TechFrag: #Windows10 Mobile Comes out in December; Here?s the List of Supported Smartphones  
+ID: 94 USER: goodsolitaire Catalan is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
+ID: 95 USER: NeilNuttall Looks like the #Windows10 Business Store is getting closer. #whysolong 
+ID: 96 USER: chmx #Continuum and a focus on Enterprise might save #WindowsPhone. #windows10 #lumia 
+ID: 97 USER: Win10life RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 98 USER: teddystiles RT@MoaskeFoto: Oh well, hello there @TweetiumWindows 4.0 Universal Windows Platform app! :-) #windows10 #tweetium #awesome 
+ID: 99 USER: mike_marable RT@SCCMentor: Hallelujah!!  VM's back. #Windows10 - Build 10547
+ID: 100 USER: kingofcanoe @thejasonmack I wish #Microsoft would stop telling me to upgrade to #Windows10 --I'm just getting used to #Windows7 :(
+ID: 101 USER: AlbertoRocaltas RT@DavideZordan: Latest #Windows10 mobile build looks very good: used today with primary phone without issues. Also battery life improved ?
+ID: 102 USER: MICROSOFT_USAF RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 103 USER: CEEKTechnology #TY @TheHackersNews TIP ? Unlock #Windows10 260+ Hidden Settings with God Mode.
+ID: 105 USER: OfficialTrace09 #MissedThis? Microsoft Announces Windows 10 - Take  #microsoft #mobile #operatingsystem #os #pc #windows #windows10
+ID: 106 USER: yogaretnam Lumia 950 and 950 XL hands-on: Windows Phone is back  #windows10 #lumia950 #microsoft
+ID: 107 USER: beshannonphotos @MarketWatch no I like my MacBook. No #Windows10 to deal with
+ID: 108 USER: dunnee88 A long process, but I have to say #Windows10 is dope.
+ID: 109 USER: Abhishek_PC RT@dailylinuxuser: An Everyday Linux User Review Of Microsoft #Windows 10  #Linux #reviews #windows10
+ID: 110 USER: H_Y_Clayton Stand by for the second attempt with #Windows10 on my desktop!
+ID: 111 USER: Windows10Info Microsoft's CEO shared a surprising motive for Windows phones? coolest feature  
+ID: 112 USER: raspen0 RT@CrucialMemory: Do you know how to enter @Windows10 Safe Mode? Now you can:  @LincolnSpector
+ID: 113 USER: drenton72 Some amazing new #Windows10 devices coming soon  @HoloLens @windows10_news @Microsoft
+ID: 114 USER: ilfurio RT@stevedeft: How to Activate GodMode in Windows 10 
+ID: 115 USER: carloslonegt RT@MSEmpresasLatam: #TheNewOffice Apps: Built for teamwork, Perfect for #Windows10, Works for you" #LatamCXOForum John Case
+ID: 116 USER: ThayneMadrid RT@designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
+ID: 117 USER: CISBSC RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 118 USER: bootstrapcsnyc RT@designboom: extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
+ID: 119 USER: kaceti_company RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 120 USER: ShirlLacsamana RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 121 USER: fantomaster How to Activate GodMode in Windows 10 - 
+ID: 122 USER: tdbeadles You're all invited! (#Microsoft #Windows10 #DELL #Intel #McAfee #Google #Apple #ATT #Comcast #Logitech #USA) (http://t.co/AeWedaQhAX)
+ID: 123 USER: eawajioniro RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 124 USER: Baytoo RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 125 USER: techhelpkb Windows 10 sees people ditching IE -- but Chrome wins out, not Edge  via @BetaNews #IE #Chrome #Edge #Windows10
+ID: 126 USER: Nerd_Herd_Tweet RT MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 127 USER: josequinonesii RT@MSFTnews: 10 ways to win w/ #Windows10 in the classroom  
+ID: 128 USER: jodonnel RT@msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
+ID: 129 USER: TPIparanormal Hey guys been trying to work more on Ashmore please bare with us! Between issues with #windows10 and our limited schedules to put together.
+ID: 130 USER: nichepear designboom : extensive lineup of flagship #devices for #Windows10 platform unveiled by Microsoft ? 
+ID: 131 USER: avemacorp #Windows10Mobile is coming to #Windows #Phone devices in December  @VentureBeat #Microsoft #Windows10
+ID: 132 USER: MSFTnews 10 ways to win w/ #Windows10 in the classroom  
+ID: 133 USER: Ninawa_sff4 Deal of The Day :  Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-One ? 
+ID: 134 USER: jimjfletcher RT@GoodThings2Life: As a Microsoft and T-Mobile fan, I'd love for @JohnLegere to invite @satyanadella on stage at the next Uncarrier event?
+ID: 135 USER: designboom extensive lineup of flagship #devices for #Windows10 platform unveiled by @Microsoft  
+ID: 136 USER: GoodThings2Life As a Microsoft and T-Mobile fan, I'd love for @JohnLegere to invite @satyanadella on stage at the next Uncarrier event! #Windows10
+ID: 137 USER: MedicineGeek RT@msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
+ID: 138 USER: trav6612 RT@hintbw: Work IT just asked if I would like to pilot Windows10 on my work laptop - "Yes sir, thank you very much" was my reply. Win10 he?
+ID: 139 USER: SimonDarksideJ RT@msdev: Now this is an #IoT starter kit. Get ready for some awesome updates to #Windows10 IoT core:  
+ID: 140 USER: Windows10TpNews Microsoft Lumia 950 and 950 XL: Power has never been so light  via @redzoneemb 
+ID: 141 USER: TomMSFT Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show 
+ID: 142 USER: WBuzzer Defrag: #Windows10 Upgrade Tips, #Microsoft IoT Starter Kits, #Windows To Go and more? | The Defrag Show 
+ID: 143 USER: XDAGarwynn RT@ORIGINPCCEO: Xbox One Wireless controllers finally coming to PC!!  So excited!!  #pcgaming #windows10 
+ID: 144 USER: EnghLabs RT@programmableweb: Can Microsoft get back its Mojo with #Developers? #Windows10 
+ID: 145 USER: mayra_str RT@HPSupport: For free tips & tricks on #Windows10, be sure to join us on #HPExpertDay on October 14th: 
+ID: 146 USER: Stan_Stinson Upgrading to #Windows10 ? Backup with @Carbonite 1st!  Don't risk losing your pictures & files! 
+ID: 147 USER: ocean_bluEyes Free #Windows10 training in #YYC   
+ID: 148 USER: saisharma99 RT@msretail: .@HP Offers Premium #Windows10 PCs for the World  
+ID: 149 USER: zsattler RT@NickolajA: New blog post: "MDT Factory Tool - Version 1.0.2 has been released" -  #ConfigMgr #SCCM #Windows10 #MDT
+ID: 150 USER: TechieSense Have you seen our list of new features that you just might not know about in #Windows10?  
+ID: 151 USER: PrincetonBrooke Testing this #MicrosoftEdge #Windows10 #WebNotes on No. 7 LSU too much for displaced South Carolina, 45-24
+ID: 152 USER: OIGEL #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso...  #microsoft #Windows
+ID: 153 USER: kurtsh RT@MichaelGillett: Some new #Windows10 wallpapers. Download from  #Windows10Devices 
+ID: 154 USER: marlon_alcides RT@windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
+ID: 155 USER: Kaidinn Microsoft is downloading #Windows10 to your machine 'just in case'  #opnewblood #yand
+ID: 156 USER: pacojour RT@Lumia: The Office in your pocket with #Windows10. Learn more:  
+ID: 157 USER: SheikhHassanCD RT@msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
+ID: 158 USER: MabsStudio RT@Asurion: #Windows10 mobile rollout begins December 2015 #OS 
+ID: 159 USER: UTexJim RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 160 USER: Kaidinn Microsoft is downloading #Windows10 to PCs, even if you don?t ?reserve? a copy  #opnewblood #yand
+ID: 161 USER: amsimes Windows 10 is a glossy pile of shit.Choose any other option! #Microsoft #Windows10 #Bloatware #timesink #FAIL
+ID: 162 USER: harishchand314 RT@CsharpCorner: How To Reset and Create a New PIN in #Windows10 by @BgGaur CC @CsharpCorner  
+ID: 163 USER: Kaidinn #Windows10 Worst Features Installed On Windows 7 And Windows 8 - Twice   #opnewblood #yand
+ID: 164 USER: shopl RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 165 USER: Aakash006sharma RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 166 USER: OIGEL #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with...  - #Microsoft
+ID: 167 USER: lumiafanclub RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 168 USER: FungkyTweets Windows 10, been fine for the last 3 weeks since install,  fine yesterday,  today... #windows10sadface #windows10 
+ID: 169 USER: darkdoor #Microsoft to Kill the #ControlPanel in Future #Windows10 Builds 
+ID: 170 USER: JoDeMoscovaki #Windows10 on #XboxOne: What it really means for gamers 
+ID: 171 USER: sumitkm Well then... it happened! "Billion minus 2" #windows10
+ID: 172 USER: jay53102 Microsoft Edge Web Notes on jj watt - Bing Images..... #windows10 
+ID: 173 USER: nashfrias The Microsoft Surface Pro 4 & Surface Book  #microsoft #surfacepro4 #surface #surfacebook #windows10 #laptop #tablet
+ID: 174 USER: knight_pjc @RobertsSpaceInd Hi, looking at Squadron42 pre-order page, some feedback - u r missing windows10 in the PC requirements section /1
+ID: 175 USER: JPinleyBorek I just downloaded Windows10.  I'm not sure what I think of it.  It won't let me scroll on my laptop like it used... 
+ID: 176 USER: stephen_victor The Start screen experience should more closely mimic the full #Windows10 Start ux.Why isn't the app list at left?And more screens at right?
+ID: 177 USER: DaFitzster @XboxSupport on the @Xboxone it's hard to tell which item is selected with the #Windows10 update. The white outline is distinct enough.
+ID: 178 USER: 143Regineforevs RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 179 USER: stephen_victor The #Lumia830 I got from CL came with #Windows10 Mobile. Great improvement over 8.1 but buggy as hell. Had to rollback to 8.1. Sad about it
+ID: 180 USER: stevegereb #Windows10 is poised to bring the Internet of Things to its full potential - 
+ID: 181 USER: OIGEL #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments o...  - #Windows
+ID: 182 USER: getwired RT@Spatacoli: Is there anyway to turn off those annoying "try Office for One Month Free" notifications in #Windows10?
+ID: 183 USER: shnrvr82 @godless_mom @Apple The problem is buying Apple products. :p #Windows10 #Windows10devices #RazerBladePro #4KHQ #PerformanceMatters #PC
+ID: 184 USER: Hajj_Adnan #Windows10 #MicrosoftEdge #Cortana seriously @Microsoft have nailed it this time absolutely brilliant. Well done @MSAU @WindowsAU
+ID: 185 USER: joelsef May have been a mistake to take the #Windows10 Insider Preview fast track. Stuff has started breaking again after being stable. #myfault
+ID: 186 USER: Darthgreg78 RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 187 USER: windevsdotnet Here's a great new #Windows10 learning resource from @ch9 and @bobtabor  ... Windows 10 for Absolute Beginners
+ID: 188 USER: snoopy6602 RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 189 USER: Mark_Northall RT@pcmobilerepair: 14 reasons not to update to #windows10 
+ID: 190 USER: Spatacoli Is there anyway to turn off those annoying "try Office for One Month Free" notifications in #Windows10?
+ID: 191 USER: manojrajput23 RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 192 USER: Rana_48re Check out this Deal >  #4920 Nvidia Quadro NVS 510 2GB Quad DisplayPort DVI Windows10 PCI-E? 
+ID: 193 USER: JudaZuk RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 194 USER: justreadout Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
+ID: 195 USER: justreadout Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
+ID: 196 USER: 835s0t Read my stylus: the @HP  x2 with #Windows10 is a perfect 10 #BendTheRules (Vine by @Jason23Nash) 
+ID: 197 USER: marcodalpino RT@LocalJoost: "#Windows10 maps part 6 - scenes and camera"  #UWP #wpdev #wpnl
+ID: 198 USER: GiftedPrude Disk check w/ repair hangs on two separate machines at 10% & 11% respectively. Then blue screen to restart. #Windows10 @WindowsSupport
+ID: 199 USER: MahmoodTolba RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 200 USER: choubeychandan RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 201 USER: zamiruddin #Microsoft forced me to upgrade to #Windows10.. was unable to change tonight's scheduled update. With? 
+ID: 202 USER: sriramaa #HPSpectre x2 hands-on: A 4G homage to #Surface #Windows10 
+ID: 203 USER: digiscopeonline RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 204 USER: nayanikap RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 205 USER: MamaBearCoach68 RT@LumiaUS: The Office in your pocket with #Windows10. Learn more:  
+ID: 206 USER: prettyconfusd #Microsoft's 'you are the hub' #Windows10 #strategy is about us and here is why it matters. 
+ID: 207 USER: techhelpkb Did Microsoft's Windows 10 Mobile Gain Alphabet Inc's Blessing?  #Windows10 #Alphabet
+ID: 208 USER: LumiaUS The Office in your pocket with #Windows10. Learn more:  
+ID: 209 USER: Eshbaugh @Microsoft has returned to it's multi-os roots.  Free #Windows10 #VirtualMachine that run on #Linux and #Mac 
+ID: 210 USER: ChristianInst RT@SammyGikonyo: I?m ready for #Windows10. Are you? Wear the badge and show the love.  
+ID: 211 USER: ELIZABETHLIZA16 RT@goodsolitaire: Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
+ID: 212 USER: TheJackah RT@VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know  
+ID: 213 USER: goodsolitaire Double Bisley is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
+ID: 214 USER: BigJayLittle Oh the irony: PC shipments are down because #Microsoft made it easier for people to upgrade to #Windows10 
+ID: 215 USER: techie_ta @Windows @WindowsSupport tried to upgrade to #windows10 and this happened 
+ID: 216 USER: madmaxtr Windows 10 : Windows 10 Servicing Branches 
+ID: 217 USER: FixWindows10 Windows 10 How-To: Xbox on Windows  #windows10
+ID: 218 USER: alexanderoldham @Microsoft @Windows Very unhappy. Was looking forward to #Windows10, but it had caused my laptop hard-drive to fail twice. Fix the bugs!
+ID: 219 USER: startech20 RT@Windows: .@Dell amplifies the power of #Windows10 with incredible new machines:  #Windows10devices 
+ID: 220 USER: AFourTech #Windows10: Important Updates You Shouldn?t be Missing Out #MicrosoftWindows  
+ID: 221 USER: Kickingseven RT@WindowsSupport: Having an audio issue on your #Windows10 device? Check out this video: 
+ID: 222 USER: mrko_84 Does #Windows10 still suck or am I good to upgrade now? Anyone?
+ID: 223 USER: StevenGrondell RT@JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
+ID: 224 USER: brianbeckham RT@BrainJocks: Learn how to resolve an issue with #Sitecore's language resolution on #Windows10 on the newest jockstothecore post: 
+ID: 225 USER: OIGEL #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments ov...  - #iPhone
+ID: 226 USER: carlesdijous 4 Free Internet Tools For #Windows10.  #apps #IP #network #speed
+ID: 227 USER: darkdoor #Windows10 #ADK: New features and deployment - 4sysops 
+ID: 228 USER: TchTlkYT The hate I have for #Windows10... I don't think anybody will understand, now the video player isn't opening and when I tell it to sleep or
+ID: 229 USER: AftertheEcho I think Microsoft's new strategy is to annoy me into upgrading to Windows10, their reminder app keeps visibly crashing every few hours.
+ID: 230 USER: Windows10TpNews Microsoft's 'you are the hub' Windows 10 strategy is about us and here...  via @windowscentral 
+ID: 231 USER: OIGEL #Windows10 #PC ? Gartner, IDC: PC shipments still decreasing, Windows 10 to blame ? PC shipments...  - #Microsoft
+ID: 232 USER: darkdoor #Windows10 Device Bonanza, #Lumia Struggle: #Microsoft Roundup - InformationWeek 
+ID: 233 USER: RickBudar RT@WBuzzer: Uber integration for #Cortana shows up on #Windows10, doesn?t work yet though  
+ID: 234 USER: Windows8point1 RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 235 USER: burstload RT@JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
+ID: 236 USER: robertoblake My thoughts on #Windows10 vs #Mac OSX #MacVsPC #Tech
+ID: 237 USER: Gtaro007 RT@MSFT_on_Reddit: No updates or new apps from the store are installing submitted by unknownman19 to Windows10[lin?
+ID: 238 USER: tremonta RT@HPSupport: Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: 
+ID: 239 USER: zsmahi RT@msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
+ID: 240 USER: ajaykumarsingh Windows 10: Critical Error ? Start menu and Cortana aren?t working problem Solved #Windows10 
+ID: 241 USER: _Ashbasher Cannot wait to have this running on my MBP alongside El Capitan... #Windows10 #ElCapitan #Mac? 
+ID: 242 USER: HPSupport Bring all your #Windows10 questions to the Experts on #HPExpertDay on October 14th: 
+ID: 243 USER: _Ashbasher Macdows. The best of both worlds. #Mac #Windows #Macdows #OSXElCapitan #Windows10 #ParalellsDesktop11 
+ID: 244 USER: MailFreeStuff RT@windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users:  
+ID: 245 USER: MSFT_on_Reddit No updates or new apps from the store are installing submitted by unknownman19 to Windows10[link] [12 comments]
+ID: 246 USER: SheltonLSmith The hate I have for #Windows10... I don't think anybody will understand, now the video player isn't opening and when I tell it to sleep or
+ID: 247 USER: thewinthusiast regram windows We declare today Unofficial #Windows10 Day - now go out and #DoGreatThings. 
+ID: 248 USER: infonyourmark #Microsoft #Hololens demo at #Windows10 devices event  via @YouTube
+ID: 249 USER: OIGEL #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the conso...  #microsoft #Windows
+ID: 250 USER: AnnWalthour RT@goodsolitaire: New #Windows10 Build for PCs Not Yet Ready  via @bgdftw
+ID: 251 USER: aalzah66 RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 252 USER: ralabanza @Microsoft several issues with #Office365 error message please advise #Windows10
+ID: 253 USER: GIJoe50000 Does anybody actually use #Windows10 mail? It's so horrible..
+ID: 254 USER: johnwhalvin So it begins #Windows10 
+ID: 255 USER: Jamie2927 RT@JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
+ID: 256 USER: Windows10Info I'm back!! Set-Up Video :) #Playstation3 #EmersonKaraoke #Tokyo #MicrosoftWindows #HTC...  
+ID: 257 USER: johnwhalvin #Windows10 I'm going for it
+ID: 258 USER: Kvng_omar Realised that after installing #windows10 on my system, it's worth it tho
+ID: 259 USER: tomi01uk RT@TheWebrocker: Every version of #Windows after XP sucks horribly, then #Windows10 is a freaking #NIGHTMARE, #WindowsXP was the last GREA?
+ID: 260 USER: MSFT_on_Reddit In-depth Web browser testing shows Edge to offer excellent performance, but lacking standards compliance submitte?
+ID: 261 USER: tomi01uk RT@Rixalabur: Amazing on how many levels #windows10 still sucks as a UI. You know, the thing it is supposed to be? DirectX is its saving g?
+ID: 262 USER: jibranjamshad RT@msdev: Free downloads, tools & universal app templates to help you build for #Windows10  RT & share! 
+ID: 263 USER: zealacedigitals " New #Windows10 Build for PCs Not Yet Ready  via @bgdftw"
+ID: 264 USER: TheMilesCollins I hope to see the day #Windows10 finally downloads before I die. I am forty seven. I am not optimistic.
+ID: 265 USER: baggyem 3rd time lucky #Windows10 
+ID: 266 USER: FibroJedi Gah, the #Windows10 Apple Bootcamp update screwed up my ability to adjust screensize. Can't game like this (headache). Trying another way.
+ID: 267 USER: iambillmccann Ouch. #windows10 just crashed...had to hard-boot.
+ID: 268 USER: goodsolitaire New #Windows10 Build for PCs Not Yet Ready  via @bgdftw
+ID: 269 USER: thehacking3112 RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 270 USER: Cassius335 If #Windows10 Drivers could become available for my formerly Windows 8.1 machine, that'd be great. #BSOD #Again
+ID: 271 USER: StormCloudUSA RT@Office365: Say hello to #TheNewOffice on #Windows10! Instantly log into your PC and Office. Learn more:  
+ID: 272 USER: OIGEL #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the console-with...  / #microsoft
+ID: 273 USER: YoubidderJarvis Ebay Bid Last Second RT?  Asus Zenbook Ux31e 13.3",windows10 Installed, Ssd 256gb,intel I5-2557m  4gb  ?Please
+ID: 274 USER: Tch_Tlk The hate I have for #Windows10... I don't think anybody will understand, now the video player isn't opening and  when I tell it to sleep or
+ID: 275 USER: lukmanh_nihil I just lost all 3 years worth of photographs in my #windows10 system. Who knew that the forced integration of OneDrive made me lose all.
+ID: 276 USER: kubernan Surface Pro 4 #WindowsCube #Windows10 
+ID: 277 USER: ApplesYQD @ClashofClans is it some plan on windows10?
+ID: 278 USER: AlfieR2 @RVsupport when I try to play the video tutorials within propresenter5 it doesn't work. No errors. I have windows10 & QuickTime installed
+ID: 279 USER: dougwilson Does anyone still Boot to VHD?  Can you do it with #Windows10 on a #MacBookPro and Boot Camp?  @shanselman
+ID: 280 USER: kubernan Windows Phone Hubs #WindowsCube #Windows10 
+ID: 281 USER: Immavmav Windows10
+ID: 282 USER: pdparisi How To: Fix the Excel File Slow-to-Open Bug in Windows 10  #Windows10 #Excel 
+ID: 283 USER: bryanporte RT@windowsdev: Test your app yourself with the #Windows10 App Certification Kit before you submit. Go here:  
+ID: 284 USER: bryanporte RT@windowsdev: Learn how you can generate promo codes in your #Windows10 app to recruit new users:  
+ID: 285 USER: bryanporte RT@windowsdev: Just getting started? Create your first #Windows10 app with this tutorial:  
+ID: 286 USER: exanimis RT@MSLearning: Devs: Want to get #Windows10 Certified? Learn about the new MCSD: Universal Windows Platform:  
+ID: 287 USER: juanpaixa RT@MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10  
+ID: 288 USER: MCHerbieD Finally to #Windows10. 
+ID: 289 USER: FuriousRad The new #Microsoft Surface looks amazing! Bravo Microsoft! #Windows10 #SurfaceBook
+ID: 290 USER: paidsupportinc NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
+ID: 291 USER: JGAITPro RT@MSFTnews: VIDEO: @ASUS announces new gaming PCs built for #Windows10  
+ID: 292 USER: Fleischyy RT@VodafoneUK: Excited for #Windows10 for mobile & the new #Windows10devices? Here's all you need to know  
+ID: 293 USER: jeffrostwit RT@bertha_dyer: Microsoft Windows 10 Review  #Windows #Windows10 (via @TechLilaBlog)
+ID: 294 USER: honesgirl I expected things to be slow+tricky at the start of #Windows10 -now I've got programs that won't open all of a sudden and a lost HD - AGAIN.
+ID: 295 USER: CaptainCuthill Been playing #Asphalt8 on #Windows10 just time iv been on my pc for enjoyment in a long time. Loving it partly because am winning
+ID: 296 USER: Damian_Garcia28 RT@JoshDarnit: Warning: not everything detaches like the @HP x2 with #Windows10 #HPBendTheRules 
+ID: 297 USER: SgtLukeThornton How to Activate GodMode in Windows 10  via @TheHackersNews #Security #Windows10
+ID: 298 USER: MCPA_StLouis How to Activate GodMode in Windows 10  via @TheHackersNews #Security #Windows10
+ID: 299 USER: OIGEL #XboxOne #Windows10 ? Microsoft?s New Xbox One Experience brings Windows 10 onto the consol...  #gplus #Googleplus
+ID: 300 USER: REBailey_99 RT@Kriti_Kapoor: Need help with #Windows10? Join #HPExpertDay | October 14th, 7am to 7pm PT |   #custserv 
+ID: 301 USER: abid381a #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty @abid381a 
+ID: 302 USER: abid381a #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty @abid381a 
+ID: 303 USER: StartupMfactory How to activate build 10565 ? Any idea anyone? #Windows10 #Build10565 @WindowsUK @windows10builds
+ID: 304 USER: abid381a #Microsoft #Windows10  #Insider Preview Build 10565  more fast and more beauty 
+ID: 305 USER: Jrx818 Aaah #FableLegends I'm such a monster at being a villain ? and I love it. #XboxOne #Windows10 @LionheadStudios
+ID: 306 USER: IncreXible .@Corsair @googlechrome @kaspersky Some threads:  and  and 
+ID: 307 USER: Kemlyn_IT RT@MSMarketingTeam: The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
+ID: 308 USER: Kemlyn_IT RT@CustomSys: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
+ID: 309 USER: Fernandezc4 Re-Watching the Microsoft Devices Event w/ good friend @artykel & getting re-inspired. #windows10 #microsoftmondays 
+ID: 310 USER: Windows @Mateenshkh991 Hey, there! Windows 10 Mobile will be available starting later this year. Check out the details here: 
+ID: 311 USER: HelpMeSaveCash #Windows10 Is for #Gamers - 6 Features You Will Love 
+ID: 312 USER: rubik_nolife @Nummu0258 Windows10 Insider Preview 10565
+ID: 313 USER: TeknoBlast @Microsoft You really want the Lumia line to fail by not having multiple carriers carrying it? Please have @TMobileHelp carry it. #Windows10
+ID: 314 USER: ajaykc I?m ready for #Windows10. Are you? Wear the badge and show the love.  
+ID: 315 USER: syedkami70 #Microsoft's latest #Windows10 Insider build helps cure a major activation  -@pcworld
+ID: 316 USER: techAU Quite like this lock screen photo on #windows10 
+ID: 317 USER: dougholland Microsoft Solitaire Collection introduces new themes on Windows 10. #windows10 
+ID: 318 USER: Julo431 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 319 USER: jeffa36 Which of these #Windows10 devices tickle your fancy?  
+ID: 320 USER: syedkami70 #Acer reveals all-in-one #Windows10 PC with 5 hour battery backup -@pcworld
+ID: 321 USER: nettechnews TechCrunch: #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
+ID: 322 USER: NorNazrin1 RT@Acer: Do you need a PC in your pocket? Ask for a Jade Primo #Windows10 smartphone. #AcerWin10 #Windows10devices 
+ID: 323 USER: wulffeld Microsoft. What am I going to do with you? I change language on Win10 and it only changes ~90% of the text. #windows10 #POS
+ID: 324 USER: jeffa36 Get all the highlights of the latest #Windows10 devices announced  
+ID: 325 USER: VampirSexKttns Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft #Amazon #technology #music
+ID: 326 USER: jeffa36 Have you checked out all the latest #Windows10 #devices announced last week?  
+ID: 327 USER: Hackbuild RT programmableweb: Microsoft announces #ORTC #API preview #Windows10  ?
+ID: 328 USER: hawaiiinsomniac RT@AsianGeekSquad: How to take a screenshot on your #windows10 laptop:
+ID: 329 USER: kevin7zz @Windows do high school students get discounts on surface book? #Windows10 pls
+ID: 330 USER: TonyLiechty @windows10 sucks it's been over two hours and my laptop ? has not
+ID: 331 USER: LoneFixer I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Check it out 
+ID: 332 USER: argosmozart RT@van_nld: How to make #Cortana search with #Google instead of #Bing in #Windows10 via @ianpaul PCWorld
+ID: 333 USER: jpeMEDIA #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements  
+ID: 334 USER: TonyLiechty #windows10 sucks it's been over two hours and my laptop ? has not
+ID: 335 USER: blarci How to Check If Your PC Can Run #Windows10 
+ID: 336 USER: AmeliaClarkey How to Check If Your PC Can Run #Windows10 
+ID: 337 USER: TWEETPRESSS How to Check If Your PC Can Run #Windows10 
+ID: 338 USER: daniesther1 How to Check If Your PC Can Run #Windows10 
+ID: 339 USER: eseprtt How to Check If Your PC Can Run #Windows10 
+ID: 340 USER: dollarland How to Check If Your PC Can Run #Windows10 
+ID: 341 USER: KelechiAmora How to Check If Your PC Can Run #Windows10 
+ID: 342 USER: TWEETPRESSS How to Check If Your PC Can Run #Windows10 
+ID: 343 USER: TWEETPRESSS How to Check If Your PC Can Run #Windows10 
+ID: 344 USER: GameDevBRbot RT@ParityB1t: #Windows10 crash while using #unity3d @Microsoft @unity3d  T.T
+ID: 345 USER: wstidolph #Windows10 so far: unreliable detect USB; "Start" search slow, doesn't open most Control Panels; slower than 8.1; oh - long list, no space!
+ID: 346 USER: ParityB1t #Windows10 crash while using #unity3d @Microsoft @unity3d  T.T
+ID: 347 USER: kevinadixon Upgrade the desktop to #Windows10
+ID: 348 USER: sirtigerhai RT@YahooTech: How to swap windows in #Windows10 with a single keystroke  by @Pogue 
+ID: 349 USER: teddystiles RT@BiGdEeAgbANi: #Windows10 insider preview build 10565 Now available to insiders on the fast ring :) ....And I'm upgrading ASAP.... #bugF?
+ID: 350 USER: Afri90 Don't wait for #Windows10 #soon [pic] ? 
+ID: 351 USER: Anasalikhan RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 352 USER: Abraaovitor @EA Will @MinionsParadise be available on @windowsstore ? #Windows10 
+ID: 353 USER: webrtcdigest RT@programmableweb: Microsoft announces #ORTC #API preview #Windows10 
+ID: 354 USER: liljaguar47 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 355 USER: BiGdEeAgbANi #Windows10 insider preview build 10565 Now available to insiders on the fast ring :) ....And I'm upgrading ASAP.... #bugFixes I hope :)
+ID: 356 USER: aderhwang RT@Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
+ID: 357 USER: moyinoluwa_mm Microsoft makes file transfers to Windows 10...  #Laplink #Microsoft #PCmoverExpress #UpgradeYourWorld #WINDOWS10
+ID: 358 USER: shopl RT@bison_42: after #windows10 upgrade you have to re-sign in and "reactivate" your #unity3d personal license
+ID: 359 USER: Raulex92 RT@1800PocketPC: WhatsApp gets an interesting new emoji, plus improved search  #Windows10 
+ID: 360 USER: vbstartups Microsoft Drops New Windows 10 Build Bringing Skype Integration,?  #Developer #TC #Windows10 
+ID: 361 USER: NikaPuente RT@Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
+ID: 362 USER: paidsupportinc NEED WINDOWS 10 SUPPORT? We've got it! Ask a FREE Question - #windows #windows10 #microsoft -  
+ID: 363 USER: DeploymentMX RT@MSLearning: Pre-order #Windows10 training resources and get 30% off! Details:  
+ID: 364 USER: hellomrbungle RT@Aoandosaraki: #Windows10 Build 10565: #Microsoft Edge gets support for file drag-and-drop, tab previews,?  
+ID: 365 USER: DeploymentMX RT@ccmexec: I like the new Regedit icon in #Windows10 build 10565 
+ID: 366 USER: acoelho RT@Windows10Info: Windows 10 is getting a ton of new features via the Insider program  
+ID: 367 USER: maxwei678 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 368 USER: 1800PocketPC WhatsApp gets an interesting new emoji, plus improved search  #Windows10 
+ID: 369 USER: mollyfud RT@Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
+ID: 370 USER: Abraaovitor @MinionsParadise Will the game be released in @windowsstore ? #Windows10
+ID: 371 USER: techAU @trinest - I know what the Cortana settings are for Aus, they just don't work. #Build10565 #Windows10
+ID: 372 USER: carogacion RT@DellBizSA: #Windows10 ushers in a whole new era of power, performance and productivity. Learn More.  
+ID: 373 USER: MvdRebecca RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 374 USER: Windows10Info Windows 10 is getting a ton of new features via the Insider program  
+ID: 375 USER: mrchillg to my #musipeople did upgrading to #windows10 mess up any of your older music programs? FL, pro tools, studio 1, and cubase.
+ID: 376 USER: rkeyserling Microsoft Drops New Windows 10 Build Bringing?  #Developer #TC #Windows10 #Microsoft #Amazon 
+ID: 377 USER: 3rdrockhome Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft 
+ID: 378 USER: Stalsomething Ugh. The messaging app in #Windows10 is bad. Even for a beta it's bad.
+ID: 379 USER: AsianGeekSquad How to take a screenshot on your #windows10 laptop:
+ID: 380 USER: al11588 Upgrading to Windows 10 10565 Windows Insider build. :) #Microsoft #MicrosoftMafia #Windows10
+ID: 381 USER: joslee Skype Phone, Messaging and Video apps in #Windows10 #WindowsInsiders build 10565 are very accessible with #NVDASR. #A11Y
+ID: 382 USER: scuzzooy01011 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 383 USER: Lavadaxs96 #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
+ID: 384 USER: LaurentJPR Microsoft Drops New Windows 10 Build Bringing Skype Integration, Edge?  #Developer #TC #Windows10 #Microsoft #Amazon
+ID: 385 USER: ISTincorp #Microsoft Drops New #Windows10 Build Bringing Skype Integration, Edge Improvements 
+ID: 386 USER: GeekInfoNow Microsoft Drops New Windows 10 Build Bringing Skype?  #Developer #TC #Windows10 #Microsoft #techcrunch #tech
+ID: 387 USER: shahidroofi RT@JamesvandenBerg: ""I'm getting ready to get productive."" ?Bryan Roper demoing Microsoft Continuum  #Windows10dev?
+ID: 388 USER: KeshieKeshie #Windows10 is popping on my laptop ????
+ID: 389 USER: Bjorniee5SOS Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) 
+ID: 390 USER: justreadout Boost your PC's speed using a pen drive #WindowsInsiders  #Windows10 #Microsoft
+ID: 391 USER: justreadout Create custom shortcut for any app on Windows PC #Windows10 #Microsoft #microsoftventures 
+ID: 392 USER: techAU @GabeAul still can't .jpg-large thumbnails ? #Windows10 #Build10565
+ID: 393 USER: NHSoCal Why Should You Upgrade to Windows 10  #windows10
+ID: 394 USER: GeekNe_ws #Microsoft previews Windows 10 Skype integration and Cortana inking  #win10 #windows10
+ID: 395 USER: g74train RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 396 USER: GeekNewsMS #Microsoft previews Windows 10 Skype integration and Cortana inking  #win10 #windows10
+ID: 397 USER: hxkclan Aaand Windows Calculator has just received a update #windows10 #windows10mobile
+ID: 398 USER: jimgrimes84 How to Activate GodMode in Windows 10  via @TheHackersNews #Security #infosec
+ID: 399 USER: JeanMarieMartin No #Microsoft, I don't want to upgrade to #Windows10. #quitaskingmeto
+ID: 400 USER: MovingIntoFocus RT@SquareHatsLLC: We now know when Windows 10 Mobile will 'launch'  @pcworld #Windows10
+ID: 401 USER: MikeTCrowley This just in: Major improvements in #Windows10 Build 10565, as there is now a new icon for regedit.exe! 
+ID: 402 USER: jluper The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
+ID: 403 USER: danielle_hamra The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
+ID: 404 USER: MSMarketingTeam The Managed Solution team enjoyed ... -  #Cloud_Computing #Office365 #Windows10 
+ID: 405 USER: MindwareDubai DellSoftware:Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure  #Windows10 - Dell_WM ?
+ID: 406 USER: GameWisp #XboxOne controller adapter for #Windows10 due next week.  
+ID: 407 USER: DellSoftware Come to #DWUF 2015 & Learn How to Modernize Your #Windows Infrastructure  #Windows10 - @Dell_WM 
+ID: 408 USER: Esosom #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center:  
+ID: 409 USER: Esosom #Windows10 is here. Learn how to prepare for the new #OS in MobileIron's resource center: 
+ID: 410 USER: Egy_Mary RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 411 USER: wpulte RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 412 USER: NectarCorp RT@DeaneJessep: 5 years of no blue screens of death and the day after I upgrade to Windows10... 
+ID: 413 USER: ModernLifePods RT@thewavesoftech: Waves of Tech 280: #PodcastDay celebration, #Windows10 impressions, #ElCapitan issues.  (@ModernL?
+ID: 414 USER: CustomSys The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
+ID: 415 USER: acklaw #Windows10 Maintenance: What Has Changed & What You Need to Consider 
+ID: 416 USER: OIGEL #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr...  - #Microsoft
+ID: 417 USER: OIGEL #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?...  - #Microsoft
+ID: 418 USER: iYousif Nice stuff coming ahead! ? #Windows10 #Build10565 #TH2 
+ID: 419 USER: MEhsanAHalim RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 420 USER: GaryJefferson4 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 421 USER: RocketHamster03 Managed to finally get my laptop to upgrade to #Windows10. Had too side load & force the switch cause @asus no longer makes that model.
+ID: 422 USER: radikal_nz @PSR_yoshimax I thought the Xbox App on #Windows10 was cool, until I seen this! :/  #windows10fail #Hearthstone 
+ID: 423 USER: WordSmith426 RT@Telerik: UI for UWP: 19 controls for building multi-device #Windows10 apps  #wpdev #windev
+ID: 424 USER: Windows10Info Acer's Liquid Jade Primo is a promising Windows 10 smartphone  
+ID: 425 USER: Rehab_114 Since updating my laptop to #Windows10 wireshark fails to open ,any suggestions or solution for this issue please?
+ID: 426 USER: HalkatCurry OMG windows10! So much awesome! #Windows10 #SoMuchWin #notashamed
+ID: 427 USER: WohTechNews #YahooTech  How to swap windows in #Windows10 with a single keystroke ? 
+ID: 428 USER: prismejon Check out the smart ink experience our team just added to Cortana :) Announcing Windows10 Insider Preview Build 10565 
+ID: 429 USER: DarrenSproat U P D A T E S . . .#Windows10 #Mobile #WinPhan 
+ID: 430 USER: DjemouaiKhalil RT@Lumia: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
+ID: 431 USER: LaraSan17 RT@YahooTech: How to swap windows in #Windows10 with a single keystroke  by @Pogue 
+ID: 432 USER: YahooTech How to swap windows in #Windows10 with a single keystroke  by @Pogue 
+ID: 433 USER: dingl_ #Windows10 #WindowsInsiders build 10565 is go 
+ID: 434 USER: Divani_yrh Check out this Deal :  Dell Inspiron One 2305 23" 1TB HDD, 4GB RAM 2.4GHz Windows10 All-in-? 
+ID: 435 USER: Frans737 RT@Pocketnow: Acer one-ups Microsoft, bundles #Continuum hardware with new #Windows10 phone.  
+ID: 436 USER: FixWindows10 I like the new Regedit icon in #Windows10 build 10565  
+ID: 437 USER: rickysinha @SalimPatel92 not really. i have #WIndows10 installed on my PC and it crashes so often that i'm thinking of going back to Win7 @Windows
+ID: 438 USER: JacobJmyles RT@Lumia: The Office in your pocket with #Windows10. Learn more:  
+ID: 439 USER: goodsolitaire Father is one of 880 #solitaire #games in Pretty Good Solitaire ??  #windows10 
+ID: 440 USER: arazcengiz My pc is showing the login screen after startup in five seconds. Thanks @Microsoft  #Windows10
+ID: 441 USER: tecnologiaweb RT@MSVirtAcademy: What does #Windows10 mean for #IT Pros? Find out:  #MSMVA
+ID: 442 USER: SCUGNorway RT@MariusSkovli: New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr 
+ID: 443 USER: aussienick hey @msau is Cortana available on #Windows10 10565 in AU? have followed @techAU's article  
+ID: 444 USER: Nestor0121 I definitely won't Install #windows10. even its free,install no problem. then windows update.bang.start button didn't,win+r,cmd no work
+ID: 445 USER: melvindevdotcom @MSFTImagine @steam_games Actually I have no Games Installed on My #Windows10
+ID: 446 USER: markousrezende Action Movie (w/ my @HP with #Windows10) #sp (Vine by @Jason23Nash) 
+ID: 447 USER: _kingmana RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 448 USER: OIGEL #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microsoft has com... 
+ID: 449 USER: OIGEL #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Microso...  - #iPhone
+ID: 450 USER: cigarweekly Will you move to #windows10? Or stay on what U have?  - #Windows7 4 life! @GabeAul or, #linux? 
+ID: 451 USER: killaasmilee RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 452 USER: CitrixAMPartner RT@MTM_INC: The good, the bad and the ugly: how to plan a graceful Windows10 & #Office365 transition: 
+ID: 453 USER: jyde247 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 454 USER: Wo0d7 @freitasm #Windows10 is crap. A Trojan horse with the most intrusive secret data analytical collecting services that you don't even know
+ID: 455 USER: Ra_Koellner RT@msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates:  #UX 
+ID: 456 USER: hxkclan Microsoft Photos has been updated once again. #Windows10 #windows10mobile
+ID: 457 USER: biscuitboiii #Windows10 verdict... shite. Now time to get boozy with the main man of attack, @WastemanJack  #yessiricanboozy
+ID: 458 USER: scuzzooy01011 RT@Windows10TpNews: Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re...  via @Matti_8m h?
+ID: 459 USER: TsuserCraft One does not simply choose to upgrade to #Windows10, they just do it. Have yet to find an issue with it that can't be easily fixed. @Windows
+ID: 460 USER: Windows10Info Microsoft's latest Windows 10 Insider build helps cure a major activation headache  
+ID: 461 USER: Windows10TpNews Gabriel Aul: New Windows 10 Mobile build 'looking very good' for possible re...  via @Matti_8m 
+ID: 462 USER: MariusSkovli New blog post! #Windows Defender not getting definition updates on a #Windows10 client managed by #ConfigMgr  #SCUGno
+ID: 463 USER: OIGEL #Windows10 #Cortana ? Microsoft?s newest Windows 10 preview for PCs adds Uber and event reminders t...  - #Windows
+ID: 464 USER: kalyanVSriram RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 465 USER: ScytheIronclaw Yeah, so THIS just happened. #Minecraft #Windows10 #WTF !? 
+ID: 466 USER: OIGEL #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With Microsoft?s New Adapter ??Micr...  - #Microsoft
+ID: 467 USER: OIGEL #Windows10 #OS ? This is what?s new in Windows 10 build 10565 ? Less than an hour ago, MIcrosoft?...  - #Microsoft
+ID: 468 USER: lehohejonews #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
+ID: 469 USER: koplokpeople #XBOX #Windows10 ? Use Xbox Wireless?  #AllAboutMicrosoft #game #games #Gaming #microsoft 
+ID: 470 USER: Lujiferondo #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
+ID: 471 USER: Kahidsamah #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft #game 
+ID: 472 USER: Gieonenews #XBOX #Windows10 ? Use Xbox Wireless Controller On Windows 10 With?  #AllAboutMicrosoft 
+ID: 473 USER: franzinifabio RT@msdevUK: Need help designing your next #Windows10 app? Grab these .PPT and .AI design templates:  #UX 
+ID: 474 USER: Prignot_Eric RT@WBuzzer: Gallery: #Windows10 build 10565 and an Insider Ring slider  
+ID: 475 USER: Sirkahuna RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 476 USER: 19fry78 RT@NeowinMicrosoft: Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 
+ID: 477 USER: CaDeO27 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 478 USER: moyinoluwa_mm How to Configure Windows 10 File Explorer to Open with This PC View -...  #Simmyideas #UpgradeYourWorld #WINDOWS10
+ID: 479 USER: moyinoluwa_mm RESERVE YOUR FREE COPY NOW; WINDOWS 10 COMING ON JULY 29 - Microsoft announced the general...  #Microsoft #WINDOWS10
+ID: 480 USER: moyinoluwa_mm Is Your Computer Compatible with Windows 10 & Can You Upgrade? -...  #DIY #HowTo #TechTips #TechTutorial #WINDOWS10
+ID: 481 USER: LumiaHelp @Juniorrl77 We're you able to install #Windows10? You may check Krishna's post here:  ^JR #OneMSFT
+ID: 482 USER: robseaner RT@VisualStudio: New series spinning up for those just getting into #Windows10 dev. Here's the series intro,  
+ID: 483 USER: Profjorge76 RT@LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
+ID: 484 USER: tdbeadles You're all invited! (#Microsoft #Windows10 #DELL #Intel #McAfee #Google #Apple #ATT #Comcast #Logitech #USA) (http://t.co/AeWedaQhAX)
+ID: 485 USER: DeanRosario .@Windows Hi. I received Windows10 upgrade for 2 laptops (formerly Win7 Pro) in August. When can I expect upgrade for PC running Win8.1?
+ID: 487 USER: AltixPL RT@MSFTaccess: Cortana can set reminders across all your #Windows10 devices.  #LumiaTips via @LumiaVoices 
+ID: 488 USER: yanatha Black Friday 2015 Bargain #Windows10 Tablets with tablets under $90get ready with #AnEssentialGuidetoWindows10
+ID: 489 USER: yanatha Black Friday 2015 Bargain #Windows10 Tablets with tablets under $90get ready with #AnEssentialGuidetoWindows10
+ID: 490 USER: Win10life RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 491 USER: MustafaUzerek Microsoft's latest #Windows10 Insider build helps cure a major activation 
+ID: 492 USER: recitetheplan @allfractions @pete_stanley Hi, #Windows10 nice to meet you.
+ID: 493 USER: ks7000 Installation of SQL Server Express 2014 on #Windows10:  via @mithunpattankar
+ID: 494 USER: NeowinMicrosoft Gallery: Windows 10 build 10565 and an Insider Ring slider #microsoft #windows10 
+ID: 495 USER: ks7000 Installation of SQL Server Express 2014 on #Windows10 | Mithun Pattankar. - #CodeProject - 
+ID: 496 USER: libe_gonzalez RT@LumiaUS: Cortana can set reminders across all of your #Windows10 devices. Learn more:  
+ID: 497 USER: tommytyrell1 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 498 USER: mtrbmet97 RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 499 USER: minimarlo RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 500 USER: Lovettlovin RT@SalimPatel92: If anyone is thinking of upgrading to #Windows10 ... DO IT!!! It's brilliant and easy to get around. I'm lovin' it ??. We?
+ID: 501 USER: Mr_ausmz07 @SalimPatel92 @Windows Windows10 is the worst system ever , it's spying in all the information of the user.
+ID: 502 USER: rai_anjalirai I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes.Good For Learning :)
+ID: 503 USER: rai_anjalirai I took the #Windows10 challenge and #RockedIt! Now I could win a trip to Microsoft campus! #Sweepstakes. Good For Learning :)
+ID: 504 USER: izemjrs Welcome Home!! :D #surface3 #microsoft #windows10 
+ID: 505 USER: teddystiles RT@etcPB: MicrosoftWCA: valdesjo77 We understand but we are sure that after migration you ll also be an "happy" #Windows10 user :). ?
+ID: 506 USER: ImpactJeunes225 MicrosoftWCA: valdesjo77 We understand but we are sure that after migration you ll also be an "happy" #Windows10 user :). #microsoft #civ20?
+ID: 507 USER: etcPB MicrosoftWCA: valdesjo77 We understand but we are sure that after migration you ll also be an "happy" #Windows10 user :). ?
+ID: 508 USER: MicrosoftWCA @valdesjo77 We understand but we are sure that after migration you ll also be an "happy" #Windows10 user :).
+ID: 509 USER: teddystiles RT@OlgaSia08: I really miss not having a start button. Cause Win 8 worked for me. Now I have the button, but it doesn't work on occasions ?
+ID: 510 USER: OlgaSia08 I really miss not having a start button. Cause Win 8 worked for me. Now I have the button, but it doesn't work on occasions :) #windows10
+ID: 511 USER: ezadler what would u do if ur computer wouldn't start? (beside not reading this :) @surface & #Windows10 has an answer 
+ID: 512 USER: chong_the @CowTweats if sexy is being spied on everything you type and download being read by the goverment and microsoft then windows10 is sexy :D
+ID: 513 USER: FixWindows10 Wow, #Windows10 #Insider new build are downloading :)  
+ID: 514 USER: metakeks Wow, #Windows10 #Insider new build are downloading :) 
+ID: 515 USER: KC_56 #Windows10 and #Flash updates U must update if U is a valid signifier and U are not an emergency flasher :D
+ID: 516 USER: aydiophile Stupendous battery life! :P #Windows10 
+ID: 517 USER: teddystiles RT@Ilyas_tweets: GeekWhoCode That's awesome, Ganesh. Nice choices. :) What do you think of the newest #Windows10 #dev updates? (MSFTImagin?
+ID: 518 USER: glokeller @Dell My V515w printer JUST woke up 2 #Windows10! Called 2 inquire about drivers &presto printo! :)))
+ID: 519 USER: MatthewSheets1 @500px Any plans for a #Windows10 Universal app? It would be great to have you on the platform! (And on the new Surface Book) :)
+ID: 520 USER: etcPB Ilyas_tweets: GeekWhoCode That's awesome, Ganesh. Nice choices. :) What do you think of the newest #Windows10 #dev updates? (MSFTImagine) ??
+ID: 521 USER: Ilyas_tweets GeekWhoCode That's awesome, Ganesh. Nice choices. :) What do you think of the newest #Windows10 #dev updates? (MSFTImagine) ?
+ID: 522 USER: MSVirtAcademy @GeekWhoCode That's awesome, Ganesh. Nice choices. :) What do you think of the newest #Windows10 #dev updates? (@MSFTImagine)
+ID: 523 USER: kshahar @WindowsSupport #disappointed you don't recognize your own error screen? Hint - it was listed in the original tweet. My #Windows10 is now :)
+ID: 524 USER: Siang247 @DrAgoNCeLL33518 @XboxSupport Send My #XboxOne To A Repair Station Again!!!! :) #ItsWorking #NXOE #Windows10 #Microsoft (2/2)
+ID: 525 USER: Geekishor @MSVirtAcademy Thanks hopefully my exam went well. Yay! :) #UWP and #Windows10 aren't that much distracting to me. :)
+ID: 526 USER: teddystiles RT@MuedenJoe: Es wird mit #Windows10 "If you do a clean install of Windows 10[...]enter the product key from prior Windows versions [...] ?
+ID: 527 USER: MuedenJoe Es wird mit #Windows10 "If you do a clean install of Windows 10[...]enter the product key from prior Windows versions [...] YES :)
+ID: 528 USER: teddystiles RT@Jdunnthx500: Dear @Windows I'm beginning like you again :-) #Windows10
+ID: 529 USER: Jdunnthx500 Dear @Windows I'm beginning like you again :-) #Windows10
+ID: 530 USER: teddystiles RT@iAmUhie: When #Windows10 hits your Xbox :) 
+ID: 531 USER: etcPB iAmUhie: When #Windows10 hits your Xbox :)   #AustraliaUnwrapped
+ID: 532 USER: iAmUhie When #Windows10 hits your Xbox :) 
+ID: 533 USER: diwapyak Welcome #Windows10 to my PC! :) :)
+ID: 534 USER: etcPB greg_carpentier: :) #Windows10   #AustraliaUnwrapped
+ID: 535 USER: etcPB greg_carpentier: :) #Windows10   #AustraliaUnwrapped
+ID: 536 USER: etcPB greg_carpentier: :) #Windows10   #AustraliaUnwrapped
+ID: 537 USER: MicrosoftIndia @ItzAnirudh All that we know about Windows 10 Mobile can be found here:  :) ^MM
+ID: 538 USER: etcPB sanjeev40084: olicharpy XboxQwik majornelson I wish there was #windowsInsider app for #xbox same as for #windows10 and #windows10mobile :) ?
+ID: 539 USER: sanjeev40084 @olicharpy @XboxQwik @majornelson I wish there was #windowsInsider app for #xbox same as for #windows10 and #windows10mobile :)
+ID: 540 USER: bpcatanus just joined @windows10 bandwagon, looking to get more privacy in it though.... :)
+ID: 541 USER: etcPB 2ultd90: RT MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D  ?
+ID: 542 USER: etcPB teddystiles: RT MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D  ?
+ID: 543 USER: 2ultd90 RT@MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D 
+ID: 544 USER: teddystiles RT@MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D 
+ID: 545 USER: justeinfachme RT@MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D 
+ID: 546 USER: jaymelbe RT@MichaelGillett: Microsoft Messaging apps can now be installed on #Windows10 RTM :D 
+ID: 547 USER: MichaelGillett Microsoft Messaging apps can now be installed on #Windows10 RTM :D 
+ID: 548 USER: teddystiles RT@kevinsstrr: Oh yes .  #windows10   #goodnight :D
+ID: 549 USER: AishASalmN Yes! love #Windows10 and it's Cortana feature :) @CrazyEngineer96
+ID: 550 USER: kevinsstrr Oh yes .  #windows10   #goodnight :D
+ID: 551 USER: teddystiles RT@thunderluca: Ready for @Halo 5: Guardians :D (No, my Xbox One is placed in another room :P ) #Windows10 #TeamSpartans #NeverDie 
+ID: 552 USER: RealSaadAnees Yes! We did it :) #SaveTheBird game is on its way to #AppStore for #Android #Windows10 devices.  
+ID: 553 USER: thunderluca Ready for @Halo 5: Guardians :D (No, my Xbox One is placed in another room :P ) #Windows10 #TeamSpartans #NeverDie 
+ID: 554 USER: DarrenSproat RT@kennny: @microsoftcanada super awesome #Windows10 swag :) 
+ID: 555 USER: WindowsCanada RT@kennny: @microsoftcanada super awesome #Windows10 swag :) 
+ID: 556 USER: kennny @microsoftcanada super awesome #Windows10 swag :) 
+ID: 557 USER: teddystiles RT@Mumbzi96: Now it's time to update my PC to #Windows10 :D
+ID: 558 USER: Mumbzi96 Now it's time to update my PC to #Windows10 :D
+ID: 559 USER: FromPage2Screen @thedarkhours hopefully i can download those good vibes :) #windows10
+ID: 560 USER: teddystiles RT@marijankelava: Cool! Neue Icons :) #Windows10 
+ID: 561 USER: DatabaseJase Finally it's happened to me & my VM is now installing build 10565. :) #WindowsInsider #Threshold2 #Windows10
+ID: 562 USER: marijankelava Cool! Neue Icons :) #Windows10 
+ID: 563 USER: Geekishor @MSFTImagine Yes. Currently I'm working on my college projects and some other cool apps for #Windows10 universal platform #UWP. :)
+ID: 564 USER: WindowsInd @JDsotu You'll find more information about Windows 10 Mobile here:  :) ^MM
+ID: 565 USER: samuelbrillo @Matthewnism Windows10 Via Windows Insider lang po. Not the final and official win10 build :)
+ID: 566 USER: MYMicrosoft @aidanurzaidi #Windows10 yay or nay? :) ^Raj
+ID: 567 USER: microsoftgulf Hi @MarianIsabel_CL We?re glad you?re enjoying the new #Windows10! Which features do you like the most so far? :)
+ID: 568 USER: MYMicrosoft @FahimiRoslan How did your #Windows10 upgrade go, Fahimi? :) ^Raj
+ID: 569 USER: etcPB etcPB: teddystiles: RT troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft ? ?
+ID: 570 USER: etcPB teddystiles: RT troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft ?
+ID: 571 USER: teddystiles RT@troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft 
+ID: 572 USER: etcPB pc_mod: Good morning guys, starting this beautiful day with an new Insider #Windows10 (build 10565) - hope You have also a nice day :-) ?
+ID: 573 USER: etcPB etcPB: etcPB: hkoivuneva: BIG news! You can now activate #Windows10 with your 7,8,8.1 key in build 10565! Windows 10 is getting ready :D  ??
+ID: 574 USER: etcPB etcPB: etcPB: etcPB: etcPB: imohammadhasan: Finally upgraded to #Windows10 successfully :) Yuppyy  ? ?
+ID: 575 USER: pc_mod Good morning guys, starting this beautiful day with an new Insider #Windows10 (build 10565) - hope You have also a nice day :-)
+ID: 576 USER: etcPB etcPB: hkoivuneva: BIG news! You can now activate #Windows10 with your 7,8,8.1 key in build 10565! Windows 10 is getting ready :D  ? ?
+ID: 577 USER: etcPB etcPB: etcPB: etcPB: imohammadhasan: Finally upgraded to #Windows10 successfully :) Yuppyy  ?
+ID: 578 USER: etcPB hkoivuneva: BIG news! You can now activate #Windows10 with your 7,8,8.1 key in build 10565! Windows 10 is getting ready :D  ?
+ID: 579 USER: etcPB etcPB: etcPB: imohammadhasan: Finally upgraded to #Windows10 successfully :) Yuppyy   #Aust?
+ID: 580 USER: hkoivuneva BIG news! You can now activate #Windows10 with your 7,8,8.1 key in build 10565! Windows 10 is getting ready :D  
+ID: 581 USER: etcPB etcPB: imohammadhasan: Finally upgraded to #Windows10 successfully :) Yuppyy   #AustraliaUn?
+ID: 582 USER: etcPB etcPB: ImAndy46: Big day for upgrades today (for me)... Upgraded to #Windows10 and #AndroidMarshmallow .... Keep me in your prayers :) ? ?
+ID: 583 USER: etcPB imohammadhasan: Finally upgraded to #Windows10 successfully :) Yuppyy   #AustraliaUnwrapped
+ID: 584 USER: etcPB ImAndy46: Big day for upgrades today (for me)... Upgraded to #Windows10 and #AndroidMarshmallow .... Keep me in your prayers :) ?
+ID: 585 USER: etcPB etcPB: etcPB: troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft ?
+ID: 586 USER: FixWindows10 Finally upgraded to #Windows10 successfully :) Yuppyy  
+ID: 587 USER: imohammadhasan Finally upgraded to #Windows10 successfully :) Yuppyy 
+ID: 588 USER: ImAndy46 Big day for upgrades today (for me)... Upgraded to #Windows10 and #AndroidMarshmallow .... Keep me in your prayers :)
+ID: 589 USER: etcPB etcPB: troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft  ? ?
+ID: 590 USER: etcPB troe666: Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft  ?
+ID: 591 USER: troe666 Windows 10 Threshold 2 released! Universal messaging.. :)  #Windows10 #Threshold2 #Microsoft 
+ID: 592 USER: teddystiles RT@JoelMaths: App launch speeds are superfast on the new #Windows10 build 10565.. Way to go, @Microsoft! :) #WindowsInsiders
+ID: 593 USER: DhananjaySpeaks Installing #SQLServer 2012 on #Windows10 plain machine and stuck "Enabling OS Feature NetFx 3". I know what to do...:)
+ID: 594 USER: JoelMaths App launch speeds are superfast on the new #Windows10 build 10565.. Way to go, @Microsoft! :)  #WindowsInsiders
+ID: 595 USER: Paroone_ RT@AlexKreikenberg: if you don't pay for the product, you are the product :) #zdfmoma #windows10
+ID: 596 USER: teddystiles RT@AlexKreikenberg: if you don't pay for the product, you are the product :) #zdfmoma #windows10
+ID: 597 USER: godzhigella RT@AlexKreikenberg: if you don't pay for the product, you are the product :) #zdfmoma #windows10
+ID: 598 USER: AlexKreikenberg if you don't pay for the product, you are the product :) #zdfmoma #windows10
+ID: 599 USER: MYMicrosoft @AaraiHazeq Welcome to the #Windows10 bandwagon! :) How's everything so far? ^Raj
+ID: 600 USER: ken_hinckley RT@prismejon: Check out the smart ink experience our team just added to Cortana :) Announcing Windows10 Insider Preview Build 10565 
+ID: 601 USER: MYMicrosoft @MrKarls Cheers :) We wish you a fantastic #Windows10 user experience! ^Raj
+ID: 602 USER: MYMicrosoft @nisaniey Woohoo! How are you liking #Windows10 so far? :) ^Raj
+ID: 603 USER: MYMicrosoft @zulhusni_azizan Anytime. Enjoy your new #Windows10 :) ^Raj
+ID: 604 USER: teddystiles RT@BiGdEeAgbANi: #Windows10 insider preview build 10565 Now available to insiders on the fast ring :) ....And I'm upgrading ASAP.... #bugF?
+ID: 605 USER: BiGdEeAgbANi #Windows10 insider preview build 10565 Now available to insiders on the fast ring :) ....And I'm upgrading ASAP.... #bugFixes I hope :)
+ID: 606 USER: al11588 Upgrading to Windows 10 10565 Windows Insider build. :) #Microsoft #MicrosoftMafia #Windows10
+ID: 607 USER: scuzzooy01011 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 608 USER: prismejon Check out the smart ink experience our team just added to Cortana :) Announcing Windows10 Insider Preview Build 10565 
+ID: 609 USER: monika_baur RT@jasoosterveld: #Uconnect attendees please turn off automatic updates in your Windows10 devices :-) This causes issues with the WiFi htt?
+ID: 610 USER: RockyLhotka RT@bitcrazed: Woot! #Windows10 build 10565 installing now :) 
+ID: 611 USER: teddystiles RT@bitcrazed: Woot! #Windows10 build 10565 installing now :) 
+ID: 612 USER: JeeWeetje Updating 3 devices to #build10565 & a forgotten iPad2 to iOS 9.0.2. Thank goodness for broadband. :-) #WindowsInsider #Windows10
+ID: 613 USER: bitcrazed Woot! #Windows10 build 10565 installing now :) 
+ID: 614 USER: teddystiles RT@Azer_Elfuego: So far I really like @Windows 10 :) it is quite enjoyable and easy to use. And faster too #Windows10
+ID: 615 USER: Azer_Elfuego So far I really like @Windows 10 :) it is quite enjoyable and easy to use. And faster too #Windows10
+ID: 616 USER: marijnsomers RT@jasoosterveld: #Uconnect attendees please turn off automatic updates in your Windows10 devices :-) This causes issues with the WiFi htt?
+ID: 617 USER: Lsuperman735 @Aakash006sharma @Acer @Acer_India @Windows jade primo on windows10 or" the Pocket PC That Works like PC" :D
+ID: 618 USER: MKnoppert RT@jasoosterveld: #Uconnect attendees please turn off automatic updates in your Windows10 devices :-) This causes issues with the WiFi htt?
+ID: 619 USER: jasoosterveld #Uconnect attendees please turn off automatic updates in your Windows10 devices :-) This causes issues with the WiFi 
+ID: 620 USER: marcominerva @jcvpacheco no, it's an ad-hoc implementation. #Windows10 #IoT is too big for the #Band 2 :-)
+ID: 621 USER: successfulloyd Return of the start menu! :) #Windows10
+ID: 622 USER: ChristosMatskas @beyond_code yes, I'll be at @DDDNorth. I'm giving a talk on #IoT with Windows10 Core and .NET. It will be fun :D We'll catch up for sure
+ID: 623 USER: senseforgreed @untappd Is it normal that the app on #Windows10 doesn't upload any pictures? Any plans for a universal app perhaps? :-)
+ID: 624 USER: teddystiles RT@NathanWilsonAU: Looking forward to see this #Windows10 beauty land in AU :) 
+ID: 625 USER: NathanWilsonAU Looking forward to see this #Windows10 beauty land in AU :) 
+ID: 626 USER: GoodThings2Life @slinganswers Only feedback so far is-- bring on a #Windows10 universal app for desktop/tablets/mobile! :)
+ID: 627 USER: teddystiles RT@KayReneeSnyder: Upgrading to #Windows10 :)
+ID: 628 USER: jreamdesign Maybe a system restore will fix #Windows10 I was using Chrome, Microsoft wants me to use Edge, being punished :) 
+ID: 629 USER: KayReneeSnyder Upgrading to #Windows10 :)
+ID: 630 USER: karlbaquiran Updraged my laptop to #windows10 Pretty clean and nice operating system :)
+ID: 631 USER: WindowsSuppoRT@kaispolaybear Wait no longer! Go here  for the Win10 ISO download & be sure to read System Requirements prior. :)
+ID: 632 USER: azure3bt I can't wait for #Windows10 for #WindowsPhone :D 
+ID: 633 USER: aswinrajsamual Amazing windows10 is here!!!! :) 
+ID: 634 USER: MichaelGadier @Sofiacchiato Hahaha! Alright then. :D #Windows10
+ID: 635 USER: inusunnyasha @thealvindan i have #Windows10 on my pc now! :)
+ID: 636 USER: teddystiles RT@JoseOlivera: All the help you need after updating windows to #Windows10, so useful! :)
+ID: 637 USER: JoseOlivera All the help you need after updating windows to #Windows10, so useful! :)
+ID: 638 USER: teddystiles RT@kennny: Thanks @WindowsCanada for the #windows10 swag :)
+ID: 639 USER: kennny Thanks @WindowsCanada for the #windows10 swag :)
+ID: 640 USER: shnrvr82 @godless_mom @Apple The problem is buying Apple products. :p #Windows10 #Windows10devices #RazerBladePro #4KHQ #PerformanceMatters #PC
+ID: 641 USER: Windows10Info I'm back!! Set-Up Video :) #Playstation3 #EmersonKaraoke #Tokyo #MicrosoftWindows #HTC...  
+ID: 642 USER: aashishs7 I #RockedIt on MVA ! Just completed the course - A Developer's Guide to Windows10 !! :)
+ID: 643 USER: marcodalpino RT@AlexBream: grande @_FrancescoVB al meetup su #Windows10 by @DotDotNet @IntelSoftware a #Bologna :)
+ID: 644 USER: teddystiles RT@vistangie_lumia: Attention for the date and month: it's 10/10 (10th October) is all about #Windows10 :D #DateAndMonth #Oct10
+ID: 645 USER: AlexBream grande @_FrancescoVB al meetup su #Windows10 by @DotDotNet @IntelSoftware a #Bologna :)
+ID: 646 USER: vistangie_lumia Attention for the date and month: it's 10/10 (10th October) is all about #Windows10 :D #DateAndMonth #Oct10
+ID: 647 USER: teddystiles RT@GiftedPrude: first system reboot occurred, now upgrade at 3%....owner will be very happy to not only have laptop working again, but wit?
+ID: 648 USER: GiftedPrude first system reboot occurred, now upgrade at 3%....owner will be very happy to not only have laptop working again, but with #Windows10. :)
+ID: 649 USER: teddystiles RT@YanU621: tried the #Windows10 upgrade on a clean W7 pc..2nd boot went directly into BAD_SYSTEM_CONFIG_INFO error..keep your 10 @Microso?
+ID: 650 USER: YanU621 tried the #Windows10 upgrade on a clean W7 pc..2nd boot went directly into BAD_SYSTEM_CONFIG_INFO error..keep your 10 @Microsoft :)
+ID: 651 USER: BorisNevermore @WindowsSupport Hello to my #Windows10 :))) 
+ID: 652 USER: teddystiles RT@sagaranjos: Successfully upgrading your OS makes you feel good about yourself! :) #Windows10
+ID: 653 USER: sagaranjos Successfully upgrading your OS makes you feel good about yourself! :) #Windows10
+ID: 654 USER: BorisNevermore Here we go, #Windows10 is downloading via Windows Update (so excited), hope I won't screw up something :) 
+ID: 655 USER: dr_aljohani I want :) #Windows10 
+ID: 656 USER: shahedC @windowsdev @unity @MSVirtAcademy To help #Unity #gamedev on #Windows10, I published a step-by-step guide. Enjoy! :) 
+ID: 657 USER: teddystiles RT@KC_56: The #Windows10 menu gets easier to use once you start #Pinning :)
+ID: 658 USER: KC_56 The #Windows10 menu gets easier to use once you start #Pinning :)
+ID: 659 USER: majidhaouali47 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 660 USER: WASP2145X @DennyKovacs granted I was on Windows7 last time I tried GTAV, everything works loads better on Windows10 :-)
+ID: 661 USER: SvtigerStephane RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 662 USER: AlderseLily RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 663 USER: GiraManon RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 664 USER: LisaVraiqui RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 665 USER: ClarksLindsay RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 666 USER: nanounaud RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 667 USER: AliciaBCambell RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 668 USER: EvrardoSophie RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 669 USER: RoboticsRon RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 670 USER: FixWindows10 Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC  
+ID: 671 USER: AlliyaPatel RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 672 USER: teddystiles RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 673 USER: MarieRosaAnn RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 674 USER: deltadom33 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 675 USER: rverm88 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 676 USER: ping_suh RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 677 USER: marleneb75009 RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 678 USER: justinkvalenti RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 679 USER: LollyParis RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 680 USER: MinauxLaetitia RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 681 USER: CycyPretario RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 682 USER: halbense_deb RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 683 USER: FranckSeveno RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 684 USER: MiouMiouDrapan RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 685 USER: pride_martin RT@proteus91300: Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 686 USER: proteus91300 Asus ViVo Stick, my next Pocket PC :p #Windows10 #StickPC 
+ID: 687 USER: CiaraBallintyne RT@LindaHuber19: Have just upgraded to Windows10, doesn't look much different. Maybe I did it wrong... :-) #technophobia
+ID: 688 USER: teddystiles RT@KrisBogdanov: Current builds of my #Windows10 devices :D SurfacePro3: 10240 Lumia930: 10536 XBONE: 10553 RPi2: 10531 #MicrosoftBand is ?
+ID: 689 USER: LindaHuber19 Have just upgraded to Windows10, doesn't look much different. Maybe I did it wrong... :-) #technophobia
+ID: 690 USER: KrisBogdanov Current builds of my #Windows10 devices :D SurfacePro3: 10240 Lumia930: 10536 XBONE: 10553 RPi2: 10531 #MicrosoftBand is next in my wishlist
+ID: 691 USER: TechMike2kX RT@jantielens: In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 692 USER: IndieGameDevBot RT@hi_mdsd: Here the TRAILER of CAT JUMP SIMULATOR :)  #trailer #madewithunity #catjumpsimulator #GooglePlay #Windo?
+ID: 693 USER: hi_mdsd Here the TRAILER of CAT JUMP SIMULATOR :)  #trailer #madewithunity #catjumpsimulator #GooglePlay #Windows10
+ID: 694 USER: MacclesfieldVIC @WebpresenceUK #Windows10 has been smooth sailing for me, bar a few driver issues :)
+ID: 695 USER: MYMicrosoft @_maisarahzainol Welcome to #Windows10! :) Everything going good so far? ^Raj
+ID: 696 USER: WindowsInd @divesh_j Windows 10 Mobile will begin rolling out later this year. For more info, visit  :) ^MM
+ID: 697 USER: Microsoft_SG @paulmah Hi Paul, how's the experience of using #Windows10 so far? We'd love to hear your feedback. :) ^Dian
+ID: 698 USER: Bori6bc212 So good thing i have a good gaming PC running @windows10 to take over for my @Xbox aince its being shipped around :) 
+ID: 699 USER: teddystiles RT@SelAromDotNet: followup fun fact: my zune still works great with #windows10 :D
+ID: 700 USER: SelAromDotNet followup fun fact: my zune still works great with #windows10 :D
+ID: 701 USER: mtslzr @MicrosoftHelps On a scale from 1-10, Julia G. on your #Windows10 chat team is a 64 1/2. Simply killed it with some odd-ball issues. :D
+ID: 702 USER: netregex RT@jantielens: In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 703 USER: leonellive @stevetex I won't mind if it's only near-term instead of super-near-term :) It will help many #IoTCore devs. #Windows10
+ID: 704 USER: yurakazakov1996 @Windows @Dell #Windows10 Nice Job :) :)
+ID: 705 USER: mmichael0  So I can get Windows 10 for my 640 :-)
+ID: 706 USER: teddystiles RT@mipicdev: Finally #windows10 is installed on almost all my devices. Now I just need #windows10mobile :) Really good job @Microsoft
+ID: 707 USER: mipicdev Finally #windows10 is installed on almost all my devices. Now I just need #windows10mobile :) Really good job @Microsoft
+ID: 708 USER: teddystiles RT@rachiepoo1991: Guess who's got a decent computer and #windows10 :) so excited to get editing again! :D #editor? 
+ID: 709 USER: rachiepoo1991 Guess who's got a decent computer and #windows10 :) so excited to get editing again! :D #editor? 
+ID: 710 USER: teddystiles RT@winphanIN: Who hates #Windows10? Crazy people! :-) ^BK 
+ID: 711 USER: chevenix Hamburger menu removed from the #Windows10 Mobile Store UI. :) 
+ID: 712 USER: winphanIN Who hates #Windows10? Crazy people! :-) ^BK 
+ID: 713 USER: pcgeek86 @matthewwhite @PeterEgerton Oh, yeah good point. Have you tried #Windows10? :)
+ID: 714 USER: joeydriessen RT@jantielens: In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 715 USER: teddystiles RT@jantielens: In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 716 USER: Depechie RT@jantielens: In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 717 USER: jantielens In an international call to prep our big #Windows10 dev event. Belgian #meetbe community present and vocal. :) #proud
+ID: 718 USER: appricothq RT@vlasterx: One of the perks when it comes to @appricothq :D Still getting used to Mac, but I am glad to dump #windows10 spyware 
+ID: 719 USER: kamal_Windows10 RT@kanxobhai: @lendaai @narendramodi then it's fine :) #NobelBrutalPrizeForModi
+ID: 720 USER: MicrosoftIndia @imjaiganesh03 We'll find out about that once the update is available to your device. For now, check  :) ^MM
+ID: 721 USER: MicrosoftIndia @imjaiganesh03 Yes. Visit  for more information. :) ^MM
+ID: 722 USER: rgis1369 @MicrosoftIndia im voting for these features from the last 2years, with windows10 coming this DEC, i expecting the results now :P
+ID: 723 USER: Dendrym #Windows10 turned me into full time single boot #Linux user. GG #Microsoft :) BEST OS EVER :-D
+ID: 724 USER: WindowsInd @aasheesh_vats Windows 10 Mobile will begin rolling out later this year. For more info, visit  :) ^MM
+ID: 725 USER: ClementAdert RT Goose bumps. It's a good time to be at Microsoft : ) #microsoft #windows10 #hololens H? 
+ID: 726 USER: giraz Goose bumps. It's a good time to be at Microsoft : ) #microsoft #windows10 #hololens @HoloLens @Microsoft
+ID: 727 USER: vlasterx One of the perks when it comes to @appricothq :D Still getting used to Mac, but I am glad to dump #windows10 spyware 
+ID: 728 USER: WorlWindWriting teddystiles: RT Tableteer: How I feel about #Windows10 and #IOT :) 
+ID: 729 USER: teddystiles RT@Tableteer: How I feel about #Windows10 and #IOT :) 
+ID: 730 USER: Tableteer How I feel about #Windows10 and #IOT :) 
+ID: 731 USER: joreinablanco Finally! Windows10. :)
+ID: 732 USER: teddystiles RT@MoaskeFoto: Oh well, hello there @TweetiumWindows 4.0 Universal Windows Platform app! :-) #windows10 #tweetium #awesome 
+ID: 733 USER: MoaskeFoto Oh well, hello there @TweetiumWindows 4.0 Universal Windows Platform app! :-) #windows10 #tweetium #awesome 
+ID: 734 USER: dima_ivanovich I was mocking the long installation time a bit, but Windows10 is sweet. And attentive of MS to throw me a tweet :) #goodguys
+ID: 735 USER: JgoldHD @WHB_Windows10 Hey why are you following me? :-)
+ID: 736 USER: philipo6975 RT ProjectVRC: Stay tuned ... release very soon :D #Windows10 #VDI #RealityCheck 
+ID: 737 USER: rspruijt RT@ProjectVRC: Stay tuned ... release very soon :D #Windows10 #VDI #RealityCheck 
+ID: 738 USER: RWaggie88 @louis_wagner #Windows10 is pretty cool :)
+ID: 739 USER: ProjectVRC Stay tuned ... release very soon :D #Windows10 #VDI #RealityCheck 
+ID: 740 USER: Macca_Chief RT@DocuSign: Hey #Windows10 users, guess what?? @DocuSign for #Windows10Devices = try it now, thank us later :D? More Info: 
+ID: 741 USER: teddystiles RT@DocuSign: Hey #Windows10 users, guess what?? @DocuSign for #Windows10Devices = try it now, thank us later :D? More Info: 
+ID: 742 USER: pc_mod Lumia 950 + 950XL, Surface Pro 4 and more ...  New Windows10 (mobile) Flagship devices from Microsoft :-)... 
+ID: 743 USER: DocuSign Hey #Windows10 users, guess what?? @DocuSign for #Windows10Devices = try it now, thank us later :D? More Info: 
+ID: 744 USER: teddystiles RT@Armydude206: My little walkthrough of the xbox #Windows10 UI you guys @Xbox  did awsome with this :D ( Also i was talking on mic) 
+ID: 745 USER: chkratky Wow, hackster.io calls me a "Home Automation Rockstar". Nice :-)  #InternetOfThings #IoT #Windows10
+ID: 746 USER: veerendragg Awesome hack :)
+ID: 747 USER: roopesh_reddy I was using #Edge on #Windows10 for the past 2 days and the experience was awesome :)
+ID: 748 USER: nprokopic > Starting .NET Native compilation...> Generating native code...Hello #Windows10 :)#dotnet #visualstudio 
+ID: 749 USER: linuxer_cupu Hope this useful, but FYI in Linux you always got God Mode with ' su ' command :p 
+ID: 750 USER: maxxzno1 I'm so so Pumped :-) Completely agree with this article #Windows10 
+ID: 751 USER: Armydude206 My little walkthrough of the xbox #Windows10 UI you guys @Xbox  did awsome with this :D ( Also i was talking on mic) 
+ID: 752 USER: pejannl @TDK168168 There are many threads on the @Microsoft forums because @IntelSupport refuses #Windows10 drivers for recent Z2760 tablets. :(
+ID: 753 USER: pejannl @DellCares Too bad my Latitude10 can not update to #Windows10 because @Intelsupport has no drivers for Z2760. :(
+ID: 754 USER: etcPB pejannl: TDK168168 Even brandnew Z2760 devices can not update to #Windows10 because lacking Intelsupport refuses new processordrivers. :( ?
+ID: 755 USER: pejannl @TDK168168 Even brandnew Z2760 devices can not update to #Windows10 because lacking @Intelsupport refuses new processordrivers. :(
+ID: 756 USER: pejannl @Elinda624 Elitepad 900 with Intel Atom Z2760 can not update to #Windows10 because lacking @Intelsupport refuses new processordrivers. :(
+ID: 757 USER: etcPB kshahar: My PC is more active than I am. It ran into a problem with Microsoft Windows #Windows10  :(  ?
+ID: 758 USER: kshahar My PC is more active than I am. It ran into a problem with @Microsoft @Windows #Windows10  :( 
+ID: 759 USER: Mubashir_shafi I don't like #Windows10 fonts :-(
+ID: 760 USER: dkreuzh @verge @vladsavov If this device would not have Android but #Windows10 it would be perfect for me :-( I can run Android apps with Astoria.
+ID: 761 USER: gspyrou Contacted @samsung  support for the Elan TouchPad not working on #Windows10 , after 5 PC reboots they responded "contact Microsoft" :(
+ID: 762 USER: SharePointWendy @LASharePointPro @TechRevMarrell @ShanesCows @furuknap Wow so many people having issues with #windows10. Not good :-(
+ID: 763 USER: HelenKitchen_PR Second computer crash of the day :-( #Windows10 is this your fault?
+ID: 764 USER: Technologypr_eu Not sure about this #windows10 upgrade. My machine is crawling now and making odd chimes for a prompt or some crazy reason. Great :-(
+ID: 765 USER: poeticGeek well, "auto-hide the taskbar" in #Windows10 seems broken. it hides for a while but then stops and just gets in the way! :(
+ID: 766 USER: sirtwist Is there any way to get glance installed on #Windows10 mobile? Can't configure it cause it's missing from settings. :-(
+ID: 767 USER: keeganwitt Now #Windows10 Start menu won't open & metro apps close immediately. Tried everything Googling recommended. Upgrading was such a mistake :(
+ID: 768 USER: wojtekmaj91 @GabeAul No Polish Windows Display Language as well? :( Second build in a row? :( I'm not the only one: 
+ID: 769 USER: pratt_chandler @Mojang I'm trying to get the Beta version on Minecraft on my @windows10 and it will not download for me :/ :( #PleaseHelp
+ID: 770 USER: Juris_ma @GabeAul ooohhh my god... #windows10mobile  is a dream #WindowsInsiders. Taking long long time.. its really painfull gab. :( #Windows10
+ID: 771 USER: CeeTalks @ngreader when are you releasing #Windows10 app? The current version is broken on mobile :(
+ID: 772 USER: twhtly @JDaniel_Almeida Of course. Been running fine since, I love Windows10, but it took my email client a while to check db afterwards. :(
+ID: 773 USER: RickBourbon Hello @2KSupport i wanted to play my old boxed copy of Civ4 this weekend but windows10 wont allow my to play :( Any solutions? Thanks.
+ID: 774 USER: BiGdEeAgbANi Build 10547 though...When are we gonna get the next #Windows10 build :( , #stillDelayingProductivity. My pc now does stuff by itself :(
+ID: 775 USER: NicDaviesUley @AmeloreTowers I'm trapped in a windows10 update so not online! :(
+ID: 776 USER: keeganwitt Don't reinstall #Windows10 if profile corrupted, it won't keep temp profile data. Learned hard way after upgrade made unbootable :(
+ID: 777 USER: MarcellaMargag1 RT@JBDaguene: It was too good to be true :-( 1st #windows10 bug 
+ID: 778 USER: JTrademarc @XBox @XboxSuppoRT@Windows @MicrosoftHelps I'm having problems signing in on #Windows10 #XboxLive app. Can't play :( 
+ID: 779 USER: LesSuggs #Windows10 2nd hard reset :(
+ID: 780 USER: AdamStreck Updated to #Windows10 . Pros: the GUI, startup and app launch are much faster. Cons: insta-freezes when I enable my GeForce card :( .
+ID: 781 USER: IDXchart Jangan upgrade ke #Windows10! Seriously... :( 
+ID: 782 USER: ahmaOfficial Android studio bikin windows10 rusak haduhg :(
+ID: 783 USER: serishema @Polycule My main dev machine's #Windows10 install has just stopped booting. it just black screens. I'll keep you posted.. :(
+ID: 784 USER: inkwaiimemory Do you know ? #Windows10  have a problem with Realteak RTL8187L chipset becasue my netwoerk adapter always crack when connect  :(
+ID: 785 USER: eikiu RT@aldershotchris: My first #BSOD on #Windows10 :( 
+ID: 786 USER: inkwaiimemory Windows10 restarting loop with long time, I must force close with power button :(#Windows10
+ID: 787 USER: inkwaiimemory Windows10 restarting loop because network problem when use wifi adapter :( and I get bsod.
+ID: 788 USER: freddyncalm RT@aldershotchris: My first #BSOD on #Windows10 :( 
+ID: 789 USER: Konjux Thanks to the wonderful @Windows #Windows10 the last 7 episodes of my SOMA youtube edit, will be very choppy in the video :( win7 is love <3
+ID: 790 USER: earlymod_lizzie Hell. I've just started #Windows10 update by accident. Should have been paying attention when I shut down :(
+ID: 791 USER: PeterKortvel #Windows10 starts up slower than 4 years old XP full of malware :(
+ID: 792 USER: kingofcanoe @thejasonmack I wish #Microsoft would stop telling me to upgrade to #Windows10 --I'm just getting used to #Windows7 :(
+ID: 793 USER: frantzkoerber Hi #WindowsInsiders #Microsoft #XboxOne : #Windows10 finally arrives with delay in December :(Read here :
+ID: 794 USER: Naoki_Kosaka_ AD Converter, MCP3208, Broken :-( I can't develop device side. but instead today make software and iot side. #RaspberryPi #Windows10
+ID: 795 USER: Windows10Info ?Bam. Not even an hour in Windows 10 and BSOD :(?  
+ID: 796 USER: yashparikh_18 I was hoping #Microsoft to announce #Windows10 for phones availability date for consumers :(
+ID: 797 USER: WulfCry_0 What the hell #windows10 not using all my cpu-cores >:( .Wth is messenger doing on my desktop  >:((
+ID: 798 USER: lawrence227 can any one tell me the advantages & disadvantages of #Windows10? its been almost half a year but still cant decide.. :(
+ID: 799 USER: JTDaddy17 I would be watching the live stream of the new #Windows10 devices, but my #Windows10 machine is still being fixed... this is torture! :(
+ID: 800 USER: floriankrebs3 Looks like I have to upgrade my #webex to the latest release T30.1 to get #Windows10 working with our webex platform :-(
+ID: 801 USER: sebbix54 critical error : your start menu does not work... Another working day lost on #windows10 #kb3092366 :-(
+ID: 802 USER: hossmi #Upgraded #Acer #W510 to #Windows10 (used mainly for watching tv & @TweetDeck) Only #bad #impressions. Too slow. #Windwos8 #metro #missed :(
+ID: 803 USER: RaffyPekson Holy crap! This is the fifth or sixth time this happened after upgrading to #Windows10 #Bluescreen :-( 
+ID: 804 USER: SrikanthNair My #Lumia930 running #Windows10 mobile preview has been absolutely horrible to me today. Overheating. Hanging. Have to revert to 8.1 :(
+ID: 805 USER: maroonajambo Something calling itself "Cortana" just jumped up on my screen and asked if it could be of assistance. #Grrrr fckn #Windows10 #GiesPeace :(
+ID: 806 USER: hessamshm Merry Christmas :( 80072EDF Windows update error. Less than a week of #Windows10 experience and three fatal errors. Well done #Microsoft
+ID: 807 USER: sahilmalik Okay #Windows10 start menu isn't working. I've googled all the fixes, no avail :(
