@@ -23,6 +23,16 @@ import twitter4j.conf.ConfigurationBuilder;
 public class MoreSearchQuery {
 
 	public static void main(String[] args) throws IOException {
+		
+		/*BufferedReader readerPrincipal = new BufferedReader(new FileReader("topic/query.txt"));
+		String linePrincipal = readerPrincipal.readLine();
+		String query = "";
+		while (linePrincipal != null) {
+			query = linePrincipal;
+			linePrincipal = readerPrincipal.readLine();
+		}
+		readerPrincipal.close();*/
+		
 		TwitterNeo4j neo = new TwitterNeo4j();
 		FileWriter file = new FileWriter("DatiWindows10/datiIniziali.txt", true);
 		PrintWriter outFile = new PrintWriter(file);

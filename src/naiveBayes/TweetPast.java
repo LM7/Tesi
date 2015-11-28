@@ -16,22 +16,25 @@ public class TweetPast {
 
 	public static void main(String[] args) throws Exception {
 		MainTwitter mt = new MainTwitter();
-		FileWriter file = new FileWriter("NaiveBayes/testingPast.txt", true);
+		FileWriter file = new FileWriter("DatiVolkswagen/past.txt", true);
 		PrintWriter outFile = new PrintWriter(file);
 		FileWriter file2 = new FileWriter("appoggio/UtentiForseNeutrali.txt", true);
 		PrintWriter outUsersNeutral = new PrintWriter(file2);
-		BufferedReader reader = new BufferedReader(new FileReader("NaiveBayes/usersPerTweetPast.txt")); //file users
+		BufferedReader reader = new BufferedReader(new FileReader("DatiVolkswagen/usersPerTweetPast.txt")); //file users
 		String line = reader.readLine();
 		ResponseList<Status> stati = null;
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-		String dataLimite = "2015-10-01";
+		String dataLimite = "2015-09-18";
 		Date dateLim = sdf.parse(dataLimite);
 		int cont;
+		int richieste = 0;
 		boolean neutral = true;
 		while (line != null) {
 			neutral = true;
 			try {
 				stati = mt.tweetsOfUser(line, 200);
+				richieste++;
+				System.out.println(richieste);
 			} catch (Exception e) {
 				file.close();
 				reader.close();
@@ -45,7 +48,7 @@ public class TweetPast {
 				Date date = stato.getCreatedAt();
 				String dateString = sdf.format(date);
 				String text = stato.getText();
-				if (date.before(dateLim) && (cont < 1) && (text.contains("Marino") || text.contains("marino")) ) {
+				if (date.before(dateLim) && (cont < 1) && (text.contains("Volkswagen")) ) {
 					outFile.println("USER: "+line);
 					outFile.println("DATE: "+dateString);
 					outFile.println(text);

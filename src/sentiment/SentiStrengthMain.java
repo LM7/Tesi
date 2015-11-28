@@ -56,7 +56,7 @@ public class SentiStrengthMain {
 	/*stampa tutti  e 3 i valori dei tweet*/
 	
 	public ArrayList<Integer> sentiment(ArrayList<String> tweets) {
-		String ssthInitialisation[] = {"sentidata", "SentStrength_Data_Ita/", "scale"}; //explain
+		String ssthInitialisation[] = {"sentidata", "SentStrength_Data/", "scale"}; //explain
 		this.sentistrength.initialise(ssthInitialisation);
 		ArrayList<Integer> valori = new ArrayList<Integer>();
 		for (String tweet: tweets) {
@@ -71,7 +71,7 @@ public class SentiStrengthMain {
 		return valori;
 	}
 	public int[] sentimentOneTweet(String tweet) {
-		String ssthInitialisation[] = {"sentidata", "SentStrength_Data_Ita/", "scale"}; //explain
+		String ssthInitialisation[] = {"sentidata", "SentStrength_Data/", "scale"}; //explain
 		this.sentistrength.initialise(ssthInitialisation);
 		int[] valori = new int[3];
 		//System.out.println(this.sentistrength.computeSentimentScores(tweet)); //Stampo i risultati (con l'explain se volessi)

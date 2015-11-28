@@ -100,7 +100,7 @@ public class StreamQuery {
 		
 		String language[] = {"en"};
 		//gli spazi sono end, tra loro tutti or
-		String keywords[] = {"sport"};
+		String keywords[] = {"Windows10"};
 		//String keywords[] = {"El Capitan", "Windows10", "El Capitan better", "Windows10 better", "El Capitan worse", "Windows10 worse"};
 		//{"El Capitan is better than", "Windows10 is better than", "El Capitan is worse than", "Windows10 is worse than"};
 		fq.track(keywords); 
