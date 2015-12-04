@@ -123,7 +123,7 @@ public class Tagger {
 		return tagToken;
 	}
 	
-	public static void main(String[] args) throws IOException {
+	/*public static void main(String[] args) throws IOException {
 		ArrayList<String> lista = new ArrayList<String>();
 		Tagger tagger = new Tagger();
 		String text = "@LM7 ^Volkswagen!!^_ FIFA _Volkswagen_ ^Volkswagen^ Ciao mi chiamo fwdwdcVolkswagenfefff Lorenzo I like football and Cristiano is the best player!!! #ForzaRoma #ASRTiAmo #player #is #the #Cristiano";
@@ -134,13 +134,13 @@ public class Tagger {
 				System.out.println("DAJE");
 			}
 		}
-	}
+	}*/
 
 	/**
 	 * Illustrate how to load and call the POS tagger.
 	 * This main() is not intended for serious use; see RunTagger.java for that.
 	 **/
-	/*public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException {
 		if (args.length < 1) {
 			System.out.println("Supply the model filename as first argument.");
 		}
@@ -160,7 +160,7 @@ public class Tagger {
 		for (TaggedToken token : taggedTokens) {
 			System.out.printf("%s\t%s\n", token.tag, token.token);
 		}
-	}*/
+	}
 
 }
 

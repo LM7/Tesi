@@ -76,13 +76,16 @@ public class TwitterNeo4jFromMe {
 		_relHASHTAG = _graphDB.index().forRelationships("Hashtag");
 		_relRT = _graphDB.index().forRelationships("RT");
 		
-		
-
-		/*WrappingNeoServerBootstrapper srv;
-		srv = new WrappingNeoServerBootstrapper((GraphDatabaseAPI)  _graphDB );
-		srv.start();*/
 		tx.success();
         }
+		
+
+		/* (dentro il try in caso)
+		 * WrappingNeoServerBootstrapper srv;
+		srv = new WrappingNeoServerBootstrapper((GraphDatabaseAPI)  _graphDB );
+		srv.start();*/
+		
+        
 
 	}
 	private Node createNodeType(Object id,String type)

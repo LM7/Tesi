@@ -147,7 +147,7 @@ public class Cont {
 			line = reader.readLine();
 		}
 		reader.close();
-		PrintWriter outFile = new PrintWriter("DatiWindows10/RT.txt");
+		PrintWriter outFile = new PrintWriter("DatiWindows10/RTpast.txt");
 		for (String stringa: rtToval.keySet()) {
 			outFile.print(stringa+": "+rtToval.get(stringa));
 			outFile.println();
@@ -156,12 +156,12 @@ public class Cont {
 	}
 
 	public static void main(String[] args) throws Exception {
-		File file = new File("DatiWindows10/datiIniziali.txt"); //file da LEGGERE
+		File file = new File("DatiWindows10/pastClean.txt"); //file da LEGGERE
 		//rewriteUsers(file);
-		contUsers(file);
+		//contUsers(file);
 		contRT(file);
-		contHashTag(file);
-		contScreenNames(file);
+		//contHashTag(file);
+		//contScreenNames(file);
 	}
 
 }

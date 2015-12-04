@@ -62,7 +62,7 @@ public class MainTwitter {
 		//PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
-		ResponseList<Status> stati = null; //1042 neutrali fino ad ora
+		ResponseList<Status> stati = null;
 		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet)); //cambiando il paging posso risalire agli stati più vecchi
 		/*for (Status stato: stati) {
 			//outTOU.println("LINGUA: "+stato.getLang());

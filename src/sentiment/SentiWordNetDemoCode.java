@@ -94,7 +94,7 @@ public class SentiWordNetDemoCode {
 					sum += 1.0 / (double) setScore.getKey();
 				}
 				score /= sum;
-
+				//System.out.println(score);
 				dictionary.put(word, score);
 			}
 		} catch (Exception e) {

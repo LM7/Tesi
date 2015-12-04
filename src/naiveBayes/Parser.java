@@ -19,7 +19,7 @@ public class Parser {
 	
 	//Eliminare lo spazio dopo RT a mano...
 	public static void trainingForClassifier(File file) throws Exception {
-		PrintWriter outFile = new PrintWriter("NaiveBayesVolkswagen/trainingReady.txt");
+		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/trainingReady.txt");
 		FileForExcel ff = new FileForExcel();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -46,7 +46,7 @@ public class Parser {
 	}
 	
 	public static void testingForClassifier(File file) throws Exception {
-		PrintWriter outFile = new PrintWriter("NaiveBayesVolkswagen/testingPastReady.txt");
+		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/testingPastReady.txt");
 		FileForExcel ff = new FileForExcel();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
@@ -124,8 +124,8 @@ public class Parser {
 	}
 	
 	public static void cleanFile() throws Exception {
-		PrintWriter outFile = new PrintWriter("DatiVolkswagen/pastClean.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("DatiVolkswagen/past.txt"));
+		PrintWriter outFile = new PrintWriter("DatiWindows10/pastClean.txt");
+		BufferedReader reader = new BufferedReader(new FileReader("DatiWindows10/past.txt"));
 		String line = reader.readLine();
 		int cont = 0;
 		while (line != null) {
@@ -156,9 +156,9 @@ public class Parser {
 	
 	public static void main(String[] args) throws Exception {
 		//cleanFile(); //prima pulizia da url e a capo
-		//File filetraining = new File("DatiVolkswagen/trainingVolkswagen.txt");
-		//File filetesting = new File("DatiVolkswagen/tweetClean.txt");
-		File filetesting = new File("DatiVolkswagen/pastClean.txt");
+		//File filetraining = new File("DatiWindows10/trainingWindows10.txt");
+		//File filetesting = new File("DatiWindows10/tweetClean.txt");
+		File filetesting = new File("DatiWindows10/pastClean.txt");
 		//trainingForClassifier(filetraining);
 		testingForClassifier(filetesting);
 		//testingPastYearMonthForClassifier(filetesting);

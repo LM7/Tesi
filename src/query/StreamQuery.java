@@ -97,17 +97,21 @@ public class StreamQuery {
 		};
 
 		FilterQuery fq = new FilterQuery();        
-		
 		String language[] = {"en"};
-		//gli spazi sono end, tra loro tutti or
 		String keywords[] = {"Windows10"};
-		//String keywords[] = {"El Capitan", "Windows10", "El Capitan better", "Windows10 better", "El Capitan worse", "Windows10 worse"};
-		//{"El Capitan is better than", "Windows10 is better than", "El Capitan is worse than", "Windows10 is worse than"};
+		fq.language(language);
 		fq.track(keywords); 
-		//fq.language(language);
-
 		twitterStream.addListener(statusListener);
 		twitterStream.filter(fq); 
+		
+		//gli spazi sono end, tra loro tutti or
+		
+		//String keywords[] = {"El Capitan", "Windows10", "El Capitan better", "Windows10 better", "El Capitan worse", "Windows10 worse"};
+		//{"El Capitan is better than", "Windows10 is better than", "El Capitan is worse than", "Windows10 is worse than"};
+		
+		//
+
+		
 	}  
 
 	public static void main(String[] args) {
