@@ -5,17 +5,13 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Date;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
 
 import pos.Extractor;
 import sentiment.SentiStrengthMain;
 import twitter4j.MainTwitter;
-import twitter4j.RateLimitStatus;
 import twitter4j.ResponseList;
 import twitter4j.Status;
 import twitter4j.TwitterException;
@@ -33,7 +29,7 @@ public class TakeSentimentProva {
 		ArrayList<String> prove = new ArrayList<String>();
 		ArrayList<Integer> valoriProve = new ArrayList<Integer>();
 		ArrayList<String> proveMood = new ArrayList<String>();
-		String user = "ManUtd";
+		//String user = "ManUtd";
 		ArrayList<String> followersUTD = new ArrayList<String>();
 		//followersUTD = mt.followersOfUser(user,50); //dovr?? mettere un limite al numero di utenti presi
 		followersUTD.add("Gm4nHere");

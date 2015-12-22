@@ -1,13 +1,9 @@
 package otherProceedings;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileNotFoundException;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.io.UnsupportedEncodingException;
-import java.nio.file.FileSystem;
 import java.util.ArrayList;
 
 import com.mongodb.BasicDBList;
@@ -16,7 +12,6 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.MongoClient;
-import com.mongodb.util.JSON;
 
 import twitter4j.MainTwitter;
 import twitter4j.TwitterException;
@@ -52,7 +47,7 @@ public class TakeUsers {
 		collection.remove(remove);*/
 		
 		//per l'insert iniziale
-		BasicDBList lista = new BasicDBList();
+		//BasicDBList lista = new BasicDBList();
 		int numeroFoll = 0;
 		for (String follower: followers) {
 			//lista.add(follower); //insert 1

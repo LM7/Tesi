@@ -8,8 +8,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-import org.omg.Messaging.SyncScopeHelper;
-
 import twitter4j.MainTwitter;
 import twitter4j.ResponseList;
 import twitter4j.Status;

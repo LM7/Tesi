@@ -1,7 +1,7 @@
 package otherProceedings;
 
 /*
- * Questa classe ?? utile sia per il processo "folloers" sia per quello "query dirette"
+ * Questa classe è utile sia per il processo "folloers" sia per quello "query dirette"
  */
 
 import java.io.BufferedReader;
@@ -48,7 +48,7 @@ public class TakeSentiment {
 			line = reader.readLine();
 			
 		}
-		
+		reader.close();
 		System.out.println("SIZE"+afterBefore.size());
 		/*int kappa=0;
 		for (String stringa :afterBefore) {

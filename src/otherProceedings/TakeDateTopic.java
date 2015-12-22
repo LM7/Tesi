@@ -4,17 +4,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
 import pos.Tagger;
 import pos.TweetTextMain;
 
-import com.mongodb.BasicDBList;
+
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -44,7 +41,6 @@ public class TakeDateTopic {
 		int lungTweet;
 		String user;
 		String data;
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 		String tweet;
 		TweetTextMain tweetext = new TweetTextMain();
 		List<String> hashtags;
