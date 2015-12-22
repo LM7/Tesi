@@ -18,10 +18,10 @@ import twitter4j.conf.ConfigurationBuilder;
 public class StreamQuery {
 
 	private static void GetTweetStreamForKeywords() {
-		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
-	    String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
-	    String accessToken = "462812178-D0BD0F6UySOfmioGexeNCEQhAxm1kH85foQXJJ2N";
-	    String accessSecret = "6AzKzxCck3G0hIpYdV3DExjslRWoAZ2CUyCmaVlrGUu78";
+		String consumerKey = "";
+	    String consumerSecret = "";
+	    String accessToken = "";
+	    String accessSecret = "";
 	    ConfigurationBuilder confBuilder = new ConfigurationBuilder();
 	    Configuration config;
 	    

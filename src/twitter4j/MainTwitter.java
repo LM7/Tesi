@@ -21,10 +21,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 public class MainTwitter {
 	
-	private String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
-    private String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
-    private String accessToken = "462812178-D0BD0F6UySOfmioGexeNCEQhAxm1kH85foQXJJ2N";
-    private String accessSecret = "6AzKzxCck3G0hIpYdV3DExjslRWoAZ2CUyCmaVlrGUu78";
+	private String consumerKey = "";
+    private String consumerSecret = "";
+    private String accessToken = "";
+    private String accessSecret = "";
     private ConfigurationBuilder cb;
     private TwitterFactory tf;
     private Twitter twitter;

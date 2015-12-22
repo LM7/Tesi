@@ -47,7 +47,7 @@ public class MoreSearchSentiment {
 		veryNeg = 0;
 		veryPos = 0;
 
-		int posizioneSWN = 0;
+		//int posizioneSWN = 0;
 		for (String mood: sentiments) {
 			if (mood.contains("positive")) {
 				posSWN++;
@@ -64,7 +64,7 @@ public class MoreSearchSentiment {
 			if (mood.contains("very neg")) {
 				veryNeg++;
 			}
-			posizioneSWN++;
+			//posizioneSWN++;
 		}
 
 		System.out.println("SENTIWORDNET");

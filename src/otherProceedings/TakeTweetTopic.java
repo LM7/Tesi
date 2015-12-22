@@ -35,7 +35,7 @@ public class TakeTweetTopic {
 		MainTwitter twitter = new MainTwitter();
 		HashMap<String, ArrayList<String>> tweets = new HashMap<String,ArrayList<String>>();
 		String topic = "#saveiturbe";
-		String user = "LM791";
+		String user = "";
 		String dataStart = "2015-07-20";
 		tweets = twitter.userFollowersOnTopic(topic, user, dataStart); //Tweets riguardo delle parole chiave
 		
@@ -49,11 +49,11 @@ public class TakeTweetTopic {
 		collection.insert(document);
 		
 		DBCursor cursor = collection.find();
-		int j = 1;
+		//int j = 1;
 		while (cursor.hasNext()) {
 			String s = cursor.next().toString();
 			System.out.println(s);
-			j++;
+			//j++;
 		}
 		System.out.println("DONE");
 
