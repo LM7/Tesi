@@ -8,7 +8,7 @@ import java.io.IOException;
 public class ContSentiment {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("WekaMarino/training.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(""));
 		String line = reader.readLine();
 		int neg = 0;
 		int pos = 0;

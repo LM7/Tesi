@@ -3,7 +3,6 @@ package database;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
-import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
@@ -68,7 +67,7 @@ public class SupportTwitterNeo4jFromMe {
 	public static void createFile(File file) throws Exception {
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
-		PrintWriter outFile = new PrintWriter("DatiWindows10/datiInizialiNeo.txt");
+		PrintWriter outFile = new PrintWriter("FileSuCuiScrivere.txt");
 		int cont = 0;
 		String appoggio = "";
 		while (line != null) {
@@ -91,7 +90,7 @@ public class SupportTwitterNeo4jFromMe {
 	public static void rewrite(File file) throws Exception {
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
-		PrintWriter outFile = new PrintWriter("DatiVolkswagen/datiIniziali.txt");
+		PrintWriter outFile = new PrintWriter("FileSuCuiScrivere.txt");
 		while (line != null) {
 			if ( !(line.contains("positive")) &&  !(line.contains("neutral")) && !(line.contains("negative")) ) {
 				outFile.println(line);
@@ -103,7 +102,7 @@ public class SupportTwitterNeo4jFromMe {
 	}
 	
 	public static void getUsers(File file) throws Exception {
-		PrintWriter outFile = new PrintWriter("DatiWindows10/usersVecchi.txt");
+		PrintWriter outFile = new PrintWriter("FileSuiCuiScrivere");
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
 		String line = reader.readLine();
 		String[] splits;
@@ -124,8 +123,7 @@ public class SupportTwitterNeo4jFromMe {
 	
 	
 	public static void main(String[] args) throws Exception {
-		//File file = new File("DatiVolkswagen/datiIniziali.txt");
-		File file = new File("DatiWindows10/datiIniziali.txt");
+		File file = new File(""); //da dove leggere
 		//createFile(file);
 		//rewrite(file);
 		getUsers(file);

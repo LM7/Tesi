@@ -1,4 +1,4 @@
-package main;
+package otherProceedings;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -34,7 +34,7 @@ public class TakeDateTopic {
 			System.out.println(e.getMessage());
 		}
 		DB db = mongo.getDB("db");
-		DBCollection collection = db.getCollection("collezione");
+		DBCollection collection = db.getCollection("");
 		DBCursor cursor = collection.find();
 		System.out.println( "NUMERO USERS "+(collection.count()-1) );
 		cursor.sort(new BasicDBObject("_id", 1)); //ordino il db per chiave, quindi per inserimento
@@ -71,10 +71,10 @@ public class TakeDateTopic {
 							System.out.println("TWEET NUMERO "+i+" SU "+ lungTweet);
 							obj2 = (DBObject) obj.get("tweet"+i);
 							data = obj2.get("date").toString();
-							//qui farò le operazioni sulle date
+							//qui far?????? le operazioni sulle date
 							//Date date = sdf.parse(data);
 							tweet = obj2.get("text").toString();
-							//qui farò le operazioni sui tweet
+							//qui far?????? le operazioni sui tweet
 							topic = false;
 							hashtags = tweetext.tweetTextHashTags(tweet); //lista di hashtags
 							tweetWithTags = tagger.taggerNlp(tweet); //tweet taggato con gli elementi di tagger

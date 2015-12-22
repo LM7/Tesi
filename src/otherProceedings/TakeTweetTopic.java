@@ -1,4 +1,4 @@
-package main;
+package otherProceedings;
 
 import java.io.FileNotFoundException;
 import java.io.UnsupportedEncodingException;

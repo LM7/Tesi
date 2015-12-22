@@ -18,7 +18,7 @@ import com.mongodb.util.Hash;
 public class Cont {
 	
 	public static void rewriteUsers(File file) throws Exception {
-		FileWriter fileWrite = new FileWriter("DatiMarquez/provaaaa.txt");
+		FileWriter fileWrite = new FileWriter("");
 		PrintWriter outFile = new PrintWriter(fileWrite);
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
 		String line = reader.readLine();
@@ -35,7 +35,7 @@ public class Cont {
 	}
 	
 	public static void contUsers(File file) throws Exception {
-		FileWriter fileWrite = new FileWriter("DatiWindows10/AllUsers.txt");
+		FileWriter fileWrite = new FileWriter("");
 		PrintWriter outFile = new PrintWriter(fileWrite);
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //da dove leggere
 		String line = reader.readLine();
@@ -80,7 +80,7 @@ public class Cont {
 			line = reader.readLine();
 		}
 		reader.close();
-		PrintWriter outFile = new PrintWriter("DatiWindows10/ScreenNames.txt");
+		PrintWriter outFile = new PrintWriter("");
 		for (String stringa: screenNamesToval.keySet()) {
 			outFile.print(stringa+": "+screenNamesToval.get(stringa));
 			outFile.println();
@@ -113,7 +113,7 @@ public class Cont {
 			line = reader.readLine();
 		}
 		reader.close();
-		PrintWriter outFile = new PrintWriter("DatiWindows10/HashTags.txt");
+		PrintWriter outFile = new PrintWriter("");
 		for (String stringa: hashToval.keySet()) {
 			outFile.print(stringa+": "+hashToval.get(stringa));
 			outFile.println();
@@ -147,7 +147,7 @@ public class Cont {
 			line = reader.readLine();
 		}
 		reader.close();
-		PrintWriter outFile = new PrintWriter("DatiWindows10/RTpast.txt");
+		PrintWriter outFile = new PrintWriter("");
 		for (String stringa: rtToval.keySet()) {
 			outFile.print(stringa+": "+rtToval.get(stringa));
 			outFile.println();
@@ -156,7 +156,7 @@ public class Cont {
 	}
 
 	public static void main(String[] args) throws Exception {
-		File file = new File("DatiWindows10/pastClean.txt"); //file da LEGGERE
+		File file = new File(""); //file da LEGGERE
 		//rewriteUsers(file);
 		//contUsers(file);
 		contRT(file);

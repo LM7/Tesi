@@ -22,10 +22,10 @@ import com.mongodb.MongoClient;
 import com.mongodb.WriteResult;
 import com.mongodb.util.JSON;
 
-public class StampaDB {
+public class OperationMongoDB {
 
 	public static void main(String[] args) throws JSONException, FileNotFoundException {
-		PrintWriter outDB = new PrintWriter("MongoDB/marinoCollectionPast.txt");
+		PrintWriter outDB = new PrintWriter("");
 		MongoClient mongo = null;
 		try {
 			mongo = new MongoClient("localhost", 27017);
@@ -33,7 +33,7 @@ public class StampaDB {
 			System.out.println(e.getMessage());
 		}
 		DB db = mongo.getDB("db");
-		DBCollection collection = db.getCollection("marinoCollectionPast"); //collezione
+		DBCollection collection = db.getCollection(""); //collezione
 		DBCursor cursor = collection.find();
 		/*Svuota database
 		BasicDBObject remove = new BasicDBObject();

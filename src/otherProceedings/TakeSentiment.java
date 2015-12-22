@@ -1,7 +1,7 @@
-package main;
+package otherProceedings;
 
 /*
- * Questa classe è utile sia per il processo "folloers" sia per quello "query dirette"
+ * Questa classe ?? utile sia per il processo "folloers" sia per quello "query dirette"
  */
 
 import java.io.BufferedReader;
@@ -33,7 +33,7 @@ public class TakeSentiment {
 			if (line.matches("\\d{4}-\\d{2}-\\d{2}")) { //da controllare sta regex.....
 				String data = fraseLinea; //prendo la data
 				date = sdf.parse(data); //la trasformo per paragonarla alla DataPrincipale
-				if (date.after(dateScandal) || data.equals("2015-09-18")) { //alla fine avrò una lista di after e before da associare alla lista di sentiment...tutto in ordine
+				if (date.after(dateScandal) || data.equals("2015-09-18")) { //alla fine avr?? una lista di after e before da associare alla lista di sentiment...tutto in ordine
 					afterBefore.add("after");
 				}
 				else {

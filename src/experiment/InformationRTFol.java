@@ -22,12 +22,12 @@ public class InformationRTFol {
 	public static void main(String[] args) throws FileNotFoundException, TwitterException, IOException {
 		FileWriter file = new FileWriter("ProvaFollowingsContro.txt", true);
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt")); //sugli UserProMarino
+		BufferedReader reader = new BufferedReader(new FileReader("Prova.txt"));
 		String line = reader.readLine();
 		MainTwitter mt = new MainTwitter();
 		Twitter twitter = mt.getTwitter();
 		PagableResponseList<User> followingsUser = null;
-		long cursor = -1;// OCCHIO
+		long cursor = -1;
 		System.out.println("LOADING");
 		int j = 0;
 		while (line != null) {

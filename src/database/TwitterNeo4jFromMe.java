@@ -40,8 +40,8 @@ public class TwitterNeo4jFromMe {
 		RT
 	}
 
-	//private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jVolkswagen/data/graph.db";
-	private static String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4jWindows10/data/graph.db";
+	
+	private static String DB_PATH = "";
 	private Index _entitiesIndex ;
 
 	private Index _UserIndex ;
@@ -200,7 +200,7 @@ public class TwitterNeo4jFromMe {
 	
 	public static void main(String[] args) throws TwitterException, Exception {
 		TwitterNeo4jFromMe neo = new TwitterNeo4jFromMe();
-		BufferedReader reader = new BufferedReader(new FileReader("DatiWindows10/datiInizialiNeo.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(""));
 		String line = reader.readLine();
 		int contline = 0;
 		while (line != null) {

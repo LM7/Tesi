@@ -1,4 +1,4 @@
-package main;
+package otherProceedings;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -35,7 +35,7 @@ public class TakeSentimentProva {
 		ArrayList<String> proveMood = new ArrayList<String>();
 		String user = "ManUtd";
 		ArrayList<String> followersUTD = new ArrayList<String>();
-		//followersUTD = mt.followersOfUser(user,50); //dovrò mettere un limite al numero di utenti presi
+		//followersUTD = mt.followersOfUser(user,50); //dovr?? mettere un limite al numero di utenti presi
 		followersUTD.add("Gm4nHere");
 		followersUTD.add("Ahmad99MUFC");
 		followersUTD.add("DigitalDaggers");

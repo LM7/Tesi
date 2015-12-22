@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
-import weka.FileForExcel;
+import cleanForFile.StopwordsPoints;
 
 public class Parser {
 	
@@ -20,7 +20,7 @@ public class Parser {
 	//Eliminare lo spazio dopo RT a mano...
 	public static void trainingForClassifier(File file) throws Exception {
 		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/trainingReady.txt");
-		FileForExcel ff = new FileForExcel();
+		StopwordsPoints ff = new StopwordsPoints();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
 		String[] splits;
@@ -47,7 +47,7 @@ public class Parser {
 	
 	public static void testingForClassifier(File file) throws Exception {
 		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/testingPastReady.txt");
-		FileForExcel ff = new FileForExcel();
+		StopwordsPoints ff = new StopwordsPoints();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
 		String[] splits;

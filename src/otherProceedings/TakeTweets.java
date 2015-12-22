@@ -1,4 +1,4 @@
-package main;
+package otherProceedings;
 
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -74,7 +74,7 @@ public class TakeTweets {
 					int i = 0;
 					for (Status stato: stati) {
 						System.out.println("TWEET NUMERO: "+i);
-						if (i!=0) { //se non �� il primo ci vuole la virgola
+						if (i!=0) { //se non ?????? il primo ci vuole la virgola
 							json = json + ",";
 						}
 						language = stato.getLang();
