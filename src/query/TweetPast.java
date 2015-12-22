@@ -1,4 +1,5 @@
-package naiveBayes;
+package query;
+
 
 import java.io.BufferedReader;
 
@@ -69,3 +70,4 @@ public class TweetPast {
 	}
 
 }
+

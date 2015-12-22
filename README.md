@@ -1,5 +1,5 @@
 # Dynamic Public Opinion
-Progetto di tesi sperimentale per la Laurea Magistrale: <i>Dynamic public opinion: strumenti software di analisi e casi studio su reti sociali</i>
+Progetto di tesi sperimentale per la Laurea Magistrale: <i>Dynamic public opinion: strumenti software di analisi e casi studio su reti sociali</i> <br>
 Università degli Studi di Roma Tre - Dip. di Ingegneria Informatica <br>
 (Anno Accademico 2014-2015)
 
@@ -21,33 +21,30 @@ Fase di analisi e di studio di tutti i tweet raccolti per la formazione di un in
 - <b>Machine Learning</b> <br>
 Insiemi di training e di testing per il classificatore Naive-Bayes in modo da ottenere risultati e valutazioni finali.
 
-<br>
-
-<b><i>Package</i></b>
+<b><i>Package</i></b> <br>
 Breve descrizione delle funzionalità delle varie classi java all'interno dei packge:
 - <b>cleanForFile</b> <br>
 <i>StopwordsPoints</i>: pulisce i tweet da alcuni segni di punteggiatura e rimuove le parole contenute nei file stopword (presenti in tre lingue differenti: italiana, inglese e spagnola);
 - <b>database</b> <br>
 <i>OperationMongoDB</i>: sono presenti diverse operazioni da poter effettuare su MongoDB; il resto delle classi riguardano le operazioni su Neo4J, in particolare: <i>TwitterNeo4j</i> permette di inserire gli oggetti "Status" di Twitter all'interno del graphDB, mentre <i>TwitterNeo4jFromMe</i> è una variante della classe precedente e prende tweet di tipo Stringa (esempio di formato in DatiWindows10/datiInizialiNeo.txt) e li inserisce sempre all'interno del database;
 - <b>experiment</b> <br>
-Le classi principali sono <i>Cont</i> e <i>ContSentiment</i>: la prima dato un file di testo conta retweet, hashtag, menzioni e utenti, la seconda conta invece i "sentiment";
+le classi principali sono <i>Cont</i> e <i>ContSentiment</i>: la prima dato un file di testo conta retweet, hashtag, menzioni e utenti, la seconda conta invece i "sentiment";
 - <b>googleNews</b> <br>
 <i>GoogleNewsCorpusRetriever</i>: classe estrapolata dal progetto GoogleNews, contiene l'indicizzazione delle notizie, la stampa dei risultati e il salvataggio dei titoli in un file di testo;
 - <b>naiveBayes</b> <br>
-Qui ci sono le classi java del classificatore Naive-Bayes: gli insiemi di training e di testing devono essere inseriti all'interno di <i>RunnableExample</i>; inoltre: 
-<i>Parser</i>: permette di preparare i file di testo del training e del testing nel formato adatto al classificatore Naive-Bayes;
-<i>TweetPast</i>: data una lista di utenti ricerca i loro tweet precedenti ad una data indicata;
+qui ci sono le classi java del classificatore Naive-Bayes: gli insiemi di training e di testing devono essere inseriti all'interno di <i>RunnableExample</i>; inoltre la classe <i>Parser</i> permette di preparare i file di testo del training e del testing nel formato adatto al classificatore Naive-Bayes;
 - <b>otherProceedings</b> <br>
-Qui ci sono tutte classi di prova, per vari esperimenti iniziali, che permettono di comprendere i vantaggi e i limiti delle API di Twitter e le potenzialità e gli errori della sentiment analysis;
+qui ci sono tutte classi di prova, per vari esperimenti iniziali, che permettono di comprendere i vantaggi e i limiti delle API di Twitter e le potenzialità e gli errori della sentiment analysis;
 - <b>pos</b> <br>
-Sono contenute tutte le classi per il part of speech, tra cui:
+sono contenute tutte le classi per il part of speech, tra cui:
 <i>TweetTextMain</i> e <i>Tagger</i> dove sono presenti degli esempi per capire il loro funzionamento;
-<i>Tagme</i> che recupera le entità dai titoli e scrive sul file quelle più numerose;
+<i>Tagme</i> che recupera le entità dai titoli e scrive su un file di testo quelle più numerose;
 - <b>query</b> <br>
-Classi per le analisi del sentiment all'interno dei tweet; classi per il recupero dei tweet tramite le Streaming API;
+classi per le analisi del sentiment all'interno dei tweet; classi per il recupero dei tweet tramite le Streaming API;
 <i>MoreSearchQuery</i>: classe definitiva utilizzata per il recupero dei tweet;
+<i>TweetPast</i>: data una lista di utenti ricerca i loro tweet precedenti ad una data indicata;
 - <b>sentiment</b> <br>
-Classi dedicate alla sentiment analysis: SentiWordNet e SentiStrength (per quest'ultimo è previsto un dizionario inglese, italiano e spagnolo);
+classi dedicate alla sentiment analysis: SentiWordNet e SentiStrength (per quest'ultimo è previsto un dizionario inglese, italiano e spagnolo);
 - <b>twitter4j</b> <br>
 <i>MainTwitter</i>: contiene diversi metodi che utilizzano le API di Twitter.
 
