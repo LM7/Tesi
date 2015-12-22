@@ -1,13 +1,11 @@
 package query;
 
-import java.io.File;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.List;
 
-import twitter4j.Paging;
 import twitter4j.Query;
 import twitter4j.QueryResult;
 import twitter4j.Status;
@@ -37,10 +35,10 @@ public class SearchQuery {
 	    
 	    tf = new TwitterFactory(cb.build());
 	    twitter = tf.getInstance();
-	    ArrayList<String> tweets = new ArrayList<String>();
+	    //ArrayList<String> tweets = new ArrayList<String>();
 	    //String stato = "Windows10 better OR Windows10 worse";
-	    String stato = "Obama";
-	    int limite = 10; 
+	    String stato = "";
+	    //int limite = 10; 
 	    String dataStart = "2015-10-01";
 	    String dataEnd = "2015-10-13";
 	    int cont = 0;

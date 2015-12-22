@@ -2,7 +2,6 @@ package query;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -50,7 +49,7 @@ public class OperationFile {
 	
 	public static void getRT(FileWriter file) throws IOException {
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("Marino/AllTweetsMarino.txt")); //da dove leggere
+		BufferedReader reader = new BufferedReader(new FileReader("")); //da dove leggere
 		String line = reader.readLine();
 		String[] splits;
 		String user;
@@ -88,9 +87,9 @@ public class OperationFile {
 		/*
 		 * Colleziono tutti gli Users e i RT (eliminando URL e a capo)
 		 */
-		/*FileWriter file = new FileWriter("Marino/AllUSERSCollection.txt");
+		/*FileWriter file = new FileWriter("");
 		PrintWriter outFile = new PrintWriter(file);
-		BufferedReader reader = new BufferedReader(new FileReader("Marino/AllTweetsMarino.txt")); //da dove leggere
+		BufferedReader reader = new BufferedReader(new FileReader("")); //da dove leggere
 		String line = reader.readLine();
 		String[] splits;
 		ArrayList<String> users = new ArrayList<String>();
@@ -106,7 +105,7 @@ public class OperationFile {
 		}
 		outFile.close();
 		reader.close();
-		FileWriter fileRT = new FileWriter("Marino/AllRTCollection.txt");
+		FileWriter fileRT = new FileWriter("");
 		getRT(fileRT);
 		System.out.println("DONE");*/
 	}
@@ -122,7 +121,7 @@ BufferedWriter out = null;
 
 try {
 	// apro il file
-	fstream = new FileInputStream("Marino/SentimentTweetPast2.txt");
+	fstream = new FileInputStream("");
 
 	// prendo l'inputStream
 	in = new DataInputStream(fstream);
@@ -134,14 +133,14 @@ try {
 	while ((strLine = br.readLine()) != null) {
 		//System.out.println(strLine); // stampo sulla console la riga corrispondente
 		strLine = deleteURLAndCapo(strLine);
-		//la trascrivo così com'è-> con la cancellazione url
+		//la trascrivo cos�� com'��-> con la cancellazione url
 		fileContent.append(strLine);
 		fileContent.append(System.getProperty("line.separator"));
 
 	}
 
 	// Sovrascrivo il file con il nuovo contenuto (aggiornato)
-	FileWriter fstreamWrite = new FileWriter("Marino/SentimentTweetPast2.txt");
+	FileWriter fstreamWrite = new FileWriter("");
 	out = new BufferedWriter(fstreamWrite);
 	out.write(fileContent.toString());
 
@@ -179,11 +178,11 @@ try {
 	System.out.println(e.getMessage());
 }
 DB db = mongo.getDB("db");
-DBCollection collection = db.getCollection("streamCollection");
+DBCollection collection = db.getCollection("");
 // svuota database
 BasicDBObject remove = new BasicDBObject();
 collection.remove(remove);
-BufferedReader reader = new BufferedReader(new FileReader("StreamQueryTweet.txt"));
+BufferedReader reader = new BufferedReader(new FileReader(""));
 String line = reader.readLine();
 String json = "";
 String tweet;

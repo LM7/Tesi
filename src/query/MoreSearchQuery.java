@@ -11,7 +11,6 @@ import java.util.Date;
 import java.util.List;
 
 import database.TwitterNeo4j;
-import twitter4j.GeoLocation;
 import twitter4j.Query;
 import twitter4j.QueryResult;
 import twitter4j.Status;
@@ -34,7 +33,7 @@ public class MoreSearchQuery {
 		readerPrincipal.close();*/
 		
 		TwitterNeo4j neo = new TwitterNeo4j();
-		FileWriter file = new FileWriter("DatiWindows10/datiIniziali.txt", true);
+		FileWriter file = new FileWriter("", true);
 		PrintWriter outFile = new PrintWriter(file);
 		String consumerKey = "LhwkJs69gcmOYpLM2Vg6iHjQh";
 		String consumerSecret = "Y6G4m97iutw8SWCuz0ut4qGdvhTBMavqB95I4JaFv43AaPZ0TR";
@@ -52,7 +51,7 @@ public class MoreSearchQuery {
 
 		tf = new TwitterFactory(cb.build());
 		twitter = tf.getInstance();
-		Query query = new Query("Windows10");
+		Query query = new Query("");
 		int numberOfTweets = 700; //512
 		//-----
 		String dataStart = "2015-11-11";
@@ -88,7 +87,7 @@ public class MoreSearchQuery {
 		}
 		
 		/* Per non avere stati con user già analizzati */
-		BufferedReader reader2 = new BufferedReader(new FileReader("DatiWindows10/usersVecchi.txt"));
+		BufferedReader reader2 = new BufferedReader(new FileReader(""));
 		String line2 = reader2.readLine();
 		ArrayList<String> users = new ArrayList<String>();
 		while (line2 != null) {

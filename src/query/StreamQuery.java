@@ -48,7 +48,7 @@ public class StreamQuery {
 				SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
 				String text;
 				try {
-					file = new FileWriter("StreamWindows10ElCapitan.txt");
+					file = new FileWriter("");
 					PrintWriter outStream = new PrintWriter(file);
 					System.out.println("YES");
 					outStream.println("USER: "+status.getUser().getScreenName());

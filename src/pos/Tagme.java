@@ -8,12 +8,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
@@ -149,7 +145,7 @@ public class Tagme {
 		HashMap<String, List<String>> mappa = new HashMap<String, List<String>>();
 		HashMap<String, Integer> keyToNumber = new HashMap<String, Integer>();
 		String sommaChiavi = "";
-		String finale = "";
+		//String finale = "";
 		while (line != null) {
 			System.out.println(line);
 			line = line.replaceAll("%", "percent");

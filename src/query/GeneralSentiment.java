@@ -2,17 +2,14 @@ package query;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import pos.TweetTextMain;
-import pos.Extractor.Entity;
 import sentiment.SentiStrengthMain;
 
 public class GeneralSentiment {
@@ -42,22 +39,22 @@ public class GeneralSentiment {
 
 	public static void main(String[] args) throws IOException {
 		//a parte
-		/*String mentionPos = "iostoconmarino";
-		String mentionPos2 = "ignaziomarino";*/
-		//List<String> wordsNeg = new ArrayList<String>(Arrays.asList("Messaggero", "Quotidiano", "Ilfattoquotidiano.it", "Ilfattoquotidiano", "ilmessaggero.it", "ilmessaggero"));
-		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube","YouTube.", "@YouTube:", "focus", "intervista", "@ArsenaleKappa:", "ultimenotizie", "commenta con noi", "sondaggi", "condividi", "clicca", "SkyTG24", "Renzi", "Crozza", "#Crozza:", "Crozza:", "#Crozza", "#Renzi", "#Renzi:", "Renzi:", "GoogleNewsItalia", "BreakingNews", "Solo News"));
-		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube", "YouTube.", "@YouTube", "Agenzia_Ansa", "nonleggerlo", "Fedeok7", "unitaonline", "ftartoni03"));
-		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("theandymac65", "MarchinoSanchez"));
+		/*String mentionPos = "";
+		String mentionPos2 = "";*/
+		//List<String> wordsNeg = new ArrayList<String>(Arrays.asList(""));
+		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList(""));
+		//List<String> wordsNeutral = new ArrayList<String>(Arrays.asList(""));
+		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList(""));
 		// -----
 		TweetTextMain tweetext = new TweetTextMain();
 		ArrayList<String> entities = new ArrayList<String>();
-		PrintWriter outFile = new PrintWriter("HelpSentimentMarquezEng/SentimentVeri.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("DatiMarquez/tweetMarquezengClean.txt"));
-		File hashtagneg = new File("HelpSentimentMarquezEng/HashTagengneg.txt");
-		File hashtagpos = new File("HelpSentimentMarquezEng/HashTagengpos.txt");
-		File rtneg = new File("HelpSentimentMarquezEng/RTengneg.txt");
-		File rtpos = new File("HelpSentimentMarquezEng/RTengpos.txt");
-		//File mentionNeg = new File("HelpSentimentMarquezEng/ScreenNamesengneg.txt");
+		PrintWriter outFile = new PrintWriter("");
+		BufferedReader reader = new BufferedReader(new FileReader(""));
+		File hashtagneg = new File("");
+		File hashtagpos = new File("");
+		File rtneg = new File("");
+		File rtpos = new File("");
+		//File mentionNeg = new File("");
 		String line = reader.readLine();
 		String result = "";
 		SentiStrengthMain ss = new SentiStrengthMain();

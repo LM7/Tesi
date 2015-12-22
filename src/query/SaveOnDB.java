@@ -1,11 +1,10 @@
 package query;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-import org.neo4j.shell.impl.SystemOutput;
+
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
@@ -15,7 +14,7 @@ import com.mongodb.MongoClient;
 public class SaveOnDB {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("Marino/PastSentimentAllTweets.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(""));
 		String line = reader.readLine();
 		MongoClient mongo = null;
 		try {
@@ -24,7 +23,7 @@ public class SaveOnDB {
 			System.out.println(e.getMessage());
 		}
 		DB db = mongo.getDB("db");
-		DBCollection collection = db.getCollection("marinoCollectionPast");
+		DBCollection collection = db.getCollection("");
 		BasicDBObject remove = new BasicDBObject();
 		collection.remove(remove);
 		boolean text = false;

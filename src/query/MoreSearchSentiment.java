@@ -1,14 +1,13 @@
 package query;
 
 /*
- * Per ora solo SetniWordNet; prima analizzare i tweet, eliminare text, a capo e url
+ * Per ora solo SentiWordNet; prima analizzare i tweet, eliminare text, a capo e url
  */
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -20,7 +19,7 @@ import sentiment.SentiWordNetDemoCode;
 public class MoreSearchSentiment {
 
 	public static void main(String[] args) throws IOException {
-		BufferedReader reader = new BufferedReader(new FileReader("NewBearArms.txt"));
+		BufferedReader reader = new BufferedReader(new FileReader(""));
 		String line = reader.readLine();
 		String pathToSWN = "SentiWordNet.txt";
 		SentiWordNetDemoCode sentiwordnet = new SentiWordNetDemoCode(pathToSWN);
@@ -86,7 +85,7 @@ public class MoreSearchSentiment {
 
 		try {
 			// apro il file
-			fstream = new FileInputStream("NewBearArms.txt");
+			fstream = new FileInputStream("");
 
 			// prendo l'inputStream
 			in = new DataInputStream(fstream);
@@ -98,7 +97,7 @@ public class MoreSearchSentiment {
 			while ((strLine = br.readLine()) != null) {
 				//System.out.println(strLine); // stampo sulla console la riga corrispondente
 				if(strLine.equals("")){
-					// se la riga è uguale a quella ricercata
+					// se la riga �� uguale a quella ricercata
 					String valoreSent = sentiments.get(j); //scrivere sul file questo
 					fileContent.append(valoreSent+System.getProperty("line.separator"));
 					avanti = true;
@@ -108,14 +107,14 @@ public class MoreSearchSentiment {
 					avanti = false;
 				}
 				else {
-					// ... altrimenti la trascrivo così com'è
+					// ... altrimenti la trascrivo cos�� com'��
 					fileContent.append(strLine);
 					fileContent.append(System.getProperty("line.separator"));
 				}
 			}
 
 			// Sovrascrivo il file con il nuovo contenuto (aggiornato)
-			FileWriter fstreamWrite = new FileWriter("NewBearArms.txt");
+			FileWriter fstreamWrite = new FileWriter("");
 			out = new BufferedWriter(fstreamWrite);
 			out.write(fileContent.toString());
 

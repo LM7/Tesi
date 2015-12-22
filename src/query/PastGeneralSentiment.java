@@ -39,20 +39,20 @@ public class PastGeneralSentiment {
 
 	public static void main(String[] args) throws IOException {
 		//a parte
-		String mentionPos = "iostoconmarino";
-		String mentionPos2 = "ignaziomarino";
-		List<String> wordsNeg = new ArrayList<String>(Arrays.asList("Messaggero", "Quotidiano", "Ilfattoquotidiano.it", "Ilfattoquotidiano", "ilmessaggero.it", "ilmessaggero"));
-		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList("YouTube","YouTube.", "@YouTube:", "focus", "intervista", "@ArsenaleKappa:", "ultimenotizie", "commenta con noi", "sondaggi", "condividi", "clicca", "SkyTG24", "Renzi", "Crozza", "#Crozza:", "Crozza:", "#Crozza", "#Renzi", "#Renzi:", "Renzi:", "GoogleNewsItalia", "BreakingNews", "Solo News"));
+		String mentionPos = "";
+		String mentionPos2 = "";
+		List<String> wordsNeg = new ArrayList<String>(Arrays.asList(""));
+		List<String> wordsNeutral = new ArrayList<String>(Arrays.asList(""));
 		// -----
 		TweetTextMain tweetext = new TweetTextMain();
 		ArrayList<String> entities = new ArrayList<String>();
-		PrintWriter outFile = new PrintWriter("Marino/PastSentimentAllTweets.txt"); //"Marino/PastSentimentAllTweets.txt"
-		BufferedReader reader = new BufferedReader(new FileReader("Marino/SentimentTweetPast2.txt")); //"Marino/SentimentTweetPast2.txt"
-		File hashtagneg = new File("HelpSentimentMarino/#Neg.txt");
-		File hashtagpos = new File("HelpSentimentMarino/#Pos.txt");
-		File rtneg = new File("HelpSentimentMarino/RTNeg.txt");
-		File rtpos = new File("HelpSentimentMarino/RTPos.txt");
-		File mentionNeg = new File("HelpSentimentMarino/@Neg.txt");
+		PrintWriter outFile = new PrintWriter(""); 
+		BufferedReader reader = new BufferedReader(new FileReader(""));
+		File hashtagneg = new File("");
+		File hashtagpos = new File("");
+		File rtneg = new File("");
+		File rtpos = new File("");
+		File mentionNeg = new File("");
 		String line = reader.readLine();
 		String result = "";
 		SentiStrengthMain ss = new SentiStrengthMain();

@@ -2,7 +2,6 @@ package query;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.io.IOException;
 import java.io.PrintWriter;
 
 import sentiment.SentiStrengthMain;
@@ -12,8 +11,8 @@ public class Sentiment {
 	public static void main(String[] args) throws Exception {
 		SentiStrengthMain ss = new SentiStrengthMain();
 		int[] valoriProveOneTweet = new int[3];
-		PrintWriter outFile = new PrintWriter("DatiWindows10/sentiment.txt");
-		BufferedReader reader = new BufferedReader(new FileReader("DatiWindows10/tweetClean.txt"));
+		PrintWriter outFile = new PrintWriter("");
+		BufferedReader reader = new BufferedReader(new FileReader(""));
 		String line = reader.readLine();
 		String result = "";
 		while (line != null) {
