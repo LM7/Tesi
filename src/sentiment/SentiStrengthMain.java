@@ -101,11 +101,11 @@ public class SentiStrengthMain {
 		prove.add("Amo la Roma");
 		prove.add("Sono felice anche se annoiato");
 		prove.add("Siamo tutti molto tristi");*/
-		int j = 0;
+		//int j = 0;
 		for (String stringa: proveMood) {
 			//System.out.println(valoriProve.get(j));
 			System.out.println(stringa);
-			j++;
+			//j++;
 		}
 		
 		

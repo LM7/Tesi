@@ -57,13 +57,14 @@ public class MainTwitter {
 	
 	/*
 	 * Resituisce tweets associati ad un user: lingua, data e testo (numeroTweet: max 200)
+	 * UTILIZZATO PER IL TWEETPAST
 	 */
 	public ResponseList<Status> tweetsOfUser(String user, int numeroTweet) throws TwitterException, FileNotFoundException, IOException {
 		//PrintWriter outTOU = new PrintWriter("tweetsOfUser.txt", "UTF-8");
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
 		ResponseList<Status> stati = null;
-		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet)); //cambiando il paging posso risalire agli stati più vecchi
+		stati = twitter.getUserTimeline(user, new Paging(1,numeroTweet)); //cambiando il paging posso risalire agli stati pi�� vecchi
 		/*for (Status stato: stati) {
 			//outTOU.println("LINGUA: "+stato.getLang());
 			//outTOU.println("DATA: "+ stato.getCreatedAt());
@@ -79,7 +80,7 @@ public class MainTwitter {
 	public HashMap<String,ArrayList<String>> userFollowersOnTopic(String stato, String user, String dataStart) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
 		PrintWriter outMT = new PrintWriter("mtFollowers.txt", "UTF-8");
 		//MainTwitter mt = new MainTwitter();
-		Twitter twitter = this.getTwitter();
+		//Twitter twitter = this.getTwitter();
 	
 		//Trovo gli stati associati a una query
 		System.out.println("--------------TWEET DELL'USER------------");
@@ -150,14 +151,14 @@ public class MainTwitter {
 	public HashMap<String,ArrayList<String>> userFollowingsOnTopic(String stato, String user, String dataStart) throws TwitterException, FileNotFoundException, UnsupportedEncodingException {
 		PrintWriter outMT = new PrintWriter("mtFollowings.txt", "UTF-8");
 		//MainTwitter mt = new MainTwitter();
-		Twitter twitter = this.getTwitter();
+		//Twitter twitter = this.getTwitter();
 	
 		//Trovo gli stati associati a una query
 		System.out.println("--------------TWEET DELL'USER------------");
 		outMT.println("--------------TWEET DELL'USER------------");
 	    ArrayList<String> stati = new ArrayList<String>();
 	    String statoFinale = stato+" from:"+user;
-		stati = this.query(statoFinale, 100, dataStart); //"#Totti from:LM791"; "2015-07-20"
+		stati = this.query(statoFinale, 100, dataStart); //"#Totti from:user"; "2015-07-20"
 		System.out.println("TUTTI I TWEET ASSOCIATI A: "+stato);
 		outMT.println("TUTTI I TWEET ASSOCIATI A: "+statoFinale);
 		for  (int i = 0; i<stati.size(); i++) {
@@ -225,12 +226,12 @@ public class MainTwitter {
 		//MainTwitter mt = new MainTwitter();
 		Twitter twitter = this.getTwitter();
 		
-		long cursor = (long) (1509520254.063998134 * 1000000000); //-1
+		long cursor = -1;
 		System.out.println("LOADING");
 		int j = 0;
 		do {
 			System.out.println("CURSOR:"+cursor);
-			followersUser = twitter.getFollowersList(user, cursor, numFollowers);//LM791
+			followersUser = twitter.getFollowersList(user, cursor, numFollowers);
 			//System.out.println("FATTO");
 			j = j + 200; //j = j+200
 			//System.out.println("J"+j);
@@ -261,7 +262,7 @@ public class MainTwitter {
 	    IDs ids;
 	    System.out.println("Listing following's ids.");
 	    do {
-        	ids = twitter.getFriendsIDs(user, cursor); //LM791
+        	ids = twitter.getFriendsIDs(user, cursor); 
 	        for (long id : ids.getIDs()) {
 	              User utente = twitter.showUser(id);
 	              //followers.add(utente.getName()); // salvo i followers in una lista, qui il nome
@@ -326,12 +327,12 @@ public class MainTwitter {
 	
 	public static void main(String[] args) throws TwitterException, IOException {
 		MainTwitter mt = new MainTwitter();
-		Twitter twitter = mt.getTwitter();
-		//String stato = "Forza Roma #Totti #ASR";
-		//mt.updateStatus(stato);
+		//Twitter twitter = mt.getTwitter();
+		String stato = "Forza Roma #Totti #ASR";
+		mt.updateStatus(stato);
 		
 		//String query = "#Totti";
-		String user = "LM791"; //LM791
+		String user = ""; //
 		//String dataStart = "2015-09-01";
 		//mt.followingsOfUser(user);
 		//mt.userFollowersOnTopic(query, user, dataStart);
