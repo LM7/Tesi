@@ -14,8 +14,7 @@ import org.neo4j.io.fs.FileUtils;
 
 public class EmbeddedNeo4j {
 	
-	//private static final String DB_PATH = "target/neo4j-hello-db";
-	private static final String DB_PATH = "/Users/lorenzomartucci/Desktop/UniRomaTre/Tesi/neo4j-community-2.3.0-M01/data/graph.db";
+	private static final String DB_PATH = "target/neo4j-hello-db";
 
     public String greeting;
 
@@ -71,15 +70,15 @@ public class EmbeddedNeo4j {
             quartoNode.setProperty( "message", "Ronaldo!" );*/
             
             /*quintoNode = graphDb.createNode();
-            quintoNode.setProperty( "message", "Lorenzo, " );
+            quintoNode.setProperty( "message", "Erik, " );
             sestoNode = graphDb.createNode();
-            sestoNode.setProperty( "message", "Martucci!" );*/
+            sestoNode.setProperty( "message", "Lamela!" );*/
 
             /*relationship = firstNode.createRelationshipTo( secondNode, RelTypes.KNOWS );
             relationship.setProperty( "message", "Capitano " );*/
             
             /*relationship = terzoNode.createRelationshipTo( quartoNode, RelTypes.KNOWS );
-            relationship.setProperty( "message", "LM7 " );*/
+            relationship.setProperty( "message", "CR7 " );*/
             
             /*relationship = quintoNode.createRelationshipTo( sestoNode, RelTypes.KNOWS );
             relationship.setProperty( "message", "Coco " );*/

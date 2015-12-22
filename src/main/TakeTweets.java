@@ -7,7 +7,6 @@ import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import language.TextCatMain;
 
 import org.omg.Messaging.SyncScopeHelper;
 
@@ -75,19 +74,13 @@ public class TakeTweets {
 					int i = 0;
 					for (Status stato: stati) {
 						System.out.println("TWEET NUMERO: "+i);
-						if (i!=0) { //se non è il primo ci vuole la virgola
+						if (i!=0) { //se non �� il primo ci vuole la virgola
 							json = json + ",";
 						}
 						language = stato.getLang();
 						date = stato.getCreatedAt();
 						String dataStringa = sdf.format(date);
 						tweet = stato.getText();
-						if (TextCatMain.lang(tweet).equals("EN")) {
-							outTweets.println("ENGLISH FOR TEXTCAT");
-						}
-						else {
-							outTweets.println("NO ENGLISH FOR TEXTCAT");
-						}
 						tweet = tweet.replaceAll("\"", "^");
 						tweet = tweet.replaceAll("\'", "_");
 						outTweets.println(i);
