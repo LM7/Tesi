@@ -2,7 +2,6 @@ package naiveBayes;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.Arrays;
 
 import naiveBayes.BayesClassifier;
@@ -69,7 +68,7 @@ public class RunnableExample {
 		
         /*final String[] unknownText1 = "today is a sunny days".split("\\s");
         final String[] unknownText2 = "there will be rain days".split("\\s");
-        final String[] unknownText3 = "Quanto è bello Youtube".split("\\s");
+        final String[] unknownText3 = "Quanto �� bello Youtube".split("\\s");
 
         System.out.println( // will output "positive"
                 bayes.classify(Arrays.asList(unknownText1)).getCategory());

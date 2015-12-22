@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -13,17 +12,15 @@ import twitter4j.MainTwitter;
 import twitter4j.ResponseList;
 import twitter4j.Status;
 
-/*VERSIONE FINALE*/
-
 public class TweetPast {
 
 	public static void main(String[] args) throws Exception {
 		MainTwitter mt = new MainTwitter();
-		FileWriter file = new FileWriter("DatiWindows10/past.txt", true);
+		FileWriter file = new FileWriter("", true); //dove vengono scritti i tweet
 		PrintWriter outFile = new PrintWriter(file);
-		FileWriter file2 = new FileWriter("appoggio/UtentiForseNeutrali.txt", true);
+		FileWriter file2 = new FileWriter("appoggio/UtentiForseNeutrali.txt", true); //vengono salvata utenti forse neutrali (quindi da continuare a esaminare)
 		PrintWriter outUsersNeutral = new PrintWriter(file2);
-		BufferedReader reader = new BufferedReader(new FileReader("DatiWindows10/usersPerTweetPast.txt")); //file users
+		BufferedReader reader = new BufferedReader(new FileReader("")); //file users
 		String line = reader.readLine();
 		ResponseList<Status> stati = null;
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
@@ -51,7 +48,7 @@ public class TweetPast {
 				Date date = stato.getCreatedAt();
 				String dateString = sdf.format(date);
 				String text = stato.getText();
-				if (date.before(dateLim) && (cont < 1) && (text.contains("Windows")) && !(text.contains("Windows10")) ) {
+				if (date.before(dateLim) && (cont < 1) && (text.contains("")) ) {
 					outFile.println("USER: "+line);
 					outFile.println("DATE: "+dateString);
 					outFile.println(text);

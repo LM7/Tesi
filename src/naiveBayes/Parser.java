@@ -1,15 +1,8 @@
 package naiveBayes;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.DataInputStream;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 import cleanForFile.StopwordsPoints;
@@ -17,10 +10,9 @@ import cleanForFile.StopwordsPoints;
 public class Parser {
 	
 	
-	//Eliminare lo spazio dopo RT a mano...
+	
 	public static void trainingForClassifier(File file) throws Exception {
 		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/trainingReady.txt");
-		StopwordsPoints ff = new StopwordsPoints();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
 		String[] splits;
@@ -31,8 +23,8 @@ public class Parser {
 			}
 			else {
 				if ( !(line.startsWith("DATE: ")) && !(line.matches("\\d{4}-\\d{2}-\\d{2}")) && !(line.equals("positive")) && !(line.equals("negative")) && !(line.equals("neutral")) ) {
-					line = ff.removeStopWord(line);
-					line = ff.removePoints(line);
+					line = StopwordsPoints.removeStopWord(line);
+					line = StopwordsPoints.removePoints(line);
 					outFile.print(line);
 				}
 				else if  ( (line.equals("positive")) || (line.equals("negative")) || (line.equals("neutral")) ) {
@@ -47,7 +39,6 @@ public class Parser {
 	
 	public static void testingForClassifier(File file) throws Exception {
 		PrintWriter outFile = new PrintWriter("NaiveBayesWindows10/testingPastReady.txt");
-		StopwordsPoints ff = new StopwordsPoints();
 		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
 		String[] splits;
@@ -58,8 +49,8 @@ public class Parser {
 			}
 			else {
 				if ( !(line.startsWith("DATE: ")) && !(line.equals("")) && !(line.matches("\\d{4}-\\d{2}-\\d{2}")) ) { // && !(line.matches("\\d{4}-\\d{2}-\\d{2}"))
-					line = ff.removeStopWord(line);
-					line = ff.removePoints(line);
+					line = StopwordsPoints.removeStopWord(line);
+					line = StopwordsPoints.removePoints(line);
 					outFile.println(line);
 				}
 			}
