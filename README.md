@@ -26,7 +26,7 @@ Breve descrizione delle funzionalità delle varie classi java all'interno dei pa
 - <b>cleanForFile</b> <br>
 <i>StopwordsPoints</i>: pulisce i tweet da alcuni segni di punteggiatura e rimuove le parole contenute nei file stopword (presenti in tre lingue differenti: italiana, inglese e spagnola);
 - <b>database</b> <br>
-<i>OperationMongoDB</i>: sono presenti diverse operazioni da poter effettuare su MongoDB; il resto delle classi riguardano le operazioni su Neo4J, in particolare: <i>TwitterNeo4j</i> permette di inserire gli oggetti "Status" di Twitter all'interno del graphDB, mentre <i>TwitterNeo4jFromMe</i> è una variante della classe precedente e prende tweet di tipo Stringa (esempio di formato in DatiWindows10/datiInizialiNeo.txt) e li inserisce sempre all'interno del database;
+<i>OperationMongoDB</i>: sono presenti diverse operazioni da poter effettuare su MongoDB; il resto delle classi riguardano le operazioni su Neo4J, in particolare: <i>TwitterNeo4j</i> permette di inserire gli oggetti "Status" di Twitter all'interno del graphDB, mentre <i>TwitterNeo4jFromMe</i> è una variante della classe precedente e prende tweet di tipo Stringa (esempio di formato in CasiStudio/DatiWindows10/datiInizialiNeo.txt) e li inserisce sempre all'interno del database;
 - <b>experiment</b> <br>
 le classi principali sono <i>Cont</i> e <i>ContSentiment</i>: la prima dato un file di testo conta retweet, hashtag, menzioni e utenti, la seconda conta invece i "sentiment";
 - <b>googleNews</b> <br>
